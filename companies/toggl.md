@@ -1,0 +1,22 @@
+# Toggl
+
+Toggl develops time tracking, capacity planning, and project management software that helps teams monitor work and assess profitability.
+
+- **Category:** Work management software
+- **Website:** [Website](https://toggl.com/)
+- **Jobs / careers:** [Careers](https://jobs.ashbyhq.com/toggl/a4f3e1f5-753b-4af9-b068-86a09a164cd2)
+- **Historical remote signal:** Global / distributed signal
+
+Historical research found a global, distributed or remote-friendly signal. Hiring countries and contract arrangements remain role-specific.
+
+- **Historical record reviewed:** 2026-10-15
+- **Public-source research date:** 2026-11-02
+
+## Sources
+
+- https://toggl.com/
+- https://jobs.ashbyhq.com/toggl/a4f3e1f5-753b-4af9-b068-86a09a164cd2
+
+Country eligibility, current openings and attendance requirements must be checked for the individual role.
+
+[Back to directory](../README.md)

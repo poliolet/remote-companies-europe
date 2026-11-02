@@ -1,0 +1,22 @@
+# Ashby
+
+Ashby develops recruiting software combining applicant tracking, candidate relationship management, interview scheduling, and hiring analytics in one platform.
+
+- **Category:** HR software
+- **Website:** [Website](https://www.ashbyhq.com/)
+- **Jobs / careers:** [Careers](https://www.ashbyhq.com/careers)
+- **Historical remote signal:** Spain remote signal
+
+Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.
+
+- **Historical record reviewed:** 2026-10-16
+- **Public-source research date:** 2026-11-02
+
+## Sources
+
+- https://www.ashbyhq.com/
+- https://www.ashbyhq.com/careers
+
+Country eligibility, current openings and attendance requirements must be checked for the individual role.
+
+[Back to directory](../README.md)

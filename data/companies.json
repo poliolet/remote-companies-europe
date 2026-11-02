@@ -1,0 +1,4079 @@
+[
+  {
+    "id": "action1",
+    "name": "Action1",
+    "description": "Action1 develops cloud software that identifies missing endpoint updates and automates patch deployment across operating systems and third-party applications.",
+    "category": "Cybersecurity",
+    "website": "https://action1.com/",
+    "careers_url": "https://action1.com/careers",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-06",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://action1.com/patch-management",
+      "https://action1.com/",
+      "https://action1.com/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "affirm",
+    "name": "Affirm",
+    "description": "Affirm provides consumer financing that lets shoppers split purchases into installments through participating merchants and its payment platform.",
+    "category": "Financial technology",
+    "website": "https://www.affirm.com/",
+    "careers_url": "https://job-boards.greenhouse.io/affirm",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-21",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.affirm.com/",
+      "https://job-boards.greenhouse.io/affirm"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "airalo",
+    "name": "Airalo",
+    "description": "Airalo sells digital eSIM plans that let travelers obtain mobile data connectivity across countries and regions.",
+    "category": "Telecommunications",
+    "website": "https://www.airalo.com/",
+    "careers_url": "https://jobs.lever.co/airalo",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-09",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.airalo.com/",
+      "https://jobs.lever.co/airalo"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "akamai",
+    "name": "Akamai",
+    "description": "Akamai provides content delivery and cloud security services that help organizations protect websites, applications, and internet traffic.",
+    "category": "Cloud infrastructure",
+    "website": "https://www.akamai.com/",
+    "careers_url": "https://jobs.akamai.com/en/sites/CX_1/jobs",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-22",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://akamai.com/us/en/solutions/intelligent-platform/security-simple-yet-superior.jsp",
+      "https://www.akamai.com/",
+      "https://jobs.akamai.com/en/sites/CX_1/jobs"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "alan",
+    "name": "Alan",
+    "description": "Alan provides health insurance and digital healthcare services, including preventive care, telemedicine, and employee wellbeing support.",
+    "category": "Health insurance",
+    "website": "https://alan.com/es-es",
+    "careers_url": "https://jobs.ashbyhq.com/alan",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-25",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://alan.com/es-es",
+      "https://jobs.ashbyhq.com/alan"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "algolia",
+    "name": "Algolia",
+    "description": "Algolia provides search and retrieval infrastructure that businesses integrate into websites, applications, and AI experiences.",
+    "category": "Search and discovery software",
+    "website": "https://www.algolia.com/",
+    "careers_url": "https://job-boards.greenhouse.io/algolia",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Historical evidence includes hybrid attendance, mixed arrangements or country restrictions. Do not assume this employer offers fully remote work from Spain.",
+    "record_reviewed_at": "2026-10-13",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.algolia.com/",
+      "https://job-boards.greenhouse.io/algolia"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "alinia-ai",
+    "name": "Alinia AI",
+    "description": "Alinia AI builds software that translates policy and regulatory requirements into automated supervision and controls for AI systems.",
+    "category": "AI governance",
+    "website": "https://www.alinia.ai/",
+    "careers_url": "https://jobs.gem.com/alinia-ai",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Historical evidence includes hybrid attendance, mixed arrangements or country restrictions. Do not assume this employer offers fully remote work from Spain.",
+    "record_reviewed_at": "2026-10-08",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.alinia.ai/",
+      "https://jobs.gem.com/alinia-ai"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "alpaca",
+    "name": "Alpaca",
+    "description": "Alpaca provides brokerage infrastructure and trading APIs that help developers embed investment services into applications and financial products.",
+    "category": "Financial technology",
+    "website": "https://alpaca.markets/",
+    "careers_url": "https://job-boards.greenhouse.io/alpaca",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-25",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://alpaca.markets/",
+      "https://job-boards.greenhouse.io/alpaca"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "altinity",
+    "name": "Altinity",
+    "description": "Altinity develops open source ClickHouse tooling and helps organizations deploy, operate, and support analytical databases in production.",
+    "category": "Database infrastructure",
+    "website": "https://altinity.com/",
+    "careers_url": "https://altinity.com/careers/",
+    "remote_signal": "global_remote_signal",
+    "remote_note": "Historical research found a global, distributed or remote-friendly signal. Hiring countries and contract arrangements remain role-specific.",
+    "record_reviewed_at": "2026-10-13",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://altinity.com/",
+      "https://altinity.com/careers/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "ankorstore",
+    "name": "Ankorstore",
+    "description": "Ankorstore operates a wholesale marketplace connecting independent retailers with brands selling products across a range of consumer categories.",
+    "category": "Wholesale marketplace",
+    "website": "https://es.ankorstore.com/",
+    "careers_url": "https://jobs.ashbyhq.com/ankorstore",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-07-15",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://es.ankorstore.com/",
+      "https://jobs.ashbyhq.com/ankorstore"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "appinio",
+    "name": "Appinio",
+    "description": "Appinio provides consumer research software that collects survey responses and helps businesses evaluate products, ideas, and market decisions.",
+    "category": "Market research",
+    "website": "https://www.appinio.com/en/",
+    "careers_url": "https://job-boards.eu.greenhouse.io/appinio",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-25",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.appinio.com/en/",
+      "https://job-boards.eu.greenhouse.io/appinio"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "appsignal",
+    "name": "AppSignal",
+    "description": "AppSignal provides application error tracking and performance monitoring tools for developers maintaining Ruby, Elixir, Python, and Node.js services.",
+    "category": "Observability",
+    "website": "https://www.appsignal.com/",
+    "careers_url": "https://www.appsignal.com/jobs",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-24",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.appsignal.com/",
+      "https://www.appsignal.com/jobs"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "appwrite",
+    "name": "Appwrite",
+    "description": "Appwrite provides an open-source application development platform combining authentication, databases, file storage, serverless functions, messaging, and website hosting.",
+    "category": "Developer tools",
+    "website": "https://appwrite.io/",
+    "careers_url": "https://appwrite.io/company#careers",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-22",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://appwrite.io/",
+      "https://appwrite.io/company"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "ashby",
+    "name": "Ashby",
+    "description": "Ashby develops recruiting software combining applicant tracking, candidate relationship management, interview scheduling, and hiring analytics in one platform.",
+    "category": "HR software",
+    "website": "https://www.ashbyhq.com/",
+    "careers_url": "https://www.ashbyhq.com/careers",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-16",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.ashbyhq.com/",
+      "https://www.ashbyhq.com/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "attio",
+    "name": "Attio",
+    "description": "Attio develops a customer relationship management platform for revenue teams to organize customer information, manage pipelines, and automate sales workflows.",
+    "category": "CRM software",
+    "website": "https://attio.com/",
+    "careers_url": "https://jobs.ashbyhq.com/attio",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-28",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://attio.com/",
+      "https://jobs.ashbyhq.com/attio"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "auctane",
+    "name": "Auctane",
+    "description": "Auctane operates shipping and logistics software brands that help merchants manage orders, automate fulfillment, and connect with delivery carriers.",
+    "category": "Shipping technology",
+    "website": "https://auctane.com/",
+    "careers_url": "https://job-boards.greenhouse.io/auctane",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-22",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://auctane.com/products",
+      "https://endicia.com/",
+      "https://auctane.com/",
+      "https://job-boards.greenhouse.io/auctane"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "automattic",
+    "name": "Automattic",
+    "description": "Automattic develops publishing, commerce, and communication products, including WordPress.com, Tumblr, and other tools for building an online presence.",
+    "category": "Publishing software",
+    "website": "https://automattic.com/",
+    "careers_url": "https://automattic.com/jobs/",
+    "remote_signal": "europe_remote_signal",
+    "remote_note": "Historical research found a Europe/EMEA or compatible-timezone remote-work signal. This does not establish Spanish employment eligibility.",
+    "record_reviewed_at": "2026-10-28",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://automattic.com/",
+      "https://automattic.com/jobs/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "axo-longevity",
+    "name": "Axo Longevity",
+    "description": "Axo Longevity offers preventive health memberships combining laboratory biomarker testing, personalized health insights, and ongoing progress tracking.",
+    "category": "Digital health",
+    "website": "https://www.axolongevity.com/",
+    "careers_url": "https://wellfound.com/company/axo-longevity/jobs",
+    "remote_signal": "europe_remote_signal",
+    "remote_note": "Historical research found a Europe/EMEA or compatible-timezone remote-work signal. This does not establish Spanish employment eligibility.",
+    "record_reviewed_at": "2026-09-11",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.axolongevity.com/",
+      "https://axolongevity.com/who-we-are",
+      "https://wellfound.com/company/axo-longevity/jobs"
+    ],
+    "verification_note": "Careers link returned HTTP 403 during the 2026-11-02 automated link check; availability could not be verified. This does not establish that the employer has no vacancies."
+  },
+  {
+    "id": "baesh",
+    "name": "baesh",
+    "description": "baesh develops a social app that helps people organize activities and meet others through shared interests and local experiences.",
+    "category": "Social networking",
+    "website": "https://www.baesh.co/",
+    "careers_url": "https://join.com/companies/baesh",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-07",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.baesh.co/en",
+      "https://baesh.co/en/privacy-policy",
+      "https://www.baesh.co/",
+      "https://join.com/companies/baesh"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "beehiiv",
+    "name": "beehiiv",
+    "description": "beehiiv provides a newsletter platform that helps creators and businesses publish content, grow audiences, and monetize their publications.",
+    "category": "Publishing software",
+    "website": "https://www.beehiiv.com/",
+    "careers_url": "https://beehiiv.bamboohr.com/careers",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-07",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.beehiiv.com/",
+      "https://beehiiv.bamboohr.com/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "belvo",
+    "name": "Belvo",
+    "description": "Belvo provides financial data connectivity, analytics, and payment infrastructure for businesses building financial services in Latin America.",
+    "category": "Financial infrastructure",
+    "website": "https://belvo.com/",
+    "careers_url": "https://jobs.ashbyhq.com/belvo",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-25",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://belvo.com/",
+      "https://jobs.ashbyhq.com/belvo"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "bending-spoons",
+    "name": "Bending Spoons",
+    "description": "Bending Spoons acquires and operates digital products, applying its engineering and product development capabilities to improve established software businesses.",
+    "category": "Consumer software",
+    "website": "https://bendingspoons.com/",
+    "careers_url": "https://jobs.bendingspoons.com/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-22",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://bendingspoons.com/",
+      "https://jobs.bendingspoons.com/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "bizneo-hr",
+    "name": "Bizneo HR",
+    "description": "Bizneo HR develops human resources software covering recruitment, time tracking, employee records, talent management, and workforce development.",
+    "category": "HR software",
+    "website": "https://www.bizneo.com/",
+    "careers_url": "https://www.linkedin.com/jobs/bizneo-hr-jobs-worldwide",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-07",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.bizneo.com/en/",
+      "https://www.bizneo.com/",
+      "https://www.linkedin.com/jobs/bizneo-hr-jobs-worldwide"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "bjak",
+    "name": "BJAK",
+    "description": "BJAK operates an online insurance comparison and renewal service for car and motorcycle owners in Malaysia.",
+    "category": "Insurance technology",
+    "website": "https://bjak.my/en",
+    "careers_url": "https://jobs.ashbyhq.com/bjakcareer",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-16",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://bjak.my/en",
+      "https://jobs.ashbyhq.com/bjakcareer"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "blp-digital",
+    "name": "BLP Digital",
+    "description": "BLP Digital develops AI agents that automate finance, procurement, logistics, and sales workflows within enterprise resource planning systems.",
+    "category": "Business automation",
+    "website": "https://blp.digital/",
+    "careers_url": "https://jobs.ashbyhq.com/blp-digital",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-02",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://blp.digital/",
+      "https://jobs.ashbyhq.com/blp-digital"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "booksy",
+    "name": "Booksy",
+    "description": "Booksy operates an online marketplace where customers discover beauty professionals and book appointments for salon and wellness services.",
+    "category": "Beauty and wellness technology",
+    "website": "https://booksy.com/es-es/",
+    "careers_url": "https://careers.booksy.com/jobs",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-23",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://booksy.com/es-es/",
+      "https://careers.booksy.com/jobs"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "brainly",
+    "name": "Brainly",
+    "description": "Brainly provides digital homework assistance, personalized explanations, test preparation, and optional tutoring services for school students.",
+    "category": "Education technology",
+    "website": "https://brainly.com/",
+    "careers_url": "https://jobs.ashbyhq.com/brainly",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-07-15",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://brainly.com/",
+      "https://jobs.ashbyhq.com/brainly"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "brave",
+    "name": "Brave",
+    "description": "Brave develops a web browser that blocks tracking software and advertising to support more private browsing across desktop and mobile devices.",
+    "category": "Internet software",
+    "website": "https://brave.com/",
+    "careers_url": "https://job-boards.greenhouse.io/brave",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Historical evidence includes hybrid attendance, mixed arrangements or country restrictions. Do not assume this employer offers fully remote work from Spain.",
+    "record_reviewed_at": "2026-10-02",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://brave.com/",
+      "https://job-boards.greenhouse.io/brave"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "buffer",
+    "name": "Buffer",
+    "description": "Buffer provides social media management software that helps individuals and organizations plan, publish, and manage content across social networks.",
+    "category": "Marketing software",
+    "website": "https://buffer.com/",
+    "careers_url": "https://buffer.com/journey",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-02",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://buffer.com/",
+      "https://buffer.com/map"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "builder-io",
+    "name": "Builder.io",
+    "description": "Builder.io offers AI assisted development and visual building tools that help technical and nontechnical teams create digital experiences.",
+    "category": "Web development software",
+    "website": "https://www.builder.io/",
+    "careers_url": "https://www.builder.io/careers",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-04",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.builder.io/",
+      "https://www.builder.io/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "bunch",
+    "name": "bunch",
+    "description": "bunch provides a platform for private market funds and investors to manage fund operations, transactions, and investment administration.",
+    "category": "Financial software",
+    "website": "https://www.bunch.capital/",
+    "careers_url": "https://jobs.ashbyhq.com/bunch",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-30",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.bunch.capital/",
+      "https://jobs.ashbyhq.com/bunch"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "bunny-net",
+    "name": "bunny.net",
+    "description": "bunny.net provides content delivery, edge storage, and optimization services that help businesses distribute and accelerate websites and digital content.",
+    "category": "Cloud infrastructure",
+    "website": "https://bunny.net/",
+    "careers_url": "https://bunnynet.teamtailor.com/jobs",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-28",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://bunny.net/",
+      "https://bunnynet.teamtailor.com/jobs"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "business-insights",
+    "name": "Business Insights",
+    "description": "Business Insights provides technology consulting and software solutions spanning cloud computing, business intelligence, big data, and mobile applications.",
+    "category": "IT consulting",
+    "website": "https://businessinsights.es/",
+    "careers_url": "https://careers.businessinsights.es/",
+    "remote_signal": "global_remote_signal",
+    "remote_note": "Historical research found a global, distributed or remote-friendly signal. Hiring countries and contract arrangements remain role-specific.",
+    "record_reviewed_at": "2026-10-21",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://businessinsights.es/",
+      "https://careers.businessinsights.es/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "cabify",
+    "name": "Cabify",
+    "description": "Cabify operates an app based passenger transportation service and provides businesses with tools for managing corporate travel.",
+    "category": "Mobility",
+    "website": "https://cabify.com/es",
+    "careers_url": "https://job-boards.greenhouse.io/cabify",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-16",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://cabify.com/es",
+      "https://job-boards.greenhouse.io/cabify"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "camunda",
+    "name": "Camunda",
+    "description": "Camunda develops process orchestration software that coordinates people, business systems, and AI agents across automated enterprise workflows.",
+    "category": "Business automation",
+    "website": "https://camunda.com/",
+    "careers_url": "https://jobs.ashbyhq.com/camunda",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-16",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://camunda.com/",
+      "https://jobs.ashbyhq.com/camunda"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "canonical",
+    "name": "Canonical",
+    "description": "Canonical develops Ubuntu and provides enterprise open source software, infrastructure tools, security maintenance, and technical support services.",
+    "category": "Open source software",
+    "website": "https://canonical.com/",
+    "careers_url": "https://canonical.com/careers/all",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-06",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://canonical.com/",
+      "https://canonical.com/careers/all"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "capacity",
+    "name": "Capacity",
+    "description": "Capacity develops AI agents, knowledge orchestration, and agent assistance software to automate customer support interactions and workflows.",
+    "category": "Customer support software",
+    "website": "https://capacity.com/",
+    "careers_url": "https://careers.capacity.com",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-08-03",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://capacity.com/",
+      "https://careers.capacity.com"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "capchase",
+    "name": "Capchase",
+    "description": "Capchase provides vendor financing that enables business software and hardware sellers to offer flexible payment terms while accessing revenue upfront.",
+    "category": "Business finance",
+    "website": "https://www.capchase.com/",
+    "careers_url": "https://jobs.ashbyhq.com/capchase",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-07-20",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.capchase.com/",
+      "https://jobs.ashbyhq.com/capchase"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "capitole",
+    "name": "Capitole",
+    "description": "Capitole provides technology consulting services across software development, data and artificial intelligence, cybersecurity, and software quality assurance.",
+    "category": "IT consulting",
+    "website": "https://www.capitole-consulting.com/",
+    "careers_url": "https://www.capitole-consulting.com/careers/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-08-24",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.capitole-consulting.com/",
+      "https://www.capitole-consulting.com/careers/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "cargo-one",
+    "name": "cargo.one",
+    "description": "cargo.one develops software for carriers and freight forwarders to centralize sales, procurement, and booking across air and ocean freight.",
+    "category": "Logistics software",
+    "website": "https://www.cargo.one/",
+    "careers_url": "https://jobs.ashbyhq.com/cargo-one",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-18",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.cargo.one/",
+      "https://jobs.ashbyhq.com/cargo-one"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "carto",
+    "name": "CARTO",
+    "description": "CARTO develops a cloud-based geospatial platform that enables organizations to analyze location data within their existing cloud environments.",
+    "category": "Geospatial analytics",
+    "website": "https://carto.com/",
+    "careers_url": "https://carto.pinpointhq.com/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-13",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://carto.com/",
+      "https://carto.pinpointhq.com/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "checkly",
+    "name": "Checkly",
+    "description": "Checkly develops application monitoring software that helps developers and AI agents assess service reliability and detect application failures.",
+    "category": "Developer tools",
+    "website": "https://www.checklyhq.com/",
+    "careers_url": "https://jobs.ashbyhq.com/checkly",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-28",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.checklyhq.com/",
+      "https://jobs.ashbyhq.com/checkly"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "chess-com",
+    "name": "Chess.com",
+    "description": "Chess.com operates an online chess platform where people play games, practice skills, and learn about chess.",
+    "category": "Gaming and education",
+    "website": "https://www.chess.com/",
+    "careers_url": "https://www.chess.com/jobs",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-07-27",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.chess.com/",
+      "https://www.chess.com/jobs"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "circle",
+    "name": "Circle",
+    "description": "Circle provides software for businesses and creators to operate branded online communities, courses, and events in one platform.",
+    "category": "Community software",
+    "website": "https://circle.so/",
+    "careers_url": "https://circle.so/careers",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-07-20",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://circle.so/",
+      "https://circle.so/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "civo",
+    "name": "Civo",
+    "description": "Civo provides cloud infrastructure and artificial intelligence platforms for organizations running public cloud, private cloud, and AI workloads.",
+    "category": "Cloud infrastructure",
+    "website": "https://www.civo.com",
+    "careers_url": "https://careers.civo.com/jobs",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-07-15",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.civo.com",
+      "https://careers.civo.com/jobs"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "clarity-ai",
+    "name": "Clarity AI",
+    "description": "Clarity AI provides data and analytical software for assessing sustainability, risk, impact, and other extra financial factors in business decisions.",
+    "category": "Financial data and analytics",
+    "website": "https://clarity.ai/",
+    "careers_url": "https://apply.workable.com/clarity-ai/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-16",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://clarity.ai/",
+      "https://apply.workable.com/clarity-ai/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "cloudflare",
+    "name": "Cloudflare",
+    "description": "Cloudflare provides a global network for application delivery, cybersecurity, connectivity, and developer computing services for websites and businesses.",
+    "category": "Cloud infrastructure",
+    "website": "https://www.cloudflare.com/",
+    "careers_url": "https://www.cloudflare.com/careers/jobs/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-09",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.cloudflare.com/",
+      "https://www.cloudflare.com/careers/jobs/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "cloudtalk",
+    "name": "CloudTalk",
+    "description": "CloudTalk provides cloud call center software that enables business calling and integrates telephone workflows with other business applications.",
+    "category": "Business communications",
+    "website": "https://www.cloudtalk.io/",
+    "careers_url": "https://www.cloudtalk.io/careers/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-01",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.cloudtalk.io/",
+      "https://www.cloudtalk.io/careers/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "codekeeper",
+    "name": "Codekeeper",
+    "description": "Codekeeper provides software escrow and continuity services that preserve application assets and support recovery when software suppliers become unavailable.",
+    "category": "Software continuity",
+    "website": "https://codekeeper.co/",
+    "careers_url": "https://codekeeper.applytojob.com/apply",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-28",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://codekeeper.co/",
+      "https://codekeeper.applytojob.com/apply"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "commercetools",
+    "name": "commercetools",
+    "description": "commercetools develops enterprise commerce infrastructure that supports buying experiences across websites, physical stores, conversational interfaces, and AI-powered channels.",
+    "category": "Commerce software",
+    "website": "https://commercetools.com/",
+    "careers_url": "https://commercetools.com/careers",
+    "remote_signal": "needs_verification",
+    "remote_note": "Remote eligibility is not established by the available historical signal. Treat this entry as a research lead and verify the current official policy.",
+    "record_reviewed_at": "2026-10-30",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://commercetools.com/",
+      "https://commercetools.com/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "confluent",
+    "name": "Confluent",
+    "description": "Confluent provides a data streaming platform for connecting, processing, and governing data, building on Apache Kafka and Apache Flink.",
+    "category": "Data infrastructure",
+    "website": "https://www.confluent.io/",
+    "careers_url": "https://careers.confluent.io/jobs",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-22",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.confluent.io/",
+      "https://careers.confluent.io/jobs"
+    ],
+    "verification_note": "Careers link returned HTTP 429 during the 2026-11-02 automated link check; availability could not be verified. This does not establish that the employer has no vacancies."
+  },
+  {
+    "id": "consensys",
+    "name": "Consensys",
+    "description": "Consensys develops blockchain software, infrastructure, and tools supporting decentralized finance and access to blockchain applications.",
+    "category": "Blockchain software",
+    "website": "https://consensys.com/",
+    "careers_url": "https://jobs.ashbyhq.com/consensys",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-16",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://consensys.com/",
+      "https://jobs.ashbyhq.com/consensys"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "constructor",
+    "name": "Constructor",
+    "description": "Constructor develops AI-powered ecommerce search and product discovery software that personalizes how shoppers find products in online stores.",
+    "category": "Commerce software",
+    "website": "https://constructor.com/",
+    "careers_url": "https://jobs.ashbyhq.com/constructor",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-16",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://constructor.com/",
+      "https://jobs.ashbyhq.com/constructor"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "contentsquare",
+    "name": "Contentsquare",
+    "description": "Contentsquare provides digital experience analytics that help businesses understand customer journeys and identify opportunities to improve websites and applications.",
+    "category": "Digital analytics",
+    "website": "https://contentsquare.com/",
+    "careers_url": "https://jobs.lever.co/contentsquare/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-07-15",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://contentsquare.com/",
+      "https://jobs.lever.co/contentsquare/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "coverflex",
+    "name": "Coverflex",
+    "description": "Coverflex provides a platform for companies to administer employee benefits, flexible compensation, meal allowances, and insurance options.",
+    "category": "Employee benefits technology",
+    "website": "https://www.coverflex.com/es",
+    "careers_url": "https://careers.coverflex.com/",
+    "remote_signal": "europe_remote_signal",
+    "remote_note": "Historical research found a Europe/EMEA or compatible-timezone remote-work signal. This does not establish Spanish employment eligibility.",
+    "record_reviewed_at": "2026-10-13",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.coverflex.com/es",
+      "https://careers.coverflex.com/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "crosspoint",
+    "name": "CrossPoint",
+    "description": "CrossPoint provides Microsoft technology solutions and consulting services that help businesses improve their operations and support their teams.",
+    "category": "IT consulting",
+    "website": "https://www.crosspoint365.com/",
+    "careers_url": "https://www.crosspoint365.com/trabaja-con-nosotros/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-23",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.crosspoint365.com/",
+      "https://www.crosspoint365.com/trabaja-con-nosotros/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "customer-io",
+    "name": "Customer.io",
+    "description": "Customer.io provides customer engagement software for building personalized messaging journeys across email, mobile push notifications, SMS, and applications.",
+    "category": "Marketing software",
+    "website": "https://customer.io/",
+    "careers_url": "https://customer.io/careers",
+    "remote_signal": "europe_remote_signal",
+    "remote_note": "Historical research found a Europe/EMEA or compatible-timezone remote-work signal. This does not establish Spanish employment eligibility.",
+    "record_reviewed_at": "2026-10-14",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://customer.io/",
+      "https://customer.io/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "dash0",
+    "name": "Dash0",
+    "description": "Dash0 provides observability software built around OpenTelemetry and open standards to help teams investigate application telemetry and control monitoring costs.",
+    "category": "Observability",
+    "website": "https://www.dash0.com/",
+    "careers_url": "https://jobs.ashbyhq.com/dash0",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-25",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.dash0.com/",
+      "https://jobs.ashbyhq.com/dash0"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "datadog",
+    "name": "Datadog",
+    "description": "Datadog provides cloud monitoring software that brings application and infrastructure metrics together to help organizations understand their technology systems.",
+    "category": "Observability",
+    "website": "https://www.datadoghq.com/",
+    "careers_url": "https://careers.datadoghq.com/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-27",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.datadoghq.com/",
+      "https://careers.datadoghq.com/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "deel",
+    "name": "Deel",
+    "description": "Deel provides global payroll, compliance, and human resources software that helps organizations hire, pay, and manage international teams.",
+    "category": "HR and payroll software",
+    "website": "https://www.deel.com/",
+    "careers_url": "https://www.deel.com/careers/job/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-08-24",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.deel.com/",
+      "https://www.deel.com/careers/job/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "devo",
+    "name": "Devo",
+    "description": "Devo provides a security data platform combining log analytics, threat detection, investigation, and automated incident response capabilities.",
+    "category": "Cybersecurity",
+    "website": "https://www.devo.com/",
+    "careers_url": "https://www.devo.com/careers/open-positions/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-07-15",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.devo.com/",
+      "https://www.devo.com/careers/open-positions/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "directus",
+    "name": "Directus",
+    "description": "Directus develops a database-connected backend and headless content management system with visual administration tools and REST and GraphQL APIs.",
+    "category": "Content management",
+    "website": "https://directus.com/",
+    "careers_url": "https://directus.com/careers",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-21",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://directus.com/",
+      "https://directus.com/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "distrokid",
+    "name": "DistroKid",
+    "description": "DistroKid provides digital music distribution services that help musicians publish recordings to online stores and streaming platforms.",
+    "category": "Music technology",
+    "website": "https://distrokid.com/",
+    "careers_url": "https://job-boards.greenhouse.io/distrokid",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-29",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://distrokid.com/",
+      "https://job-boards.greenhouse.io/distrokid"
+    ],
+    "verification_note": "Direct HTTP retrieval was blocked; the official homepage was successfully read through an alternate public extraction service."
+  },
+  {
+    "id": "dkb-code-factory",
+    "name": "DKB Code Factory",
+    "description": "DKB Code Factory designs and builds digital banking products within the DKB Group, combining software engineering and customer experience design.",
+    "category": "Banking software",
+    "website": "https://www.dkbcodefactory.com/",
+    "careers_url": "https://job-boards.greenhouse.io/dkbcodefactory",
+    "remote_signal": "needs_verification",
+    "remote_note": "Remote eligibility is not established by the available historical signal. Treat this entry as a research lead and verify the current official policy.",
+    "record_reviewed_at": "2026-10-09",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.dkbcodefactory.com/",
+      "https://job-boards.greenhouse.io/dkbcodefactory"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "docker",
+    "name": "Docker",
+    "description": "Docker provides software for building, sharing, and running containerized applications, alongside sandboxing and governance tools for AI agents.",
+    "category": "Developer tools",
+    "website": "https://www.docker.com/",
+    "careers_url": "https://jobs.ashbyhq.com/docker",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-11-02",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.docker.com/",
+      "https://jobs.ashbyhq.com/docker"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "docplanner",
+    "name": "DocPlanner",
+    "description": "DocPlanner connects patients with healthcare professionals through appointment booking platforms and provides software that helps doctors manage their practices.",
+    "category": "Healthcare technology",
+    "website": "https://www.docplanner.com/",
+    "careers_url": "https://jobs.ashbyhq.com/docplanner",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-27",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.docplanner.com/",
+      "https://jobs.ashbyhq.com/docplanner"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "doit",
+    "name": "DoiT",
+    "description": "DoiT develops cloud intelligence and financial operations software that allocates infrastructure spending across customers, teams, and product features.",
+    "category": "Cloud management",
+    "website": "https://www.doit.com/",
+    "careers_url": "https://careers.doit.com/jobs",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-24",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.doit.com/",
+      "https://careers.doit.com/jobs"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "dualentry",
+    "name": "DualEntry",
+    "description": "DualEntry develops AI-powered enterprise resource planning software that automates financial tasks and supports growing businesses handling increasing transaction volumes.",
+    "category": "Accounting software",
+    "website": "https://www.dualentry.com/",
+    "careers_url": "https://www.dualentry.com/careers",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-16",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.dualentry.com/",
+      "https://www.dualentry.com/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "duckduckgo",
+    "name": "DuckDuckGo",
+    "description": "DuckDuckGo develops privacy-focused internet products, including a search engine and browser tools that help people protect their online activity.",
+    "category": "Internet privacy",
+    "website": "https://duckduckgo.com/",
+    "careers_url": "https://duckduckgo.com/hiring",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-01",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://duckduckgo.com/",
+      "https://duckduckgo.com/hiring"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "easor",
+    "name": "Easor",
+    "description": "Easor provides accounting software that automates bookkeeping, invoicing, tax handling, and financial reporting for businesses.",
+    "category": "Accounting software",
+    "website": "https://easor.com/",
+    "careers_url": "https://careers.easor.com/jobs",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-21",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://easor.com/",
+      "https://careers.easor.com/jobs"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "ebury",
+    "name": "Ebury",
+    "description": "Ebury provides international payments, foreign exchange risk management, and multi-currency accounts through a financial services platform for businesses.",
+    "category": "Business finance",
+    "website": "https://ebury.com/",
+    "careers_url": "https://job-boards.greenhouse.io/ebury",
+    "remote_signal": "needs_verification",
+    "remote_note": "Remote eligibility is not established by the available historical signal. Treat this entry as a research lead and verify the current official policy.",
+    "record_reviewed_at": "2026-09-25",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://ebury.com/",
+      "https://job-boards.greenhouse.io/ebury"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "edpuzzle",
+    "name": "Edpuzzle",
+    "description": "Edpuzzle provides an educational platform where teachers create interactive video lessons and track student engagement and learning progress.",
+    "category": "Education technology",
+    "website": "https://edpuzzle.com/",
+    "careers_url": "https://jobs.lever.co/edpuzzle",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-14",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://edpuzzle.com/",
+      "https://jobs.lever.co/edpuzzle"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "eduki",
+    "name": "eduki",
+    "description": "eduki operates an online marketplace where educators share, sell, and obtain teaching resources for classroom use.",
+    "category": "Education marketplace",
+    "website": "https://eduki.com/",
+    "careers_url": "https://job-boards.eu.greenhouse.io/eduki",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-03",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://eduki.com/",
+      "https://help.eduki.com/hc/en-001/articles/4404004381458-What-is-eduki",
+      "https://job-boards.eu.greenhouse.io/eduki"
+    ],
+    "verification_note": "Careers link returned HTTP 500 during the 2026-11-02 automated link check; availability could not be verified. This does not establish that the employer has no vacancies."
+  },
+  {
+    "id": "elastic",
+    "name": "Elastic",
+    "description": "Elastic develops Elasticsearch and related software for searching data, monitoring technology systems, detecting security threats, and building AI applications.",
+    "category": "Search and analytics",
+    "website": "https://www.elastic.co/",
+    "careers_url": "https://www.elastic.co/about/careers/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-26",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.elastic.co/",
+      "https://www.elastic.co/about/careers/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "elevenlabs",
+    "name": "ElevenLabs",
+    "description": "ElevenLabs develops artificial intelligence tools for generating speech and building voice agents, with APIs for integrating audio capabilities.",
+    "category": "Audio ai",
+    "website": "https://elevenlabs.io/",
+    "careers_url": "https://elevenlabs.io/careers/positions",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-22",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://elevenlabs.io/",
+      "https://elevenlabs.io/careers/positions"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "epassi",
+    "name": "Epassi",
+    "description": "Epassi provides employee benefits technology that helps employers deliver wellbeing related benefits through a digital platform.",
+    "category": "Employee benefits technology",
+    "website": "https://www.epassi.com/",
+    "careers_url": "https://epassi.com/careers",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-08-31",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.epassi.com/",
+      "https://epassi.com/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "etereo",
+    "name": "Etereo",
+    "description": "Etereo provides software engineering, product design, and digital transformation services for businesses across telecommunications, finance, retail, and other industries.",
+    "category": "Software consulting",
+    "website": "https://etereo.io/en",
+    "careers_url": "https://careers.etereo.io/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-07-13",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://etereo.io/en",
+      "https://careers.etereo.io/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "eventbrite",
+    "name": "Eventbrite",
+    "description": "Eventbrite operates an event discovery and ticketing platform where people find experiences and purchase tickets to live events.",
+    "category": "Events technology",
+    "website": "https://www.eventbrite.com",
+    "careers_url": "https://www.eventbritecareers.com/jobs/search",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-07-15",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.eventbrite.com",
+      "https://www.eventbritecareers.com/jobs/search"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "everai",
+    "name": "EverAI",
+    "description": "EverAI develops AI companionship applications and proprietary content moderation technology for interactive consumer experiences with artificial intelligence.",
+    "category": "Consumer ai",
+    "website": "https://www.everai.ai/",
+    "careers_url": "https://jobs.ashbyhq.com/everai",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-25",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.everai.ai/",
+      "https://jobs.ashbyhq.com/everai"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "ewor",
+    "name": "EWOR",
+    "description": "EWOR runs a founder fellowship that combines startup investment with individualized support from entrepreneurs who have built technology companies.",
+    "category": "Startup investment",
+    "website": "https://www.ewor.com/",
+    "careers_url": "https://ewor.com/",
+    "remote_signal": "europe_remote_signal",
+    "remote_note": "Historical research found a Europe/EMEA or compatible-timezone remote-work signal. This does not establish Spanish employment eligibility.",
+    "record_reviewed_at": "2026-09-02",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.ewor.com/",
+      "https://ewor.com/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "factorial",
+    "name": "Factorial",
+    "description": "Factorial develops business software that connects human resources, finance, and information technology workflows in a shared, AI-enabled system.",
+    "category": "Business software",
+    "website": "https://factorial.com/",
+    "careers_url": "https://careers.factorial.com/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Historical evidence includes hybrid attendance, mixed arrangements or country restrictions. Do not assume this employer offers fully remote work from Spain.",
+    "record_reviewed_at": "2026-11-02",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://factorial.com/",
+      "https://careers.factorial.com/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "fastly",
+    "name": "Fastly",
+    "description": "Fastly provides an edge cloud platform for delivering, securing, and computing web content and applications near users.",
+    "category": "Cloud infrastructure",
+    "website": "https://www.fastly.com/",
+    "careers_url": "https://www.fastly.com/about/careers",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-07-15",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.fastly.com/",
+      "https://www.fastly.com/about/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "fever",
+    "name": "Fever",
+    "description": "Fever operates a discovery and ticketing platform where consumers can find and book concerts, cultural events, attractions, and other experiences.",
+    "category": "Events marketplace",
+    "website": "https://feverup.com/en",
+    "careers_url": "https://job-boards.eu.greenhouse.io/feverup",
+    "remote_signal": "needs_verification",
+    "remote_note": "Remote eligibility is not established by the available historical signal. Treat this entry as a research lead and verify the current official policy.",
+    "record_reviewed_at": "2026-07-15",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://feverup.com/en",
+      "https://job-boards.eu.greenhouse.io/feverup"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "figma",
+    "name": "Figma",
+    "description": "Figma provides collaborative software that brings design, code, and AI tools together to help teams develop digital products.",
+    "category": "Design software",
+    "website": "https://www.figma.com/",
+    "careers_url": "https://www.figma.com/careers/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-30",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.figma.com/",
+      "https://www.figma.com/careers/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "fingerprint",
+    "name": "Fingerprint",
+    "description": "Fingerprint provides device intelligence software that identifies website visitors and mobile devices to support fraud detection and risk decisions.",
+    "category": "Fraud prevention",
+    "website": "https://fingerprint.com/",
+    "careers_url": "https://fingerprint.com/careers/jobs/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-27",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://fingerprint.com/",
+      "https://fingerprint.com/careers/jobs/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "finom",
+    "name": "Finom",
+    "description": "Finom provides business accounts, payment tools, invoicing, and accounting integrations that help entrepreneurs and smaller companies manage their finances.",
+    "category": "Business financial services",
+    "website": "https://finom.co/",
+    "careers_url": "https://careers.finom.co",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Historical evidence includes hybrid attendance, mixed arrangements or country restrictions. Do not assume this employer offers fully remote work from Spain.",
+    "record_reviewed_at": "2026-11-02",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://finom.co/",
+      "https://careers.finom.co"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "flexcompute",
+    "name": "Flexcompute",
+    "description": "Flexcompute develops GPU-based physics simulation software and AI tools for engineers designing aircraft, vehicles, chips, and photonic systems.",
+    "category": "Engineering software",
+    "website": "https://flexcompute.com/",
+    "careers_url": "https://www.flexcompute.com/about/career/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-06",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://flexcompute.com/",
+      "https://www.flexcompute.com/about/career/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "flywire",
+    "name": "Flywire",
+    "description": "Flywire provides payment processing infrastructure and industry-specific software that help organizations manage complex payment transactions through a global network.",
+    "category": "Payments technology",
+    "website": "https://www.flywire.com/",
+    "careers_url": "https://careers.smartrecruiters.com/Flywire1",
+    "remote_signal": "needs_verification",
+    "remote_note": "Remote eligibility is not established by the available historical signal. Treat this entry as a research lead and verify the current official policy.",
+    "record_reviewed_at": "2026-10-16",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.flywire.com/",
+      "https://careers.smartrecruiters.com/Flywire1"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "fundraise-up",
+    "name": "Fundraise Up",
+    "description": "Fundraise Up provides online donation software that helps nonprofits accept payments and improve the conversion of digital fundraising campaigns.",
+    "category": "Nonprofit fundraising software",
+    "website": "https://fundraiseup.com/",
+    "careers_url": "https://fundraiseup.com/careers",
+    "remote_signal": "needs_verification",
+    "remote_note": "Remote eligibility is not established by the available historical signal. Treat this entry as a research lead and verify the current official policy.",
+    "record_reviewed_at": "2026-09-24",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://fundraiseup.com/",
+      "https://fundraiseup.com/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "fyul",
+    "name": "FYUL",
+    "description": "FYUL brings together Printify, Printful, and Snow Commerce to provide on-demand product creation and commerce services for individuals and brands.",
+    "category": "On-demand commerce",
+    "website": "https://www.fyul.com/",
+    "careers_url": "https://careers.fyul.com/jobs",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-28",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.fyul.com/",
+      "https://careers.fyul.com/jobs"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "ghost",
+    "name": "Ghost",
+    "description": "Ghost develops an open source publishing platform that combines websites, email newsletters, paid subscriptions, and tools for independent publishers.",
+    "category": "Publishing software",
+    "website": "https://ghost.org/",
+    "careers_url": "https://careers.ghost.org",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-23",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://ghost.org/",
+      "https://careers.ghost.org"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "gitbook",
+    "name": "GitBook",
+    "description": "GitBook provides documentation and knowledge management software that connects product information, answers user questions, and identifies gaps in published knowledge.",
+    "category": "Documentation software",
+    "website": "https://www.gitbook.com/",
+    "careers_url": "https://jobs.ashbyhq.com/GitBook",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-08-03",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.gitbook.com/",
+      "https://jobs.ashbyhq.com/GitBook"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "github",
+    "name": "GitHub",
+    "description": "GitHub operates a software development platform where developers and organizations collaborate on code, manage repositories, and use AI-assisted development tools.",
+    "category": "Developer tools",
+    "website": "https://github.com/",
+    "careers_url": "https://github.com/about/careers",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-07-15",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://github.com/",
+      "https://github.com/about/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "gr4vy",
+    "name": "Gr4vy",
+    "description": "Gr4vy provides payment orchestration software that connects payment service providers through one integration and helps enterprises manage transaction processing.",
+    "category": "Payments technology",
+    "website": "https://gr4vy.com/",
+    "careers_url": "https://gr4vy.com/human-resources/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-13",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://gr4vy.com/",
+      "https://gr4vy.com/human-resources/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "grafana",
+    "name": "Grafana",
+    "description": "Grafana develops open source visualization tools and a managed observability platform for exploring metrics, logs, traces, and application profiles.",
+    "category": "Observability",
+    "website": "https://grafana.com/",
+    "careers_url": "https://job-boards.greenhouse.io/grafanalabs",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-02",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://grafana.com/",
+      "https://job-boards.greenhouse.io/grafanalabs"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "haddock",
+    "name": "haddock",
+    "description": "haddock provides restaurant management software that helps hospitality businesses track operating data, monitor margins, and manage profitability.",
+    "category": "Restaurant software",
+    "website": "https://haddock.app/",
+    "careers_url": "https://jobs.haddock.app/jobs",
+    "remote_signal": "needs_verification",
+    "remote_note": "Remote eligibility is not established by the available historical signal. Treat this entry as a research lead and verify the current official policy.",
+    "record_reviewed_at": "2026-11-02",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://haddock.app/",
+      "https://jobs.haddock.app/jobs"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "herdr",
+    "name": "Herdr",
+    "description": "Herdr develops a customizable application and runtime for managing coding agents, with persistent sessions that continue when the interface closes.",
+    "category": "Developer tools",
+    "website": "https://herdr.dev/",
+    "careers_url": "https://herdr.dev/jobs/",
+    "remote_signal": "needs_verification",
+    "remote_note": "Remote eligibility is not established by the available historical signal. Treat this entry as a research lead and verify the current official policy.",
+    "record_reviewed_at": "2026-09-29",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://herdr.dev/",
+      "https://herdr.dev/jobs/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "hexgrid-cloud",
+    "name": "HexGrid Cloud",
+    "description": "HexGrid Cloud provides dedicated GPU hosting, managed ComfyUI environments, and deployment tools for generative AI models and creative workflows.",
+    "category": "AI infrastructure",
+    "website": "https://hexgrid.cloud/",
+    "careers_url": "https://wellfound.com/company/hexgrid-cloud",
+    "remote_signal": "global_remote_signal",
+    "remote_note": "Historical research found a global, distributed or remote-friendly signal. Hiring countries and contract arrangements remain role-specific.",
+    "record_reviewed_at": "2026-10-16",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://hexgrid.cloud/",
+      "https://blog.hexgrid.cloud/page/about",
+      "https://wellfound.com/company/hexgrid-cloud"
+    ],
+    "verification_note": "Careers link returned HTTP 403 during the 2026-11-02 automated link check; availability could not be verified. This does not establish that the employer has no vacancies."
+  },
+  {
+    "id": "higharc",
+    "name": "Higharc",
+    "description": "Higharc develops software for homebuilders to design houses, configure plans, generate estimates, create visualizations, and prepare construction documentation.",
+    "category": "Construction software",
+    "website": "https://www.higharc.com/",
+    "careers_url": "https://jobs.ashbyhq.com/higharc",
+    "remote_signal": "europe_remote_signal",
+    "remote_note": "Historical research found a Europe/EMEA or compatible-timezone remote-work signal. This does not establish Spanish employment eligibility.",
+    "record_reviewed_at": "2026-08-24",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.higharc.com/",
+      "https://jobs.ashbyhq.com/higharc"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "hubstaff",
+    "name": "Hubstaff",
+    "description": "Hubstaff provides time tracking and productivity software that helps teams manage working hours, labor costs, payments, and performance insights.",
+    "category": "Workforce management software",
+    "website": "https://hubstaff.com/",
+    "careers_url": "https://jobs.ashbyhq.com/hubstaff",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-07-15",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://hubstaff.com/",
+      "https://jobs.ashbyhq.com/hubstaff"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "hunter",
+    "name": "Hunter",
+    "description": "Hunter develops software for finding and verifying business email addresses and managing outbound email campaigns for sales teams.",
+    "category": "Sales software",
+    "website": "https://hunter.io/",
+    "careers_url": "https://hunter.io/careers",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-14",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://hunter.io/",
+      "https://hunter.io/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "immersive",
+    "name": "Immersive",
+    "description": "Immersive provides cybersecurity simulations, practical labs, and performance benchmarking to help organizations assess and improve their readiness for cyber threats.",
+    "category": "Cybersecurity training",
+    "website": "https://www.immersivelabs.com/",
+    "careers_url": "https://www.immersivelabs.com/company/careers",
+    "remote_signal": "europe_remote_signal",
+    "remote_note": "Historical research found a Europe/EMEA or compatible-timezone remote-work signal. This does not establish Spanish employment eligibility.",
+    "record_reviewed_at": "2026-10-27",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.immersivelabs.com/",
+      "https://www.immersivelabs.com/company/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "infinitewatch",
+    "name": "InfiniteWatch",
+    "description": "InfiniteWatch helps businesses make websites accessible to AI agents, with governed actions, human approvals, and traceable customer workflows.",
+    "category": "Enterprise ai",
+    "website": "https://infinitewatch.ai/",
+    "careers_url": "https://infinitewatch.ai/careers",
+    "remote_signal": "global_remote_signal",
+    "remote_note": "Historical research found a global, distributed or remote-friendly signal. Hiring countries and contract arrangements remain role-specific.",
+    "record_reviewed_at": "2026-10-13",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://infinitewatch.ai/",
+      "https://infinitewatch.ai/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "infinni",
+    "name": "INFINNI",
+    "description": "INFINNI builds software infrastructure for creator businesses, including customer relationship management, integrations, automation, analytics, and commercial data tools.",
+    "category": "Creator economy software",
+    "website": "https://infinni.io/",
+    "careers_url": "https://job-boards.eu.greenhouse.io/infinniinnovationssa",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-24",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://infinni.io/",
+      "https://infinni.io/terms-of-service",
+      "https://job-boards.eu.greenhouse.io/infinniinnovationssa"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "integritynext",
+    "name": "IntegrityNext",
+    "description": "IntegrityNext provides supply chain sustainability software that helps businesses monitor environmental, social, and governance standards and manage related risks.",
+    "category": "Supply chain software",
+    "website": "https://integritynext.com/",
+    "careers_url": "https://www.integritynext.com/about-us/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Historical evidence includes hybrid attendance, mixed arrangements or country restrictions. Do not assume this employer offers fully remote work from Spain.",
+    "record_reviewed_at": "2026-10-30",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://integritynext.com/",
+      "https://www.integritynext.com/about-us/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "ionos",
+    "name": "IONOS",
+    "description": "IONOS provides web hosting, domain registration, website tools, servers, and cloud infrastructure services for businesses and other customers.",
+    "category": "Cloud infrastructure",
+    "website": "https://www.ionos.com/",
+    "careers_url": "https://job-boards.eu.greenhouse.io/ionos2",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-30",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.ionos.com/",
+      "https://job-boards.eu.greenhouse.io/ionos2"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "ipronics",
+    "name": "iPronics",
+    "description": "iPronics develops programmable optical networking and circuit switching technology for connecting computing resources within AI data centers.",
+    "category": "Photonics hardware",
+    "website": "https://ipronics.com/",
+    "careers_url": "https://ipronics.com/careers/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Historical evidence includes hybrid attendance, mixed arrangements or country restrictions. Do not assume this employer offers fully remote work from Spain.",
+    "record_reviewed_at": "2026-09-05",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://ipronics.com/",
+      "https://ipronics.com/careers/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "iristrace",
+    "name": "Iristrace",
+    "description": "Iristrace develops digital checklist software for collecting operational data and managing quality, safety, and sustainability across business processes.",
+    "category": "Operations software",
+    "website": "https://iristrace.com/es/",
+    "careers_url": "https://iristrace.com/es/empleos/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-30",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://iristrace.com/es/",
+      "https://iristrace.com/es/empleos/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "jitter",
+    "name": "Jitter",
+    "description": "Jitter provides a collaborative, browser-based motion design tool that helps users create animations without extensive motion design experience.",
+    "category": "Design software",
+    "website": "https://jitter.video/",
+    "careers_url": "https://jitter.notion.site/Work-at-Jitter-62916057792e4815bc7ff3d89c242f80",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-25",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://jitter.video/",
+      "https://jitter.notion.site/Work-at-Jitter-62916057792e4815bc7ff3d89c242f80"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "join",
+    "name": "JOIN",
+    "description": "JOIN provides applicant tracking software that helps smaller businesses advertise jobs, collect applications, and organize recruitment workflows.",
+    "category": "Recruitment software",
+    "website": "https://join.com/en",
+    "careers_url": "https://join.com/en/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Historical evidence includes hybrid attendance, mixed arrangements or country restrictions. Do not assume this employer offers fully remote work from Spain.",
+    "record_reviewed_at": "2026-10-09",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://join.com/en",
+      "https://join.com/en/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "joko",
+    "name": "Joko",
+    "description": "Joko develops a shopping app and AI assistant that help consumers find products, compare prices, and save time on purchases.",
+    "category": "Shopping technology",
+    "website": "https://home.joko.com/fr",
+    "careers_url": "https://jobs.ashbyhq.com/joko",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-26",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://home.joko.com/fr",
+      "https://jobs.ashbyhq.com/joko"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "keepler-data-tech",
+    "name": "Keepler Data Tech",
+    "description": "Keepler Data Tech provides consulting and technology services that help enterprises develop artificial intelligence, data, and cloud capabilities.",
+    "category": "Data and ai consulting",
+    "website": "https://keepler.io/",
+    "careers_url": "https://www.careers-page.com/keepler",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-14",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://keepler.io/",
+      "https://www.careers-page.com/keepler"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "kestra",
+    "name": "Kestra",
+    "description": "Kestra develops an open source declarative orchestration platform for creating and managing automated workflows across data and business systems.",
+    "category": "Workflow orchestration",
+    "website": "https://kestra.io/",
+    "careers_url": "https://kestra.io/careers",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-07-21",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://kestra.io/",
+      "https://kestra.io/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "keyrock",
+    "name": "Keyrock",
+    "description": "Keyrock provides digital asset liquidity services, including market making, over-the-counter trading, and options, using algorithmic trading technology.",
+    "category": "Digital asset trading",
+    "website": "https://keyrock.com/",
+    "careers_url": "https://jobs.ashbyhq.com/keyrock",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-25",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://keyrock.com/",
+      "https://jobs.ashbyhq.com/keyrock"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "koinly",
+    "name": "Koinly",
+    "description": "Koinly provides cryptocurrency tax software that calculates tax liabilities from transactions across exchanges, wallets, and decentralized finance platforms.",
+    "category": "Financial software",
+    "website": "https://koinly.io/",
+    "careers_url": "https://careers.koinly.io/jobs",
+    "remote_signal": "europe_remote_signal",
+    "remote_note": "Historical research found a Europe/EMEA or compatible-timezone remote-work signal. This does not establish Spanish employment eligibility.",
+    "record_reviewed_at": "2026-09-14",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://koinly.io/",
+      "https://careers.koinly.io/jobs"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "komoot",
+    "name": "Komoot",
+    "description": "Komoot provides route planning, navigation, and community recommendations for people organizing cycling, hiking, running, and other outdoor activities.",
+    "category": "Outdoor recreation software",
+    "website": "https://www.komoot.com/",
+    "careers_url": "https://www.komoot.com",
+    "remote_signal": "global_remote_signal",
+    "remote_note": "Historical research found a global, distributed or remote-friendly signal. Hiring countries and contract arrangements remain role-specific.",
+    "record_reviewed_at": "2026-10-30",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.komoot.com/",
+      "https://www.komoot.com"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "kota",
+    "name": "Kota",
+    "description": "Kota provides an employee benefits platform that coordinates healthcare, retirement, spending, and risk benefits while automating administrative tasks.",
+    "category": "Employee benefits",
+    "website": "https://kota.io/",
+    "careers_url": "https://jobs.ashbyhq.com/kota",
+    "remote_signal": "europe_remote_signal",
+    "remote_note": "Historical research found a Europe/EMEA or compatible-timezone remote-work signal. This does not establish Spanish employment eligibility.",
+    "record_reviewed_at": "2026-09-08",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://kota.io/",
+      "https://jobs.ashbyhq.com/kota"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "kraken",
+    "name": "Kraken",
+    "description": "Kraken operates a cryptocurrency trading platform offering digital asset trading and related financial services for individual and institutional customers.",
+    "category": "Financial technology",
+    "website": "https://www.kraken.com/",
+    "careers_url": "https://jobs.ashbyhq.com/kraken.com",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-24",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.kraken.com/",
+      "https://jobs.ashbyhq.com/kraken.com"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "kustomer",
+    "name": "Kustomer",
+    "description": "Kustomer provides customer service software combining CRM data, omnichannel conversations, AI automation, and support workflow management.",
+    "category": "Customer support software",
+    "website": "https://www.kustomer.com/",
+    "careers_url": "https://jobs.ashbyhq.com/Kustomer",
+    "remote_signal": "needs_verification",
+    "remote_note": "Remote eligibility is not established by the available historical signal. Treat this entry as a research lead and verify the current official policy.",
+    "record_reviewed_at": "2026-10-30",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.kustomer.com/",
+      "https://jobs.ashbyhq.com/Kustomer"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "lago",
+    "name": "Lago",
+    "description": "Lago develops billing software for usage-based, subscription, and hybrid pricing, with invoicing capabilities and both hosted and self-managed deployment options.",
+    "category": "Billing software",
+    "website": "https://getlago.com/",
+    "careers_url": "https://getlago.com/hiring",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-30",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://getlago.com/",
+      "https://getlago.com/hiring"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "lemlist",
+    "name": "lemlist",
+    "description": "lemlist provides sales prospecting and outreach software that helps teams identify prospects, find contacts, and coordinate engagement across channels.",
+    "category": "Sales software",
+    "website": "https://www.lemlist.com/",
+    "careers_url": "https://www.lemlist.com/join-lemlist",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-27",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.lemlist.com/",
+      "https://www.lemlist.com/join-lemlist"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "lemon-io",
+    "name": "Lemon.io",
+    "description": "Lemon.io connects startups and larger companies with vetted software developers for full time or part time technical work.",
+    "category": "Talent marketplace",
+    "website": "https://lemon.io/",
+    "careers_url": "https://jobs.ashbyhq.com/lemon-io",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-06",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://lemon.io/",
+      "https://jobs.ashbyhq.com/lemon-io"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "lighthouse",
+    "name": "Lighthouse",
+    "description": "Lighthouse provides hospitality intelligence and pricing software that helps hotels interpret market data and manage their revenue strategies.",
+    "category": "Hospitality software",
+    "website": "https://www.mylighthouse.com/",
+    "careers_url": "https://job-boards.greenhouse.io/lighthouse",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-11",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.mylighthouse.com/",
+      "https://job-boards.greenhouse.io/lighthouse"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "linear",
+    "name": "Linear",
+    "description": "Linear develops product development software that helps teams plan work, manage issues, and coordinate projects with AI agents.",
+    "category": "Product management software",
+    "website": "https://linear.app/",
+    "careers_url": "https://linear.app/careers",
+    "remote_signal": "europe_remote_signal",
+    "remote_note": "Historical research found a Europe/EMEA or compatible-timezone remote-work signal. This does not establish Spanish employment eligibility.",
+    "record_reviewed_at": "2026-09-08",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://linear.app/",
+      "https://linear.app/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "lingo-dev",
+    "name": "Lingo.dev",
+    "description": "Lingo.dev provides localization infrastructure that developers integrate into code and delivery pipelines to translate software using configurable AI engines.",
+    "category": "Localization software",
+    "website": "https://lingo.dev/en",
+    "careers_url": "https://lingo.dev/en/careers",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-23",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://lingo.dev/en",
+      "https://lingo.dev/en/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "localstack",
+    "name": "LocalStack",
+    "description": "LocalStack provides local cloud sandbox environments where developers and AI agents can build, test, and validate applications before cloud deployment.",
+    "category": "Developer tools",
+    "website": "https://www.localstack.cloud/",
+    "careers_url": "https://jobs.ashbyhq.com/localstack",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-12",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.localstack.cloud/",
+      "https://jobs.ashbyhq.com/localstack"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "loriot",
+    "name": "LORIOT",
+    "description": "LORIOT provides network management software and infrastructure that help organizations build, operate, and scale LoRaWAN and mioty IoT networks.",
+    "category": "Internet of things",
+    "website": "https://loriot.io/",
+    "careers_url": "https://loriot.io/career.html",
+    "remote_signal": "needs_verification",
+    "remote_note": "Remote eligibility is not established by the available historical signal. Treat this entry as a research lead and verify the current official policy.",
+    "record_reviewed_at": "2026-10-30",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://loriot.io/about.html",
+      "https://loriot.io/",
+      "https://loriot.io/career.html"
+    ],
+    "verification_note": "Homepage retrieval returned a temporary error; business and official domain were verified through the accessible official About page."
+  },
+  {
+    "id": "ludus",
+    "name": "Ludus",
+    "description": "Ludus develops virtual reality simulations that companies use to train employees in occupational safety and risk prevention.",
+    "category": "Virtual reality training",
+    "website": "https://www.ludusglobal.com/",
+    "careers_url": "https://mnfrd.co/3SItabt",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-16",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.ludusglobal.com/",
+      "https://mnfrd.co/3SItabt"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "mailerlite",
+    "name": "MailerLite",
+    "description": "MailerLite provides email marketing and related digital marketing tools that help businesses grow audiences and communicate with subscribers.",
+    "category": "Marketing software",
+    "website": "https://www.mailerlite.com/",
+    "careers_url": "https://www.mailerlite.com/jobs",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-30",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.mailerlite.com/",
+      "https://www.mailerlite.com/jobs"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "mango",
+    "name": "Mango",
+    "description": "Mango designs and sells fashion collections for women, men, teenagers, and children, alongside home products through its retail channels.",
+    "category": "Fashion retail",
+    "website": "https://shop.mango.com/",
+    "careers_url": "https://jobs.mango.com/en",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Historical evidence includes hybrid attendance, mixed arrangements or country restrictions. Do not assume this employer offers fully remote work from Spain.",
+    "record_reviewed_at": "2026-09-07",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://shop.mango.com/us/en/",
+      "https://shop.mango.com/",
+      "https://jobs.mango.com/en"
+    ],
+    "verification_note": "Direct homepage retrieval was rate-limited; the official US storefront was accessible through a second retrieval method."
+  },
+  {
+    "id": "maze",
+    "name": "Maze",
+    "description": "Maze provides a market and user research platform combining participant recruitment, usability testing, and research analysis for product teams.",
+    "category": "User research software",
+    "website": "https://maze.co/",
+    "careers_url": "https://jobs.ashbyhq.com/mazedesign",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-23",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://maze.co/",
+      "https://jobs.ashbyhq.com/mazedesign"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "mentimeter",
+    "name": "Mentimeter",
+    "description": "Mentimeter develops interactive presentation software with live polls, quizzes, and question sessions for meetings, educational settings, and events.",
+    "category": "Presentation software",
+    "website": "https://www.mentimeter.com/",
+    "careers_url": "https://job-boards.eu.greenhouse.io/mentimeter",
+    "remote_signal": "needs_verification",
+    "remote_note": "Remote eligibility is not established by the available historical signal. Treat this entry as a research lead and verify the current official policy.",
+    "record_reviewed_at": "2026-09-25",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.mentimeter.com/",
+      "https://job-boards.eu.greenhouse.io/mentimeter"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "mercadona-tech",
+    "name": "Mercadona Tech",
+    "description": "Mercadona Tech develops the ecommerce platform and logistics software supporting Mercadona's online grocery shopping, warehouse operations, and order delivery.",
+    "category": "Retail technology",
+    "website": "https://www.mercadonatech.com/",
+    "careers_url": "https://www.mercadonatech.com/jobs",
+    "remote_signal": "needs_verification",
+    "remote_note": "Remote eligibility is not established by the available historical signal. Treat this entry as a research lead and verify the current official policy.",
+    "record_reviewed_at": "2026-09-29",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.mercadonatech.com/",
+      "https://www.mercadonatech.com/jobs"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "microsoft",
+    "name": "Microsoft",
+    "description": "Microsoft develops productivity software, operating systems, AI tools, cloud services, computing devices, and gaming products for consumers and organizations.",
+    "category": "Enterprise and consumer technology",
+    "website": "https://www.microsoft.com/",
+    "careers_url": "https://apply.careers.microsoft.com/careers",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-30",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.microsoft.com/",
+      "https://apply.careers.microsoft.com/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "mimica",
+    "name": "Mimica",
+    "description": "Mimica develops AI software that analyzes how employees work, maps business processes, and builds agents to automate those workflows.",
+    "category": "Business automation",
+    "website": "https://www.mimica.ai/",
+    "careers_url": "https://jobs.ashbyhq.com/mimica",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-16",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.mimica.ai/",
+      "https://jobs.ashbyhq.com/mimica"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "mistral-ai",
+    "name": "Mistral AI",
+    "description": "Mistral AI develops open-weight language models and enterprise tools for customizing, deploying, and operating artificial intelligence applications across infrastructure environments.",
+    "category": "Artificial intelligence",
+    "website": "https://mistral.ai/",
+    "careers_url": "https://jobs.ashbyhq.com/mistral.ai",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Historical evidence includes hybrid attendance, mixed arrangements or country restrictions. Do not assume this employer offers fully remote work from Spain.",
+    "record_reviewed_at": "2026-10-12",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://mistral.ai/",
+      "https://jobs.ashbyhq.com/mistral.ai"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "mitek-systems",
+    "name": "Mitek Systems",
+    "description": "Mitek Systems provides digital identity verification and authentication technology that helps businesses verify customers and assess transaction fraud risks.",
+    "category": "Identity verification",
+    "website": "https://www.miteksystems.com/",
+    "careers_url": "https://jobs.lever.co/miteksystems-2",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-06",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.miteksystems.com/",
+      "https://jobs.lever.co/miteksystems-2"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "mito-ai",
+    "name": "MITO AI",
+    "description": "MITO AI provides collaborative video creation software that combines generative AI models with scripting, storyboarding, editing, and approval tools.",
+    "category": "Creative software",
+    "website": "https://mito.ai/",
+    "careers_url": "https://mito.ai/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Historical evidence includes hybrid attendance, mixed arrangements or country restrictions. Do not assume this employer offers fully remote work from Spain.",
+    "record_reviewed_at": "2026-10-30",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://mito.ai/",
+      "https://mito.ai/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "modash-io",
+    "name": "Modash.io",
+    "description": "Modash.io provides influencer marketing software that helps teams discover creators, analyze audiences, and monitor influencer campaigns across markets.",
+    "category": "Marketing software",
+    "website": "https://www.modash.io/",
+    "careers_url": "https://www.modash.io/careers",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-10",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.modash.io/",
+      "https://www.modash.io/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "moka-care",
+    "name": "Moka Care",
+    "description": "Moka Care provides workplace mental health services that help companies support employees through professional care, prevention, and education.",
+    "category": "Employee mental health",
+    "website": "https://www.moka.care/",
+    "careers_url": "https://www.welcometothejungle.com/en/companies-v1/moka-care/jobs",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-07-23",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.moka.care/",
+      "https://www.welcometothejungle.com/en/companies-v1/moka-care/jobs"
+    ],
+    "verification_note": "Careers link returned HTTP 403 during the 2026-11-02 automated link check; availability could not be verified. This does not establish that the employer has no vacancies."
+  },
+  {
+    "id": "molecule",
+    "name": "Molecule",
+    "description": "Molecule provides research collaboration and funding infrastructure, combining verifiable data records, controlled sharing, and tools for research commercialization.",
+    "category": "Research technology",
+    "website": "https://molecule.xyz/",
+    "careers_url": "https://jobs.ashbyhq.com/molecule",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-28",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://molecule.xyz/",
+      "https://jobs.ashbyhq.com/molecule"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "monest-capital",
+    "name": "Monest Capital",
+    "description": "Monest Capital helps clients identify property investment opportunities in Spain and supports acquisition, renovation planning, and investment execution.",
+    "category": "Real estate services",
+    "website": "https://monestcapital.com/",
+    "careers_url": "https://careers.monestcapital.com/jobs",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-03",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://monestcapital.com/",
+      "https://careers.monestcapital.com/jobs"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "mozilla",
+    "name": "Mozilla",
+    "description": "Mozilla develops Firefox and other internet products while supporting privacy, user control, and an accessible open web.",
+    "category": "Internet software",
+    "website": "https://www.mozilla.org/",
+    "careers_url": "https://www.mozilla.org/en-US/careers/listings/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-12",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.mozilla.org/",
+      "https://www.mozilla.org/en-US/careers/listings/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "mural",
+    "name": "Mural",
+    "description": "Mural provides a visual collaboration workspace where teams can develop ideas, plan projects, and coordinate work using shared digital canvases.",
+    "category": "Collaboration software",
+    "website": "https://www.mural.co/",
+    "careers_url": "https://jobs.ashbyhq.com/mural",
+    "remote_signal": "global_remote_signal",
+    "remote_note": "Historical research found a global, distributed or remote-friendly signal. Hiring countries and contract arrangements remain role-specific.",
+    "record_reviewed_at": "2026-10-30",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.mural.co/",
+      "https://jobs.ashbyhq.com/mural"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "matica-partners",
+    "name": "Mática Partners",
+    "description": "Mática Partners provides data analytics and artificial intelligence services that help organizations transform data into decisions and solve business problems.",
+    "category": "Data and ai consulting",
+    "website": "https://www.matica.group/",
+    "careers_url": "https://www.matica.group/en",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-12",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.matica.group/",
+      "https://matica.group/en",
+      "https://www.matica.group/en"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "n8n",
+    "name": "n8n",
+    "description": "n8n develops workflow automation software that connects business applications, custom code, and AI capabilities for technical teams.",
+    "category": "Workflow automation",
+    "website": "https://n8n.io/",
+    "careers_url": "https://jobs.ashbyhq.com/n8n",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-23",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://n8n.io/",
+      "https://jobs.ashbyhq.com/n8n"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "nebius",
+    "name": "Nebius",
+    "description": "Nebius provides cloud infrastructure designed for developing and scaling AI workloads, with services spanning computing hardware and software interfaces.",
+    "category": "AI infrastructure",
+    "website": "https://nebius.com/",
+    "careers_url": "https://careers.nebius.com",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-02",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://nebius.com/",
+      "https://careers.nebius.com"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "netskope",
+    "name": "Netskope",
+    "description": "Netskope provides cloud security and networking software that helps organizations protect data, applications, and AI usage across enterprise environments.",
+    "category": "Cybersecurity",
+    "website": "https://www.netskope.com/",
+    "careers_url": "https://www.netskope.com/company/careers",
+    "remote_signal": "global_remote_signal",
+    "remote_note": "Historical research found a global, distributed or remote-friendly signal. Hiring countries and contract arrangements remain role-specific.",
+    "record_reviewed_at": "2026-09-14",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.netskope.com/",
+      "https://www.netskope.com/company/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "new-relic",
+    "name": "New Relic",
+    "description": "New Relic provides observability software that correlates application and infrastructure telemetry to help engineering teams diagnose performance and reliability problems.",
+    "category": "Observability",
+    "website": "https://newrelic.com/",
+    "careers_url": "https://job-boards.greenhouse.io/newrelic",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-30",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://newrelic.com/",
+      "https://job-boards.greenhouse.io/newrelic"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "nomic-foundation",
+    "name": "Nomic Foundation",
+    "description": "Nomic Foundation is a nonprofit organization that supports Ethereum developers and builds tools for developing software on the Ethereum ecosystem.",
+    "category": "Blockchain developer tools",
+    "website": "https://nomic.foundation/",
+    "careers_url": "https://jobs.ashbyhq.com/nomic.foundation",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-23",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://nomic.foundation/",
+      "https://jobs.ashbyhq.com/nomic.foundation"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "nordhealth",
+    "name": "Nordhealth",
+    "description": "Nordhealth develops software and APIs for healthcare and veterinary professionals to manage their businesses and support the delivery of care.",
+    "category": "Healthcare software",
+    "website": "https://nordhealth.com/",
+    "careers_url": "https://careers.nordhealth.com/jobs",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-28",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://nordhealth.com/",
+      "https://careers.nordhealth.com/jobs"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "northius",
+    "name": "Northius",
+    "description": "Northius operates a group of specialized education institutions focused on digital learning, professional training, and student employability.",
+    "category": "Education and training",
+    "website": "https://northius.com/",
+    "careers_url": "https://empleo.northius.com/jobs",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Historical evidence includes hybrid attendance, mixed arrangements or country restrictions. Do not assume this employer offers fully remote work from Spain.",
+    "record_reviewed_at": "2026-10-06",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://northius.com/",
+      "https://empleo.northius.com/jobs"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "ntt-data-spain",
+    "name": "NTT DATA Spain",
+    "description": "NTT DATA Spain provides technology consulting, application development, infrastructure, and business process services to support organizations through digital transformation.",
+    "category": "IT consulting",
+    "website": "https://es.nttdata.com/",
+    "careers_url": "https://careers.emeal.nttdata.com/s/jobs",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-30",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://es.nttdata.com/",
+      "https://careers.emeal.nttdata.com/s/jobs"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "orbitant",
+    "name": "Orbitant",
+    "description": "Orbitant provides AI engineering, software development, data infrastructure, and technology consulting services that help businesses modernize systems and operations.",
+    "category": "IT consulting",
+    "website": "https://orbitant.com/",
+    "careers_url": "https://orbitant.factorial.es/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-12",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://orbitant.com/en/our-services/",
+      "https://linkedin.com/company/orbitant",
+      "https://orbitant.com/",
+      "https://orbitant.factorial.es/"
+    ],
+    "verification_note": "The corporate homepage is orbitant.com; the careers portal uses a separate recruitment domain."
+  },
+  {
+    "id": "osapiens",
+    "name": "osapiens",
+    "description": "osapiens develops software connecting compliance obligations, supplier intelligence, and operational data to help organizations manage business risks.",
+    "category": "Compliance software",
+    "website": "https://osapiens.com/en",
+    "careers_url": "https://careers.osapiens.com/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Historical evidence includes hybrid attendance, mixed arrangements or country restrictions. Do not assume this employer offers fully remote work from Spain.",
+    "record_reviewed_at": "2026-09-03",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://osapiens.com/en",
+      "https://careers.osapiens.com/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "otto-group-one-o",
+    "name": "Otto Group one.O",
+    "description": "Otto Group one.O provides technology and business consulting across commerce, AI services, enterprise applications, warehouse operations, and logistics.",
+    "category": "IT consulting",
+    "website": "https://www.og1o.com/",
+    "careers_url": "https://otto-group-solution-provider-spain-sl-1.jobs.personio.com/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Historical evidence includes hybrid attendance, mixed arrangements or country restrictions. Do not assume this employer offers fully remote work from Spain.",
+    "record_reviewed_at": "2026-10-06",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.og1o.com/",
+      "https://otto-group-solution-provider-spain-sl-1.jobs.personio.com/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "ovhcloud",
+    "name": "OVHcloud",
+    "description": "OVHcloud provides cloud computing, dedicated servers, virtual private servers, and domain services for organizations building and operating digital infrastructure.",
+    "category": "Cloud infrastructure",
+    "website": "https://www.ovhcloud.com/es-es/",
+    "careers_url": "https://careers.ovhcloud.com/en/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-30",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.ovhcloud.com/es-es/",
+      "https://careers.ovhcloud.com/en/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "owner",
+    "name": "Owner",
+    "description": "Owner provides independent restaurants with online ordering, websites, mobile loyalty applications, and marketing tools for managing direct customer relationships.",
+    "category": "Restaurant software",
+    "website": "https://www.owner.com/",
+    "careers_url": "https://www.owner.com/careers",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-01",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.owner.com/",
+      "https://www.owner.com/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "paddle",
+    "name": "Paddle",
+    "description": "Paddle provides payment and subscription infrastructure for software businesses, handling billing, tax obligations, and compliance through one platform.",
+    "category": "Payments software",
+    "website": "https://www.paddle.com/",
+    "careers_url": "https://jobs.ashbyhq.com/paddle",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Historical evidence includes hybrid attendance, mixed arrangements or country restrictions. Do not assume this employer offers fully remote work from Spain.",
+    "record_reviewed_at": "2026-09-25",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.paddle.com/",
+      "https://jobs.ashbyhq.com/paddle"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "pandadoc",
+    "name": "PandaDoc",
+    "description": "PandaDoc provides document management software for creating proposals, automating agreements, collecting electronic signatures, and managing related payment workflows.",
+    "category": "Document software",
+    "website": "https://www.pandadoc.com/",
+    "careers_url": "https://job-boards.greenhouse.io/pandadoc",
+    "remote_signal": "needs_verification",
+    "remote_note": "Remote eligibility is not established by the available historical signal. Treat this entry as a research lead and verify the current official policy.",
+    "record_reviewed_at": "2026-10-13",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.pandadoc.com/",
+      "https://job-boards.greenhouse.io/pandadoc"
+    ],
+    "verification_note": "Direct HTTP retrieval was rate-limited; the official homepage was successfully read through an alternate public extraction service."
+  },
+  {
+    "id": "parloa",
+    "name": "Parloa",
+    "description": "Parloa provides software for enterprises to build, test, deploy, and manage AI agents across voice and chat customer service channels.",
+    "category": "Customer support software",
+    "website": "https://www.parloa.com/",
+    "careers_url": "https://job-boards.eu.greenhouse.io/parloa",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Historical evidence includes hybrid attendance, mixed arrangements or country restrictions. Do not assume this employer offers fully remote work from Spain.",
+    "record_reviewed_at": "2026-09-19",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.parloa.com/",
+      "https://job-boards.eu.greenhouse.io/parloa"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "pccomponentes",
+    "name": "PcComponentes",
+    "description": "PcComponentes sells computers, components, and consumer electronics through its online store and physical shops, alongside related technical services.",
+    "category": "Electronics retail",
+    "website": "https://www.pccomponentes.com/",
+    "careers_url": "https://jobs.pccomponentes.com/jobs",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Historical evidence includes hybrid attendance, mixed arrangements or country restrictions. Do not assume this employer offers fully remote work from Spain.",
+    "record_reviewed_at": "2026-10-01",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://pccomponentes.com/ordenadores-sobremesa",
+      "https://www.pccomponentes.com/",
+      "https://jobs.pccomponentes.com/jobs"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "phantom",
+    "name": "Phantom",
+    "description": "Phantom develops a self-custodial cryptocurrency wallet that lets users manage digital assets and access trading services across multiple blockchains.",
+    "category": "Cryptocurrency software",
+    "website": "https://phantom.com/",
+    "careers_url": "https://jobs.ashbyhq.com/phantom",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-07",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://phantom.com/",
+      "https://jobs.ashbyhq.com/phantom"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "phrase",
+    "name": "Phrase",
+    "description": "Phrase develops translation and localization software that helps organizations automate multilingual content workflows and connect language technology tools.",
+    "category": "Localization software",
+    "website": "https://phrase.com/",
+    "careers_url": "https://phrase.com/careers/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-15",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://phrase.com/",
+      "https://phrase.com/careers/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "pitchup",
+    "name": "Pitchup",
+    "description": "Pitchup operates an online booking marketplace for campsites, glamping accommodation, and recreational vehicle parks across destinations in multiple countries.",
+    "category": "Travel marketplace",
+    "website": "https://www.pitchup.com/",
+    "careers_url": "https://pitchup.applytojob.com/apply",
+    "remote_signal": "needs_verification",
+    "remote_note": "Remote eligibility is not established by the available historical signal. Treat this entry as a research lead and verify the current official policy.",
+    "record_reviewed_at": "2026-07-22",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://pitchup.com/en-us",
+      "https://pitchup.com/campsites",
+      "https://www.pitchup.com/",
+      "https://pitchup.applytojob.com/apply"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "pleo",
+    "name": "Pleo",
+    "description": "Pleo provides company payment cards and expense management software that help businesses oversee employee purchases and monitor spending.",
+    "category": "Financial software",
+    "website": "https://www.pleo.io/es",
+    "careers_url": "https://jobs.ashbyhq.com/pleo",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-08-24",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.pleo.io/es",
+      "https://jobs.ashbyhq.com/pleo"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "poolside-ai",
+    "name": "Poolside AI",
+    "description": "Poolside AI develops foundation models and agentic coding tools, including open weight models designed for software development tasks.",
+    "category": "AI models and developer tools",
+    "website": "https://poolside.ai/",
+    "careers_url": "https://jobs.ashbyhq.com/poolside",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-16",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://poolside.ai/",
+      "https://jobs.ashbyhq.com/poolside"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "posthog",
+    "name": "PostHog",
+    "description": "PostHog provides product analytics, session replay, error tracking, experimentation, and data tools that help software teams understand and improve their products.",
+    "category": "Product analytics",
+    "website": "https://posthog.com/",
+    "careers_url": "https://posthog.com/careers",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-09",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://posthog.com/",
+      "https://posthog.com/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "postman",
+    "name": "Postman",
+    "description": "Postman provides API development tools for designing, building, testing, monitoring, and governing APIs, with collaboration and AI agent capabilities.",
+    "category": "Developer tools",
+    "website": "https://www.postman.com/",
+    "careers_url": "https://www.postman.com/company/careers/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-27",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.postman.com/",
+      "https://www.postman.com/company/careers/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "privera",
+    "name": "Privera",
+    "description": "Privera provides banks and asset managers with software for distributing private market investments and managing onboarding, subscriptions, operations, and reporting.",
+    "category": "Financial software",
+    "website": "https://privera.tech/",
+    "careers_url": "https://www.linkedin.com/company/priveratech/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-21",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://privera.tech/",
+      "https://www.linkedin.com/company/priveratech/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "profile-software-services",
+    "name": "Profile Software Services",
+    "description": "Profile Software Services provides custom software development, technology architecture, cloud computing, mobile applications, and design services for business clients.",
+    "category": "Software consulting",
+    "website": "https://profile.es/",
+    "careers_url": "https://profile.es/oportunidades-empleo-it/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-08-24",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://profile.es/en/",
+      "https://profile.es/en/quality-policy",
+      "https://profile.es/",
+      "https://profile.es/oportunidades-empleo-it/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "prosper-ai",
+    "name": "Prosper AI",
+    "description": "Prosper AI develops AI agents that automate healthcare administration, including patient scheduling, insurance verification, referral intake, and billing communications.",
+    "category": "Healthcare ai",
+    "website": "https://www.getprosper.ai/",
+    "careers_url": "https://jobs.ashbyhq.com/prosper-ai",
+    "remote_signal": "needs_verification",
+    "remote_note": "Remote eligibility is not established by the available historical signal. Treat this entry as a research lead and verify the current official policy.",
+    "record_reviewed_at": "2026-10-06",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.getprosper.ai/",
+      "https://jobs.ashbyhq.com/prosper-ai/92f63920-a269-4039-8cf9-2e0c622c4d9f",
+      "https://jobs.ashbyhq.com/prosper-ai"
+    ],
+    "verification_note": "This entry identifies the healthcare-administration company at getprosper.ai, not similarly named businesses."
+  },
+  {
+    "id": "qualifyze",
+    "name": "Qualifyze",
+    "description": "Qualifyze provides supplier risk management software, audit coordination, and GxP audit reports for pharmaceutical supply chains.",
+    "category": "Pharmaceutical compliance software",
+    "website": "https://www.qualifyze.com/",
+    "careers_url": "https://qualifyzegmbh.recruitee.com/job-list",
+    "remote_signal": "needs_verification",
+    "remote_note": "Remote eligibility is not established by the available historical signal. Treat this entry as a research lead and verify the current official policy.",
+    "record_reviewed_at": "2026-10-27",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.qualifyze.com/",
+      "https://qualifyzegmbh.recruitee.com/job-list"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "remote",
+    "name": "Remote",
+    "description": "Remote provides a global employment platform covering employer-of-record services, payroll, contractor management, payments, and compliance for internationally distributed organizations.",
+    "category": "Employment software",
+    "website": "https://remote.com/",
+    "careers_url": "https://remote.com/openings",
+    "remote_signal": "europe_remote_signal",
+    "remote_note": "Historical research found a Europe/EMEA or compatible-timezone remote-work signal. This does not establish Spanish employment eligibility.",
+    "record_reviewed_at": "2026-08-31",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://remote.com/",
+      "https://remote.com/openings"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "resend",
+    "name": "Resend",
+    "description": "Resend provides email delivery infrastructure that helps developers and businesses send transactional and marketing messages through programmatic integrations.",
+    "category": "Developer tools",
+    "website": "https://resend.com/",
+    "careers_url": "https://resend.com/careers",
+    "remote_signal": "needs_verification",
+    "remote_note": "Remote eligibility is not established by the available historical signal. Treat this entry as a research lead and verify the current official policy.",
+    "record_reviewed_at": "2026-07-20",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://resend.com/",
+      "https://resend.com/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "revenuecat",
+    "name": "RevenueCat",
+    "description": "RevenueCat provides infrastructure for managing in app purchases, subscriptions, and customer revenue data across mobile and web applications.",
+    "category": "Subscription infrastructure",
+    "website": "https://www.revenuecat.com/",
+    "careers_url": "https://jobs.ashbyhq.com/revenuecat",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-29",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.revenuecat.com/",
+      "https://jobs.ashbyhq.com/revenuecat"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "revolut",
+    "name": "Revolut",
+    "description": "Revolut provides app-based financial services including payment cards, money transfers, currency exchange, savings features, and tools for tracking spending.",
+    "category": "Financial services",
+    "website": "https://www.revolut.com/",
+    "careers_url": "https://www.revolut.com/careers/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-30",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://apps.apple.com/td/app/revolut-spend-send-and-save/id932493382",
+      "https://www.revolut.com/",
+      "https://www.revolut.com/careers/"
+    ],
+    "verification_note": "Careers link returned HTTP 403 during the 2026-11-02 automated link check; availability could not be verified. This does not establish that the employer has no vacancies."
+  },
+  {
+    "id": "roompricegenie",
+    "name": "RoomPriceGenie",
+    "description": "RoomPriceGenie provides automated hotel pricing and revenue management software that helps accommodation businesses adjust room rates and manage occupancy.",
+    "category": "Hospitality software",
+    "website": "https://roompricegenie.com/",
+    "careers_url": "https://jobs.ashbyhq.com/roompricegenie",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-28",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://roompricegenie.com/",
+      "https://jobs.ashbyhq.com/roompricegenie"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "safeguard-global",
+    "name": "Safeguard Global",
+    "description": "Safeguard Global provides international workforce services covering recruitment, onboarding, payroll, employment management, and compliance for organizations operating across countries.",
+    "category": "Global workforce services",
+    "website": "https://www.safeguardglobal.com/",
+    "careers_url": "https://safeguardglobal.wd3.myworkdayjobs.com/External_Careers",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-07",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.safeguardglobal.com/",
+      "https://safeguardglobal.wd3.myworkdayjobs.com/External_Careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "safetywing",
+    "name": "SafetyWing",
+    "description": "SafetyWing offers health and travel insurance products designed for people working internationally and companies with geographically distributed teams.",
+    "category": "Insurance",
+    "website": "https://safetywing.com/",
+    "careers_url": "https://safetywing.pinpointhq.com",
+    "remote_signal": "global_remote_signal",
+    "remote_note": "Historical research found a global, distributed or remote-friendly signal. Hiring countries and contract arrangements remain role-specific.",
+    "record_reviewed_at": "2026-10-28",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://safetywing.com/",
+      "https://safetywing.pinpointhq.com"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "sanity",
+    "name": "Sanity",
+    "description": "Sanity provides content infrastructure that helps organizations manage structured content and deliver it across websites, mobile applications, and AI experiences.",
+    "category": "Content management software",
+    "website": "https://www.sanity.io/",
+    "careers_url": "https://jobs.ashbyhq.com/sanity",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-28",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.sanity.io/",
+      "https://jobs.ashbyhq.com/sanity"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "scaleway",
+    "name": "Scaleway",
+    "description": "Scaleway provides European cloud infrastructure and AI services, including computing resources, GPU capacity, and tools for deploying applications.",
+    "category": "Cloud infrastructure",
+    "website": "https://www.scaleway.com/en/",
+    "careers_url": "https://jobs.lever.co/scaleway",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-30",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.scaleway.com/en/",
+      "https://jobs.lever.co/scaleway"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "secfix",
+    "name": "Secfix",
+    "description": "Secfix provides compliance automation software and audit support to help businesses manage security controls and prepare for information security certifications.",
+    "category": "Security compliance",
+    "website": "https://www.secfix.com/",
+    "careers_url": "https://jobs.ashbyhq.com/secfix",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-29",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.secfix.com/",
+      "https://jobs.ashbyhq.com/secfix"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "serpapi",
+    "name": "SerpApi",
+    "description": "SerpApi provides APIs that retrieve search engine results and handle proxies, captchas, and structured data extraction for developers.",
+    "category": "Developer tools",
+    "website": "https://serpapi.com/",
+    "careers_url": "https://serpapi.com/careers",
+    "remote_signal": "global_remote_signal",
+    "remote_note": "Historical research found a global, distributed or remote-friendly signal. Hiring countries and contract arrangements remain role-specific.",
+    "record_reviewed_at": "2026-09-08",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://serpapi.com/",
+      "https://serpapi.com/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "shakers",
+    "name": "Shakers",
+    "description": "Shakers connects technology teams with verified specialists in AI, data, and product development for project based work.",
+    "category": "Talent marketplace",
+    "website": "https://www.shakersworks.com/",
+    "careers_url": "https://careers.shakersworks.com/jobs",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-25",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.shakersworks.com/",
+      "https://careers.shakersworks.com/jobs"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "siemens-energy",
+    "name": "Siemens Energy",
+    "description": "Siemens Energy supplies technology and services that help companies and countries develop, maintain, and modernize their energy systems.",
+    "category": "Energy technology",
+    "website": "https://www.siemens-energy.com/global/en/home.html",
+    "careers_url": "https://jobs.siemens-energy.com/en_US/jobs/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-30",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.siemens-energy.com/global/en/home.html",
+      "https://jobs.siemens-energy.com/en_US/jobs/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "siena-ai",
+    "name": "Siena AI",
+    "description": "Siena AI develops AI customer service agents for commerce businesses, combining automated workflows with personalized support for shoppers.",
+    "category": "Customer service ai",
+    "website": "https://www.siena.cx/",
+    "careers_url": "https://jobs.ashbyhq.com/siena",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-23",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.siena.cx/",
+      "https://jobs.ashbyhq.com/siena"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "sierra",
+    "name": "Sierra",
+    "description": "Sierra provides a conversational AI platform that businesses use to build customer facing agents across messaging, voice, and other channels.",
+    "category": "Customer support software",
+    "website": "https://sierra.ai/",
+    "careers_url": "https://jobs.ashbyhq.com/Sierra",
+    "remote_signal": "needs_verification",
+    "remote_note": "Remote eligibility is not established by the available historical signal. Treat this entry as a research lead and verify the current official policy.",
+    "record_reviewed_at": "2026-10-13",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://sierra.ai/",
+      "https://jobs.ashbyhq.com/Sierra"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "signicat",
+    "name": "Signicat",
+    "description": "Signicat provides identity verification, authentication, electronic signing, and orchestration tools that help businesses manage secure and compliant customer interactions.",
+    "category": "Digital identity",
+    "website": "https://www.signicat.com/",
+    "careers_url": "https://signicat.teamtailor.com/jobs",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Historical evidence includes hybrid attendance, mixed arrangements or country restrictions. Do not assume this employer offers fully remote work from Spain.",
+    "record_reviewed_at": "2026-11-02",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.signicat.com/",
+      "https://signicat.teamtailor.com/jobs"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "slite",
+    "name": "Slite",
+    "description": "Slite provides an AI-powered knowledge base that helps teams maintain accurate documentation and share information with people and agents.",
+    "category": "Knowledge management software",
+    "website": "https://slite.com/",
+    "careers_url": "https://slite.com/jobs",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-02",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://slite.com/",
+      "https://slite.com/jobs"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "sngular",
+    "name": "Sngular",
+    "description": "Sngular provides technology consulting and development services specializing in software engineering, data systems, and artificial intelligence.",
+    "category": "Technology consulting",
+    "website": "https://www.sngular.com/",
+    "careers_url": "https://www.sngular.com/talent-and-culture/jobs",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-30",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.sngular.com/",
+      "https://www.sngular.com/talent-and-culture/jobs"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "sourcegraph",
+    "name": "Sourcegraph",
+    "description": "Sourcegraph develops code intelligence software that gives developers and AI agents searchable context across large and complex software codebases.",
+    "category": "Developer tools",
+    "website": "https://sourcegraph.com/",
+    "careers_url": "https://job-boards.greenhouse.io/sourcegraph91",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-25",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://sourcegraph.com/",
+      "https://job-boards.greenhouse.io/sourcegraph91"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "sovendus",
+    "name": "Sovendus",
+    "description": "Sovendus operates a brand partnership platform that connects retailers with shoppers to support customer acquisition and generate additional sales.",
+    "category": "Marketing technology",
+    "website": "https://web.sovendus.com/",
+    "careers_url": "https://web.sovendus.com/de/career/job-offers",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-11-02",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://web.sovendus.com/",
+      "https://web.sovendus.com/de/career/job-offers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "spotify",
+    "name": "Spotify",
+    "description": "Spotify operates a digital audio streaming service offering access to music, podcasts, and audiobooks through its applications and web player.",
+    "category": "Audio streaming",
+    "website": "https://open.spotify.com/",
+    "careers_url": "https://www.lifeatspotify.com/jobs",
+    "remote_signal": "needs_verification",
+    "remote_note": "Remote eligibility is not established by the available historical signal. Treat this entry as a research lead and verify the current official policy.",
+    "record_reviewed_at": "2026-10-21",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://open.spotify.com/",
+      "https://www.lifeatspotify.com/jobs"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "sticker-mule",
+    "name": "Sticker Mule",
+    "description": "Sticker Mule produces custom printed stickers, labels, packaging, and related products through an online ordering service.",
+    "category": "Custom printing",
+    "website": "https://www.stickermule.com/",
+    "careers_url": "https://jobs.ashbyhq.com/stickermule",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-11-02",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.stickermule.com/",
+      "https://jobs.ashbyhq.com/stickermule"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "storelink-comply",
+    "name": "Storelink / Comply",
+    "description": "Storelink develops Comply, a Shopify application that automates fiscal compliance by connecting merchant transactions with relevant tax authorities.",
+    "category": "Tax compliance software",
+    "website": "https://complyapp.io/",
+    "careers_url": "https://www.getmanfred.com/ofertas-empleo/8471/storelink-node-backend-developer-sept26",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-16",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://complyapp.io/",
+      "https://www.getmanfred.com/ofertas-empleo/8471/storelink-node-backend-developer-sept26"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "storyblok",
+    "name": "Storyblok",
+    "description": "Storyblok provides a headless content management system with a visual editor for teams creating and managing digital experiences.",
+    "category": "Content management software",
+    "website": "https://www.storyblok.com/",
+    "careers_url": "https://www.storyblok.com/jobs",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-30",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.storyblok.com/",
+      "https://www.storyblok.com/jobs"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "stripe",
+    "name": "Stripe",
+    "description": "Stripe provides financial infrastructure for businesses to accept payments, manage billing, and move money through online services.",
+    "category": "Financial infrastructure",
+    "website": "https://stripe.com/es",
+    "careers_url": "https://stripe.com/jobs/search",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-28",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://stripe.com/es",
+      "https://stripe.com/jobs/search"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "supabase",
+    "name": "Supabase",
+    "description": "Supabase provides a PostgreSQL-based application development platform combining databases, authentication, APIs, real-time features, functions, storage, and vector capabilities.",
+    "category": "Developer tools",
+    "website": "https://supabase.com/",
+    "careers_url": "https://jobs.ashbyhq.com/supabase",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-28",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://supabase.com/",
+      "https://jobs.ashbyhq.com/supabase"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "super-technologies",
+    "name": "Super Technologies",
+    "description": "Super Technologies develops technology for sports betting, gaming, and fan entertainment, operating consumer brands including Superbet across international markets.",
+    "category": "Gaming and entertainment technology",
+    "website": "https://www.super.xyz/",
+    "careers_url": "https://job-boards.eu.greenhouse.io/super",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-29",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.super.xyz/",
+      "https://globenewswire.com/news-release/2025/12/11/3203792/0/en/superbet-group-becomes-super-technologies-shaping-the-future-of-digital-entertainment-ecosystems.html",
+      "https://job-boards.eu.greenhouse.io/super"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "synthesia",
+    "name": "Synthesia",
+    "description": "Synthesia provides an AI video creation platform that businesses use for communication, training, and multilingual learning content.",
+    "category": "AI video software",
+    "website": "https://www.synthesia.io/",
+    "careers_url": "https://jobs.ashbyhq.com/synthesia",
+    "remote_signal": "europe_remote_signal",
+    "remote_note": "Historical research found a Europe/EMEA or compatible-timezone remote-work signal. This does not establish Spanish employment eligibility.",
+    "record_reviewed_at": "2026-09-29",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.synthesia.io/",
+      "https://jobs.ashbyhq.com/synthesia"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "t-systems-iberia",
+    "name": "T-Systems Iberia",
+    "description": "T-Systems Iberia provides integrated information technology services, including cloud solutions, enterprise applications, consulting, and digital infrastructure for organizations.",
+    "category": "IT services",
+    "website": "https://www.t-systems.com/es/es/",
+    "careers_url": "https://careers.smartrecruiters.com/T-SystemsIberia",
+    "remote_signal": "needs_verification",
+    "remote_note": "Remote eligibility is not established by the available historical signal. Treat this entry as a research lead and verify the current official policy.",
+    "record_reviewed_at": "2026-08-24",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://linkedin.com/company/tsystems-iberia",
+      "https://telekom.com/en/company/worldwide/profile/deutsche-telekom-in-spain-355798",
+      "https://www.t-systems.com/es/es/",
+      "https://careers.smartrecruiters.com/T-SystemsIberia"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "teamwire",
+    "name": "Teamwire",
+    "description": "Teamwire develops business messaging and collaboration software designed to support secure communication between employees across devices and organizational teams.",
+    "category": "Business communications",
+    "website": "https://teamwire.eu/",
+    "careers_url": "https://teamwire.eu/en/careers",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-15",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://teamwire.eu/",
+      "https://teamwire.eu/en/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "techsoulogy",
+    "name": "Techsoulogy",
+    "description": "Techsoulogy operates advertising technology brands offering publisher monetization, contextual targeting, video advertising, and audience acquisition services.",
+    "category": "Advertising technology",
+    "website": "https://www.techsoulogy.com/",
+    "careers_url": "https://www.techsoulogy.com/jobs",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Historical evidence includes hybrid attendance, mixed arrangements or country restrictions. Do not assume this employer offers fully remote work from Spain.",
+    "record_reviewed_at": "2026-07-23",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.techsoulogy.com/",
+      "https://www.techsoulogy.com/jobs"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "tempo",
+    "name": "Tempo",
+    "description": "Tempo develops portfolio management software that connects business strategy and work across tools including Jira, Azure DevOps, and Linear.",
+    "category": "Project management software",
+    "website": "https://www.tempo.io/",
+    "careers_url": "https://jobs.ashbyhq.com/tempo-io",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-07",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.tempo.io/",
+      "https://jobs.ashbyhq.com/tempo-io"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "tether",
+    "name": "Tether",
+    "description": "Tether develops digital asset infrastructure, including stablecoins, and supports technology projects aimed at decentralized financial and digital services.",
+    "category": "Digital assets",
+    "website": "https://tether.io/",
+    "careers_url": "https://careers.tether.io/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-13",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://tether.io/",
+      "https://careers.tether.io/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "tinybird",
+    "name": "Tinybird",
+    "description": "Tinybird provides managed ClickHouse infrastructure and developer tools for ingesting data, running analytical queries, and delivering real time data APIs.",
+    "category": "Data infrastructure",
+    "website": "https://www.tinybird.co/",
+    "careers_url": "https://www.tinybird.co/job-offers",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-14",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.tinybird.co/",
+      "https://www.tinybird.co/job-offers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "todoist",
+    "name": "Todoist",
+    "description": "Todoist develops task management software that helps individuals and teams organize their work, track responsibilities, and plan everyday activities.",
+    "category": "Productivity software",
+    "website": "https://www.todoist.com/",
+    "careers_url": "https://doist.com/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Historical evidence includes hybrid attendance, mixed arrangements or country restrictions. Do not assume this employer offers fully remote work from Spain.",
+    "record_reviewed_at": "2026-10-14",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.todoist.com/",
+      "https://doist.com/",
+      "https://doist.com/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "together",
+    "name": "Together",
+    "description": "Together provides brand, website, and digital product design services that help business technology companies explain and present their offerings.",
+    "category": "Design agency",
+    "website": "https://together.agency/",
+    "careers_url": "https://together.agency/careers/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-30",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://together.agency/",
+      "https://together.agency/careers/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "toggl",
+    "name": "Toggl",
+    "description": "Toggl develops time tracking, capacity planning, and project management software that helps teams monitor work and assess profitability.",
+    "category": "Work management software",
+    "website": "https://toggl.com/",
+    "careers_url": "https://jobs.ashbyhq.com/toggl/a4f3e1f5-753b-4af9-b068-86a09a164cd2",
+    "remote_signal": "global_remote_signal",
+    "remote_note": "Historical research found a global, distributed or remote-friendly signal. Hiring countries and contract arrangements remain role-specific.",
+    "record_reviewed_at": "2026-10-15",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://toggl.com/",
+      "https://jobs.ashbyhq.com/toggl/a4f3e1f5-753b-4af9-b068-86a09a164cd2"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "toptal",
+    "name": "Toptal",
+    "description": "Toptal operates a talent network connecting businesses with freelance specialists in software development, design, marketing, management consulting, and project delivery.",
+    "category": "Talent marketplace",
+    "website": "https://www.toptal.com/",
+    "careers_url": "https://www.toptal.com/careers",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-14",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://toptal.com",
+      "https://www.toptal.com/",
+      "https://www.toptal.com/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "treatwell",
+    "name": "Treatwell",
+    "description": "Treatwell operates an online beauty booking marketplace that helps customers discover salons and arrange hair, beauty, and wellness appointments.",
+    "category": "Beauty and wellness technology",
+    "website": "https://treatwell.com/",
+    "careers_url": "https://jobs.treatwell.com/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Historical evidence includes hybrid attendance, mixed arrangements or country restrictions. Do not assume this employer offers fully remote work from Spain.",
+    "record_reviewed_at": "2026-10-09",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://treatwell.com/",
+      "https://www.treatwell.co.uk/",
+      "https://jobs.treatwell.com/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "trigger-dev",
+    "name": "Trigger.dev",
+    "description": "Trigger.dev develops an open source platform for durable TypeScript tasks, AI agents, and workflows with queues, retries, and execution observability.",
+    "category": "Developer infrastructure",
+    "website": "https://trigger.dev/",
+    "careers_url": "https://jobs.ashbyhq.com/triggerdev",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Historical evidence includes hybrid attendance, mixed arrangements or country restrictions. Do not assume this employer offers fully remote work from Spain.",
+    "record_reviewed_at": "2026-10-28",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://trigger.dev/",
+      "https://jobs.ashbyhq.com/triggerdev"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "triple",
+    "name": "Triple",
+    "description": "Triple develops transaction enrichment APIs and AI agents that help banks and fintech companies improve payment data and automate dispute management.",
+    "category": "Financial software",
+    "website": "https://www.jointriple.com/",
+    "careers_url": "https://www.linkedin.com/jobs/view/4469433508/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-25",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.jointriple.com/",
+      "https://linkedin.com/jobs/view/4469433508",
+      "https://www.linkedin.com/jobs/view/4469433508/"
+    ],
+    "verification_note": "The careers link is a historical role listing; no general careers page was independently verified. Careers link returned HTTP 429 during the 2026-11-02 automated link check; availability could not be verified. This does not establish that the employer has no vacancies."
+  },
+  {
+    "id": "tucuvi",
+    "name": "Tucuvi",
+    "description": "Tucuvi provides an AI care management platform that automates patient follow-up and care workflows according to healthcare organizations' clinical protocols.",
+    "category": "Healthcare ai",
+    "website": "https://www.tucuvi.com/",
+    "careers_url": "https://tucuvipeople.factorialhr.com/job_posting/director-of-product-319561",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-16",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.tucuvi.com/",
+      "https://tucuvipeople.factorialhr.com/job_posting/director-of-product-319561"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "twilio",
+    "name": "Twilio",
+    "description": "Twilio provides communications APIs for messaging, voice, and email, alongside conversational AI and identity verification tools for businesses.",
+    "category": "Communications infrastructure",
+    "website": "https://www.twilio.com/en-us",
+    "careers_url": "https://www.twilio.com/en-us/company/jobs",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-14",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.twilio.com/en-us",
+      "https://www.twilio.com/en-us/company/jobs"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "typeform",
+    "name": "Typeform",
+    "description": "Typeform provides online form-building software with AI and automation features for collecting information, qualifying leads, and triggering business workflows.",
+    "category": "Form software",
+    "website": "https://www.typeform.com/",
+    "careers_url": "https://job-boards.greenhouse.io/typeform",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-23",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.typeform.com/",
+      "https://job-boards.greenhouse.io/typeform"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "upscrolled",
+    "name": "UpScrolled",
+    "description": "UpScrolled operates a social media platform focused on sharing content and connecting people through public conversations and community interaction.",
+    "category": "Social media",
+    "website": "https://upscrolled.com/",
+    "careers_url": "https://upscrolled.bamboohr.com/careers",
+    "remote_signal": "needs_verification",
+    "remote_note": "Remote eligibility is not established by the available historical signal. Treat this entry as a research lead and verify the current official policy.",
+    "record_reviewed_at": "2026-10-28",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://upscrolled.com/",
+      "https://upscrolled.bamboohr.com/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "valsea-technologies",
+    "name": "Valsea Technologies",
+    "description": "Valsea Technologies provides technology consulting and software development services, building digital products and supporting engineering teams for international clients.",
+    "category": "Software development services",
+    "website": "https://valsea.com/",
+    "careers_url": "https://valsea.teamtailor.com/jobs",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Historical evidence includes hybrid attendance, mixed arrangements or country restrictions. Do not assume this employer offers fully remote work from Spain.",
+    "record_reviewed_at": "2026-11-02",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://valsea.com/",
+      "https://valsea.teamtailor.com/jobs"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "veeva-systems",
+    "name": "Veeva Systems",
+    "description": "Veeva Systems provides cloud applications, data, AI agents, and consulting services for pharmaceutical, biotechnology, and other life sciences companies.",
+    "category": "Life sciences software",
+    "website": "https://www.veeva.com/",
+    "careers_url": "https://careers.veeva.com/job-search-results/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-29",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.veeva.com/",
+      "https://careers.veeva.com/job-search-results/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "vercel",
+    "name": "Vercel",
+    "description": "Vercel provides cloud infrastructure and development tools for deploying, hosting, and operating web applications, AI applications, and autonomous agents.",
+    "category": "Cloud development platform",
+    "website": "https://vercel.com/",
+    "careers_url": "https://vercel.com/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Historical evidence includes hybrid attendance, mixed arrangements or country restrictions. Do not assume this employer offers fully remote work from Spain.",
+    "record_reviewed_at": "2026-10-21",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://vercel.com/",
+      "https://vercel.com/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "vistaprint",
+    "name": "VistaPrint",
+    "description": "VistaPrint provides online design and printing services for business cards, marketing materials, signage, packaging, gifts, and promotional products.",
+    "category": "Custom printing",
+    "website": "https://www.vistaprint.com/",
+    "careers_url": "https://jobs.vista.com/Vista/go/Vista-All/8835100/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-08-17",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.vistaprint.com/",
+      "https://jobs.vista.com/Vista/go/Vista-All/8835100/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "vodafone-ai-and-sovereign-cloud",
+    "name": "Vodafone AI and Sovereign Cloud",
+    "description": "Vodafone provides enterprise connectivity, cloud, cybersecurity, and AI-related services, including sovereign cloud initiatives for businesses and public sector organizations.",
+    "category": "Cloud services",
+    "website": "https://www.vodafone.com/",
+    "careers_url": "https://jobs.vodafone.com/careers",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-19",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.vodafone.com/",
+      "https://vodafone.co.uk/newscentre/business/vodafone-business-cosine-coalition-sovereign-frontier-ai-model",
+      "https://telecomtv.com/content/digital-platforms-services/what-s-up-with-vodafone-aws-corning-nvidia-vendor-swap-out-costs-55433",
+      "https://jobs.vodafone.com/careers"
+    ],
+    "verification_note": "Vodafone is verified; this label was not established as a separate legal company."
+  },
+  {
+    "id": "voicemod",
+    "name": "Voicemod",
+    "description": "Voicemod develops real-time voice changing and soundboard software that lets users modify their voices and add sounds during online interactions.",
+    "category": "Audio software",
+    "website": "https://www.voicemod.net/",
+    "careers_url": "https://jobs.ashbyhq.com/voicemod",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-25",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.voicemod.net/",
+      "https://jobs.ashbyhq.com/voicemod"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "voize",
+    "name": "voize",
+    "description": "voize develops speech based documentation software that converts nurses' spoken observations into structured records integrated with electronic health systems.",
+    "category": "Healthcare software",
+    "website": "https://www.voize.ai/us",
+    "careers_url": "https://jobs.ashbyhq.com/voize",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Historical evidence includes hybrid attendance, mixed arrangements or country restrictions. Do not assume this employer offers fully remote work from Spain.",
+    "record_reviewed_at": "2026-10-07",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.voize.ai/us",
+      "https://jobs.ashbyhq.com/voize"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "vonage",
+    "name": "Vonage",
+    "description": "Vonage provides business communications software, contact center solutions, and APIs for integrating voice, messaging, video, and data into applications.",
+    "category": "Communications software",
+    "website": "https://www.vonage.com.es/",
+    "careers_url": "https://job-boards.greenhouse.io/vonage",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-31",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.vonage.com.es/",
+      "https://job-boards.greenhouse.io/vonage"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "walletconnect",
+    "name": "WalletConnect",
+    "description": "WalletConnect provides infrastructure connecting cryptocurrency wallets and applications, with tools supporting crypto and stablecoin services for businesses and institutions.",
+    "category": "Cryptocurrency infrastructure",
+    "website": "https://walletconnect.com/",
+    "careers_url": "https://walletconnect.com/careers",
+    "remote_signal": "global_remote_signal",
+    "remote_note": "Historical research found a global, distributed or remote-friendly signal. Hiring countries and contract arrangements remain role-specific.",
+    "record_reviewed_at": "2026-10-06",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://walletconnect.com/",
+      "https://walletconnect.com/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "wave-mobile-money",
+    "name": "Wave Mobile Money",
+    "description": "Wave Mobile Money provides digital wallets for money transfers, cash deposits and withdrawals, bill payments, and mobile airtime purchases.",
+    "category": "Mobile financial services",
+    "website": "https://www.wave.com/en/",
+    "careers_url": "https://www.wave.com/en/careers/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-22",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.wave.com/en/",
+      "https://www.wave.com/en/careers/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "whereto",
+    "name": "Whereto",
+    "description": "Whereto develops corporate travel technology within Flight Centre Travel Group, building software and design solutions for business travel customers.",
+    "category": "Travel technology",
+    "website": "https://www.whereto.com/",
+    "careers_url": "https://www.whereto.com/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-02",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.whereto.com/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "wikiloc",
+    "name": "Wikiloc",
+    "description": "Wikiloc provides an outdoor trail discovery and navigation platform where users share GPS tracks and plan hiking, cycling, and other activities.",
+    "category": "Outdoor recreation technology",
+    "website": "https://www.wikiloc.com/",
+    "careers_url": "https://www.wikiloc.com/jobs",
+    "remote_signal": "needs_verification",
+    "remote_note": "Remote eligibility is not established by the available historical signal. Treat this entry as a research lead and verify the current official policy.",
+    "record_reviewed_at": "2026-10-30",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.wikiloc.com/",
+      "https://www.wikiloc.com/jobs"
+    ],
+    "verification_note": "Direct HTTP retrieval was blocked; the official homepage was successfully read through an alternate public extraction service. Careers link returned HTTP 403 during the 2026-11-02 automated link check; availability could not be verified. This does not establish that the employer has no vacancies."
+  },
+  {
+    "id": "wikimedia-foundation",
+    "name": "Wikimedia Foundation",
+    "description": "The Wikimedia Foundation operates Wikipedia and other free knowledge projects, maintaining technical infrastructure and supporting the communities that create their content.",
+    "category": "Nonprofit knowledge infrastructure",
+    "website": "https://wikimediafoundation.org/",
+    "careers_url": "https://wikimediafoundation.org/jobs/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-09-18",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://wikimediafoundation.org/",
+      "https://wikimediafoundation.org/jobs/"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "workato",
+    "name": "Workato",
+    "description": "Workato provides an enterprise platform that integrates applications and data while orchestrating workflows, AI agents, and automated business processes.",
+    "category": "Business automation",
+    "website": "https://www.workato.com/",
+    "careers_url": "https://www.workato.com/careers",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-13",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.workato.com/",
+      "https://www.workato.com/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "wunderkind",
+    "name": "Wunderkind",
+    "description": "Wunderkind provides identity resolution and AI-driven marketing software that helps businesses personalize customer engagement and convert anonymous website traffic.",
+    "category": "Marketing software",
+    "website": "https://www.wunderkind.co/",
+    "careers_url": "https://www.wunderkind.co/careers",
+    "remote_signal": "needs_verification",
+    "remote_note": "Remote eligibility is not established by the available historical signal. Treat this entry as a research lead and verify the current official policy.",
+    "record_reviewed_at": "2026-10-28",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.wunderkind.co/",
+      "https://www.wunderkind.co/careers"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "yazio",
+    "name": "Yazio",
+    "description": "Yazio develops a nutrition and fitness app with calorie tracking, meal recipes, activity integration, and intermittent fasting tools.",
+    "category": "Consumer health software",
+    "website": "https://www.yazio.com/en",
+    "careers_url": "https://jobs.ashbyhq.com/yazio",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-28",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://www.yazio.com/en",
+      "https://jobs.ashbyhq.com/yazio"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "yougov",
+    "name": "YouGov",
+    "description": "YouGov provides market research and data analytics services that help organizations understand consumers and make decisions using audience insights.",
+    "category": "Market research",
+    "website": "https://yougov.com/",
+    "careers_url": "https://jobs.yougov.com/jobs",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-07-15",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://yougov.com/",
+      "https://jobs.yougov.com/jobs"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "yuno",
+    "name": "Yuno",
+    "description": "Yuno provides payment orchestration infrastructure that connects merchants and financial institutions to payment providers, fraud tools, and financial services.",
+    "category": "Payments technology",
+    "website": "https://y.uno/en",
+    "careers_url": "https://jobs.lever.co/yuno",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-13",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://y.uno/en",
+      "https://jobs.lever.co/yuno"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "zapier",
+    "name": "Zapier",
+    "description": "Zapier provides software connecting business applications into automated workflows and AI agents without requiring users to build custom integrations.",
+    "category": "Workflow automation",
+    "website": "https://zapier.com/",
+    "careers_url": "https://zapier.com/jobs",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
+    "record_reviewed_at": "2026-10-27",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://zapier.com/",
+      "https://zapier.com/jobs"
+    ],
+    "verification_note": ""
+  },
+  {
+    "id": "zed",
+    "name": "Zed",
+    "description": "Zed develops a code editor designed for high performance and multiplayer collaboration, created by developers behind Atom and Tree-sitter.",
+    "category": "Developer tools",
+    "website": "https://zed.dev/",
+    "careers_url": "https://zed.dev/jobs",
+    "remote_signal": "needs_verification",
+    "remote_note": "Remote eligibility is not established by the available historical signal. Treat this entry as a research lead and verify the current official policy.",
+    "record_reviewed_at": "2026-07-20",
+    "public_sources_checked_at": "2026-11-02",
+    "sources": [
+      "https://zed.dev/",
+      "https://zed.dev/jobs"
+    ],
+    "verification_note": ""
+  }
+]

@@ -1,0 +1,22 @@
+# Kustomer
+
+Kustomer provides customer service software combining CRM data, omnichannel conversations, AI automation, and support workflow management.
+
+- **Category:** Customer support software
+- **Website:** [Website](https://www.kustomer.com/)
+- **Jobs / careers:** [Careers](https://jobs.ashbyhq.com/Kustomer)
+- **Historical remote signal:** Needs verification
+
+Remote eligibility is not established by the available historical signal. Treat this entry as a research lead and verify the current official policy.
+
+- **Historical record reviewed:** 2026-10-30
+- **Public-source research date:** 2026-11-02
+
+## Sources
+
+- https://www.kustomer.com/
+- https://jobs.ashbyhq.com/Kustomer
+
+Country eligibility, current openings and attendance requirements must be checked for the individual role.
+
+[Back to directory](../README.md)

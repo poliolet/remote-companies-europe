@@ -164,6 +164,7 @@
 - [PandaDoc](pandadoc.md) — Document software
 - [Parloa](parloa.md) — Customer support software
 - [PcComponentes](pccomponentes.md) — Electronics retail
+- [Pennylane](pennylane.md) — Accounting software
 - [Phantom](phantom.md) — Cryptocurrency software
 - [Phrase](phrase.md) — Localization software
 - [Pitchup](pitchup.md) — Travel marketplace

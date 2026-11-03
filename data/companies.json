@@ -2771,6 +2771,24 @@
     "verification_note": ""
   },
   {
+    "id": "pennylane",
+    "name": "Pennylane",
+    "description": "Pennylane develops financial management and accounting software that helps businesses and accountants collaborate on invoicing, expenses, cash flow and bookkeeping.",
+    "category": "Accounting software",
+    "website": "https://www.pennylane.com/",
+    "careers_url": "https://jobs.ashbyhq.com/pennylane",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "The official job board lists remote roles with Spain among their eligible locations. Other roles are hybrid or country-specific; confirm location, office attendance and employment terms for each vacancy.",
+    "record_reviewed_at": "2026-11-03",
+    "public_sources_checked_at": "2026-11-03",
+    "sources": [
+      "https://www.pennylane.com/fr",
+      "https://jobs.ashbyhq.com/pennylane",
+      "https://api.ashbyhq.com/posting-api/job-board/pennylane"
+    ],
+    "verification_note": "Spain remote eligibility is supported at role level, not guaranteed for every position. Job-board metadata and individual descriptions may differ; verify the exact vacancy before applying."
+  },
+  {
     "id": "phantom",
     "name": "Phantom",
     "description": "Phantom develops a self-custodial cryptocurrency wallet that lets users manage digital assets and access trading services across multiple blockchains.",

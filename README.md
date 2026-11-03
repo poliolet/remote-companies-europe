@@ -1,6 +1,6 @@
 # Remote companies — Europe & Spain
 
-A public, source-linked directory of **239 companies** for people researching remote-friendly work in Europe, with particular attention to Spain.
+A public, source-linked directory of **240 companies** for people researching remote-friendly work in Europe, with particular attention to Spain.
 
 **This is a research directory, not a guarantee of current vacancies or eligibility.** Some entries have only historical signals, mixed hybrid policies or country restrictions. Always read the actual vacancy and confirm employment country, office attendance, timezone and contract terms. “Remote” does not mean “work from any country”.
 
@@ -17,7 +17,7 @@ A public, source-linked directory of **239 companies** for people researching re
 *These labels summarize historical research signals, not freshly verified company-wide policies.*
 
 - **Spain remote signal:** 167
-- **Europe / EMEA remote signal:** 12
+- **Europe / EMEA remote signal:** 13
 - **Global / distributed signal:** 11
 - **Hybrid or country-restricted evidence:** 25
 - **Needs verification:** 24
@@ -101,6 +101,7 @@ A public, source-linked directory of **239 companies** for people researching re
 | [eduki](companies/eduki.md) | eduki operates an online marketplace where educators share, sell, and obtain teaching resources for classroom use. | Spain remote signal | [Website](https://eduki.com/) · [Careers](https://job-boards.eu.greenhouse.io/eduki) |
 | [Elastic](companies/elastic.md) | Elastic develops Elasticsearch and related software for searching data, monitoring technology systems, detecting security threats, and building AI applications. | Spain remote signal | [Website](https://www.elastic.co/) · [Careers](https://www.elastic.co/about/careers/) |
 | [ElevenLabs](companies/elevenlabs.md) | ElevenLabs develops artificial intelligence tools for generating speech and building voice agents, with APIs for integrating audio capabilities. | Spain remote signal | [Website](https://elevenlabs.io/) · [Careers](https://elevenlabs.io/careers/positions) |
+| [Enode](companies/enode.md) | Enode builds APIs and orchestration software that connect electric vehicles, chargers, batteries, solar and other home-energy devices with energy companies and the grid. | Europe / EMEA remote signal | [Website](https://enode.com/) · [Careers](https://enode.com/careers) |
 | [Epassi](companies/epassi.md) | Epassi provides employee benefits technology that helps employers deliver wellbeing related benefits through a digital platform. | Spain remote signal | [Website](https://www.epassi.com/) · [Careers](https://epassi.com/careers) |
 | [Etereo](companies/etereo.md) | Etereo provides software engineering, product design, and digital transformation services for businesses across telecommunications, finance, retail, and other industries. | Spain remote signal | [Website](https://etereo.io/en) · [Careers](https://careers.etereo.io/) |
 | [Eventbrite](companies/eventbrite.md) | Eventbrite operates an event discovery and ticketing platform where people find experiences and purchase tickets to live events. | Spain remote signal | [Website](https://www.eventbrite.com) · [Careers](https://www.eventbritecareers.com/jobs/search) |

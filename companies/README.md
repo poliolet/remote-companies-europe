@@ -77,6 +77,7 @@
 - [eduki](eduki.md) — Education marketplace
 - [Elastic](elastic.md) — Search and analytics
 - [ElevenLabs](elevenlabs.md) — Audio ai
+- [Enode](enode.md) — Climate tech / energy infrastructure
 - [Epassi](epassi.md) — Employee benefits technology
 - [Etereo](etereo.md) — Software consulting
 - [Eventbrite](eventbrite.md) — Events technology

@@ -1284,6 +1284,24 @@
     "verification_note": ""
   },
   {
+    "id": "enode",
+    "name": "Enode",
+    "description": "Enode builds APIs and orchestration software that connect electric vehicles, chargers, batteries, solar and other home-energy devices with energy companies and the grid.",
+    "category": "Climate tech / energy infrastructure",
+    "website": "https://enode.com/",
+    "careers_url": "https://enode.com/careers",
+    "remote_signal": "europe_remote_signal",
+    "remote_note": "Official careers information describes remote-first work across Europe. A current Engineering Manager application requests availability within CET plus or minus three hours; roles can include company off-sites.",
+    "record_reviewed_at": "2026-11-03",
+    "public_sources_checked_at": "2026-11-03",
+    "sources": [
+      "https://enode.com/company",
+      "https://enode.com/careers",
+      "https://jobs.ashbyhq.com/enode/28b9f399-4204-4d13-824a-44cac9f0cd4a"
+    ],
+    "verification_note": "European remote and timezone signals do not establish employment eligibility in every country. Confirm the legal hiring arrangement, compensation and travel requirements for the individual vacancy."
+  },
+  {
     "id": "epassi",
     "name": "Epassi",
     "description": "Epassi provides employee benefits technology that helps employers deliver wellbeing related benefits through a digital platform.",

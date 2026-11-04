@@ -2,6 +2,7 @@
 
 [Back to directory](../README.md)
 
+- [1Password](1password.md) — Cybersecurity
 - [Action1](action1.md) — Cybersecurity
 - [Affirm](affirm.md) — Financial technology
 - [Airalo](airalo.md) — Telecommunications
@@ -46,6 +47,7 @@
 - [Checkly](checkly.md) — Developer tools
 - [Chess.com](chess-com.md) — Gaming and education
 - [Circle](circle.md) — Community software
+- [Citibox](citibox.md) — Logistics technology
 - [Civo](civo.md) — Cloud infrastructure
 - [Clarity AI](clarity-ai.md) — Financial data and analytics
 - [Cloudflare](cloudflare.md) — Cloud infrastructure
@@ -69,6 +71,7 @@
 - [Docker](docker.md) — Developer tools
 - [DocPlanner](docplanner.md) — Healthcare technology
 - [DoiT](doit.md) — Cloud management
+- [Dropbox](dropbox.md) — Cloud collaboration software
 - [DualEntry](dualentry.md) — Accounting software
 - [DuckDuckGo](duckduckgo.md) — Internet privacy
 - [Easor](easor.md) — Accounting software

@@ -1,6 +1,6 @@
 # Remote companies — Europe & Spain
 
-A public, source-linked directory of **240 companies** for people researching remote-friendly work in Europe, with particular attention to Spain.
+A public, source-linked directory of **243 companies** for people researching remote-friendly work in Europe, with particular attention to Spain.
 
 **This is a research directory, not a guarantee of current vacancies or eligibility.** Some entries have only historical signals, mixed hybrid policies or country restrictions. Always read the actual vacancy and confirm employment country, office attendance, timezone and contract terms. “Remote” does not mean “work from any country”.
 
@@ -16,16 +16,17 @@ A public, source-linked directory of **240 companies** for people researching re
 
 *These labels summarize historical research signals, not freshly verified company-wide policies.*
 
-- **Spain remote signal:** 167
+- **Spain remote signal:** 168
 - **Europe / EMEA remote signal:** 13
 - **Global / distributed signal:** 11
-- **Hybrid or country-restricted evidence:** 25
+- **Hybrid or country-restricted evidence:** 27
 - **Needs verification:** 24
 
 ## Company directory
 
 | Company | What it does | Remote signal | Links |
 | --- | --- | --- | --- |
+| [1Password](companies/1password.md) | 1Password develops password management, secrets management and access security software for individuals and businesses. | Hybrid or country-restricted evidence | [Website](https://1password.com/) · [Careers](https://jobs.ashbyhq.com/1password) |
 | [Action1](companies/action1.md) | Action1 develops cloud software that identifies missing endpoint updates and automates patch deployment across operating systems and third-party applications. | Spain remote signal | [Website](https://action1.com/) · [Careers](https://action1.com/careers) |
 | [Affirm](companies/affirm.md) | Affirm provides consumer financing that lets shoppers split purchases into installments through participating merchants and its payment platform. | Spain remote signal | [Website](https://www.affirm.com/) · [Careers](https://job-boards.greenhouse.io/affirm) |
 | [Airalo](companies/airalo.md) | Airalo sells digital eSIM plans that let travelers obtain mobile data connectivity across countries and regions. | Spain remote signal | [Website](https://www.airalo.com/) · [Careers](https://jobs.lever.co/airalo) |
@@ -70,6 +71,7 @@ A public, source-linked directory of **240 companies** for people researching re
 | [Checkly](companies/checkly.md) | Checkly develops application monitoring software that helps developers and AI agents assess service reliability and detect application failures. | Spain remote signal | [Website](https://www.checklyhq.com/) · [Careers](https://jobs.ashbyhq.com/checkly) |
 | [Chess.com](companies/chess-com.md) | Chess.com operates an online chess platform where people play games, practice skills, and learn about chess. | Spain remote signal | [Website](https://www.chess.com/) · [Careers](https://www.chess.com/jobs) |
 | [Circle](companies/circle.md) | Circle provides software for businesses and creators to operate branded online communities, courses, and events in one platform. | Spain remote signal | [Website](https://circle.so/) · [Careers](https://circle.so/careers) |
+| [Citibox](companies/citibox.md) | Citibox operates residential smart parcel mailboxes and an app that helps residents receive and return online purchases without waiting for a courier. | Spain remote signal | [Website](https://citibox.com/) · [Careers](https://citibox.com/en/job-offers) |
 | [Civo](companies/civo.md) | Civo provides cloud infrastructure and artificial intelligence platforms for organizations running public cloud, private cloud, and AI workloads. | Spain remote signal | [Website](https://www.civo.com) · [Careers](https://careers.civo.com/jobs) |
 | [Clarity AI](companies/clarity-ai.md) | Clarity AI provides data and analytical software for assessing sustainability, risk, impact, and other extra financial factors in business decisions. | Spain remote signal | [Website](https://clarity.ai/) · [Careers](https://apply.workable.com/clarity-ai/) |
 | [Cloudflare](companies/cloudflare.md) | Cloudflare provides a global network for application delivery, cybersecurity, connectivity, and developer computing services for websites and businesses. | Spain remote signal | [Website](https://www.cloudflare.com/) · [Careers](https://www.cloudflare.com/careers/jobs/) |
@@ -93,6 +95,7 @@ A public, source-linked directory of **240 companies** for people researching re
 | [Docker](companies/docker.md) | Docker provides software for building, sharing, and running containerized applications, alongside sandboxing and governance tools for AI agents. | Spain remote signal | [Website](https://www.docker.com/) · [Careers](https://jobs.ashbyhq.com/docker) |
 | [DocPlanner](companies/docplanner.md) | DocPlanner connects patients with healthcare professionals through appointment booking platforms and provides software that helps doctors manage their practices. | Spain remote signal | [Website](https://www.docplanner.com/) · [Careers](https://jobs.ashbyhq.com/docplanner) |
 | [DoiT](companies/doit.md) | DoiT develops cloud intelligence and financial operations software that allocates infrastructure spending across customers, teams, and product features. | Spain remote signal | [Website](https://www.doit.com/) · [Careers](https://careers.doit.com/jobs) |
+| [Dropbox](companies/dropbox.md) | Dropbox provides cloud file storage, synchronization, sharing and collaboration tools, including electronic signatures and AI-powered content discovery. | Hybrid or country-restricted evidence | [Website](https://www.dropbox.com/) · [Careers](https://www.dropbox.jobs/en/jobs/) |
 | [DualEntry](companies/dualentry.md) | DualEntry develops AI-powered enterprise resource planning software that automates financial tasks and supports growing businesses handling increasing transaction volumes. | Spain remote signal | [Website](https://www.dualentry.com/) · [Careers](https://www.dualentry.com/careers) |
 | [DuckDuckGo](companies/duckduckgo.md) | DuckDuckGo develops privacy-focused internet products, including a search engine and browser tools that help people protect their online activity. | Spain remote signal | [Website](https://duckduckgo.com/) · [Careers](https://duckduckgo.com/hiring) |
 | [Easor](companies/easor.md) | Easor provides accounting software that automates bookkeeping, invoicing, tax handling, and financial reporting for businesses. | Spain remote signal | [Website](https://easor.com/) · [Careers](https://careers.easor.com/jobs) |

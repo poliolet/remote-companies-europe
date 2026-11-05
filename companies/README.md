@@ -53,6 +53,7 @@
 - [Cloudflare](cloudflare.md) — Cloud infrastructure
 - [CloudTalk](cloudtalk.md) — Business communications
 - [Codekeeper](codekeeper.md) — Software continuity
+- [Cohere](cohere.md) — Enterprise AI
 - [commercetools](commercetools.md) — Commerce software
 - [Confluent](confluent.md) — Data infrastructure
 - [Consensys](consensys.md) — Blockchain software
@@ -100,6 +101,7 @@
 - [Ghost](ghost.md) — Publishing software
 - [GitBook](gitbook.md) — Documentation software
 - [GitHub](github.md) — Developer tools
+- [GitLab](gitlab.md) — Developer tools
 - [Gr4vy](gr4vy.md) — Payments technology
 - [Grafana](grafana.md) — Observability
 - [haddock](haddock.md) — Restaurant software
@@ -137,6 +139,7 @@
 - [LORIOT](loriot.md) — Internet of things
 - [Ludus](ludus.md) — Virtual reality training
 - [MailerLite](mailerlite.md) — Marketing software
+- [Maisa](maisa.md) — Enterprise AI
 - [Mango](mango.md) — Fashion retail
 - [Maze](maze.md) — User research software
 - [Mentimeter](mentimeter.md) — Presentation software
@@ -175,6 +178,7 @@
 - [Phantom](phantom.md) — Cryptocurrency software
 - [Phrase](phrase.md) — Localization software
 - [Pitchup](pitchup.md) — Travel marketplace
+- [Plain Concepts](plain-concepts.md) — Data and ai consulting
 - [Pleo](pleo.md) — Financial software
 - [Poolside AI](poolside-ai.md) — AI models and developer tools
 - [PostHog](posthog.md) — Product analytics
@@ -193,6 +197,7 @@
 - [Sanity](sanity.md) — Content management software
 - [Scaleway](scaleway.md) — Cloud infrastructure
 - [Secfix](secfix.md) — Security compliance
+- [Seedtag](seedtag.md) — Advertising technology
 - [SerpApi](serpapi.md) — Developer tools
 - [Shakers](shakers.md) — Talent marketplace
 - [Siemens Energy](siemens-energy.md) — Energy technology
@@ -210,6 +215,7 @@
 - [Stripe](stripe.md) — Financial infrastructure
 - [Supabase](supabase.md) — Developer tools
 - [Super Technologies](super-technologies.md) — Gaming and entertainment technology
+- [Sword Health](sword-health.md) — Digital health
 - [Synthesia](synthesia.md) — AI video software
 - [T-Systems Iberia](t-systems-iberia.md) — IT services
 - [Teamwire](teamwire.md) — Business communications

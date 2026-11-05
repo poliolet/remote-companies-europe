@@ -4222,5 +4222,120 @@
       "https://jobs.ashbyhq.com/oyster/83b10c34-8c44-4c58-89d4-5e99be716c76"
     ],
     "verification_note": "Employees must be authorized to work where they live. Country eligibility and timezone constraints are role-specific; Oyster's customer-facing employment coverage is not proof that its own team hires in every supported country. A talent-community signup is not a confirmed vacancy."
+  },
+  {
+    "id": "cohere",
+    "name": "Cohere",
+    "description": "Cohere develops large language models and an enterprise AI platform for search, retrieval and AI agents.",
+    "category": "Enterprise AI",
+    "website": "https://cohere.com/",
+    "careers_url": "https://jobs.ashbyhq.com/cohere",
+    "remote_signal": "europe_remote_signal",
+    "remote_note": "Official postings checked on 5 November 2026 include remote roles whose locations list Europe alongside cities such as London, Toronto or New York, for example Member of Technical Staff, Agentic Environments and Software Engineer, Integrations. Some European roles are tied to UK public-sector work.",
+    "record_reviewed_at": "2026-11-05",
+    "public_sources_checked_at": "2026-11-05",
+    "sources": [
+      "https://cohere.com/",
+      "https://jobs.ashbyhq.com/cohere",
+      "https://jobs.ashbyhq.com/cohere/8878b0d0-7d88-4ee9-bc17-b0dd237e39a0",
+      "https://jobs.ashbyhq.com/cohere/96c74af4-b3d7-4960-a666-212ce4debac8"
+    ],
+    "verification_note": "A location of Europe does not confirm that Spain is an eligible country. Check the employing entity, country list and any security-clearance requirement for each role."
+  },
+  {
+    "id": "gitlab",
+    "name": "GitLab",
+    "description": "GitLab develops a DevSecOps platform covering source control, CI/CD, security scanning and AI-assisted software development.",
+    "category": "Developer tools",
+    "website": "https://about.gitlab.com/",
+    "careers_url": "https://job-boards.greenhouse.io/gitlab",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Official postings checked on 5 November 2026 include roles listed as Remote, Spain, such as Business Development Representative, Spanish Speaking, and roles open to several EMEA countries including Spain. Engineering roles seen on the same date listed other countries (for example the United Kingdom or Poland).",
+    "record_reviewed_at": "2026-11-05",
+    "public_sources_checked_at": "2026-11-05",
+    "sources": [
+      "https://about.gitlab.com/",
+      "https://job-boards.greenhouse.io/gitlab",
+      "https://job-boards.greenhouse.io/gitlab/jobs/8882367002",
+      "https://job-boards.greenhouse.io/gitlab/jobs/8872259002"
+    ],
+    "verification_note": "Eligible countries are set role by role; a Spain-listed sales role does not mean every engineering role accepts Spain."
+  },
+  {
+    "id": "maisa",
+    "name": "Maisa",
+    "description": "Maisa builds an enterprise platform that automates complex, decision-heavy business processes with auditable AI agents. Its postings list Manises (Valencia), Madrid and Barcelona as locations.",
+    "category": "Enterprise AI",
+    "website": "https://maisa.ai/",
+    "careers_url": "https://careers.kula.ai/maisa",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Official postings checked on 5 November 2026 include a Forward Deployed Engineer role listed as remote from Madrid, Spain; an AI Automation Consultant role listed for Manises (Valencia), Madrid and Barcelona with remote work; and an Applied AI Engineer role listed as remote in Europe.",
+    "record_reviewed_at": "2026-11-05",
+    "public_sources_checked_at": "2026-11-05",
+    "sources": [
+      "https://maisa.ai/",
+      "https://careers.kula.ai/maisa",
+      "https://careers.kula.ai/maisa/25207-forward-deployed-engineer",
+      "https://careers.kula.ai/maisa/28740-ai-automation-consultant",
+      "https://careers.kula.ai/maisa/19940-applied-ai-engineer"
+    ],
+    "verification_note": "Workplace labels differ between postings; check the workplace type and country of each role."
+  },
+  {
+    "id": "plain-concepts",
+    "name": "Plain Concepts",
+    "description": "Plain Concepts is a Spanish software engineering consultancy that builds custom software, data platforms and AI solutions for client companies.",
+    "category": "Data and ai consulting",
+    "website": "https://www.plainconcepts.com/",
+    "careers_url": "https://apply.workable.com/plainconcepts/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Official postings checked on 5 November 2026 include several roles located in Spain and marked as remote, among them AI Engineer - Generative AI, Data Scientist (GenAI) and Data Engineer / Architect.",
+    "record_reviewed_at": "2026-11-05",
+    "public_sources_checked_at": "2026-11-05",
+    "sources": [
+      "https://www.plainconcepts.com/",
+      "https://apply.workable.com/plainconcepts/",
+      "https://apply.workable.com/j/1C5A7AE862",
+      "https://apply.workable.com/j/0B8AEA13CD"
+    ],
+    "verification_note": "As a consultancy, some roles may involve client-site work or travel; check each posting."
+  },
+  {
+    "id": "seedtag",
+    "name": "Seedtag",
+    "description": "Seedtag runs a contextual advertising platform that uses AI to place ads according to the content of web pages and videos.",
+    "category": "Advertising technology",
+    "website": "https://www.seedtag.com/",
+    "careers_url": "https://jobs.seedtag.com/jobs",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Official postings checked on 5 November 2026, such as MLOps Engineer, Agentic Platform Engineer and Junior Data Scientist, are marked as fully remote and list several European cities including Madrid and Barcelona.",
+    "record_reviewed_at": "2026-11-05",
+    "public_sources_checked_at": "2026-11-05",
+    "sources": [
+      "https://www.seedtag.com/",
+      "https://jobs.seedtag.com/jobs",
+      "https://jobs.seedtag.com/jobs/8563759-mlops-engineer",
+      "https://jobs.seedtag.com/jobs/8563270-agentic-platform-engineer"
+    ],
+    "verification_note": "The postings list cities in several countries; confirm the hiring country and any office expectations for each role."
+  },
+  {
+    "id": "sword-health",
+    "name": "Sword Health",
+    "description": "Sword Health provides digital physical therapy and pain-care programs that pair clinicians with AI-supported software.",
+    "category": "Digital health",
+    "website": "https://swordhealth.com/",
+    "careers_url": "https://job-boards.greenhouse.io/swordhealth",
+    "remote_signal": "europe_remote_signal",
+    "remote_note": "Official postings checked on 5 November 2026 include several roles listed as Remote - Europe, such as Lead Product Manager and Senior Backend Engineer, Consumer Growth (Remote - Europe and Remote - Portugal).",
+    "record_reviewed_at": "2026-11-05",
+    "public_sources_checked_at": "2026-11-05",
+    "sources": [
+      "https://swordhealth.com/",
+      "https://job-boards.greenhouse.io/swordhealth",
+      "https://job-boards.greenhouse.io/swordhealth/jobs/4471048009",
+      "https://job-boards.greenhouse.io/swordhealth/jobs/4401796009"
+    ],
+    "verification_note": "Remote - Europe does not by itself confirm Spain eligibility or the employing entity."
   }
 ]

@@ -94,6 +94,7 @@
 - [Finom](finom.md) — Business financial services
 - [Flexcompute](flexcompute.md) — Engineering software
 - [Flywire](flywire.md) — Payments technology
+- [Fundamental](fundamental.md) — Enterprise AI
 - [Fundraise Up](fundraise-up.md) — Nonprofit fundraising software
 - [FYUL](fyul.md) — On-demand commerce
 - [Ghost](ghost.md) — Publishing software
@@ -105,6 +106,7 @@
 - [Herdr](herdr.md) — Developer tools
 - [HexGrid Cloud](hexgrid-cloud.md) — AI infrastructure
 - [Higharc](higharc.md) — Construction software
+- [Hilo by Aktiia](hilo.md) — Digital health
 - [Hubstaff](hubstaff.md) — Workforce management software
 - [Hunter](hunter.md) — Sales software
 - [Immersive](immersive.md) — Cybersecurity training
@@ -164,6 +166,7 @@
 - [Otto Group one.O](otto-group-one-o.md) — IT consulting
 - [OVHcloud](ovhcloud.md) — Cloud infrastructure
 - [Owner](owner.md) — Restaurant software
+- [Oyster](oyster.md) — HR technology
 - [Paddle](paddle.md) — Payments software
 - [PandaDoc](pandadoc.md) — Document software
 - [Parloa](parloa.md) — Customer support software

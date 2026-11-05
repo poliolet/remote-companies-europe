@@ -4167,5 +4167,60 @@
       "https://zed.dev/jobs"
     ],
     "verification_note": ""
+  },
+  {
+    "id": "fundamental",
+    "name": "Fundamental",
+    "description": "Fundamental develops NEXUS, a large tabular AI model for making predictions from structured enterprise data.",
+    "category": "Enterprise AI",
+    "website": "https://fundamental.tech/",
+    "careers_url": "https://fundamental.tech/careers",
+    "remote_signal": "europe_remote_signal",
+    "remote_note": "The official careers board checked on 5 November 2026 lists multiple engineering roles as Europe remote. The Evaluations Team Lead posting also explicitly identifies Europe as its location and Remote as its location type. Other roles are on-site in Barcelona or limited to the United States; this is not an all-role remote policy.",
+    "record_reviewed_at": "2026-11-05",
+    "public_sources_checked_at": "2026-11-05",
+    "sources": [
+      "https://fundamental.tech/",
+      "https://fundamental.tech/careers",
+      "https://fundamental.tech/careers/jobs/f0e27c50-261a-42cb-9fe7-b3b2e9d6a2ce"
+    ],
+    "verification_note": "The checked official posting does not specify eligible employment countries, timezone overlap or recurring attendance requirements. Confirm these individually; a Europe label does not establish employment availability in every European country or absence of travel."
+  },
+  {
+    "id": "hilo",
+    "name": "Hilo by Aktiia",
+    "description": "Hilo by Aktiia develops a wearable blood pressure monitoring system and companion app for continuous cardiovascular health insights.",
+    "category": "Digital health",
+    "website": "https://hilo.com/en-gb",
+    "careers_url": "https://apply.workable.com/hilobyaktiia/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "The official Workable board checked on 5 November 2026 lists remote design roles in the United Kingdom, Germany, Italy, France, Spain and Ireland. The Senior Product Designer posting describes Hilo as remote-first and the role as fully remote across the UK and Europe. The board uses specific country lists, so the broader wording is not a guarantee of employment in every European country.",
+    "record_reviewed_at": "2026-11-05",
+    "public_sources_checked_at": "2026-11-05",
+    "sources": [
+      "https://hilo.com/en-gb",
+      "https://apply.workable.com/hilobyaktiia/",
+      "https://apply.workable.com/hilobyaktiia/j/D14FDCFF04/"
+    ],
+    "verification_note": "Applicants must already have a valid visa or work permit in their country of residence; the posting says visa sponsorship is unavailable. Location and contract terms differ by vacancy, including freelance roles. Confirm country eligibility, collaboration hours and any attendance obligations for the individual role."
+  },
+  {
+    "id": "oyster",
+    "name": "Oyster",
+    "description": "Oyster provides employer-of-record, global payroll and HR services that help businesses employ and support international teams.",
+    "category": "HR technology",
+    "website": "https://www.oysterhr.com/",
+    "careers_url": "https://www.oysterhr.com/careers",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Oyster's official careers page describes a fully remote, distributed team. Its linked Ashby board checked on 5 November 2026 lists an Accounts Payable Analyst role as remote in Spain, with additional locations in Romania, Hungary, Portugal, Poland and South Africa. The posting requires the employee to be based within UTC-3 to UTC+3 despite the broader work-from-anywhere messaging.",
+    "record_reviewed_at": "2026-11-05",
+    "public_sources_checked_at": "2026-11-05",
+    "sources": [
+      "https://www.oysterhr.com/",
+      "https://www.oysterhr.com/careers",
+      "https://api.ashbyhq.com/posting-api/job-board/oyster",
+      "https://jobs.ashbyhq.com/oyster/83b10c34-8c44-4c58-89d4-5e99be716c76"
+    ],
+    "verification_note": "Employees must be authorized to work where they live. Country eligibility and timezone constraints are role-specific; Oyster's customer-facing employment coverage is not proof that its own team hires in every supported country. A talent-community signup is not a confirmed vacancy."
   }
 ]

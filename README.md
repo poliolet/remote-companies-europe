@@ -1,6 +1,6 @@
 # Remote companies — Europe & Spain
 
-A public, source-linked directory of **243 companies** for people researching remote-friendly work in Europe, with particular attention to Spain.
+A public, source-linked directory of **246 companies** for people researching remote-friendly work in Europe, with particular attention to Spain.
 
 **This is a research directory, not a guarantee of current vacancies or eligibility.** Some entries have only historical signals, mixed hybrid policies or country restrictions. Always read the actual vacancy and confirm employment country, office attendance, timezone and contract terms. “Remote” does not mean “work from any country”.
 
@@ -16,8 +16,8 @@ A public, source-linked directory of **243 companies** for people researching re
 
 *These labels summarize historical research signals, not freshly verified company-wide policies.*
 
-- **Spain remote signal:** 168
-- **Europe / EMEA remote signal:** 13
+- **Spain remote signal:** 170
+- **Europe / EMEA remote signal:** 14
 - **Global / distributed signal:** 11
 - **Hybrid or country-restricted evidence:** 27
 - **Needs verification:** 24
@@ -118,6 +118,7 @@ A public, source-linked directory of **243 companies** for people researching re
 | [Finom](companies/finom.md) | Finom provides business accounts, payment tools, invoicing, and accounting integrations that help entrepreneurs and smaller companies manage their finances. | Hybrid or country-restricted evidence | [Website](https://finom.co/) · [Careers](https://careers.finom.co) |
 | [Flexcompute](companies/flexcompute.md) | Flexcompute develops GPU-based physics simulation software and AI tools for engineers designing aircraft, vehicles, chips, and photonic systems. | Spain remote signal | [Website](https://flexcompute.com/) · [Careers](https://www.flexcompute.com/about/career/) |
 | [Flywire](companies/flywire.md) | Flywire provides payment processing infrastructure and industry-specific software that help organizations manage complex payment transactions through a global network. | Needs verification | [Website](https://www.flywire.com/) · [Careers](https://careers.smartrecruiters.com/Flywire1) |
+| [Fundamental](companies/fundamental.md) | Fundamental develops NEXUS, a large tabular AI model for making predictions from structured enterprise data. | Europe / EMEA remote signal | [Website](https://fundamental.tech/) · [Careers](https://fundamental.tech/careers) |
 | [Fundraise Up](companies/fundraise-up.md) | Fundraise Up provides online donation software that helps nonprofits accept payments and improve the conversion of digital fundraising campaigns. | Needs verification | [Website](https://fundraiseup.com/) · [Careers](https://fundraiseup.com/careers) |
 | [FYUL](companies/fyul.md) | FYUL brings together Printify, Printful, and Snow Commerce to provide on-demand product creation and commerce services for individuals and brands. | Spain remote signal | [Website](https://www.fyul.com/) · [Careers](https://careers.fyul.com/jobs) |
 | [Ghost](companies/ghost.md) | Ghost develops an open source publishing platform that combines websites, email newsletters, paid subscriptions, and tools for independent publishers. | Spain remote signal | [Website](https://ghost.org/) · [Careers](https://careers.ghost.org) |
@@ -129,6 +130,7 @@ A public, source-linked directory of **243 companies** for people researching re
 | [Herdr](companies/herdr.md) | Herdr develops a customizable application and runtime for managing coding agents, with persistent sessions that continue when the interface closes. | Needs verification | [Website](https://herdr.dev/) · [Careers](https://herdr.dev/jobs/) |
 | [HexGrid Cloud](companies/hexgrid-cloud.md) | HexGrid Cloud provides dedicated GPU hosting, managed ComfyUI environments, and deployment tools for generative AI models and creative workflows. | Global / distributed signal | [Website](https://hexgrid.cloud/) · [Careers](https://wellfound.com/company/hexgrid-cloud) |
 | [Higharc](companies/higharc.md) | Higharc develops software for homebuilders to design houses, configure plans, generate estimates, create visualizations, and prepare construction documentation. | Europe / EMEA remote signal | [Website](https://www.higharc.com/) · [Careers](https://jobs.ashbyhq.com/higharc) |
+| [Hilo by Aktiia](companies/hilo.md) | Hilo by Aktiia develops a wearable blood pressure monitoring system and companion app for continuous cardiovascular health insights. | Spain remote signal | [Website](https://hilo.com/en-gb) · [Careers](https://apply.workable.com/hilobyaktiia/) |
 | [Hubstaff](companies/hubstaff.md) | Hubstaff provides time tracking and productivity software that helps teams manage working hours, labor costs, payments, and performance insights. | Spain remote signal | [Website](https://hubstaff.com/) · [Careers](https://jobs.ashbyhq.com/hubstaff) |
 | [Hunter](companies/hunter.md) | Hunter develops software for finding and verifying business email addresses and managing outbound email campaigns for sales teams. | Spain remote signal | [Website](https://hunter.io/) · [Careers](https://hunter.io/careers) |
 | [Immersive](companies/immersive.md) | Immersive provides cybersecurity simulations, practical labs, and performance benchmarking to help organizations assess and improve their readiness for cyber threats. | Europe / EMEA remote signal | [Website](https://www.immersivelabs.com/) · [Careers](https://www.immersivelabs.com/company/careers) |
@@ -188,6 +190,7 @@ A public, source-linked directory of **243 companies** for people researching re
 | [Otto Group one.O](companies/otto-group-one-o.md) | Otto Group one.O provides technology and business consulting across commerce, AI services, enterprise applications, warehouse operations, and logistics. | Hybrid or country-restricted evidence | [Website](https://www.og1o.com/) · [Careers](https://otto-group-solution-provider-spain-sl-1.jobs.personio.com/) |
 | [OVHcloud](companies/ovhcloud.md) | OVHcloud provides cloud computing, dedicated servers, virtual private servers, and domain services for organizations building and operating digital infrastructure. | Spain remote signal | [Website](https://www.ovhcloud.com/es-es/) · [Careers](https://careers.ovhcloud.com/en/) |
 | [Owner](companies/owner.md) | Owner provides independent restaurants with online ordering, websites, mobile loyalty applications, and marketing tools for managing direct customer relationships. | Spain remote signal | [Website](https://www.owner.com/) · [Careers](https://www.owner.com/careers) |
+| [Oyster](companies/oyster.md) | Oyster provides employer-of-record, global payroll and HR services that help businesses employ and support international teams. | Spain remote signal | [Website](https://www.oysterhr.com/) · [Careers](https://www.oysterhr.com/careers) |
 | [Paddle](companies/paddle.md) | Paddle provides payment and subscription infrastructure for software businesses, handling billing, tax obligations, and compliance through one platform. | Hybrid or country-restricted evidence | [Website](https://www.paddle.com/) · [Careers](https://jobs.ashbyhq.com/paddle) |
 | [PandaDoc](companies/pandadoc.md) | PandaDoc provides document management software for creating proposals, automating agreements, collecting electronic signatures, and managing related payment workflows. | Needs verification | [Website](https://www.pandadoc.com/) · [Careers](https://job-boards.greenhouse.io/pandadoc) |
 | [Parloa](companies/parloa.md) | Parloa provides software for enterprises to build, test, deploy, and manage AI agents across voice and chat customer service channels. | Hybrid or country-restricted evidence | [Website](https://www.parloa.com/) · [Careers](https://job-boards.eu.greenhouse.io/parloa) |

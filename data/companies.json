@@ -4337,5 +4337,40 @@
       "https://job-boards.greenhouse.io/swordhealth/jobs/4401796009"
     ],
     "verification_note": "Remote - Europe does not by itself confirm Spain eligibility or the employing entity."
+  },
+  {
+    "id": "sumsub",
+    "name": "Sumsub",
+    "description": "Sumsub provides identity and business verification, fraud prevention and transaction monitoring software for compliance teams.",
+    "category": "Identity verification and compliance",
+    "website": "https://sumsub.com/",
+    "careers_url": "https://careers.sumsub.com/jobs",
+    "remote_signal": "europe_remote_signal",
+    "remote_note": "The official board checked on 6 November 2026 lists EU roles as Fully Remote. The Senior Analytics Engineer (Antifraud) posting lists EU among its locations and describes remote-first work with no mandatory office days. Working hours must stay in sync with the team, and the benefits include in-person team offsites a few times a year.",
+    "record_reviewed_at": "2026-11-06",
+    "public_sources_checked_at": "2026-11-06",
+    "sources": [
+      "https://sumsub.com/",
+      "https://careers.sumsub.com/jobs",
+      "https://careers.sumsub.com/jobs/8638438-senior-analytics-engineer-antifraud"
+    ],
+    "verification_note": "The EU label does not establish employment availability in every member country or specifically in Spain. The posting says the applicable work location will be confirmed during recruitment; confirm country eligibility, contract arrangements, collaboration hours and offsite attendance for the individual role."
+  },
+  {
+    "id": "upsun",
+    "name": "Upsun",
+    "description": "Upsun provides cloud application hosting, developer workflows and observability tools for building and running web applications.",
+    "category": "Cloud application platform",
+    "website": "https://upsun.com/",
+    "careers_url": "https://upsun.com/jobs/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "The official careers page checked on 6 November 2026 lists Product Manager and Software Engineer roles as remote in Germany, Canada, France, Spain or the United Kingdom, plus a Sales Enablement Manager role in Spain, France, Germany and the United Kingdom. The page describes the company as remote by design, with annual team gatherings and a program allowing work abroad for up to 90 days a year.",
+    "record_reviewed_at": "2026-11-06",
+    "public_sources_checked_at": "2026-11-06",
+    "sources": [
+      "https://upsun.com/",
+      "https://upsun.com/jobs/"
+    ],
+    "verification_note": "Eligible countries differ by vacancy: other listed roles are limited to North America or Australia and India. Temporary work abroad is not unrestricted country-of-employment eligibility. Confirm the employing country, work authorization, timezone overlap and attendance requirements for each role."
   }
 ]

@@ -1,6 +1,6 @@
 # Remote companies — Europe & Spain
 
-A public, source-linked directory of **252 companies** for people researching remote-friendly work in Europe, with particular attention to Spain.
+A public, source-linked directory of **254 companies** for people researching remote-friendly work in Europe, with particular attention to Spain.
 
 **This is a research directory, not a guarantee of current vacancies or eligibility.** Some entries have only historical signals, mixed hybrid policies or country restrictions. Always read the actual vacancy and confirm employment country, office attendance, timezone and contract terms. “Remote” does not mean “work from any country”.
 
@@ -16,8 +16,8 @@ A public, source-linked directory of **252 companies** for people researching re
 
 *These labels summarize historical research signals, not freshly verified company-wide policies.*
 
-- **Spain remote signal:** 174
-- **Europe / EMEA remote signal:** 16
+- **Spain remote signal:** 175
+- **Europe / EMEA remote signal:** 17
 - **Global / distributed signal:** 11
 - **Hybrid or country-restricted evidence:** 27
 - **Needs verification:** 24
@@ -237,6 +237,7 @@ A public, source-linked directory of **252 companies** for people researching re
 | [Storelink / Comply](companies/storelink-comply.md) | Storelink develops Comply, a Shopify application that automates fiscal compliance by connecting merchant transactions with relevant tax authorities. | Spain remote signal | [Website](https://complyapp.io/) · [Careers](https://www.getmanfred.com/ofertas-empleo/8471/storelink-node-backend-developer-sept26) |
 | [Storyblok](companies/storyblok.md) | Storyblok provides a headless content management system with a visual editor for teams creating and managing digital experiences. | Spain remote signal | [Website](https://www.storyblok.com/) · [Careers](https://www.storyblok.com/jobs) |
 | [Stripe](companies/stripe.md) | Stripe provides financial infrastructure for businesses to accept payments, manage billing, and move money through online services. | Spain remote signal | [Website](https://stripe.com/es) · [Careers](https://stripe.com/jobs/search) |
+| [Sumsub](companies/sumsub.md) | Sumsub provides identity and business verification, fraud prevention and transaction monitoring software for compliance teams. | Europe / EMEA remote signal | [Website](https://sumsub.com/) · [Careers](https://careers.sumsub.com/jobs) |
 | [Supabase](companies/supabase.md) | Supabase provides a PostgreSQL-based application development platform combining databases, authentication, APIs, real-time features, functions, storage, and vector capabilities. | Spain remote signal | [Website](https://supabase.com/) · [Careers](https://jobs.ashbyhq.com/supabase) |
 | [Super Technologies](companies/super-technologies.md) | Super Technologies develops technology for sports betting, gaming, and fan entertainment, operating consumer brands including Superbet across international markets. | Spain remote signal | [Website](https://www.super.xyz/) · [Careers](https://job-boards.eu.greenhouse.io/super) |
 | [Sword Health](companies/sword-health.md) | Sword Health provides digital physical therapy and pain-care programs that pair clinicians with AI-supported software. | Europe / EMEA remote signal | [Website](https://swordhealth.com/) · [Careers](https://job-boards.greenhouse.io/swordhealth) |
@@ -258,6 +259,7 @@ A public, source-linked directory of **252 companies** for people researching re
 | [Twilio](companies/twilio.md) | Twilio provides communications APIs for messaging, voice, and email, alongside conversational AI and identity verification tools for businesses. | Spain remote signal | [Website](https://www.twilio.com/en-us) · [Careers](https://www.twilio.com/en-us/company/jobs) |
 | [Typeform](companies/typeform.md) | Typeform provides online form-building software with AI and automation features for collecting information, qualifying leads, and triggering business workflows. | Spain remote signal | [Website](https://www.typeform.com/) · [Careers](https://job-boards.greenhouse.io/typeform) |
 | [UpScrolled](companies/upscrolled.md) | UpScrolled operates a social media platform focused on sharing content and connecting people through public conversations and community interaction. | Needs verification | [Website](https://upscrolled.com/) · [Careers](https://upscrolled.bamboohr.com/careers) |
+| [Upsun](companies/upsun.md) | Upsun provides cloud application hosting, developer workflows and observability tools for building and running web applications. | Spain remote signal | [Website](https://upsun.com/) · [Careers](https://upsun.com/jobs/) |
 | [Valsea Technologies](companies/valsea-technologies.md) | Valsea Technologies provides technology consulting and software development services, building digital products and supporting engineering teams for international clients. | Hybrid or country-restricted evidence | [Website](https://valsea.com/) · [Careers](https://valsea.teamtailor.com/jobs) |
 | [Veeva Systems](companies/veeva-systems.md) | Veeva Systems provides cloud applications, data, AI agents, and consulting services for pharmaceutical, biotechnology, and other life sciences companies. | Spain remote signal | [Website](https://www.veeva.com/) · [Careers](https://careers.veeva.com/job-search-results/) |
 | [Vercel](companies/vercel.md) | Vercel provides cloud infrastructure and development tools for deploying, hosting, and operating web applications, AI applications, and autonomous agents. | Hybrid or country-restricted evidence | [Website](https://vercel.com/) · [Careers](https://vercel.com/careers) |

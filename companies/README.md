@@ -213,6 +213,7 @@
 - [Storelink / Comply](storelink-comply.md) — Tax compliance software
 - [Storyblok](storyblok.md) — Content management software
 - [Stripe](stripe.md) — Financial infrastructure
+- [Sumsub](sumsub.md) — Identity verification and compliance
 - [Supabase](supabase.md) — Developer tools
 - [Super Technologies](super-technologies.md) — Gaming and entertainment technology
 - [Sword Health](sword-health.md) — Digital health
@@ -234,6 +235,7 @@
 - [Twilio](twilio.md) — Communications infrastructure
 - [Typeform](typeform.md) — Form software
 - [UpScrolled](upscrolled.md) — Social media
+- [Upsun](upsun.md) — Cloud application platform
 - [Valsea Technologies](valsea-technologies.md) — Software development services
 - [Veeva Systems](veeva-systems.md) — Life sciences software
 - [Vercel](vercel.md) — Cloud development platform

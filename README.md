@@ -1,6 +1,6 @@
 # Remote companies — Europe & Spain
 
-A public, source-linked directory of **254 companies** for people researching remote-friendly work in Europe, with particular attention to Spain.
+A public, source-linked directory of **257 companies** for people researching remote-friendly work in Europe, with particular attention to Spain.
 
 **This is a research directory, not a guarantee of current vacancies or eligibility.** Some entries have only historical signals, mixed hybrid policies or country restrictions. Always read the actual vacancy and confirm employment country, office attendance, timezone and contract terms. “Remote” does not mean “work from any country”.
 
@@ -16,8 +16,8 @@ A public, source-linked directory of **254 companies** for people researching re
 
 *These labels summarize historical research signals, not freshly verified company-wide policies.*
 
-- **Spain remote signal:** 175
-- **Europe / EMEA remote signal:** 17
+- **Spain remote signal:** 177
+- **Europe / EMEA remote signal:** 18
 - **Global / distributed signal:** 11
 - **Hybrid or country-restricted evidence:** 27
 - **Needs verification:** 24
@@ -27,6 +27,7 @@ A public, source-linked directory of **254 companies** for people researching re
 | Company | What it does | Remote signal | Links |
 | --- | --- | --- | --- |
 | [1Password](companies/1password.md) | 1Password develops password management, secrets management and access security software for individuals and businesses. | Hybrid or country-restricted evidence | [Website](https://1password.com/) · [Careers](https://jobs.ashbyhq.com/1password) |
+| [Abi Global Health](companies/abi-global-health.md) | Abi Global Health provides a telemedicine platform that embeds health navigation and text, voice and video consultations into partner services. | Europe / EMEA remote signal | [Website](https://www.abiglobalhealth.com/) · [Careers](https://apply.workable.com/abi-hiring/) |
 | [Action1](companies/action1.md) | Action1 develops cloud software that identifies missing endpoint updates and automates patch deployment across operating systems and third-party applications. | Spain remote signal | [Website](https://action1.com/) · [Careers](https://action1.com/careers) |
 | [Affirm](companies/affirm.md) | Affirm provides consumer financing that lets shoppers split purchases into installments through participating merchants and its payment platform. | Spain remote signal | [Website](https://www.affirm.com/) · [Careers](https://job-boards.greenhouse.io/affirm) |
 | [Airalo](companies/airalo.md) | Airalo sells digital eSIM plans that let travelers obtain mobile data connectivity across countries and regions. | Spain remote signal | [Website](https://www.airalo.com/) · [Careers](https://jobs.lever.co/airalo) |
@@ -44,6 +45,7 @@ A public, source-linked directory of **254 companies** for people researching re
 | [Attio](companies/attio.md) | Attio develops a customer relationship management platform for revenue teams to organize customer information, manage pipelines, and automate sales workflows. | Spain remote signal | [Website](https://attio.com/) · [Careers](https://jobs.ashbyhq.com/attio) |
 | [Auctane](companies/auctane.md) | Auctane operates shipping and logistics software brands that help merchants manage orders, automate fulfillment, and connect with delivery carriers. | Spain remote signal | [Website](https://auctane.com/) · [Careers](https://job-boards.greenhouse.io/auctane) |
 | [Automattic](companies/automattic.md) | Automattic develops publishing, commerce, and communication products, including WordPress.com, Tumblr, and other tools for building an online presence. | Europe / EMEA remote signal | [Website](https://automattic.com/) · [Careers](https://automattic.com/jobs/) |
+| [Axmed](companies/axmed.md) | Axmed operates a business-to-business marketplace for medicines and health products, combining pooled procurement with financing, logistics software and global health advisory services. | Spain remote signal | [Website](https://www.axmed.com/) · [Careers](https://axmed.teamtailor.com/jobs) |
 | [Axo Longevity](companies/axo-longevity.md) | Axo Longevity offers preventive health memberships combining laboratory biomarker testing, personalized health insights, and ongoing progress tracking. | Europe / EMEA remote signal | [Website](https://www.axolongevity.com/) · [Careers](https://wellfound.com/company/axo-longevity/jobs) |
 | [baesh](companies/baesh.md) | baesh develops a social app that helps people organize activities and meet others through shared interests and local experiences. | Spain remote signal | [Website](https://www.baesh.co/) · [Careers](https://join.com/companies/baesh) |
 | [beehiiv](companies/beehiiv.md) | beehiiv provides a newsletter platform that helps creators and businesses publish content, grow audiences, and monetize their publications. | Spain remote signal | [Website](https://www.beehiiv.com/) · [Careers](https://beehiiv.bamboohr.com/careers) |
@@ -260,6 +262,7 @@ A public, source-linked directory of **254 companies** for people researching re
 | [Typeform](companies/typeform.md) | Typeform provides online form-building software with AI and automation features for collecting information, qualifying leads, and triggering business workflows. | Spain remote signal | [Website](https://www.typeform.com/) · [Careers](https://job-boards.greenhouse.io/typeform) |
 | [UpScrolled](companies/upscrolled.md) | UpScrolled operates a social media platform focused on sharing content and connecting people through public conversations and community interaction. | Needs verification | [Website](https://upscrolled.com/) · [Careers](https://upscrolled.bamboohr.com/careers) |
 | [Upsun](companies/upsun.md) | Upsun provides cloud application hosting, developer workflows and observability tools for building and running web applications. | Spain remote signal | [Website](https://upsun.com/) · [Careers](https://upsun.com/jobs/) |
+| [Valdyr (formerly Telness Tech)](companies/valdyr.md) | Valdyr develops Seamless OS, a software platform for telecom operators covering subscriber management, billing, provisioning and operational workflows. | Spain remote signal | [Website](https://valdyr.tech/) · [Careers](https://valdyr.tech/careers) |
 | [Valsea Technologies](companies/valsea-technologies.md) | Valsea Technologies provides technology consulting and software development services, building digital products and supporting engineering teams for international clients. | Hybrid or country-restricted evidence | [Website](https://valsea.com/) · [Careers](https://valsea.teamtailor.com/jobs) |
 | [Veeva Systems](companies/veeva-systems.md) | Veeva Systems provides cloud applications, data, AI agents, and consulting services for pharmaceutical, biotechnology, and other life sciences companies. | Spain remote signal | [Website](https://www.veeva.com/) · [Careers](https://careers.veeva.com/job-search-results/) |
 | [Vercel](companies/vercel.md) | Vercel provides cloud infrastructure and development tools for deploying, hosting, and operating web applications, AI applications, and autonomous agents. | Hybrid or country-restricted evidence | [Website](https://vercel.com/) · [Careers](https://vercel.com/careers) |

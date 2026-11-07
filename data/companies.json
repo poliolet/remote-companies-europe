@@ -4372,5 +4372,60 @@
       "https://upsun.com/jobs/"
     ],
     "verification_note": "Eligible countries differ by vacancy: other listed roles are limited to North America or Australia and India. Temporary work abroad is not unrestricted country-of-employment eligibility. Confirm the employing country, work authorization, timezone overlap and attendance requirements for each role."
+  },
+  {
+    "id": "abi-global-health",
+    "name": "Abi Global Health",
+    "description": "Abi Global Health provides a telemedicine platform that embeds health navigation and text, voice and video consultations into partner services.",
+    "category": "Digital health and telemedicine",
+    "website": "https://www.abiglobalhealth.com/",
+    "careers_url": "https://apply.workable.com/abi-hiring/",
+    "remote_signal": "europe_remote_signal",
+    "remote_note": "The official Workable board checked on 7 November 2026 lists remote medical opportunities in Ireland and Switzerland. The Swiss telehealth doctor posting describes flexible, question-based remote consultations with no minimum workload commitment. These signals concern the clinical professional network, not a company-wide remote policy for corporate or technology staff.",
+    "record_reviewed_at": "2026-11-07",
+    "public_sources_checked_at": "2026-11-07",
+    "sources": [
+      "https://www.abiglobalhealth.com/",
+      "https://www.abiglobalhealth.com/join-abi-hcp",
+      "https://apply.workable.com/abi-hiring/",
+      "https://apply.workable.com/abi-hiring/j/37FDDD6E31/"
+    ],
+    "verification_note": "The Swiss posting requires an active Swiss cantonal medical licence, completed residency, a HIN account or willingness to obtain one, and English and German fluency. Country, licensing and engagement terms vary by role; flexible clinical work is not proof of salaried remote employment across Europe. The same board lists technology submissions as on-site in Barcelona or hybrid in Dublin. No Spain-remote or unrestricted cross-border policy is established."
+  },
+  {
+    "id": "axmed",
+    "name": "Axmed",
+    "description": "Axmed operates a business-to-business marketplace for medicines and health products, combining pooled procurement with financing, logistics software and global health advisory services.",
+    "category": "Healthcare procurement and logistics",
+    "website": "https://www.axmed.com/",
+    "careers_url": "https://axmed.teamtailor.com/jobs",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "The official careers board checked on 7 November 2026 lists Head of Engineering and AI Engineer roles as Spain, Remote and Fully Remote. Its benefits describe remote-first day-to-day work, hubs in Spain, the United Kingdom, Switzerland, Kenya and Ghana, flexible hours and company retreats. The engineering leadership posting says the team is being built in Spain and prioritises candidates already based there.",
+    "record_reviewed_at": "2026-11-07",
+    "public_sources_checked_at": "2026-11-07",
+    "sources": [
+      "https://www.axmed.com/",
+      "https://axmed.teamtailor.com/jobs",
+      "https://axmed.teamtailor.com/jobs/8650245-head-of-engineering"
+    ],
+    "verification_note": "The engineering posting requires an existing legal right to work in the country of residence and offers neither visa sponsorship nor relocation support. Other vacancies have different country lists. Confirm the employing country, hub or offsite attendance and collaboration hours for each role; remote-first does not mean unrestricted work from any country."
+  },
+  {
+    "id": "valdyr",
+    "name": "Valdyr (formerly Telness Tech)",
+    "description": "Valdyr develops Seamless OS, a software platform for telecom operators covering subscriber management, billing, provisioning and operational workflows.",
+    "category": "Telecom operations software",
+    "website": "https://valdyr.tech/",
+    "careers_url": "https://valdyr.tech/careers",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "The official Senior Software Engineer (US Eastern Time) posting checked on 7 November 2026 is labelled EU (Remote) and Fully Remote, but its text specifically requires being based in Spain and working US Eastern hours, stated as 14:00-22:00 CET. Valdyr's homepage confirms the Telness Tech rebrand. Its careers page describes offices in Stockholm, London, New York and Madrid and a broader hybrid and flexible working setup.",
+    "record_reviewed_at": "2026-11-07",
+    "public_sources_checked_at": "2026-11-07",
+    "sources": [
+      "https://valdyr.tech/",
+      "https://valdyr.tech/careers",
+      "https://careers.valdyr.tech/jobs/8477287-senior-software-engineer-us-eastern-time"
+    ],
+    "verification_note": "The main careers page labels this same engineering role Hybrid with Madrid and EU (Remote), while the individual ATS posting says Fully Remote. Its description also calls the wider company setup hybrid. Confirm office attendance, Spanish employment eligibility and the precise seasonal timezone schedule before relying on the remote label. Other fully remote roles on the main page are US-specific; the EU metadata is not permission to work from every European country."
   }
 ]

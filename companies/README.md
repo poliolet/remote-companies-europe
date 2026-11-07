@@ -3,6 +3,7 @@
 [Back to directory](../README.md)
 
 - [1Password](1password.md) — Cybersecurity
+- [Abi Global Health](abi-global-health.md) — Digital health and telemedicine
 - [Action1](action1.md) — Cybersecurity
 - [Affirm](affirm.md) — Financial technology
 - [Airalo](airalo.md) — Telecommunications
@@ -20,6 +21,7 @@
 - [Attio](attio.md) — CRM software
 - [Auctane](auctane.md) — Shipping technology
 - [Automattic](automattic.md) — Publishing software
+- [Axmed](axmed.md) — Healthcare procurement and logistics
 - [Axo Longevity](axo-longevity.md) — Digital health
 - [baesh](baesh.md) — Social networking
 - [beehiiv](beehiiv.md) — Publishing software
@@ -236,6 +238,7 @@
 - [Typeform](typeform.md) — Form software
 - [UpScrolled](upscrolled.md) — Social media
 - [Upsun](upsun.md) — Cloud application platform
+- [Valdyr (formerly Telness Tech)](valdyr.md) — Telecom operations software
 - [Valsea Technologies](valsea-technologies.md) — Software development services
 - [Veeva Systems](veeva-systems.md) — Life sciences software
 - [Vercel](vercel.md) — Cloud development platform

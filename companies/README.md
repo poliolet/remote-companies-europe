@@ -166,6 +166,7 @@
 - [Nordhealth](nordhealth.md) — Healthcare software
 - [Northius](northius.md) — Education and training
 - [NTT DATA Spain](ntt-data-spain.md) — IT consulting
+- [Oddin.gg](oddin-gg.md) — Esports data and betting technology
 - [Orbitant](orbitant.md) — IT consulting
 - [osapiens](osapiens.md) — Compliance software
 - [Otto Group one.O](otto-group-one-o.md) — IT consulting

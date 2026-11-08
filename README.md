@@ -1,6 +1,6 @@
 # Remote companies — Europe & Spain
 
-A public, source-linked directory of **257 companies** for people researching remote-friendly work in Europe, with particular attention to Spain.
+A public, source-linked directory of **258 companies** for people researching remote-friendly work in Europe, with particular attention to Spain.
 
 **This is a research directory, not a guarantee of current vacancies or eligibility.** Some entries have only historical signals, mixed hybrid policies or country restrictions. Always read the actual vacancy and confirm employment country, office attendance, timezone and contract terms. “Remote” does not mean “work from any country”.
 
@@ -17,7 +17,7 @@ A public, source-linked directory of **257 companies** for people researching re
 *These labels summarize historical research signals, not freshly verified company-wide policies.*
 
 - **Spain remote signal:** 177
-- **Europe / EMEA remote signal:** 18
+- **Europe / EMEA remote signal:** 19
 - **Global / distributed signal:** 11
 - **Hybrid or country-restricted evidence:** 27
 - **Needs verification:** 24
@@ -190,6 +190,7 @@ A public, source-linked directory of **257 companies** for people researching re
 | [Nordhealth](companies/nordhealth.md) | Nordhealth develops software and APIs for healthcare and veterinary professionals to manage their businesses and support the delivery of care. | Spain remote signal | [Website](https://nordhealth.com/) · [Careers](https://careers.nordhealth.com/jobs) |
 | [Northius](companies/northius.md) | Northius operates a group of specialized education institutions focused on digital learning, professional training, and student employability. | Hybrid or country-restricted evidence | [Website](https://northius.com/) · [Careers](https://empleo.northius.com/jobs) |
 | [NTT DATA Spain](companies/ntt-data-spain.md) | NTT DATA Spain provides technology consulting, application development, infrastructure, and business process services to support organizations through digital transformation. | Spain remote signal | [Website](https://es.nttdata.com/) · [Careers](https://careers.emeal.nttdata.com/s/jobs) |
+| [Oddin.gg](companies/oddin-gg.md) | Oddin.gg supplies esports betting infrastructure, including odds feeds, risk management, tournament data and betting content for sportsbook operators. | Europe / EMEA remote signal | [Website](https://oddin.gg/) · [Careers](https://jobs.lever.co/oddin) |
 | [Orbitant](companies/orbitant.md) | Orbitant provides AI engineering, software development, data infrastructure, and technology consulting services that help businesses modernize systems and operations. | Spain remote signal | [Website](https://orbitant.com/) · [Careers](https://orbitant.factorial.es/) |
 | [osapiens](companies/osapiens.md) | osapiens develops software connecting compliance obligations, supplier intelligence, and operational data to help organizations manage business risks. | Hybrid or country-restricted evidence | [Website](https://osapiens.com/en) · [Careers](https://careers.osapiens.com/) |
 | [Otto Group one.O](companies/otto-group-one-o.md) | Otto Group one.O provides technology and business consulting across commerce, AI services, enterprise applications, warehouse operations, and logistics. | Hybrid or country-restricted evidence | [Website](https://www.og1o.com/) · [Careers](https://otto-group-solution-provider-spain-sl-1.jobs.personio.com/) |

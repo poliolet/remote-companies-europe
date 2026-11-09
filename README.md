@@ -1,6 +1,6 @@
 # Remote companies — Europe & Spain
 
-A public, source-linked directory of **258 companies** for people researching remote-friendly work in Europe, with particular attention to Spain.
+A public, source-linked directory of **259 companies** for people researching remote-friendly work in Europe, with particular attention to Spain.
 
 **This is a research directory, not a guarantee of current vacancies or eligibility.** Some entries have only historical signals, mixed hybrid policies or country restrictions. Always read the actual vacancy and confirm employment country, office attendance, timezone and contract terms. “Remote” does not mean “work from any country”.
 
@@ -17,7 +17,7 @@ A public, source-linked directory of **258 companies** for people researching re
 *These labels summarize historical research signals, not freshly verified company-wide policies.*
 
 - **Spain remote signal:** 177
-- **Europe / EMEA remote signal:** 19
+- **Europe / EMEA remote signal:** 20
 - **Global / distributed signal:** 11
 - **Hybrid or country-restricted evidence:** 27
 - **Needs verification:** 24
@@ -201,6 +201,7 @@ A public, source-linked directory of **258 companies** for people researching re
 | [PandaDoc](companies/pandadoc.md) | PandaDoc provides document management software for creating proposals, automating agreements, collecting electronic signatures, and managing related payment workflows. | Needs verification | [Website](https://www.pandadoc.com/) · [Careers](https://job-boards.greenhouse.io/pandadoc) |
 | [Parloa](companies/parloa.md) | Parloa provides software for enterprises to build, test, deploy, and manage AI agents across voice and chat customer service channels. | Hybrid or country-restricted evidence | [Website](https://www.parloa.com/) · [Careers](https://job-boards.eu.greenhouse.io/parloa) |
 | [PcComponentes](companies/pccomponentes.md) | PcComponentes sells computers, components, and consumer electronics through its online store and physical shops, alongside related technical services. | Hybrid or country-restricted evidence | [Website](https://www.pccomponentes.com/) · [Careers](https://jobs.pccomponentes.com/jobs) |
+| [Pencil](companies/pencil.md) | Pencil builds generative-AI software for marketing teams to create advertising content and manage creative workflows. | Europe / EMEA remote signal | [Website](https://trypencil.com/) · [Careers](https://jobs.ashbyhq.com/pencil) |
 | [Pennylane](companies/pennylane.md) | Pennylane develops financial management and accounting software that helps businesses and accountants collaborate on invoicing, expenses, cash flow and bookkeeping. | Spain remote signal | [Website](https://www.pennylane.com/) · [Careers](https://jobs.ashbyhq.com/pennylane) |
 | [Phantom](companies/phantom.md) | Phantom develops a self-custodial cryptocurrency wallet that lets users manage digital assets and access trading services across multiple blockchains. | Spain remote signal | [Website](https://phantom.com/) · [Careers](https://jobs.ashbyhq.com/phantom) |
 | [Phrase](companies/phrase.md) | Phrase develops translation and localization software that helps organizations automate multilingual content workflows and connect language technology tools. | Spain remote signal | [Website](https://phrase.com/) · [Careers](https://phrase.com/careers/) |

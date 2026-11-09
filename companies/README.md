@@ -177,6 +177,7 @@
 - [PandaDoc](pandadoc.md) — Document software
 - [Parloa](parloa.md) — Customer support software
 - [PcComponentes](pccomponentes.md) — Electronics retail
+- [Pencil](pencil.md) — Generative AI and advertising software
 - [Pennylane](pennylane.md) — Accounting software
 - [Phantom](phantom.md) — Cryptocurrency software
 - [Phrase](phrase.md) — Localization software

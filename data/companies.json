@@ -4446,5 +4446,23 @@
       "https://jobs.lever.co/oddin/fc7f2bd8-0367-4624-8d93-40b4481cb532"
     ],
     "verification_note": "The inspected postings do not establish an eligible-country list, Spain-specific employment, visa sponsorship, collaboration hours or office-attendance requirements. Confirm these terms and the employing entity for each vacancy. Engagement varies between full-time and freelance roles; Europe metadata does not guarantee employment from every European country. The shared board includes other brands and business units, so verify the named employer rather than assuming every posting belongs to the same team."
+  },
+  {
+    "id": "pencil",
+    "name": "Pencil",
+    "description": "Pencil builds generative-AI software for marketing teams to create advertising content and manage creative workflows.",
+    "category": "Generative AI and advertising software",
+    "website": "https://trypencil.com/",
+    "careers_url": "https://jobs.ashbyhq.com/pencil",
+    "remote_signal": "europe_remote_signal",
+    "remote_note": "The official Engineering Manager vacancy is labelled EMEA and Remote, and its benefits specify remote work from anywhere within the employee’s home country. This is role-specific evidence of European/EMEA remote hiring, not permission to work from any country.",
+    "record_reviewed_at": "2026-11-09",
+    "public_sources_checked_at": "2026-11-09",
+    "sources": [
+      "https://trypencil.com/",
+      "https://jobs.ashbyhq.com/pencil",
+      "https://jobs.ashbyhq.com/pencil/fc1ee4b5-1bd2-48bf-942d-c0508d70c354"
+    ],
+    "verification_note": "Spain-specific eligibility, the employing entity or EOR, visa sponsorship and any travel or attendance requirements are not explicitly confirmed by the inspected posting. Confirm these terms for the individual vacancy; EMEA does not establish eligibility in every country."
   }
 ]

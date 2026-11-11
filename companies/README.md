@@ -46,6 +46,7 @@
 - [Capitole](capitole.md) — IT consulting
 - [cargo.one](cargo-one.md) — Logistics software
 - [CARTO](carto.md) — Geospatial analytics
+- [Chainguard](chainguard.md) — Software supply-chain security
 - [Checkly](checkly.md) — Developer tools
 - [Chess.com](chess-com.md) — Gaming and education
 - [Chili Piper](chili-piper.md) — Sales and marketing software
@@ -68,6 +69,7 @@
 - [Dash0](dash0.md) — Observability
 - [Datadog](datadog.md) — Observability
 - [Deel](deel.md) — HR and payroll software
+- [Deepgram](deepgram.md) — Voice AI infrastructure
 - [Devo](devo.md) — Cybersecurity
 - [Directus](directus.md) — Content management
 - [DistroKid](distrokid.md) — Music technology
@@ -93,6 +95,7 @@
 - [Factorial](factorial.md) — Business software
 - [Fastly](fastly.md) — Cloud infrastructure
 - [Fever](fever.md) — Events marketplace
+- [Fieldguide](fieldguide.md) — Audit and accounting software
 - [Figma](figma.md) — Design software
 - [Fingerprint](fingerprint.md) — Fraud prevention
 - [Finom](finom.md) — Business financial services
@@ -112,6 +115,7 @@
 - [HexGrid Cloud](hexgrid-cloud.md) — AI infrastructure
 - [Higharc](higharc.md) — Construction software
 - [Hilo by Aktiia](hilo.md) — Digital health
+- [Horizon3.ai](horizon3-ai.md) — Cybersecurity / autonomous penetration testing
 - [Hostaway](hostaway.md) — Hospitality software
 - [Hubstaff](hubstaff.md) — Workforce management software
 - [Hunter](hunter.md) — Sales software
@@ -145,6 +149,8 @@
 - [MailerLite](mailerlite.md) — Marketing software
 - [Maisa](maisa.md) — Enterprise AI
 - [Mango](mango.md) — Fashion retail
+- [Marqeta](marqeta.md) — Fintech / card issuing and embedded finance
+- [Maven Clinic](maven-clinic.md) — Digital health / women’s and family care
 - [Maze](maze.md) — User research software
 - [Mentimeter](mentimeter.md) — Presentation software
 - [Mercadona Tech](mercadona-tech.md) — Retail technology
@@ -153,6 +159,7 @@
 - [Mistral AI](mistral-ai.md) — Artificial intelligence
 - [Mitek Systems](mitek-systems.md) — Identity verification
 - [MITO AI](mito-ai.md) — Creative software
+- [Mitratech](mitratech.md) — Legal technology / governance, risk and compliance
 - [Modash.io](modash-io.md) — Marketing software
 - [Moka Care](moka-care.md) — Employee mental health
 - [Molecule](molecule.md) — Research technology
@@ -177,6 +184,7 @@
 - [Oyster](oyster.md) — HR technology
 - [Paddle](paddle.md) — Payments software
 - [PandaDoc](pandadoc.md) — Document software
+- [Pantheon](pantheon.md) — Web infrastructure and WebOps
 - [Parloa](parloa.md) — Customer support software
 - [PcComponentes](pccomponentes.md) — Electronics retail
 - [Pencil](pencil.md) — Generative AI and advertising software
@@ -193,16 +201,19 @@
 - [Profile Software Services](profile-software-services.md) — Software consulting
 - [Prosper AI](prosper-ai.md) — Healthcare ai
 - [Qualifyze](qualifyze.md) — Pharmaceutical compliance software
+- [Reddit](reddit.md) — Social platform / online communities
 - [Remote](remote.md) — Employment software
 - [Resend](resend.md) — Developer tools
 - [RevenueCat](revenuecat.md) — Subscription infrastructure
 - [Revolut](revolut.md) — Financial services
 - [RoomPriceGenie](roompricegenie.md) — Hospitality software
+- [Runway](runway.md) — Generative AI / creative software
 - [Safeguard Global](safeguard-global.md) — Global workforce services
 - [SafetyWing](safetywing.md) — Insurance
 - [Sanity](sanity.md) — Content management software
 - [Scaleway](scaleway.md) — Cloud infrastructure
 - [Secfix](secfix.md) — Security compliance
+- [Second Front](second-front.md) — Defense technology / secure software delivery
 - [Seedtag](seedtag.md) — Advertising technology
 - [SerpApi](serpapi.md) — Developer tools
 - [Shakers](shakers.md) — Talent marketplace
@@ -226,6 +237,7 @@
 - [Sword Health](sword-health.md) — Digital health
 - [Synthesia](synthesia.md) — AI video software
 - [T-Systems Iberia](t-systems-iberia.md) — IT services
+- [Tailscale](tailscale.md) — Networking and security
 - [Teamwire](teamwire.md) — Business communications
 - [Techsoulogy](techsoulogy.md) — Advertising technology
 - [Tempo](tempo.md) — Project management software
@@ -245,6 +257,7 @@
 - [Upsun](upsun.md) — Cloud application platform
 - [Valdyr (formerly Telness Tech)](valdyr.md) — Telecom operations software
 - [Valsea Technologies](valsea-technologies.md) — Software development services
+- [Vanta](vanta.md) — Security compliance software
 - [Veeva Systems](veeva-systems.md) — Life sciences software
 - [Vercel](vercel.md) — Cloud development platform
 - [VistaPrint](vistaprint.md) — Custom printing
@@ -264,3 +277,4 @@
 - [Yuno](yuno.md) — Payments technology
 - [Zapier](zapier.md) — Workflow automation
 - [Zed](zed.md) — Developer tools
+- [Zero Hash](zero-hash.md) — Fintech / digital-asset infrastructure

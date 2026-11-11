@@ -7,16 +7,18 @@
     "website": "https://1password.com/",
     "careers_url": "https://jobs.ashbyhq.com/1password",
     "remote_signal": "mixed_or_restricted",
-    "remote_note": "Official postings checked on 4 November 2026 include remote roles in Germany and the United Kingdom alongside hybrid and North America-only roles. The Germany enterprise sales role is home-based but requires territory travel and in-person onboarding in Toronto. Remote work means working from the approved home country, not from anywhere in Europe.",
-    "record_reviewed_at": "2026-11-04",
-    "public_sources_checked_at": "2026-11-04",
+    "remote_note": "Senior Commercial Deal Desk Analyst is explicitly remote within the UK. Enterprise DACH sales is home-office based in Germany with customer travel. GTM hires attend onboarding in Toronto; occasional offsite travel applies. Some London roles are actually hybrid despite Remote ATS metadata. No Spain eligibility confirmed.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
     "sources": [
       "https://1password.com/",
       "https://1password.com/careers",
       "https://jobs.ashbyhq.com/1password",
-      "https://jobs.ashbyhq.com/1password/17daeab3-9eb2-439c-88d3-91afd8dd2c63"
+      "https://jobs.ashbyhq.com/1password/17daeab3-9eb2-439c-88d3-91afd8dd2c63",
+      "https://jobs.ashbyhq.com/1password/c44b3a46-5d1f-4d90-917f-5d1b19ffb835",
+      "https://api.ashbyhq.com/posting-api/job-board/1password"
     ],
-    "verification_note": "Remote-first and in-office arrangements coexist. Country, department and travel restrictions vary by role; this evidence does not establish Spain eligibility."
+    "verification_note": "Current public roles independently checked; prior inclusion was not used as evidence. No Spain-eligible current role found; this is not a universal hiring ban."
   },
   {
     "id": "citibox",
@@ -81,14 +83,16 @@
     "website": "https://www.affirm.com/",
     "careers_url": "https://job-boards.greenhouse.io/affirm",
     "remote_signal": "spain_remote_signal",
-    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
-    "record_reviewed_at": "2026-10-21",
-    "public_sources_checked_at": "2026-11-02",
+    "remote_note": "Analytics Engineer II, Full Stack (Revenue Analytics) is Remote Spain and requires Spain residence; this posting offers visa sponsorship. The live board also lists Remote Poland and Remote UK positions. Work is generally within the country of employment, not unrestricted cross-border remote; onboarding is in person and some roles require occasional office work.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
     "sources": [
       "https://www.affirm.com/",
-      "https://job-boards.greenhouse.io/affirm"
+      "https://job-boards.greenhouse.io/affirm",
+      "https://www.affirm.com/careers",
+      "https://job-boards.greenhouse.io/affirm/jobs/7916080003"
     ],
-    "verification_note": ""
+    "verification_note": "Careers extraction displayed zero openings because of dynamic rendering; the live public Greenhouse API and actual Spain role were read instead. Eligibility varies by role."
   },
   {
     "id": "airalo",
@@ -4518,5 +4522,262 @@
       "https://jobs.ashbyhq.com/splitmetrics/265b0ef3-23cb-4d97-8795-a85c0e4b82c5"
     ],
     "verification_note": "The employer explicitly warns that remote roles may have country-specific eligibility requirements. European time-zone coverage is not an all-country employment guarantee. Confirm work authorization, precise collaboration hours and retreat attendance requirements for each vacancy."
+  },
+  {
+    "id": "zero-hash",
+    "name": "Zero Hash",
+    "description": "Zero Hash supplies APIs and infrastructure for digital-asset trading, stablecoin payments and tokenization.",
+    "category": "Fintech / digital-asset infrastructure",
+    "website": "https://zerohash.com",
+    "careers_url": "https://zero-hash.breezy.hr/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Director of Enterprise Sales, Payments - EMEA is explicitly remote in the United Kingdom or Netherlands, with travel up to 40%. The live ATS lists both countries as fully remote within chosen locations. Other roles have different country limits; no Spain location was found in the checked board.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://zero-hash.breezy.hr/",
+      "https://zero-hash.breezy.hr/p/148eca65cbd2-director-of-enterprise-sales-payments-emea",
+      "https://zero-hash.breezy.hr/json"
+    ],
+    "verification_note": "Official role text and ATS JSON read. The extracted role body omitted its location header, so public HTML metadata and JSON were checked. UK and Netherlands do not imply Spain eligibility."
+  },
+  {
+    "id": "marqeta",
+    "name": "Marqeta",
+    "description": "Marqeta supplies a card-issuing platform for issuing cards, authorizing transactions and managing payment operations.",
+    "category": "Fintech / card issuing and embedded finance",
+    "website": "https://marqeta.com",
+    "careers_url": "https://www.marqeta.com/company/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Vendor Management Senior Analyst - UK can be remote within the UK. Employees within 35 miles of the London office must attend Tuesday and Thursday each week. Other checked UK and Poland openings are hybrid; this UK role does not establish EU or Spain remote eligibility.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.marqeta.com/company/careers",
+      "https://jobs.ashbyhq.com/marqeta-inc",
+      "https://jobs.ashbyhq.com/marqeta-inc/a04aac2d-6777-40a3-afe7-1deb5b1f5512",
+      "https://api.ashbyhq.com/posting-api/job-board/marqeta-inc"
+    ],
+    "verification_note": "Positive is UK-specific and conditional on distance from London. No Spain opening found in current ATS locations; not proof Spain hiring never occurs."
+  },
+  {
+    "id": "horizon3-ai",
+    "name": "Horizon3.ai",
+    "description": "Horizon3.ai develops NodeZero, a platform for autonomous penetration testing and validating exploitable security weaknesses.",
+    "category": "Cybersecurity / autonomous penetration testing",
+    "website": "https://horizon3.ai",
+    "careers_url": "https://horizon3.ai/join-our-team/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Enterprise Account Executive, Spain - Catalonia explicitly allows remote work within Catalonia, not anywhere in Spain, and requires Catalan fluency. Travel up to 50% within the assigned territory may be required. Other official listings include remote roles in France and Germany; eligibility remains role-specific.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://horizon3.ai/join-our-team/",
+      "https://jobs.ashbyhq.com/horizon3ai/a6ef78b8-406c-4c13-a918-4a7ac6d7af77",
+      "https://api.ashbyhq.com/posting-api/job-board/horizon3ai"
+    ],
+    "verification_note": "Full role description read through the official public Ashby API. This Spain role lacks workplaceType metadata, but its actual description explicitly states remote Catalonia. Do not generalize to engineering or all Spanish regions."
+  },
+  {
+    "id": "second-front",
+    "name": "Second Front",
+    "description": "Second Front Systems develops software-delivery and compliance products that help commercial software reach government and defense users.",
+    "category": "Defense technology / secure software delivery",
+    "website": "https://secondfront.com",
+    "careers_url": "https://www.secondfront.com/careers/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Strategic Business Development Lead, Continental Europe is EU-wide remote, including Spain under its explicit anywhere-in-the-EU scope. Netherlands and Denmark are preferred, not mandatory; EU residency and existing work authorization are required, without sponsorship, and regular continental travel is expected. Platform Engineer is remote anywhere in the EU but additionally requires EU citizenship. Solutions Engineer requires EU residence/work authorization and EMEA travel.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.secondfront.com/careers/",
+      "https://api.ashbyhq.com/posting-api/job-board/Second-Front-Systems",
+      "https://jobs.ashbyhq.com/Second-Front-Systems/1fc01aaf-05fe-4da7-98df-4a6f0425c681",
+      "https://jobs.ashbyhq.com/Second-Front-Systems/2171c580-fc91-4c66-b39c-542219248bd0",
+      "https://jobs.ashbyhq.com/Second-Front-Systems/4df6d490-238a-470a-834b-118ab3883203"
+    ],
+    "verification_note": "Full official ATS descriptions read. Spain is confirmed through explicit EU-wide/anywhere-in-EU eligibility, not a Spain-named listing. Citizenship and clearance conditions differ by role; US-specific restrictions in other openings should not be generalized."
+  },
+  {
+    "id": "fieldguide",
+    "name": "Fieldguide",
+    "description": "Fieldguide develops AI-assisted software for audit, assurance and advisory practices.",
+    "category": "Audit and accounting software",
+    "website": "https://fieldguide.com",
+    "careers_url": "https://www.fieldguide.com/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Current Director, Financial Audit, EMEA role is Remote (UK). Customer onsites are part of the work; company offsites support its distributed team. No Spain-specific opening or eligible-country policy was found.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.fieldguide.com/careers",
+      "https://jobs.ashbyhq.com/fieldguide/c6634753-adfe-4622-82b7-9fda9892e497",
+      "https://api.ashbyhq.com/posting-api/job-board/Fieldguide"
+    ],
+    "verification_note": "Europe-wide wording does not establish employment eligibility in Spain. UK evidence is not EU evidence."
+  },
+  {
+    "id": "vanta",
+    "name": "Vanta",
+    "description": "Vanta builds software for security compliance, risk management and demonstrating organizational trust.",
+    "category": "Security compliance software",
+    "website": "https://vanta.com",
+    "careers_url": "https://www.vanta.com/company/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Staff Software Engineer, AI and Data Risk is remote-first in the UK and Ireland. London-area engineers must attend 2–3 days weekly; elsewhere in those countries requires London travel roughly quarterly, under 20% of working time. Other international roles are often hybrid. Spain is not confirmed.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.vanta.com/company/careers",
+      "https://jobs.ashbyhq.com/vanta/31cdf07c-21ab-460c-912e-f288dc38090e",
+      "https://jobs.ashbyhq.com/vanta/06fbe631-946a-4628-a3f8-9d5d523b9fb2",
+      "https://api.ashbyhq.com/posting-api/job-board/vanta"
+    ],
+    "verification_note": "Role-level evidence is more specific than the careers-page international-hybrid summary. No Spain-specific eligible role found."
+  },
+  {
+    "id": "chainguard",
+    "name": "Chainguard",
+    "description": "Chainguard supplies hardened open-source software and container images to help secure software supply chains.",
+    "category": "Software supply-chain security",
+    "website": "https://chainguard.dev",
+    "careers_url": "https://www.chainguard.dev/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Senior Software Engineer, Containers explicitly accepts remote candidates in Germany and the UK, alongside US and Canada; no visa sponsorship or relocation. Other roles include France remote. Destination summits and team meetups are part of the remote-first culture. Europe-labelled marketing roles do not explicitly establish Spain payroll eligibility.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.chainguard.dev/careers",
+      "https://job-boards.greenhouse.io/chainguard/jobs/4725945006"
+    ],
+    "verification_note": "No Spain-specific official role or country list found. One Europe-labelled BDR role actually requires being based in UAE, so its regional label was not counted as European evidence."
+  },
+  {
+    "id": "tailscale",
+    "name": "Tailscale",
+    "description": "Tailscale provides encrypted networking software that connects users, devices and services across private networks.",
+    "category": "Networking and security",
+    "website": "https://tailscale.com",
+    "careers_url": "https://tailscale.com/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Customer Support Engineer (Tier 1) is Remote (United Kingdom); a UK ABM Campaign Manager role is also listed. Most teams work remotely, but some roles require office collaboration. Annual retreats and team offsites support in-person connection. No Spain-eligible current role was found.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://tailscale.com/careers",
+      "https://job-boards.greenhouse.io/tailscale/jobs/4724314005"
+    ],
+    "verification_note": "UK counts as Europe, not EU or Spain. Global/anywhere culture language does not establish Spain hiring eligibility."
+  },
+  {
+    "id": "deepgram",
+    "name": "Deepgram",
+    "description": "Deepgram develops speech recognition, speech synthesis and voice-agent infrastructure delivered through APIs and deployable models.",
+    "category": "Voice AI infrastructure",
+    "website": "https://deepgram.com",
+    "careers_url": "https://deepgram.com/careers",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Senior Solutions Architect - Europe explicitly permits remote work from United Kingdom, Ireland, Switzerland and Spain. Regional customer travel is estimated at 10–20%; reliable EMEA-business-hours overlap, regional meetups and an appropriate on-call rotation are expected. This is role-specific, not unrestricted global remote work.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://deepgram.com/careers",
+      "https://jobs.ashbyhq.com/Deepgram/9cb09363-9b68-4957-869a-da70b95ad6bd",
+      "https://api.ashbyhq.com/posting-api/job-board/deepgram"
+    ],
+    "verification_note": "Current Ashby feed and actual role page checked. Search-index copies listed additional countries; the current actual role content has the narrower four-country list used here."
+  },
+  {
+    "id": "pantheon",
+    "name": "Pantheon",
+    "description": "Pantheon provides managed hosting and WebOps tools for teams developing and operating websites.",
+    "category": "Web infrastructure and WebOps",
+    "website": "https://pantheon.io",
+    "careers_url": "https://pantheon.io/about/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Senior Engineering Manager, Customer Runtimes is Ireland (Remote) and explicitly must be based in Ireland. Scheduling flexibility is expected for cross-timezone standups and incident response with North American and European teams. No Spain eligibility found.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://pantheon.io/about/careers",
+      "https://boards-api.greenhouse.io/v1/boards/pantheon/jobs/8349097"
+    ],
+    "verification_note": "The public role-detail web page did not render its job content through extraction; the official Greenhouse API supplied the full role content and current listing. No Spain role found."
+  },
+  {
+    "id": "runway",
+    "name": "Runway",
+    "description": "Runway develops generative AI models and creative tools for video, images, and world simulation.",
+    "category": "Generative AI / creative software",
+    "website": "https://runway.com",
+    "careers_url": "https://runway.com/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Confirmed UK remote hiring: Mid-Market Account Executive explicitly permits remote in London, UK; other roles permit North America and London or the UK. This is not evidence of Spain eligibility. Some positions require customer travel, and global offices or generic Remote labels should not be interpreted as unrestricted worldwide hiring.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://runway.com/careers",
+      "https://jobs.ashbyhq.com/runway-ml/e20a834c-9efa-4a0d-ab63-3c123d0c7d41",
+      "https://jobs.ashbyhq.com/runway-ml/6da9edec-0ad7-4871-b51f-cc2714688d91",
+      "https://api.ashbyhq.com/posting-api/job-board/runway-ml"
+    ],
+    "verification_note": "Reviewed the official Runway AI site and its runway-ml Ashby feed (48 postings). No Spain-specific eligibility found. This is Runway AI, not financial-planning or other Runway businesses."
+  },
+  {
+    "id": "reddit",
+    "name": "Reddit",
+    "description": "Reddit operates an online platform where people form communities to discuss interests, share content, and exchange information.",
+    "category": "Social platform / online communities",
+    "website": "https://reddit.com",
+    "careers_url": "https://redditinc.com/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Current roles explicitly list remote work in the United Kingdom, Ireland, and the Netherlands. Examples include Global Indirect Tax Manager (Ireland/UK), community contracts, and engineering roles (UK/Netherlands). Product Catalogs is tagged remote but its body also says Amsterdam or London office-based; clarify attendance for that role. No Spain remote listing found.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://redditinc.com/careers",
+      "https://job-boards.greenhouse.io/reddit/jobs/8189899",
+      "https://job-boards.greenhouse.io/reddit/jobs/8330469",
+      "https://job-boards.greenhouse.io/reddit/jobs/8143677"
+    ],
+    "verification_note": "Reviewed 157 live postings from the official Greenhouse feed. UK counts as Europe but not the EU; no inference of Spain eligibility from other European locations."
+  },
+  {
+    "id": "maven-clinic",
+    "name": "Maven Clinic",
+    "description": "Maven Clinic delivers virtual care and support for fertility, maternity, parenting, menopause, and other women’s and family-health needs.",
+    "category": "Digital health / women’s and family care",
+    "website": "https://mavenclinic.com",
+    "careers_url": "https://www.mavenclinic.com/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Future clinical-provider eligibility only, not current corporate hiring. Current corporate vacancies are US-oriented, with New York hybrid attendance and US remote/hub-city arrangements. IMPORTANT: the separate International Provider Talent Community explicitly accepts residents of France, Germany, Italy, Poland, Spain, Switzerland, and the United Kingdom (plus non-European countries) for virtual care, requires an active specialty certification/license and approximately 5–10 weekly direct-care hours. However it explicitly says future opportunities, not a current specific European vacancy; therefore it is not counted as current remote hiring or current Spain confirmation.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.mavenclinic.com/careers",
+      "https://job-boards.greenhouse.io/mavenclinic/jobs/7671109002",
+      "https://job-boards.greenhouse.io/mavenclinicproviders/jobs/6258794002",
+      "https://www.mavenclinic.com/practitioners"
+    ],
+    "verification_note": "Reviewed 31 corporate postings and all 14 entries in the separate official 1099 provider board linked from the practitioner page. The European/Spain provider route is a talent pool only, not verified immediate hiring. Corporate roles can require NYC onsite Tuesday–Thursday and monthly Work Together Days in other US hubs. This deliberately separates future eligibility from current openings."
+  },
+  {
+    "id": "mitratech",
+    "name": "Mitratech",
+    "description": "Mitratech supplies enterprise software for legal operations, risk, compliance, and human resources.",
+    "category": "Legal technology / governance, risk and compliance",
+    "website": "https://mitratech.com",
+    "careers_url": "https://mitratech.com/about-us/careers/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Official openings include Senior Software Engineer - AI/ML in Germany (remote) and Principal AI Engineer in the UK (remote-first). The UK role offers optional in-person collaboration sessions. These are country-specific examples, not authorization to work from any European country; Spain was not listed or otherwise confirmed.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://mitratech.com/about-us/careers/",
+      "https://job-boards.greenhouse.io/mitratech",
+      "https://job-boards.greenhouse.io/mitratech/jobs/8038251",
+      "https://job-boards.greenhouse.io/mitratech/jobs/8059183"
+    ],
+    "verification_note": "Confirmation applies to Germany and the United Kingdom. The UK is in Europe but not the EU. No explicit Spain eligibility, relocation, cross-border employment, or travel frequency commitment was found."
   }
 ]

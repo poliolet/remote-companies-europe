@@ -7,14 +7,14 @@
 - **Jobs / careers:** [Careers](https://jobs.ashbyhq.com/1password)
 - **Historical remote signal:** Hybrid or country-restricted evidence
 
-Official postings checked on 4 November 2026 include remote roles in Germany and the United Kingdom alongside hybrid and North America-only roles. The Germany enterprise sales role is home-based but requires territory travel and in-person onboarding in Toronto. Remote work means working from the approved home country, not from anywhere in Europe.
+Senior Commercial Deal Desk Analyst is explicitly remote within the UK. Enterprise DACH sales is home-office based in Germany with customer travel. GTM hires attend onboarding in Toronto; occasional offsite travel applies. Some London roles are actually hybrid despite Remote ATS metadata. No Spain eligibility confirmed.
 
-- **Historical record reviewed:** 2026-11-04
-- **Public-source research date:** 2026-11-04
+- **Historical record reviewed:** 2026-11-11
+- **Public-source research date:** 2026-11-11
 
 ## Verification caveat
 
-Remote-first and in-office arrangements coexist. Country, department and travel restrictions vary by role; this evidence does not establish Spain eligibility.
+Current public roles independently checked; prior inclusion was not used as evidence. No Spain-eligible current role found; this is not a universal hiring ban.
 
 ## Sources
 
@@ -22,6 +22,8 @@ Remote-first and in-office arrangements coexist. Country, department and travel 
 - https://1password.com/careers
 - https://jobs.ashbyhq.com/1password
 - https://jobs.ashbyhq.com/1password/17daeab3-9eb2-439c-88d3-91afd8dd2c63
+- https://jobs.ashbyhq.com/1password/c44b3a46-5d1f-4d90-917f-5d1b19ffb835
+- https://api.ashbyhq.com/posting-api/job-board/1password
 
 Country eligibility, current openings and attendance requirements must be checked for the individual role.
 

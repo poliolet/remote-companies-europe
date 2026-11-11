@@ -1,6 +1,6 @@
 # Remote companies — Europe & Spain
 
-A public, source-linked directory of **259 companies** for people researching remote-friendly work in Europe, with particular attention to Spain.
+A public, source-linked directory of **262 companies** for people researching remote-friendly work in Europe, with particular attention to Spain.
 
 **This is a research directory, not a guarantee of current vacancies or eligibility.** Some entries have only historical signals, mixed hybrid policies or country restrictions. Always read the actual vacancy and confirm employment country, office attendance, timezone and contract terms. “Remote” does not mean “work from any country”.
 
@@ -16,8 +16,8 @@ A public, source-linked directory of **259 companies** for people researching re
 
 *These labels summarize historical research signals, not freshly verified company-wide policies.*
 
-- **Spain remote signal:** 177
-- **Europe / EMEA remote signal:** 20
+- **Spain remote signal:** 179
+- **Europe / EMEA remote signal:** 21
 - **Global / distributed signal:** 11
 - **Hybrid or country-restricted evidence:** 27
 - **Needs verification:** 24
@@ -72,6 +72,7 @@ A public, source-linked directory of **259 companies** for people researching re
 | [CARTO](companies/carto.md) | CARTO develops a cloud-based geospatial platform that enables organizations to analyze location data within their existing cloud environments. | Spain remote signal | [Website](https://carto.com/) · [Careers](https://carto.pinpointhq.com/) |
 | [Checkly](companies/checkly.md) | Checkly develops application monitoring software that helps developers and AI agents assess service reliability and detect application failures. | Spain remote signal | [Website](https://www.checklyhq.com/) · [Careers](https://jobs.ashbyhq.com/checkly) |
 | [Chess.com](companies/chess-com.md) | Chess.com operates an online chess platform where people play games, practice skills, and learn about chess. | Spain remote signal | [Website](https://www.chess.com/) · [Careers](https://www.chess.com/jobs) |
+| [Chili Piper](companies/chili-piper.md) | Chili Piper develops software for inbound lead qualification, routing, meeting scheduling and automated marketing follow-up. | Europe / EMEA remote signal | [Website](https://www.chilipiper.com/) · [Careers](https://jobs.ashbyhq.com/chilipiper) |
 | [Circle](companies/circle.md) | Circle provides software for businesses and creators to operate branded online communities, courses, and events in one platform. | Spain remote signal | [Website](https://circle.so/) · [Careers](https://circle.so/careers) |
 | [Citibox](companies/citibox.md) | Citibox operates residential smart parcel mailboxes and an app that helps residents receive and return online purchases without waiting for a courier. | Spain remote signal | [Website](https://citibox.com/) · [Careers](https://citibox.com/en/job-offers) |
 | [Civo](companies/civo.md) | Civo provides cloud infrastructure and artificial intelligence platforms for organizations running public cloud, private cloud, and AI workloads. | Spain remote signal | [Website](https://www.civo.com) · [Careers](https://careers.civo.com/jobs) |
@@ -135,6 +136,7 @@ A public, source-linked directory of **259 companies** for people researching re
 | [HexGrid Cloud](companies/hexgrid-cloud.md) | HexGrid Cloud provides dedicated GPU hosting, managed ComfyUI environments, and deployment tools for generative AI models and creative workflows. | Global / distributed signal | [Website](https://hexgrid.cloud/) · [Careers](https://wellfound.com/company/hexgrid-cloud) |
 | [Higharc](companies/higharc.md) | Higharc develops software for homebuilders to design houses, configure plans, generate estimates, create visualizations, and prepare construction documentation. | Europe / EMEA remote signal | [Website](https://www.higharc.com/) · [Careers](https://jobs.ashbyhq.com/higharc) |
 | [Hilo by Aktiia](companies/hilo.md) | Hilo by Aktiia develops a wearable blood pressure monitoring system and companion app for continuous cardiovascular health insights. | Spain remote signal | [Website](https://hilo.com/en-gb) · [Careers](https://apply.workable.com/hilobyaktiia/) |
+| [Hostaway](companies/hostaway.md) | Hostaway provides vacation-rental management software that helps property managers coordinate bookings, distribution and operations. | Spain remote signal | [Website](https://www.hostaway.com/) · [Careers](https://careers.hostaway.com/) |
 | [Hubstaff](companies/hubstaff.md) | Hubstaff provides time tracking and productivity software that helps teams manage working hours, labor costs, payments, and performance insights. | Spain remote signal | [Website](https://hubstaff.com/) · [Careers](https://jobs.ashbyhq.com/hubstaff) |
 | [Hunter](companies/hunter.md) | Hunter develops software for finding and verifying business email addresses and managing outbound email campaigns for sales teams. | Spain remote signal | [Website](https://hunter.io/) · [Careers](https://hunter.io/careers) |
 | [Immersive](companies/immersive.md) | Immersive provides cybersecurity simulations, practical labs, and performance benchmarking to help organizations assess and improve their readiness for cyber threats. | Europe / EMEA remote signal | [Website](https://www.immersivelabs.com/) · [Careers](https://www.immersivelabs.com/company/careers) |
@@ -236,6 +238,7 @@ A public, source-linked directory of **259 companies** for people researching re
 | [Sngular](companies/sngular.md) | Sngular provides technology consulting and development services specializing in software engineering, data systems, and artificial intelligence. | Spain remote signal | [Website](https://www.sngular.com/) · [Careers](https://www.sngular.com/talent-and-culture/jobs) |
 | [Sourcegraph](companies/sourcegraph.md) | Sourcegraph develops code intelligence software that gives developers and AI agents searchable context across large and complex software codebases. | Spain remote signal | [Website](https://sourcegraph.com/) · [Careers](https://job-boards.greenhouse.io/sourcegraph91) |
 | [Sovendus](companies/sovendus.md) | Sovendus operates a brand partnership platform that connects retailers with shoppers to support customer acquisition and generate additional sales. | Spain remote signal | [Website](https://web.sovendus.com/) · [Careers](https://web.sovendus.com/de/career/job-offers) |
+| [SplitMetrics](companies/splitmetrics.md) | SplitMetrics provides mobile marketing software and services for Apple Ads optimization, app-store experimentation, market intelligence and user acquisition. | Spain remote signal | [Website](https://splitmetrics.com/) · [Careers](https://jobs.ashbyhq.com/splitmetrics) |
 | [Spotify](companies/spotify.md) | Spotify operates a digital audio streaming service offering access to music, podcasts, and audiobooks through its applications and web player. | Needs verification | [Website](https://open.spotify.com/) · [Careers](https://www.lifeatspotify.com/jobs) |
 | [Sticker Mule](companies/sticker-mule.md) | Sticker Mule produces custom printed stickers, labels, packaging, and related products through an online ordering service. | Spain remote signal | [Website](https://www.stickermule.com/) · [Careers](https://jobs.ashbyhq.com/stickermule) |
 | [Storelink / Comply](companies/storelink-comply.md) | Storelink develops Comply, a Shopify application that automates fiscal compliance by connecting merchant transactions with relevant tax authorities. | Spain remote signal | [Website](https://complyapp.io/) · [Careers](https://www.getmanfred.com/ofertas-empleo/8471/storelink-node-backend-developer-sept26) |

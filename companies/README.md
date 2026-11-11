@@ -48,6 +48,7 @@
 - [CARTO](carto.md) — Geospatial analytics
 - [Checkly](checkly.md) — Developer tools
 - [Chess.com](chess-com.md) — Gaming and education
+- [Chili Piper](chili-piper.md) — Sales and marketing software
 - [Circle](circle.md) — Community software
 - [Citibox](citibox.md) — Logistics technology
 - [Civo](civo.md) — Cloud infrastructure
@@ -111,6 +112,7 @@
 - [HexGrid Cloud](hexgrid-cloud.md) — AI infrastructure
 - [Higharc](higharc.md) — Construction software
 - [Hilo by Aktiia](hilo.md) — Digital health
+- [Hostaway](hostaway.md) — Hospitality software
 - [Hubstaff](hubstaff.md) — Workforce management software
 - [Hunter](hunter.md) — Sales software
 - [Immersive](immersive.md) — Cybersecurity training
@@ -212,6 +214,7 @@
 - [Sngular](sngular.md) — Technology consulting
 - [Sourcegraph](sourcegraph.md) — Developer tools
 - [Sovendus](sovendus.md) — Marketing technology
+- [SplitMetrics](splitmetrics.md) — Mobile marketing technology
 - [Spotify](spotify.md) — Audio streaming
 - [Sticker Mule](sticker-mule.md) — Custom printing
 - [Storelink / Comply](storelink-comply.md) — Tax compliance software

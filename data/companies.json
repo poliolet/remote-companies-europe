@@ -4464,5 +4464,59 @@
       "https://jobs.ashbyhq.com/pencil/fc1ee4b5-1bd2-48bf-942d-c0508d70c354"
     ],
     "verification_note": "Spain-specific eligibility, the employing entity or EOR, visa sponsorship and any travel or attendance requirements are not explicitly confirmed by the inspected posting. Confirm these terms for the individual vacancy; EMEA does not establish eligibility in every country."
+  },
+  {
+    "id": "chili-piper",
+    "name": "Chili Piper",
+    "description": "Chili Piper develops software for inbound lead qualification, routing, meeting scheduling and automated marketing follow-up.",
+    "category": "Sales and marketing software",
+    "website": "https://www.chilipiper.com/",
+    "careers_url": "https://jobs.ashbyhq.com/chilipiper",
+    "remote_signal": "europe_remote_signal",
+    "remote_note": "The official Sr. Customer Success Manager posting checked on 11 November 2026 explicitly hires within EMEA and is marked full-time remote. It describes a fully distributed team, weekly all-hands attendance on Zoom and annual company retreats. This establishes a regional remote hiring signal, not employment eligibility in every EMEA country.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.chilipiper.com/",
+      "https://jobs.ashbyhq.com/chilipiper",
+      "https://jobs.ashbyhq.com/chilipiper/9caf9cb4-b51d-4f20-b269-dadca1c1f2a9"
+    ],
+    "verification_note": "The posting's broad work-from-anywhere language is not a verified country-employment list. Confirm Spain eligibility, work authorization, meeting hours and retreat attendance for each role."
+  },
+  {
+    "id": "hostaway",
+    "name": "Hostaway",
+    "description": "Hostaway provides vacation-rental management software that helps property managers coordinate bookings, distribution and operations.",
+    "category": "Hospitality software",
+    "website": "https://www.hostaway.com/",
+    "careers_url": "https://careers.hostaway.com/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "The official careers page describes a 100% remote company. An inbound sales posting checked on 11 November 2026 explicitly lists Spain and Italy and requires candidates to be physically based in Europe for collaboration. Its benefits define remote work as working anywhere within the country of residence, not unrestricted international mobility.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.hostaway.com/",
+      "https://careers.hostaway.com/",
+      "https://careers.hostaway.com/o/inbound-sales-development-representative-spanish-and-italian-speaking-100-remote-europe"
+    ],
+    "verification_note": "The selected posting says the displayed city or country is not itself mandatory, but residence in Europe is. Other openings target different regions. Confirm permitted employment country, work authorization, collaboration hours and any travel or attendance requirements per role."
+  },
+  {
+    "id": "splitmetrics",
+    "name": "SplitMetrics",
+    "description": "SplitMetrics provides mobile marketing software and services for Apple Ads optimization, app-store experimentation, market intelligence and user acquisition.",
+    "category": "Mobile marketing technology",
+    "website": "https://splitmetrics.com/",
+    "careers_url": "https://jobs.ashbyhq.com/splitmetrics",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "The official Backend Team Lead (Python) posting checked on 11 November 2026 is full-time remote and lists European time zones, Portugal, Spain and Ukraine. It describes remote-first work, optional workspace support and offline team retreats. Other official openings also list Spain, with location eligibility varying by position.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://splitmetrics.com/",
+      "https://jobs.ashbyhq.com/splitmetrics",
+      "https://jobs.ashbyhq.com/splitmetrics/265b0ef3-23cb-4d97-8795-a85c0e4b82c5"
+    ],
+    "verification_note": "The employer explicitly warns that remote roles may have country-specific eligibility requirements. European time-zone coverage is not an all-country employment guarantee. Confirm work authorization, precise collaboration hours and retreat attendance requirements for each vacancy."
   }
 ]

@@ -5,17 +5,22 @@ Automattic develops publishing, commerce, and communication products, including 
 - **Category:** Publishing software
 - **Website:** [Website](https://automattic.com/)
 - **Jobs / careers:** [Careers](https://automattic.com/jobs/)
-- **Historical remote signal:** Europe / EMEA remote signal
+- **Historical remote signal:** Spain remote signal
 
-Historical research found a Europe/EMEA or compatible-timezone remote-work signal. This does not establish Spanish employment eligibility.
+The recruiting policy explicitly offers remote opportunities and work from anywhere with internet access. Worldwide policy supports monitoring, including Spain at policy level only; it does not guarantee Spanish payroll, residence approval or a particular live role.
 
-- **Historical record reviewed:** 2026-10-28
-- **Public-source research date:** 2026-11-02
+- **Historical record reviewed:** 2026-11-11
+- **Public-source research date:** 2026-11-11
+
+## Verification caveat
+
+Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified.
 
 ## Sources
 
 - https://automattic.com/
 - https://automattic.com/jobs/
+- https://automattic.com/work-with-us/
 
 Country eligibility, current openings and attendance requirements must be checked for the individual role.
 

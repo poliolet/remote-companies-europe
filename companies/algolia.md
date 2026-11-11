@@ -7,10 +7,14 @@ Algolia provides search and retrieval infrastructure that businesses integrate i
 - **Jobs / careers:** [Careers](https://job-boards.greenhouse.io/algolia)
 - **Historical remote signal:** Hybrid or country-restricted evidence
 
-Historical evidence includes hybrid attendance, mixed arrangements or country restrictions. Do not assume this employer offers fully remote work from Spain.
+Current official board lists remote roles in Germany and the Netherlands. Algolia explicitly restricts remote postings to the country named; city postings may be hybrid or office-based. Spain is not established by these roles and the temporary work-from-anywhere benefit is not country eligibility.
 
-- **Historical record reviewed:** 2026-10-13
-- **Public-source research date:** 2026-11-02
+- **Historical record reviewed:** 2026-11-11
+- **Public-source research date:** 2026-11-11
+
+## Verification caveat
+
+Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified.
 
 ## Sources
 

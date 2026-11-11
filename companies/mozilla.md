@@ -7,15 +7,20 @@ Mozilla develops Firefox and other internet products while supporting privacy, u
 - **Jobs / careers:** [Careers](https://www.mozilla.org/en-US/careers/listings/)
 - **Historical remote signal:** Spain remote signal
 
-Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.
+The current official board lists Senior Product Manager, Mobile with Remote Spain and other named countries. This is specific-role Spain eligibility, not permission to work from every country or a guarantee for all Mozilla roles.
 
-- **Historical record reviewed:** 2026-10-12
-- **Public-source research date:** 2026-11-02
+- **Historical record reviewed:** 2026-11-11
+- **Public-source research date:** 2026-11-11
+
+## Verification caveat
+
+Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified.
 
 ## Sources
 
 - https://www.mozilla.org/
 - https://www.mozilla.org/en-US/careers/listings/
+- https://careers.mozilla.org/listings
 
 Country eligibility, current openings and attendance requirements must be checked for the individual role.
 

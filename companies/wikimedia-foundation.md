@@ -7,15 +7,20 @@ The Wikimedia Foundation operates Wikipedia and other free knowledge projects, m
 - **Jobs / careers:** [Careers](https://wikimediafoundation.org/jobs/)
 - **Historical remote signal:** Spain remote signal
 
-Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.
+Current Lead Learning Experience Designer is remote and explicitly names Spain among supported countries alongside France, Germany, Italy, Netherlands, Poland, Switzerland and UK. Non-US employees use a local EOR and need current local work authorization. Some starred countries have extra citizenship/permanent-residency requirements; do not apply those as a universal Spain rule. Other roles may narrow geography and employee/contract posts coexist.
 
-- **Historical record reviewed:** 2026-09-18
-- **Public-source research date:** 2026-11-02
+- **Historical record reviewed:** 2026-11-11
+- **Public-source research date:** 2026-11-11
+
+## Verification caveat
+
+Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified.
 
 ## Sources
 
 - https://wikimediafoundation.org/
 - https://wikimediafoundation.org/jobs/
+- https://job-boards.greenhouse.io/wikimedia/jobs/8136610
 
 Country eligibility, current openings and attendance requirements must be checked for the individual role.
 

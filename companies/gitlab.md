@@ -7,14 +7,14 @@ GitLab develops a DevSecOps platform covering source control, CI/CD, security sc
 - **Jobs / careers:** [Careers](https://job-boards.greenhouse.io/gitlab)
 - **Historical remote signal:** Spain remote signal
 
-Official postings checked on 5 November 2026 include roles listed as Remote, Spain, such as Business Development Representative, Spanish Speaking, and roles open to several EMEA countries including Spain. Engineering roles seen on the same date listed other countries (for example the United Kingdom or Poland).
+Current Business Development Representative, Spanish Speaking is explicitly 100% remote based in Spain. Spanish/English proficiency and ability to travel for training, offsites and customer meetings apply. Eligibility is role-country-specific; this sales advert does not authorize every engineering role from Spain.
 
-- **Historical record reviewed:** 2026-11-05
-- **Public-source research date:** 2026-11-05
+- **Historical record reviewed:** 2026-11-11
+- **Public-source research date:** 2026-11-11
 
 ## Verification caveat
 
-Eligible countries are set role by role; a Spain-listed sales role does not mean every engineering role accepts Spain.
+Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified.
 
 ## Sources
 
@@ -22,6 +22,7 @@ Eligible countries are set role by role; a Spain-listed sales role does not mean
 - https://job-boards.greenhouse.io/gitlab
 - https://job-boards.greenhouse.io/gitlab/jobs/8882367002
 - https://job-boards.greenhouse.io/gitlab/jobs/8872259002
+- https://about.gitlab.com/jobs/all-jobs/
 
 Country eligibility, current openings and attendance requirements must be checked for the individual role.
 

@@ -3,8 +3,13 @@
 [Back to directory](../README.md)
 
 - [1Password](1password.md) — Cybersecurity
+- [37signals](37signals.md) — Productivity software
+- [8am](8am.md) — Professional services software
 - [Abi Global Health](abi-global-health.md) — Digital health and telemedicine
+- [Accredible](accredible.md) — Education technology
 - [Action1](action1.md) — Cybersecurity
+- [adnymics](adnymics.md) — Marketing technology
+- [Adthena](adthena.md) — Advertising technology
 - [Affirm](affirm.md) — Financial technology
 - [Airalo](airalo.md) — Telecommunications
 - [Akamai](akamai.md) — Cloud infrastructure
@@ -12,31 +17,45 @@
 - [Algolia](algolia.md) — Search and discovery software
 - [Alinia AI](alinia-ai.md) — AI governance
 - [Alpaca](alpaca.md) — Financial technology
+- [AlphaSights](alphasights.md) — Knowledge services
 - [Altinity](altinity.md) — Database infrastructure
 - [Ankorstore](ankorstore.md) — Wholesale marketplace
+- [anynines](anynines.md) — Cloud infrastructure
+- [Apollo Agriculture](apollo-agriculture.md) — Agricultural Technology
 - [Appinio](appinio.md) — Market research
 - [AppSignal](appsignal.md) — Observability
 - [Appwrite](appwrite.md) — Developer tools
 - [Ashby](ashby.md) — HR software
+- [Atlassian](atlassian.md) — Collaboration software
 - [Attio](attio.md) — CRM software
 - [Auctane](auctane.md) — Shipping technology
+- [Auros](auros.md) — User research software
 - [Automattic](automattic.md) — Publishing software
+- [Axelerant](axelerant.md) — Digital engineering services
 - [Axmed](axmed.md) — Healthcare procurement and logistics
 - [Axo Longevity](axo-longevity.md) — Digital health
 - [baesh](baesh.md) — Social networking
+- [Barracuda Networks](barracuda-networks.md) — Cybersecurity
+- [BCW Group](bcw-group.md) — Technology consulting
 - [beehiiv](beehiiv.md) — Publishing software
 - [Belvo](belvo.md) — Financial infrastructure
 - [Bending Spoons](bending-spoons.md) — Consumer software
+- [Benifex](benifex.md) — Employee benefits technology
+- [Bitso](bitso.md) — Cryptocurrency and payments
 - [Bizneo HR](bizneo-hr.md) — HR software
 - [BJAK](bjak.md) — Insurance technology
 - [BLP Digital](blp-digital.md) — Business automation
 - [Booksy](booksy.md) — Beauty and wellness technology
 - [Brainly](brainly.md) — Education technology
+- [Bramble](bramble.md) — Operations software
 - [Brave](brave.md) — Internet software
+- [BRYTER](bryter.md) — Legal technology and workflow automation
 - [Buffer](buffer.md) — Marketing software
 - [Builder.io](builder-io.md) — Web development software
+- [Buildkite](buildkite.md) — Developer tools
 - [bunch](bunch.md) — Financial software
 - [bunny.net](bunny-net.md) — Cloud infrastructure
+- [Busbud](busbud.md) — Travel Technology
 - [Business Insights](business-insights.md) — IT consulting
 - [Cabify](cabify.md) — Mobility
 - [Camunda](camunda.md) — Business automation
@@ -46,18 +65,23 @@
 - [Capitole](capitole.md) — IT consulting
 - [cargo.one](cargo-one.md) — Logistics software
 - [CARTO](carto.md) — Geospatial analytics
+- [Cashlink Technologies](cashlink-technologies.md) — Financial infrastructure
 - [Chainguard](chainguard.md) — Software supply-chain security
 - [Checkly](checkly.md) — Developer tools
 - [Chess.com](chess-com.md) — Gaming and education
 - [Chili Piper](chili-piper.md) — Sales and marketing software
 - [Circle](circle.md) — Community software
+- [CircleCI](circleci.md) — Developer tools
 - [Citibox](citibox.md) — Logistics technology
 - [Civo](civo.md) — Cloud infrastructure
 - [Clarity AI](clarity-ai.md) — Financial data and analytics
+- [Clipboard](clipboard.md) — Healthcare staffing technology
 - [Cloudflare](cloudflare.md) — Cloud infrastructure
 - [CloudTalk](cloudtalk.md) — Business communications
 - [Codekeeper](codekeeper.md) — Software continuity
+- [Cognizant](cognizant.md) — IT consulting
 - [Cohere](cohere.md) — Enterprise AI
+- [Collabora](collabora.md) — Open-source software consulting
 - [commercetools](commercetools.md) — Commerce software
 - [Confluent](confluent.md) — Data infrastructure
 - [Consensys](consensys.md) — Blockchain software
@@ -66,11 +90,15 @@
 - [Coverflex](coverflex.md) — Employee benefits technology
 - [CrossPoint](crosspoint.md) — IT consulting
 - [Customer.io](customer-io.md) — Marketing software
+- [Cyncly](cyncly.md) — Industry software
 - [Dash0](dash0.md) — Observability
 - [Datadog](datadog.md) — Observability
 - [Deel](deel.md) — HR and payroll software
 - [Deepgram](deepgram.md) — Voice AI infrastructure
+- [DeSmart](desmart.md) — Software development services
+- [Development Seed](development-seed.md) — Geospatial technology and Earth data
 - [Devo](devo.md) — Cybersecurity
+- [DevsData](devsdata.md) — Recruitment and software services
 - [Directus](directus.md) — Content management
 - [DistroKid](distrokid.md) — Music technology
 - [DKB Code Factory](dkb-code-factory.md) — Banking software
@@ -84,56 +112,82 @@
 - [Ebury](ebury.md) — Business finance
 - [Edpuzzle](edpuzzle.md) — Education technology
 - [eduki](eduki.md) — Education marketplace
+- [EL Passion](el-passion.md) — Software Consultancy
 - [Elastic](elastic.md) — Search and analytics
 - [ElevenLabs](elevenlabs.md) — Audio ai
+- [Ellucian](ellucian.md) — Higher-education software
+- [Employment Hero](employment-hero.md) — HR and payroll technology
+- [Enhancv](enhancv.md) — Career software
 - [Enode](enode.md) — Climate tech / energy infrastructure
 - [Epassi](epassi.md) — Employee benefits technology
 - [Etereo](etereo.md) — Software consulting
 - [Eventbrite](eventbrite.md) — Events technology
 - [EverAI](everai.md) — Consumer ai
+- [EverCommerce](evercommerce.md) — Business software
 - [EWOR](ewor.md) — Startup investment
+- [Exoscale](exoscale.md) — Cloud infrastructure
 - [Factorial](factorial.md) — Business software
+- [FastBill](fastbill.md) — Accounting software
 - [Fastly](fastly.md) — Cloud infrastructure
 - [Fever](fever.md) — Events marketplace
 - [Fieldguide](fieldguide.md) — Audit and accounting software
 - [Figma](figma.md) — Design software
 - [Fingerprint](fingerprint.md) — Fraud prevention
 - [Finom](finom.md) — Business financial services
+- [FireHire](firehire.md) — Technical talent platform
 - [Flexcompute](flexcompute.md) — Engineering software
 - [Flywire](flywire.md) — Payments technology
+- [Fold](fold.md) — Personal finance technology
+- [Form3](form3.md) — Financial technology
+- [Fourthwall](fourthwall.md) — Creator commerce
+- [FreeAgent](freeagent.md) — Accounting software
 - [Fundamental](fundamental.md) — Enterprise AI
 - [Fundraise Up](fundraise-up.md) — Nonprofit fundraising software
 - [FYUL](fyul.md) — On-demand commerce
+- [Gcore](gcore.md) — Cloud infrastructure
 - [Ghost](ghost.md) — Publishing software
 - [GitBook](gitbook.md) — Documentation software
 - [GitHub](github.md) — Developer tools
 - [GitLab](gitlab.md) — Developer tools
 - [Gr4vy](gr4vy.md) — Payments technology
 - [Grafana](grafana.md) — Observability
+- [Grid Dynamics](grid-dynamics.md) — Software consulting
+- [Gruntwork](gruntwork.md) — Developer tools / cloud infrastructure
 - [haddock](haddock.md) — Restaurant software
+- [HeavenHR](heavenhr.md) — HR software
 - [Herdr](herdr.md) — Developer tools
 - [HexGrid Cloud](hexgrid-cloud.md) — AI infrastructure
 - [Higharc](higharc.md) — Construction software
 - [Hilo by Aktiia](hilo.md) — Digital health
+- [HolidayPirates](holidaypirates.md) — Travel media
 - [Horizon3.ai](horizon3-ai.md) — Cybersecurity / autonomous penetration testing
 - [Hostaway](hostaway.md) — Hospitality software
 - [Hubstaff](hubstaff.md) — Workforce management software
 - [Hunter](hunter.md) — Sales software
+- [Ideamotive](ideamotive.md) — Technology staffing
+- [Igalia](igalia.md) — Open Source Consultancy
+- [IgniteTech](ignitetech.md) — Enterprise software
 - [Immersive](immersive.md) — Cybersecurity training
 - [InfiniteWatch](infinitewatch.md) — Enterprise ai
 - [INFINNI](infinni.md) — Creator economy software
+- [InfluxData](influxdata.md) — Database Software
 - [IntegrityNext](integritynext.md) — Supply chain software
 - [IONOS](ionos.md) — Cloud infrastructure
 - [iPronics](ipronics.md) — Photonics hardware
 - [Iristrace](iristrace.md) — Operations software
+- [itdesign](itdesign.md) — Enterprise software
 - [Jitter](jitter.md) — Design software
+- [Jobtome](jobtome.md) — Recruitment technology
 - [JOIN](join.md) — Recruitment software
 - [Joko](joko.md) — Shopping technology
 - [Keepler Data Tech](keepler-data-tech.md) — Data and ai consulting
 - [Kestra](kestra.md) — Workflow orchestration
 - [Keyrock](keyrock.md) — Digital asset trading
+- [Kinsta](kinsta.md) — Cloud hosting
+- [Kit](kit.md) — Creator tools and email marketing
 - [Koinly](koinly.md) — Financial software
 - [Komoot](komoot.md) — Outdoor recreation software
+- [Kong](kong.md) — API and developer infrastructure
 - [Kota](kota.md) — Employee benefits
 - [Kraken](kraken.md) — Financial technology
 - [Kustomer](kustomer.md) — Customer support software
@@ -144,38 +198,54 @@
 - [Linear](linear.md) — Product management software
 - [Lingo.dev](lingo-dev.md) — Localization software
 - [LocalStack](localstack.md) — Developer tools
+- [Locastic](locastic.md) — Software consulting
 - [LORIOT](loriot.md) — Internet of things
 - [Ludus](ludus.md) — Virtual reality training
 - [MailerLite](mailerlite.md) — Marketing software
 - [Maisa](maisa.md) — Enterprise AI
 - [Mango](mango.md) — Fashion retail
+- [Mapbox](mapbox.md) — Geospatial and developer infrastructure
 - [Marqeta](marqeta.md) — Fintech / card issuing and embedded finance
+- [Mattermost](mattermost.md) — Secure collaboration software
 - [Maven Clinic](maven-clinic.md) — Digital health / women’s and family care
 - [Maze](maze.md) — User research software
+- [Meltwater](meltwater.md) — Media intelligence software
 - [Mentimeter](mentimeter.md) — Presentation software
 - [Mercadona Tech](mercadona-tech.md) — Retail technology
 - [Microsoft](microsoft.md) — Enterprise and consumer technology
 - [Mimica](mimica.md) — Business automation
+- [Mirumee Software](mirumee-software.md) — Software engineering services
 - [Mistral AI](mistral-ai.md) — Artificial intelligence
 - [Mitek Systems](mitek-systems.md) — Identity verification
 - [MITO AI](mito-ai.md) — Creative software
 - [Mitratech](mitratech.md) — Legal technology / governance, risk and compliance
 - [Modash.io](modash-io.md) — Marketing software
+- [Modus Create](modus-create.md) — Software development and consulting
 - [Moka Care](moka-care.md) — Employee mental health
 - [Molecule](molecule.md) — Research technology
 - [Monest Capital](monest-capital.md) — Real estate services
+- [Monzo](monzo.md) — Financial technology
 - [Mozilla](mozilla.md) — Internet software
 - [Mural](mural.md) — Collaboration software
 - [Mática Partners](matica-partners.md) — Data and ai consulting
 - [n8n](n8n.md) — Workflow automation
+- [Naologic](naologic.md) — Enterprise Software
+- [Nearform](nearform.md) — Software consultancy
 - [Nebius](nebius.md) — AI infrastructure
+- [Netguru](netguru.md) — Software consulting
 - [Netskope](netskope.md) — Cybersecurity
 - [New Relic](new-relic.md) — Observability
+- [Nexcess](nexcess.md) — Cloud and hosting services
+- [Niteo](niteo.md) — Software products
 - [Nomic Foundation](nomic-foundation.md) — Blockchain developer tools
+- [Norbsoft](norbsoft.md) — Mobile Development
 - [Nordhealth](nordhealth.md) — Healthcare software
 - [Northius](northius.md) — Education and training
 - [NTT DATA Spain](ntt-data-spain.md) — IT consulting
+- [Octopus Energy](octopus-energy.md) — Energy and climate technology
 - [Oddin.gg](oddin-gg.md) — Esports data and betting technology
+- [OneSignal](onesignal.md) — Customer engagement software
+- [optilyz](optilyz.md) — Marketing automation
 - [Orbitant](orbitant.md) — IT consulting
 - [osapiens](osapiens.md) — Compliance software
 - [Otto Group one.O](otto-group-one-o.md) — IT consulting
@@ -183,8 +253,10 @@
 - [Owner](owner.md) — Restaurant software
 - [Oyster](oyster.md) — HR technology
 - [Paddle](paddle.md) — Payments software
+- [Palo Alto Networks](palo-alto-networks.md) — Cybersecurity
 - [PandaDoc](pandadoc.md) — Document software
 - [Pantheon](pantheon.md) — Web infrastructure and WebOps
+- [Parabol](parabol.md) — Meeting and team collaboration software
 - [Parloa](parloa.md) — Customer support software
 - [PcComponentes](pccomponentes.md) — Electronics retail
 - [Pencil](pencil.md) — Generative AI and advertising software
@@ -198,35 +270,52 @@
 - [PostHog](posthog.md) — Product analytics
 - [Postman](postman.md) — Developer tools
 - [Privera](privera.md) — Financial software
+- [Procore](procore.md) — Construction and geospatial software
 - [Profile Software Services](profile-software-services.md) — Software consulting
+- [Progress](progress.md) — Enterprise software and DevOps
 - [Prosper AI](prosper-ai.md) — Healthcare ai
+- [Qonto](qonto.md) — Financial technology
 - [Qualifyze](qualifyze.md) — Pharmaceutical compliance software
+- [Radiant](radiant.md) — AI cloud infrastructure
+- [Rapptr Labs](rapptr-labs.md) — Digital product agency
 - [Reddit](reddit.md) — Social platform / online communities
 - [Remote](remote.md) — Employment software
 - [Resend](resend.md) — Developer tools
+- [Resourcify](resourcify.md) — Circular economy and waste management software
 - [RevenueCat](revenuecat.md) — Subscription infrastructure
 - [Revolut](revolut.md) — Financial services
+- [Rex Software](rex-software.md) — Real estate software
 - [RoomPriceGenie](roompricegenie.md) — Hospitality software
 - [Runway](runway.md) — Generative AI / creative software
+- [RVU](rvu.md) — Consumer Comparison Services
 - [Safeguard Global](safeguard-global.md) — Global workforce services
 - [SafetyWing](safetywing.md) — Insurance
+- [SaleCycle](salecycle.md) — E-commerce software
 - [Sanity](sanity.md) — Content management software
 - [Scaleway](scaleway.md) — Cloud infrastructure
+- [SearchApi](searchapi.md) — Search data infrastructure
 - [Secfix](secfix.md) — Security compliance
 - [Second Front](second-front.md) — Defense technology / secure software delivery
 - [Seedtag](seedtag.md) — Advertising technology
+- [Seesaw](seesaw.md) — Education Technology
+- [Sensor Tower](sensor-tower.md) — Digital market intelligence
 - [SerpApi](serpapi.md) — Developer tools
 - [Shakers](shakers.md) — Talent marketplace
 - [Siemens Energy](siemens-energy.md) — Energy technology
 - [Siena AI](siena-ai.md) — Customer service ai
 - [Sierra](sierra.md) — Customer support software
 - [Signicat](signicat.md) — Digital identity
+- [SigNoz](signoz.md) — Observability software
 - [Slite](slite.md) — Knowledge management software
+- [Smily](smily.md) — Hospitality software
 - [Sngular](sngular.md) — Technology consulting
+- [Snyk](snyk.md) — Developer security
+- [SolarWinds](solarwinds.md) — IT management software
 - [Sourcegraph](sourcegraph.md) — Developer tools
 - [Sovendus](sovendus.md) — Marketing technology
 - [SplitMetrics](splitmetrics.md) — Mobile marketing technology
 - [Spotify](spotify.md) — Audio streaming
+- [Square](square.md) — Commerce technology
 - [Sticker Mule](sticker-mule.md) — Custom printing
 - [Storelink / Comply](storelink-comply.md) — Tax compliance software
 - [Storyblok](storyblok.md) — Content management software
@@ -234,18 +323,27 @@
 - [Sumsub](sumsub.md) — Identity verification and compliance
 - [Supabase](supabase.md) — Developer tools
 - [Super Technologies](super-technologies.md) — Gaming and entertainment technology
+- [Surglogs](surglogs.md) — Healthcare compliance software
 - [Sword Health](sword-health.md) — Digital health
+- [Symplicity](symplicity.md) — Education and career software
 - [Synthesia](synthesia.md) — AI video software
+- [Séntisis](sentisis.md) — Language analytics
 - [T-Systems Iberia](t-systems-iberia.md) — IT services
+- [TableCheck](tablecheck.md) — Hospitality software
 - [Tailscale](tailscale.md) — Networking and security
 - [Teamwire](teamwire.md) — Business communications
+- [Teamwork.com](teamwork-com.md) — Professional services automation software
 - [Techsoulogy](techsoulogy.md) — Advertising technology
 - [Tempo](tempo.md) — Project management software
 - [Tether](tether.md) — Digital assets
+- [The Access Group](the-access-group.md) — Business software
+- [Thoughtworks](thoughtworks.md) — Software consultancy
 - [Tinybird](tinybird.md) — Data infrastructure
+- [Tiugo Technologies](tiugo-technologies.md) — Developer content platforms
 - [Todoist](todoist.md) — Productivity software
 - [Together](together.md) — Design agency
 - [Toggl](toggl.md) — Work management software
+- [Tooploox](tooploox.md) — AI and software consulting
 - [Toptal](toptal.md) — Talent marketplace
 - [Treatwell](treatwell.md) — Beauty and wellness technology
 - [Trigger.dev](trigger-dev.md) — Developer infrastructure
@@ -253,7 +351,9 @@
 - [Tucuvi](tucuvi.md) — Healthcare ai
 - [Twilio](twilio.md) — Communications infrastructure
 - [Typeform](typeform.md) — Form software
+- [Uberall](uberall.md) — Location marketing software
 - [UpScrolled](upscrolled.md) — Social media
+- [Upstatement](upstatement.md) — Digital design and engineering
 - [Upsun](upsun.md) — Cloud application platform
 - [Valdyr (formerly Telness Tech)](valdyr.md) — Telecom operations software
 - [Valsea Technologies](valsea-technologies.md) — Software development services
@@ -267,12 +367,16 @@
 - [Vonage](vonage.md) — Communications software
 - [WalletConnect](walletconnect.md) — Cryptocurrency infrastructure
 - [Wave Mobile Money](wave-mobile-money.md) — Mobile financial services
+- [wemake.services](wemake-services.md) — Software consulting
 - [Whereto](whereto.md) — Travel technology
 - [Wikiloc](wikiloc.md) — Outdoor recreation technology
 - [Wikimedia Foundation](wikimedia-foundation.md) — Nonprofit knowledge infrastructure
 - [Workato](workato.md) — Business automation
 - [Wunderkind](wunderkind.md) — Marketing software
+- [Xebia](xebia.md) — IT consulting
+- [Xplor Technologies](xplor-technologies.md) — Vertical software and payments
 - [Yazio](yazio.md) — Consumer health software
+- [YLD](yld.md) — Software consulting
 - [YouGov](yougov.md) — Market research
 - [Yuno](yuno.md) — Payments technology
 - [Zapier](zapier.md) — Workflow automation

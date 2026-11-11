@@ -5,17 +5,23 @@ Remote provides a global employment platform covering employer-of-record service
 - **Category:** Employment software
 - **Website:** [Website](https://remote.com/)
 - **Jobs / careers:** [Careers](https://remote.com/openings)
-- **Historical remote signal:** Europe / EMEA remote signal
+- **Historical remote signal:** Hybrid or country-restricted evidence
 
-Historical research found a Europe/EMEA or compatible-timezone remote-work signal. This does not establish Spanish employment eligibility.
+Company-policy watch only: the official board says most jobs are globally remote, with each advert’s Practicals controlling location/time-zone limits, and currently says no openings. This is not a live vacancy or universal Spain permission.
 
-- **Historical record reviewed:** 2026-08-31
-- **Public-source research date:** 2026-11-02
+- **Historical record reviewed:** 2026-11-11
+- **Public-source research date:** 2026-11-11
+
+## Verification caveat
+
+Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified.
 
 ## Sources
 
 - https://remote.com/
 - https://remote.com/openings
+- https://job-boards.greenhouse.io/remotecom
+- https://remote.com/careers
 
 Country eligibility, current openings and attendance requirements must be checked for the individual role.
 

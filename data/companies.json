@@ -154,14 +154,14 @@
     "website": "https://www.algolia.com/",
     "careers_url": "https://job-boards.greenhouse.io/algolia",
     "remote_signal": "mixed_or_restricted",
-    "remote_note": "Historical evidence includes hybrid attendance, mixed arrangements or country restrictions. Do not assume this employer offers fully remote work from Spain.",
-    "record_reviewed_at": "2026-10-13",
-    "public_sources_checked_at": "2026-11-02",
+    "remote_note": "Current official board lists remote roles in Germany and the Netherlands. Algolia explicitly restricts remote postings to the country named; city postings may be hybrid or office-based. Spain is not established by these roles and the temporary work-from-anywhere benefit is not country eligibility.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
     "sources": [
       "https://www.algolia.com/",
       "https://job-boards.greenhouse.io/algolia"
     ],
-    "verification_note": ""
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
   },
   {
     "id": "alinia-ai",
@@ -342,15 +342,16 @@
     "category": "Publishing software",
     "website": "https://automattic.com/",
     "careers_url": "https://automattic.com/jobs/",
-    "remote_signal": "europe_remote_signal",
-    "remote_note": "Historical research found a Europe/EMEA or compatible-timezone remote-work signal. This does not establish Spanish employment eligibility.",
-    "record_reviewed_at": "2026-10-28",
-    "public_sources_checked_at": "2026-11-02",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "The recruiting policy explicitly offers remote opportunities and work from anywhere with internet access. Worldwide policy supports monitoring, including Spain at policy level only; it does not guarantee Spanish payroll, residence approval or a particular live role.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
     "sources": [
       "https://automattic.com/",
-      "https://automattic.com/jobs/"
+      "https://automattic.com/jobs/",
+      "https://automattic.com/work-with-us/"
     ],
-    "verification_note": ""
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
   },
   {
     "id": "axo-longevity",
@@ -431,14 +432,16 @@
     "website": "https://bendingspoons.com/",
     "careers_url": "https://jobs.bendingspoons.com/",
     "remote_signal": "spain_remote_signal",
-    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
-    "record_reviewed_at": "2026-10-22",
-    "public_sources_checked_at": "2026-11-02",
+    "remote_note": "WeTransfer is part of Bending Spoons. The current parent FAQ allows remote work from all EU countries, including Spain, plus its named non-EU list, unless a job explicitly requires onsite work and subject to the offer agreement. The representative WeTransfer graduate role is closed and must not be shown as a live vacancy; it also expected an initial period in Milan before agreed remote work. Approval rests on the current parent policy, not that closed role; relocation/onboarding travel may apply.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
     "sources": [
       "https://bendingspoons.com/",
-      "https://jobs.bendingspoons.com/"
+      "https://jobs.bendingspoons.com/",
+      "https://jobs.bendingspoons.com/faq",
+      "https://wetransfer.com"
     ],
-    "verification_note": ""
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
   },
   {
     "id": "bizneo-hr",
@@ -550,15 +553,16 @@
     "category": "Marketing software",
     "website": "https://buffer.com/",
     "careers_url": "https://buffer.com/journey",
-    "remote_signal": "spain_remote_signal",
-    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
-    "record_reviewed_at": "2026-10-02",
-    "public_sources_checked_at": "2026-11-02",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Official hiring policy describes a fully remote team across the planet and adding teammates from anywhere in the world. Country-specific employment arrangements remain to be checked; no current vacancy is inferred from policy.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
     "sources": [
       "https://buffer.com/",
-      "https://buffer.com/map"
+      "https://buffer.com/map",
+      "https://buffer.com/journey"
     ],
-    "verification_note": ""
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
   },
   {
     "id": "builder-io",
@@ -976,14 +980,17 @@
     "website": "https://contentsquare.com/",
     "careers_url": "https://jobs.lever.co/contentsquare/",
     "remote_signal": "spain_remote_signal",
-    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
-    "record_reviewed_at": "2026-07-15",
-    "public_sources_checked_at": "2026-11-02",
+    "remote_note": "Independently reread despite existing public inclusion. The current official Mid Market Account Executive, Iberia posting is marked Remote and Madrid, establishing a Spain-specific signal. The company also has hybrid Spanish roles and time-zone/customer-alignment requirements; temporary work-abroad benefits are not unlimited residence permission. Eligibility remains vacancy-specific. Hotjar’s careers URL now redirects to Contentsquare. A current official Mid Market Account Executive, Iberia role is marked Remote and explicitly based in Madrid serving Spain. This confirms a Spain-specific opportunity, not universal remote eligibility for all Hotjar or Contentsquare jobs. Many other roles remain hybrid.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
     "sources": [
       "https://contentsquare.com/",
-      "https://jobs.lever.co/contentsquare/"
+      "https://jobs.lever.co/contentsquare/",
+      "https://jobs.lever.co/contentsquare/cc5efc5d-2934-4898-823e-60539709de33",
+      "https://www.hotjar.com/careers/",
+      "https://contentsquare.com/careers/"
     ],
-    "verification_note": ""
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
   },
   {
     "id": "coverflex",
@@ -1231,14 +1238,16 @@
     "website": "https://duckduckgo.com/",
     "careers_url": "https://duckduckgo.com/hiring",
     "remote_signal": "spain_remote_signal",
-    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
-    "record_reviewed_at": "2026-10-01",
-    "public_sources_checked_at": "2026-11-02",
+    "remote_note": "Current official remote engineering postings explicitly discuss Spanish team members and pay conversion dates, supporting Spain eligibility. Expect at least two annual trips of roughly four to five days each, on-camera meetings and a full-time commitment. Some other roles are explicitly US-only or US/Canada-only; benefits and employment arrangements differ by country.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
     "sources": [
       "https://duckduckgo.com/",
-      "https://duckduckgo.com/hiring"
+      "https://duckduckgo.com/hiring",
+      "https://jobs.ashbyhq.com/duck-duck-go/12b7b49c-ee06-4d70-8504-657343ebe4d0",
+      "https://api.ashbyhq.com/posting-api/job-board/duck-duck-go"
     ],
-    "verification_note": ""
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
   },
   {
     "id": "easor",
@@ -1657,15 +1666,16 @@
     "category": "Developer tools",
     "website": "https://github.com/",
     "careers_url": "https://github.com/about/careers",
-    "remote_signal": "spain_remote_signal",
-    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
-    "record_reviewed_at": "2026-07-15",
-    "public_sources_checked_at": "2026-11-02",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Current official job content explicitly permits remote work from Germany and the UK; country permission remains role-specific. The cited German solutions-engineering route requires up to 40% Germany/EMEA customer travel plus occasional company-event travel beyond EMEA. Spain is not confirmed; historical Spain links are not treated as live.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
     "sources": [
       "https://github.com/",
-      "https://github.com/about/careers"
+      "https://github.com/about/careers",
+      "https://www.github.careers/careers-home"
     ],
-    "verification_note": ""
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
   },
   {
     "id": "gr4vy",
@@ -2186,15 +2196,16 @@
     "category": "Product management software",
     "website": "https://linear.app/",
     "careers_url": "https://linear.app/careers",
-    "remote_signal": "europe_remote_signal",
-    "remote_note": "Historical research found a Europe/EMEA or compatible-timezone remote-work signal. This does not establish Spanish employment eligibility.",
-    "record_reviewed_at": "2026-09-08",
-    "public_sources_checked_at": "2026-11-02",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Linear current careers policy states fully remote and lists current European engineering/design/product roles alongside North America. Spain is not enumerated as a supported employment country. APAC roles can require two to three office days weekly and do not qualify on their own; Europe/US remote policy cannot be transferred to every role. Regular team events/offsites may entail travel.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
     "sources": [
       "https://linear.app/",
-      "https://linear.app/careers"
+      "https://linear.app/careers",
+      "https://linear.app/careers#join-us"
     ],
-    "verification_note": ""
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
   },
   {
     "id": "lingo-dev",
@@ -2512,14 +2523,15 @@
     "website": "https://www.mozilla.org/",
     "careers_url": "https://www.mozilla.org/en-US/careers/listings/",
     "remote_signal": "spain_remote_signal",
-    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
-    "record_reviewed_at": "2026-10-12",
-    "public_sources_checked_at": "2026-11-02",
+    "remote_note": "The current official board lists Senior Product Manager, Mobile with Remote Spain and other named countries. This is specific-role Spain eligibility, not permission to work from every country or a guarantee for all Mozilla roles.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
     "sources": [
       "https://www.mozilla.org/",
-      "https://www.mozilla.org/en-US/careers/listings/"
+      "https://www.mozilla.org/en-US/careers/listings/",
+      "https://careers.mozilla.org/listings"
     ],
-    "verification_note": ""
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
   },
   {
     "id": "mural",
@@ -3065,15 +3077,17 @@
     "category": "Employment software",
     "website": "https://remote.com/",
     "careers_url": "https://remote.com/openings",
-    "remote_signal": "europe_remote_signal",
-    "remote_note": "Historical research found a Europe/EMEA or compatible-timezone remote-work signal. This does not establish Spanish employment eligibility.",
-    "record_reviewed_at": "2026-08-31",
-    "public_sources_checked_at": "2026-11-02",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Company-policy watch only: the official board says most jobs are globally remote, with each advert’s Practicals controlling location/time-zone limits, and currently says no openings. This is not a live vacancy or universal Spain permission.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
     "sources": [
       "https://remote.com/",
-      "https://remote.com/openings"
+      "https://remote.com/openings",
+      "https://job-boards.greenhouse.io/remotecom",
+      "https://remote.com/careers"
     ],
-    "verification_note": ""
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
   },
   {
     "id": "resend",
@@ -3372,15 +3386,16 @@
     "category": "Developer tools",
     "website": "https://sourcegraph.com/",
     "careers_url": "https://job-boards.greenhouse.io/sourcegraph91",
-    "remote_signal": "spain_remote_signal",
-    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
-    "record_reviewed_at": "2026-09-25",
-    "public_sources_checked_at": "2026-11-02",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Current indexed Sourcegraph engineering roles are Remote and explicitly say they hire almost anywhere in the world and welcome applicants regardless of location. The ML & Agentic Systems Engineer role prefers the USA but requires at least 20 hours per week overlap with EST; Platform engineering prefers UTC−8 to UTC+2 and also requires EST overlap. This supports European/worldwide recruiting, not unconditional Spanish payroll or visa sponsorship. Current role requirements control over broad distributed-team messaging.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
     "sources": [
       "https://sourcegraph.com/",
-      "https://job-boards.greenhouse.io/sourcegraph91"
+      "https://job-boards.greenhouse.io/sourcegraph91",
+      "https://job-boards.greenhouse.io/sourcegraph91/jobs/6185008004"
     ],
-    "verification_note": ""
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
   },
   {
     "id": "sovendus",
@@ -3647,16 +3662,18 @@
     "category": "Productivity software",
     "website": "https://www.todoist.com/",
     "careers_url": "https://doist.com/careers",
-    "remote_signal": "mixed_or_restricted",
-    "remote_note": "Historical evidence includes hybrid attendance, mixed arrangements or country restrictions. Do not assume this employer offers fully remote work from Spain.",
-    "record_reviewed_at": "2026-10-14",
-    "public_sources_checked_at": "2026-11-02",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "The current employer brand is Todoist (formerly Doist). Its careers page and indexed Apple Engineer posting explicitly allow work from anywhere in the world without location restrictions, supporting Spain at policy level rather than guaranteeing a Spanish payroll arrangement. Work is async-first; twice-yearly company retreats and a possible week co-working with an onboarding mentor involve travel. Compensation is location-dependent.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
     "sources": [
       "https://www.todoist.com/",
       "https://doist.com/",
-      "https://doist.com/careers"
+      "https://doist.com/careers",
+      "https://www.todoist.com/careers",
+      "https://www.todoist.com"
     ],
-    "verification_note": ""
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
   },
   {
     "id": "together",
@@ -3699,16 +3716,16 @@
     "category": "Talent marketplace",
     "website": "https://www.toptal.com/",
     "careers_url": "https://www.toptal.com/careers",
-    "remote_signal": "spain_remote_signal",
-    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
-    "record_reviewed_at": "2026-10-14",
-    "public_sources_checked_at": "2026-11-02",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Adeva has joined Toptal; monitor the parent rather than a separate Adeva employer. Toptal’s core-team careers page explicitly permits fully remote work wherever, including halfway around the world, and lists internationally based opportunities. This is a worldwide work-location policy, not proof of Spanish payroll, work rights or eligibility for every role; the freelance talent network is separate.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
     "sources": [
       "https://toptal.com",
       "https://www.toptal.com/",
       "https://www.toptal.com/careers"
     ],
-    "verification_note": ""
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
   },
   {
     "id": "treatwell",
@@ -3788,14 +3805,16 @@
     "website": "https://www.twilio.com/en-us",
     "careers_url": "https://www.twilio.com/en-us/company/jobs",
     "remote_signal": "spain_remote_signal",
-    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
-    "record_reviewed_at": "2026-10-14",
-    "public_sources_checked_at": "2026-11-02",
+    "remote_note": "Twilio officially completed acquisition of Segment. Current parent Staff, Escalations Manager is remote based in Spain, Monday–Friday during EMEA hours, with approximately 5% travel. Remote-first policy also permits ad-hoc team/offsite/customer attendance. This confirms Spain for that Twilio role, not every Segment job. Other commercial roles can require substantially more travel.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
     "sources": [
       "https://www.twilio.com/en-us",
-      "https://www.twilio.com/en-us/company/jobs"
+      "https://www.twilio.com/en-us/company/jobs",
+      "https://job-boards.greenhouse.io/twilio",
+      "https://www.twilio.com/en-us/segment"
     ],
-    "verification_note": ""
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
   },
   {
     "id": "typeform",
@@ -4044,14 +4063,15 @@
     "website": "https://wikimediafoundation.org/",
     "careers_url": "https://wikimediafoundation.org/jobs/",
     "remote_signal": "spain_remote_signal",
-    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
-    "record_reviewed_at": "2026-09-18",
-    "public_sources_checked_at": "2026-11-02",
+    "remote_note": "Current Lead Learning Experience Designer is remote and explicitly names Spain among supported countries alongside France, Germany, Italy, Netherlands, Poland, Switzerland and UK. Non-US employees use a local EOR and need current local work authorization. Some starred countries have extra citizenship/permanent-residency requirements; do not apply those as a universal Spain rule. Other roles may narrow geography and employee/contract posts coexist.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
     "sources": [
       "https://wikimediafoundation.org/",
-      "https://wikimediafoundation.org/jobs/"
+      "https://wikimediafoundation.org/jobs/",
+      "https://job-boards.greenhouse.io/wikimedia/jobs/8136610"
     ],
-    "verification_note": ""
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
   },
   {
     "id": "workato",
@@ -4111,15 +4131,16 @@
     "category": "Market research",
     "website": "https://yougov.com/",
     "careers_url": "https://jobs.yougov.com/jobs",
-    "remote_signal": "spain_remote_signal",
-    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
-    "record_reviewed_at": "2026-07-15",
-    "public_sources_checked_at": "2026-11-02",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "YouGov’s official Workday Senior Software Engineer, Python requisition JR0657 is fully remote and based in Poland. Candidates must live in or relocate to Poland without right-to-work sponsorship. This confirms Poland-only remote hiring for the evidenced role, not Barcelona/Spain remote eligibility; legacy Greenhouse links are obsolete.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
     "sources": [
       "https://yougov.com/",
-      "https://jobs.yougov.com/jobs"
+      "https://jobs.yougov.com/jobs",
+      "https://yougov.wd103.myworkdayjobs.com/wday/cxs/yougov/yougov_external_careers/job/Warsaw/Senior-Software-Engineer--Remote-_JR0657-2"
     ],
-    "verification_note": ""
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
   },
   {
     "id": "yuno",
@@ -4146,14 +4167,15 @@
     "website": "https://zapier.com/",
     "careers_url": "https://zapier.com/jobs",
     "remote_signal": "spain_remote_signal",
-    "remote_note": "Historical research found a Spain-related remote-work signal. Country eligibility and employment terms must still be checked for each vacancy.",
-    "record_reviewed_at": "2026-10-27",
-    "public_sources_checked_at": "2026-11-02",
+    "remote_note": "Zapier is fully remote, but permanent hiring countries are governed by its eligibility sheet linked from current job descriptions. The sheet lists Spain, Ireland and the UK as Entity countries, while several other European countries are disallowed. This supports policy-level Spain monitoring, not a current Spain vacancy: reviewed openings are generally scoped elsewhere. Role-level region/time-zone limits and work rights still apply; annual summits involve in-person gatherings.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
     "sources": [
       "https://zapier.com/",
-      "https://zapier.com/jobs"
+      "https://zapier.com/jobs",
+      "https://zapier.com/jobs/"
     ],
-    "verification_note": ""
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
   },
   {
     "id": "zed",
@@ -4254,16 +4276,17 @@
     "website": "https://about.gitlab.com/",
     "careers_url": "https://job-boards.greenhouse.io/gitlab",
     "remote_signal": "spain_remote_signal",
-    "remote_note": "Official postings checked on 5 November 2026 include roles listed as Remote, Spain, such as Business Development Representative, Spanish Speaking, and roles open to several EMEA countries including Spain. Engineering roles seen on the same date listed other countries (for example the United Kingdom or Poland).",
-    "record_reviewed_at": "2026-11-05",
-    "public_sources_checked_at": "2026-11-05",
+    "remote_note": "Current Business Development Representative, Spanish Speaking is explicitly 100% remote based in Spain. Spanish/English proficiency and ability to travel for training, offsites and customer meetings apply. Eligibility is role-country-specific; this sales advert does not authorize every engineering role from Spain.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
     "sources": [
       "https://about.gitlab.com/",
       "https://job-boards.greenhouse.io/gitlab",
       "https://job-boards.greenhouse.io/gitlab/jobs/8882367002",
-      "https://job-boards.greenhouse.io/gitlab/jobs/8872259002"
+      "https://job-boards.greenhouse.io/gitlab/jobs/8872259002",
+      "https://about.gitlab.com/jobs/all-jobs/"
     ],
-    "verification_note": "Eligible countries are set role by role; a Spain-listed sales role does not mean every engineering role accepts Spain."
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
   },
   {
     "id": "maisa",
@@ -4368,14 +4391,14 @@
     "website": "https://upsun.com/",
     "careers_url": "https://upsun.com/jobs/",
     "remote_signal": "spain_remote_signal",
-    "remote_note": "The official careers page checked on 6 November 2026 lists Product Manager and Software Engineer roles as remote in Germany, Canada, France, Spain or the United Kingdom, plus a Sales Enablement Manager role in Spain, France, Germany and the United Kingdom. The page describes the company as remote by design, with annual team gatherings and a program allowing work abroad for up to 90 days a year.",
-    "record_reviewed_at": "2026-11-06",
-    "public_sources_checked_at": "2026-11-06",
+    "remote_note": "Platform.sh redirects to Upsun. The current official group Greenhouse feed lists remote Software Engineer and Product Manager roles in named countries including Spain, Germany, France and the UK, plus Canada; Sales Enablement Manager names Spain, France, Germany and the UK. Eligibility is role-specific. Annual team gatherings and the up-to-90-day international work-travel program are separate from permanent authorized hiring locations; an Anywhere heading elsewhere is not unlimited-country proof.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
     "sources": [
       "https://upsun.com/",
       "https://upsun.com/jobs/"
     ],
-    "verification_note": "Eligible countries differ by vacancy: other listed roles are limited to North America or Australia and India. Temporary work abroad is not unrestricted country-of-employment eligibility. Confirm the employing country, work authorization, timezone overlap and attendance requirements for each role."
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
   },
   {
     "id": "abi-global-health",
@@ -4779,5 +4802,1856 @@
       "https://job-boards.greenhouse.io/mitratech/jobs/8059183"
     ],
     "verification_note": "Confirmation applies to Germany and the United Kingdom. The UK is in Europe but not the EU. No explicit Spain eligibility, relocation, cross-border employment, or travel frequency commitment was found."
+  },
+  {
+    "id": "37signals",
+    "name": "37signals",
+    "description": "37signals develops Basecamp project-management software and other communication and productivity products.",
+    "category": "Productivity software",
+    "website": "https://37signals.com/",
+    "careers_url": "https://37signals.com/jobs",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Basecamp redirects to employer 37signals. It is fully remote with no physical headquarters and a worldwide live-and-work policy, supporting Spain in principle. The current page explicitly reports no job openings: company-watch/empty board, not a live vacancy. Entire company gathers in person twice yearly.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://37signals.com/jobs",
+      "https://37signals.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "8am",
+    "name": "8am",
+    "description": "8am develops payments, practice management and financial software for professional services firms.",
+    "category": "Professional services software",
+    "website": "https://www.8am.com/",
+    "careers_url": "https://www.8am.com/careers/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "AffiniPay redirects to canonical employer 8am. The current Senior Software Engineer, AI Search vacancy is Remote - Czech Republic and hired through a Czech EOR. It describes an upcoming Brno office and opportunities for a flexible hybrid setup, not compulsory weekly office attendance for this role. The separate Staff Software Engineer | AI role does require Brno office attendance two days weekly and is not the qualifying case. Possible company-event travel, including US visits, applies. Spain is not confirmed.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://boards-api.greenhouse.io/v1/boards/affinipay1/jobs/4723801006",
+      "https://www.8am.com/careers/",
+      "https://www.8am.com/careers/tech-and-product/",
+      "https://www.affinipay.com",
+      "https://www.8am.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "accredible",
+    "name": "Accredible",
+    "description": "Digital credential software for issuing, managing and verifying certificates and badges.",
+    "category": "Education technology",
+    "website": "https://www.accredible.com",
+    "careers_url": "https://www.accredible.com/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Remote team with explicit UK-based remote sales listing and staff in Portugal. General work-from-anywhere language is broader than current listings: the reviewed Account Executive role is UK-based, labelled Future Opportunities, and requires alignment with team time zones. No Spain-specific hiring permission or opening was verified.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.accredible.com/careers/account-executive-remote-uk-based",
+      "https://www.accredible.com/careers",
+      "https://www.accredible.com"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "adnymics",
+    "name": "adnymics",
+    "description": "adnymics provides personalized parcel inserts and automated direct-mail marketing.",
+    "category": "Marketing technology",
+    "website": "https://adnymics.com/",
+    "careers_url": "https://adnymics.com/karriere/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The Munich recruiting page explicitly has no mandatory office presence and permits flexible home working. Suitable for Germany-context remote company monitoring, not verified Spanish residence, payroll or cross-border permission. The vacancy embed was not readable; a general application is offered.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://adnymics.com/karriere/",
+      "https://adnymics.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "adthena",
+    "name": "Adthena",
+    "description": "Adthena provides search-advertising intelligence and competitive analysis software.",
+    "category": "Advertising technology",
+    "website": "https://www.adthena.com/",
+    "careers_url": "https://www.adthena.com/company/careers/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Current Senior Anti-Bot / Scraping Engineer is fully remote for applicants based in Spain, Italy, Portugal, Romania, Hungary, Czech Republic, Poland, Serbia, Lithuania, Bulgaria, Estonia, Latvia, Cyprus and Greece. This is the exact list, not every EU country; Serbia is included. A separate UK-remote version exists. London commercial roles can be hybrid; talent communities are not vacancies.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://api.ashbyhq.com/posting-api/job-board/adthena",
+      "https://www.adthena.com/company/careers/",
+      "https://www.adthena.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "alphasights",
+    "name": "AlphaSights",
+    "description": "AlphaSights connects clients with specialist knowledge and develops technology supporting its research services.",
+    "category": "Knowledge services",
+    "website": "https://www.alphasights.com/",
+    "careers_url": "https://www.alphasights.com/careers/open-roles/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The currently indexed Mid-level Backend Engineer (Remote) – UK role is exclusively for current UK residents and offers no visa sponsorship. UK qualifies as Europe, not EU-wide or Spain-based work.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.alphasights.com/job/mid-level-backend-engineer-remote-uk-2/",
+      "https://www.alphasights.com/careers/open-roles/",
+      "https://www.alphasights.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "anynines",
+    "name": "anynines",
+    "description": "anynines develops cloud platform automation and managed data-service technologies for Cloud Foundry and Kubernetes.",
+    "category": "Cloud infrastructure",
+    "website": "https://anynines.com/",
+    "careers_url": "https://anynines.com/career",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Avarteq explicitly renamed itself anynines. Current official policy supports remote work from anywhere in Germany, with Saarbrücken office optional for that arrangement. Spain is outside this published Germany arrangement. Company-policy watch only; no active vacancy count established.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://anynines.com/company/careers/",
+      "https://anynines.com/career",
+      "https://anynines.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "apollo-agriculture",
+    "name": "Apollo Agriculture",
+    "description": "Apollo Agriculture provides small-scale farmers with financing and agricultural inputs to improve harvests.",
+    "category": "Agricultural Technology",
+    "website": "https://www.apolloagriculture.com/",
+    "careers_url": "https://jobs.lever.co/apolloagriculture",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Credit Strategy & Operations permits a remote home base within ±4 hours of East Africa Time, with Nairobi preferred and extensive travel to Nairobi and other Apollo markets. Regular field time with farmers and partners is part of the job. The API labels the role hybrid, but the body explicitly offers remote outside Nairobi; approval is for that travel-heavy arrangement, not attendance-free work or unrestricted worldwide hiring. Spain is not named.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://jobs.lever.co/apolloagriculture",
+      "https://www.apolloagriculture.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "atlassian",
+    "name": "Atlassian",
+    "description": "Atlassian provides collaboration and software development tools, including Loom video messaging.",
+    "category": "Collaboration software",
+    "website": "https://www.atlassian.com/",
+    "careers_url": "",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Loom’s legacy careers URL redirects to Atlassian. Team Anywhere allows remote hiring in legal-entity countries, subject to work rights, sufficient team time-zone overlap and role-specific office exceptions. France is an explicitly listed eligible country. This is successor policy monitoring, not every Loom role or all EU countries; Spain is not confirmed.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.atlassian.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "auros",
+    "name": "Auros",
+    "description": "Auros combines human-insight and AI evaluation services; UserTesting and User Interviews continue as product brands.",
+    "category": "User research software",
+    "website": "https://auros.ai/",
+    "careers_url": "https://usertesting.wd12.myworkdayjobs.com/UserTesting",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "UserTesting officially announced the Auros corporate brand; current Workday body uses Auros. Current IT Infrastructure Engineer – AI requisition R-101223 is posted/applicable and explicitly Remote - UK (UTL), country United Kingdom, remote type Remote. Monday–Friday UK/Spain (Barcelona) timezone coverage is required; Barcelona timezone does not authorize Spain residence or payroll.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://usertesting.wd12.myworkdayjobs.com/wday/cxs/usertesting/UserTesting/job/United-Kingdom/IT-Infrastructure-Engineer---AI_R-101223",
+      "https://usertesting.wd12.myworkdayjobs.com/UserTesting",
+      "https://auros.ai/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "axelerant",
+    "name": "Axelerant",
+    "description": "Axelerant provides digital strategy, design, engineering and revenue-operations services.",
+    "category": "Digital engineering services",
+    "website": "https://www.axelerant.com/",
+    "careers_url": "https://www.axelerant.com/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The Business Development Representative (UK) vacancy explicitly permits remote work anywhere in the United Kingdom. UK business hours and overlap with India/continental Europe apply. Attendance at events or client meetings at least twice monthly and UK travel are core duties; UK work rights without sponsorship are required and employment is through an Employer of Record. UK eligibility is not EU or Spain eligibility.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.axelerant.com/careers/business-development-representative-uk",
+      "https://www.axelerant.com/careers",
+      "https://www.axelerant.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "barracuda-networks",
+    "name": "Barracuda Networks",
+    "description": "Barracuda provides cybersecurity products covering email, applications, networks and data protection.",
+    "category": "Cybersecurity",
+    "website": "https://www.barracuda.com/",
+    "careers_url": "https://jobs.jobvite.com/barracuda-networks-inc",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Barracuda’s current Partner Development Manager posting names Spain and #LI-Remote. Spanish and English are required, with regional MSP events, trade shows and partner activity; travel frequency is unspecified. Publish as Barracuda Networks, not as a verified separate View Team hiring unit.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://jobs.jobvite.com/barracuda-networks-inc/job/oxAYAfwp",
+      "https://jobs.jobvite.com/barracuda-networks-inc",
+      "https://www.barracuda.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "bcw-group",
+    "name": "BCW Group",
+    "description": "BCW Group builds AI, cloud and Web3 infrastructure and operates a venture studio.",
+    "category": "Technology consulting",
+    "website": "https://www.bcw.group/",
+    "careers_url": "https://www.bcw.group/careers/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "BCW Group explicitly offers a decentralised remote-first environment under a Global Collaboration policy that says work from anywhere. Periodic strategic syncs and team gatherings are part of that policy. Suitable as company-policy monitoring only; vacancy-specific countries, contract type and Spain employment are not established.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.bcw.group/careers/",
+      "https://www.bcw.group/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "benifex",
+    "name": "Benifex",
+    "description": "Benifex provides employee benefits, reward and experience software and services.",
+    "category": "Employee benefits technology",
+    "website": "https://benifex.com/",
+    "careers_url": "https://careers.benifex.com/jobs",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Benefex and Benify combined as Benifex. The currently accessible Knowledge Manager posting is marked Fully Remote and requires candidates to be based in the UK or Ireland; visa sponsorship is unavailable. Other engineering roles are hybrid. This supports those European countries, not Spain; a separate 90-day work-from-anywhere benefit does not authorize permanent overseas residence.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://careers.benifex.com/jobs/8665053-knowledge-manager",
+      "https://careers.benifex.com/jobs",
+      "https://benifex.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "bitso",
+    "name": "Bitso",
+    "description": "Bitso provides cryptocurrency trading and payment infrastructure for individuals and businesses.",
+    "category": "Cryptocurrency and payments",
+    "website": "https://bitso.com/",
+    "careers_url": "https://bitso.bamboohr.com/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The official open full-time Software Engineer – Latam & Europe posting and recruiting work-from-anywhere policy establish European remote recruiting. Named European countries, Spanish engagement and contract/payroll model are not specified; full-time alone does not prove employee status.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://bitso.bamboohr.com/careers/1005/detail",
+      "https://bitso.bamboohr.com/careers",
+      "https://bitso.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "bramble",
+    "name": "Bramble",
+    "description": "Bramble provides an operational performance system for back-office teams.",
+    "category": "Operations software",
+    "website": "https://www.brmbl.io/",
+    "careers_url": "https://www.brmbl.io/handbook",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Bramble’s published communication handbook explicitly describes an all-remote company hiring great people regardless of where they live and allowing work from almost anywhere in the world. This qualifies worldwide policy monitoring only: no current vacancy, specific approved-country list or Spanish employment arrangement is verified. The handbook contains substantial template-like material, so reconfirm legal hiring scope and policy freshness.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.brmbl.io/handbook/communication",
+      "https://www.brmbl.io/handbook",
+      "https://www.brmbl.io/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "bryter",
+    "name": "BRYTER",
+    "description": "BRYTER provides AI and no-code workflow automation software for law firms and in-house legal teams.",
+    "category": "Legal technology and workflow automation",
+    "website": "https://bryter.com",
+    "careers_url": "https://bryter.com/careers/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Current careers policy makes office hubs optional and says work from home or anywhere; the current index also names Remote – Germany for Customer Success Manager, BEAMON AI (DACH). Approve Germany/current policy, not every job worldwide. The formerly cited Cloud Infrastructure Engineer and Engineering Lead URLs now return 404: their old country lists and engineering vacancy claims are not current Spain proof.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://bryter.com/careers/",
+      "https://bryter.com"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "buildkite",
+    "name": "Buildkite",
+    "description": "Developer tools for continuous integration, automated testing and software delivery.",
+    "category": "Developer tools",
+    "website": "https://buildkite.com",
+    "careers_url": "https://buildkite.com/about/careers/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Remote-first company with a current Senior DevOps Support Engineer role restricted to the UK, Ireland or Poland: five days per week, 09:00–17:00 local time, including both Saturday and Sunday. Other current roles have US or ANZ restrictions. Worldwide work is permitted for up to six weeks per year in the reviewed role, not evidence of permanent hiring in Spain.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://job-boards.greenhouse.io/buildkite/jobs/5415583008",
+      "https://buildkite.com/about/careers/",
+      "https://buildkite.com"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "busbud",
+    "name": "Busbud",
+    "description": "Busbud operates a ground-travel booking marketplace; its current recruiting board is branded Terra Mobility.",
+    "category": "Travel Technology",
+    "website": "https://www.busbud.com/",
+    "careers_url": "https://busbud.applytojob.com/apply",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Busbud’s recruiting policy expressly offers work from anywhere with optional Montreal office use. Monitor on that policy, not as a verified Europe-specific vacancy: its marketing careers page says no openings while the linked Terra Mobility ATS contains other remote roles. Individual country, hours and contract terms require checking; Spain is not expressly confirmed.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.busbud.com/en/careers/",
+      "https://busbud.applytojob.com/apply",
+      "https://www.busbud.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "cashlink-technologies",
+    "name": "Cashlink Technologies",
+    "description": "Cashlink provides infrastructure for tokenized securities and decentralized securities registries.",
+    "category": "Financial infrastructure",
+    "website": "https://cashlink.de/",
+    "careers_url": "https://cashlink.de/de/karriere/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The current Principal ICT Security Operations Specialist role explicitly allows remote work within Germany or from Frankfurt. Permanent full-/part-time roles and an unsolicited permanent-employment application are listed. Three company gatherings annually apply under the careers policy; Spain is outside this role’s stated Germany-only remote territory.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://cashlink.jobs.personio.de/job/2856357",
+      "https://cashlink.de/de/karriere/",
+      "https://cashlink.jobs.personio.de/",
+      "https://cashlink.de/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "circleci",
+    "name": "CircleCI",
+    "description": "CircleCI provides continuous integration and delivery tools for software teams.",
+    "category": "Developer tools",
+    "website": "https://circleci.com/",
+    "careers_url": "https://circleci.com/careers/jobs/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The Staff Software Engineer, Delivery Engineering posting explicitly lists Remote, UK alongside US/Canada Eastern-time locations. Its broader Europe/Eastern-time wording is not a supported-country list. UK is the concrete European route; Spain, EU-wide eligibility and other roles’ attendance rules are not established.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://job-boards.greenhouse.io/circleci/jobs/8882264002",
+      "https://circleci.com/careers/jobs/",
+      "https://circleci.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "clipboard",
+    "name": "Clipboard",
+    "description": "Clipboard operates a marketplace connecting healthcare workplaces and professionals with shifts.",
+    "category": "Healthcare staffing technology",
+    "website": "https://www.clipboard.com/",
+    "careers_url": "https://jobs.ashbyhq.com/clipboard",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Current Strategic WFM Analyst is explicitly Remote (Canada, UK, EU), with Remote workplace type. Billing Representative also has a Romania secondary remote location; its worldwide benefits wording does not erase role metadata restrictions. These establish European remote recruitment, not an enumerated Spanish employing-country or payroll authorization. Other roles are region-restricted.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://api.ashbyhq.com/posting-api/job-board/clipboard",
+      "https://jobs.ashbyhq.com/clipboard",
+      "https://www.clipboard.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "cognizant",
+    "name": "Cognizant",
+    "description": "Cognizant provides technology consulting and digital engineering services, including the former Contino cloud and DevOps consultancy.",
+    "category": "IT consulting",
+    "website": "https://www.cognizant.com/",
+    "careers_url": "https://careers.cognizant.com/global-en/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Contino’s official page says its offerings aligned under Cognizant from 2024. Cognizant’s ServiceNow Solution Architect SPM & Telco posting offers fully remote work in Spain and a permanent contract, requiring Spanish and English B2 or above. This is role-specific successor evidence, not a guarantee for every former Contino team.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://careers.cognizant.com/global-en/jobs/47543/servicenow-solution-architect-spm-telco/",
+      "https://careers.cognizant.com/global-en/",
+      "https://www.cognizant.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "collabora",
+    "name": "Collabora",
+    "description": "Collabora provides open-source software engineering and consulting, including Linux and embedded systems development.",
+    "category": "Open-source software consulting",
+    "website": "https://www.collabora.com",
+    "careers_url": "https://jobs.lever.co/collabora",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Live Lever board advertises Embedded Linux Consultant Engineer and Linux Kernel Consultant as Remote/Anywhere. The examined Embedded Linux role is fully remote with a global team explicitly across Europe, the Americas and Asia; conference travel is optional. Country-tailored benefits and salary vary by location.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://jobs.lever.co/collabora/1d10fee4-5504-4abb-a623-276c926aad03",
+      "https://www.collabora.com/news-and-blog/news-and-events/welcoming-the-newest-collaborans.html",
+      "https://jobs.lever.co/collabora",
+      "https://www.collabora.com"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "cyncly",
+    "name": "Cyncly",
+    "description": "Cyncly develops software for designing, selling and manufacturing interiors; Broadlume belongs to its flooring technology business.",
+    "category": "Industry software",
+    "website": "https://www.cyncly.com/",
+    "careers_url": "https://www.cyncly.com/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Cyncly’s Manager, Professional Services role names Osnabrück, Germany (remote), full-time permanent, with German and English requirements. Official acquisition material connects Broadlume to Cyncly; this is parent-group evidence, not a Broadlume-specific European role. Spain is not confirmed.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.cyncly.com/careers",
+      "https://www.cyncly.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "desmart",
+    "name": "DeSmart",
+    "description": "DeSmart is a software development company with a team base in Gdynia, Poland.",
+    "category": "Software development services",
+    "website": "https://www.desmart.com",
+    "careers_url": "https://desmart.com/jobs",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The official DeSmart recruiting policy lets staff choose remote or onsite work and explicitly makes office visits optional. Its official site identifies the business as a Polish company in Gdynia, supporting the Poland-based remote-work context only. Recruiting is a general application invitation rather than a verified named current vacancy; cross-border hiring, Spanish eligibility and contract type are not stated.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://desmart.com/jobs",
+      "https://www.desmart.com"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "development-seed",
+    "name": "Development Seed",
+    "description": "Development Seed builds geospatial data infrastructure, Earth-focused AI tools and user-facing data products for organizations tackling environmental and social challenges.",
+    "category": "Geospatial technology and Earth data",
+    "website": "https://developmentseed.org/",
+    "careers_url": "https://developmentseed.org/careers/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Worldwide general-application route only, not a specific live vacancy. The careers policy allows office use or work elsewhere, with team/client time-zone collaboration and in-person gatherings of unspecified frequency. Global application eligibility does not establish Spanish employment or supported payroll jurisdictions.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://developmentseed.org/careers/",
+      "https://developmentseed.org/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "devsdata",
+    "name": "DevsData",
+    "description": "DevsData provides technology recruiting and software-development services, including recruitment for client companies.",
+    "category": "Recruitment and software services",
+    "website": "https://devsdata.com/",
+    "careers_url": "https://devsdata.com/careers/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Current Senior Software Engineer (Rust or Python) recruitment is remote from Poland, full-time B2B, for a US-based trading-technology client. This is client contractor recruitment through DevsData, not proof of direct employee hiring by DevsData or remote-from-Spain eligibility. Urgent production responsibility and English proficiency apply.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://devsdata.com/careers/job/senior-software-engineer-rust-or-python-662620/",
+      "https://devsdata.com/careers/",
+      "https://devsdata.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "ellucian",
+    "name": "Ellucian",
+    "description": "Ellucian develops software covering student administration, engagement and institutional operations in higher education.",
+    "category": "Higher-education software",
+    "website": "https://www.ellucian.com/",
+    "careers_url": "https://careers.ellucian.com/careers-home",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Official Senior Account Executive (New&B2B) advert is identified as United Kingdom and tagged #LI-REMOTE. It is a UK remote-base sales role with 50–75% travel across UK and Ireland, not a office-only role. UK is in Europe, not EU/Spain authorization.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://careers.ellucian.com/careers-home",
+      "https://www.ellucian.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "el-passion",
+    "name": "EL Passion",
+    "description": "EL Passion designs and develops web and mobile software products for client organisations.",
+    "category": "Software Consultancy",
+    "website": "https://www.elpassion.com/",
+    "careers_url": "https://www.elpassion.com/careers",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "The recruiting page permits work from anywhere, including abroad, while requiring the team to stay in sync. It also says Warsaw openings can be hired remotely. This supports broad remote policy monitoring, including Spain only at policy level; no live role or Spanish contractual/payroll arrangement was verified.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.elpassion.com/careers",
+      "https://www.elpassion.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "employment-hero",
+    "name": "Employment Hero",
+    "description": "Employment Hero provides HR, payroll and employment-management software; Humi is its Canadian platform.",
+    "category": "HR and payroll technology",
+    "website": "https://employmenthero.com/",
+    "careers_url": "https://employmenthero.com/careers/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Humi’s careers URL now redirects to Employment Hero. The current careers policy explicitly combines work from anywhere with attracting top talent globally, supporting a worldwide company watch. Approved country/role, work rights and employment terms must still be checked; do not treat Canadian Humi roles as automatically Spain-eligible.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://employmenthero.com/en-ca/careers/",
+      "https://employmenthero.com/careers/",
+      "https://employmenthero.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "enhancv",
+    "name": "Enhancv",
+    "description": "Enhancv provides an online resume-building product and related career tools.",
+    "category": "Career software",
+    "website": "https://enhancv.com/",
+    "careers_url": "https://enhancv.com/careers/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Enhancv currently states No open positions at the moment. Its recruiting benefits still offer full flexibility with remote work from anywhere, supporting company-policy monitoring only. The reachable but unlisted Principal/Senior Software Engineer advert is Full-time Remote (Bulgaria), not a verified current vacancy or Spain-specific opening. Annual retreat and work-related travel appear in that older advert.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://enhancv.com/careers/",
+      "https://enhancv.com/senior-software-engineer/",
+      "https://enhancv.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "evercommerce",
+    "name": "EverCommerce",
+    "description": "EverCommerce supplies software for service businesses; its DrChrono brand develops electronic health records and practice management tools.",
+    "category": "Business software",
+    "website": "https://www.drchrono.com/",
+    "careers_url": "https://evercommerce.wd1.myworkdayjobs.com/EverCommerce_Careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "DrChrono’s official site links to EverCommerce recruiting. The parent Workday board has an EverWell Marketing Specialist role, Remote (United Kingdom), on a 12-month fixed-term contract. This supports parent-group monitoring, not DrChrono-specific European hiring or Spain eligibility.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://evercommerce.wd1.myworkdayjobs.com/wday/cxs/evercommerce/EverCommerce_Careers/jobs",
+      "https://evercommerce.wd1.myworkdayjobs.com/EverCommerce_Careers",
+      "https://www.drchrono.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "exoscale",
+    "name": "Exoscale",
+    "description": "Exoscale provides European cloud infrastructure, including virtual machines, storage and managed platform services.",
+    "category": "Cloud infrastructure",
+    "website": "https://www.exoscale.com/",
+    "careers_url": "https://www.exoscale.com/jobs/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "The official jobs page explicitly lists multiple technical roles as Spain, Germany or Remote in EU; some use Madrid, Munich or Remote in EU. This supports Spain/EU eligibility for those roles, not every vacancy. Individual roles, employment terms and any travel requirements still need checking.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.exoscale.com/jobs/",
+      "https://www.exoscale.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "fastbill",
+    "name": "FastBill",
+    "description": "FastBill provides cloud invoicing, bookkeeping and financial workflow software for small businesses.",
+    "category": "Accounting software",
+    "website": "https://www.fastbill.com/",
+    "careers_url": "https://www.fastbill.com/jobs",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "FastBill policy supports home-office work across Germany. Current Software Engineer is full-time 40h remote, describes staff in Germany and beyond, and makes Frankfurt office optional. Core hours 10:00–16:00 apply. Role-specific text requires multi-day Germany offsites three to four times yearly, while general benefits say twice yearly; retain the stricter role frequency and clarify. Spain is not named.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.fastbill.com/jobs",
+      "https://www.fastbill.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "firehire",
+    "name": "FireHire",
+    "description": "FireHire matches freelance software developers with remote client projects through an AI-assisted talent platform.",
+    "category": "Technical talent platform",
+    "website": "https://www.firehire.ai/",
+    "careers_url": "https://www.firehire.ai/freelance-jobs",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "The developer-facing FAQ explicitly says opportunities are remote and developers can work from anywhere in the world. This supports Spain at the worldwide contractor-policy level, not a direct employee vacancy. Freelancers invoice monthly, with no developer fees; individual client requirements still apply.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.firehire.ai/freelance-jobs",
+      "https://www.firehire.ai/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "fold",
+    "name": "Fold",
+    "description": "Fold develops a personal-finance and mobile banking application for India.",
+    "category": "Personal finance technology",
+    "website": "https://fold.money/",
+    "careers_url": "https://docs.fold.money/join-us/backend-engineer",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Official Senior Backend Engineer recruiting page explicitly describes a location-agnostic full-time position. This supports worldwide/Spain location policy in principle, not Spanish payroll or work authorization. Page has no visible freshness date; classify as accessible undated recruiting/company-watch evidence, not an independently established current funded vacancy. Employee versus contractor and timezone conditions remain unspecified.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://docs.fold.money/join-us/backend-engineer",
+      "https://fold.money/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "form3",
+    "name": "Form3",
+    "description": "Cloud-native payment infrastructure for processing and operating real-time bank payments.",
+    "category": "Financial technology",
+    "website": "https://www.form3.tech",
+    "careers_url": "https://www.form3.tech/company/vacancies",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Remote company with current UK employee roles and country-restricted European contractor roles. Reporting & Data Analyst and Senior Digital Marketing Manager are UK-only. Go contractor role accepts Austria, Bulgaria, Croatia, Cyprus, Estonia, Greece, Hungary, Italy, Latvia, Lithuania, Malta, Romania, Slovakia and Slovenia; Platform Security contractor role also accepts Denmark, Finland and Norway. Spain is absent from every current role reviewed. First day in an office is required to collect equipment; remote does not mean zero travel.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.form3.tech/company/vacancies/8885575002/reporting-data-analyst-6-month-ftc",
+      "https://www.form3.tech/company/careers",
+      "https://www.form3.tech/company/vacancies/8610009002/senior-software-engineer-go-ai-resilience-security-enhancements-contract",
+      "https://www.form3.tech/company/vacancies/8628358002/senior-platform-security-engineer-ai-resilience-security-enhancements-contract",
+      "https://www.form3.tech/company/vacancies",
+      "https://www.form3.tech"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "fourthwall",
+    "name": "Fourthwall",
+    "description": "Fourthwall enables creators to operate branded websites, sell products and receive support from their audiences.",
+    "category": "Creator commerce",
+    "website": "https://jobs.fourthwall.com/",
+    "careers_url": "https://jobs.fourthwall.com",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The board names Poland-remote engineering openings, including Senior Backend Engineer and Senior Platform Security Engineer / DevOps, explicitly B2B. These cited routes are contractor/B2B, not employee opportunities; other company jobs have different terms. Spain and EU-wide eligibility are not confirmed.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://jobs.fourthwall.com",
+      "https://jobs.fourthwall.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "freeagent",
+    "name": "FreeAgent",
+    "description": "FreeAgent develops accounting software for small businesses and their accountants and bookkeepers.",
+    "category": "Accounting software",
+    "website": "https://careers.freeagent.com/",
+    "careers_url": "https://careers.freeagent.com/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "FreeAgent supports UK remote staff; Edinburgh-based staff typically attend on set days under a hybrid pattern. Remote UK arrangement qualifies outside the Edinburgh hybrid cohort. Policy describes quarterly whole-company gatherings at HQ, and careers says at least one interview is in Edinburgh. Landing page invites registration of interest: talent-pool/company-policy watch, not a verified active opening. UK is Europe, not EU/Spain.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://careers.freeagent.com/how-we-work",
+      "https://careers.freeagent.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "gcore",
+    "name": "Gcore",
+    "description": "Gcore supplies cloud, edge, networking, security and AI infrastructure services.",
+    "category": "Cloud infrastructure",
+    "website": "https://gcore.com/careers",
+    "careers_url": "https://gcore.com/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The current Software Python Engineer posting is remote with listed recruiting geographies Poland, Serbia, Cyprus, Germany and Georgia; it explicitly requires an employment agreement. Other roles may be hybrid or onsite. The 45-day overseas benefit is temporary, not unrestricted worldwide employment or Spain eligibility.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://api.smartrecruiters.com/v1/companies/Gcore/postings/744000144704479",
+      "https://jobs.smartrecruiters.com/Gcore/744000144704479-software-python-engineer-gpu-cloud-",
+      "https://gcore.com/careers"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "grid-dynamics",
+    "name": "Grid Dynamics",
+    "description": "Grid Dynamics provides digital engineering, data, AI and enterprise software consulting.",
+    "category": "Software consulting",
+    "website": "https://www.griddynamics.com/",
+    "careers_url": "https://www.griddynamics.com/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Mutual Mobile explicitly joined Grid Dynamics and routes to the parent. Current Principal AI Engineer, Physical AI is advertised Romania Remote, Romania. This qualifies that country-specific parent role, not unrestricted Europe or Spain. Malaga office jobs and broad regional labels do not independently establish Spain remote eligibility; client/role conditions remain relevant.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.griddynamics.com/careers/vacancy/60487",
+      "https://www.griddynamics.com/careers",
+      "https://www.griddynamics.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "gruntwork",
+    "name": "Gruntwork",
+    "description": "Gruntwork develops infrastructure tooling and reusable cloud infrastructure components for engineering teams.",
+    "category": "Developer tools / cloud infrastructure",
+    "website": "https://www.gruntwork.io",
+    "careers_url": "https://jobs.ashbyhq.com/Gruntwork",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Europe eligibility is for contractors only: the official careers policy hires contractors worldwide but restricts all full-time hires to North and South American time zones. The Ashby board currently has zero open positions. Three or four company meetups per year are described; attendance obligation is not specified.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.gruntwork.io/careers",
+      "https://jobs.ashbyhq.com/Gruntwork",
+      "https://www.gruntwork.io"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "heavenhr",
+    "name": "HeavenHR",
+    "description": "HeavenHR provides human-resources administration and payroll software.",
+    "category": "HR software",
+    "website": "https://www.heavenhr.com/",
+    "careers_url": "https://apply.workable.com/heavenhr/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The current official Workable feed includes a Payroll Specialist role explicitly remote throughout Germany. Other jobs are Berlin-based or have inconsistent telecommuting metadata; the Germany-wide wording is the positive evidence. Spain is not eligible for that reviewed Germany-limited opportunity; no company-wide ban is inferred.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://apply.workable.com/heavenhr/",
+      "https://www.heavenhr.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "holidaypirates",
+    "name": "HolidayPirates",
+    "description": "HolidayPirates publishes travel deals through country-specific websites, apps, newsletters and social channels.",
+    "category": "Travel media",
+    "website": "https://holidaypirates.group/",
+    "careers_url": "",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Current official policy names France, Germany, Spain, UK, Netherlands and Italy with country-specific legal entities, flexible work from wherever the applicant is based, and optional Berlin HQ. Current Senior Global Social Strategist board listing includes Remote and Spain. Hybrid options coexist, so the role-specific remote arrangement must be confirmed rather than promising all positions are remote. Board also names Poland, which is not in the general policy list and needs clarification.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://holidaypirates.group/832-2/",
+      "https://holidaypirates.group/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "ideamotive",
+    "name": "Ideamotive",
+    "description": "Ideamotive recruits technology specialists and assembles development teams for client projects.",
+    "category": "Technology staffing",
+    "website": "https://www.ideamotive.co/",
+    "careers_url": "https://app.matchtly.com/pages/careers/ideamotive",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The official-linked board includes an IT Recruiter (AI-first) role explicitly 100% remote across Poland, on a B2B contract. This is the qualifying route, not the SAP role requiring 2–4 Wrocław office days monthly or the Warsaw hybrid jobs. FPGA roles may require occasional Warsaw visits. Client recruitment and employment-contract roles also coexist; Spain is not confirmed.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://app.matchtly.com/pages/careers/ideamotive",
+      "https://www.ideamotive.co/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "igalia",
+    "name": "Igalia",
+    "description": "Igalia is a worker-owned consultancy contributing to open-source browsers, graphics, kernels and other software infrastructure.",
+    "category": "Open Source Consultancy",
+    "website": "https://www.igalia.com/",
+    "careers_url": "https://www.igalia.com/jobs/open/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Bocoup is archived after joining Igalia in August 2026; both official sites confirm the integration. Igalia currently invites engineering applicants to telecommute from wherever they want and lists open roles. Worldwide recruiting supports Spain in principle, not a Bocoup vacancy. Cooperative employment/partnership terms require clarification. Company retreats can entail travel; no universal attendance frequency verified in this audit.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.igalia.com/jobs/open/",
+      "https://www.igalia.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "ignitetech",
+    "name": "IgniteTech",
+    "description": "IgniteTech develops and maintains enterprise software products including Symphony Commerce.",
+    "category": "Enterprise software",
+    "website": "https://ignitetech.ai/",
+    "careers_url": "https://careers.ignitetech.ai/jobs",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Official merger material links Symphony Commerce to IgniteTech. Current parent recruiting explicitly offers all roles remotely worldwide, paid in USD. The reviewed SRE requires OFAC-clear residence, shift/time-zone coverage and on-call rotation. Worldwide geography is not proof of Spanish payroll or employee status; verify engagement terms.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://careers.ignitetech.ai/",
+      "https://careers.ignitetech.ai/jobs",
+      "https://ignitetech.ai/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "influxdata",
+    "name": "InfluxData",
+    "description": "InfluxData develops the InfluxDB time-series database platform and related data tools.",
+    "category": "Database Software",
+    "website": "https://www.influxdata.com/",
+    "careers_url": "https://jobs.ashbyhq.com/Influxdata",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Current policy explicitly recruits remote employees across Europe and the Americas. Current European Ashby roles reviewed are Remote UK; other roles are US/Canada. UK is European, not EU membership. Wider Europe wording is not a Spain payroll/country-list guarantee; use the actual role location and timezone.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.influxdata.com/careers/",
+      "https://jobs.ashbyhq.com/Influxdata",
+      "https://www.influxdata.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "itdesign",
+    "name": "itdesign",
+    "description": "itdesign develops and implements CRM and project-portfolio-management software, including Meisterplan.",
+    "category": "Enterprise software",
+    "website": "https://itdesign.de/",
+    "careers_url": "https://karriere.itdesign.de/jobs",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The old careers paths are stale; the current karriere.itdesign.de site explicitly says some jobs are 100% remote from anywhere in Germany. This is not every role and does not cover Spain. The workation perk is separate and does not authorise permanent foreign residence; the jobs page also accepts speculative interest.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://karriere.itdesign.de/benefits/",
+      "https://karriere.itdesign.de/jobs",
+      "https://itdesign.de/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "jobtome",
+    "name": "Jobtome",
+    "description": "Jobtome builds HR technology for hiring and recruitment workflows.",
+    "category": "Recruitment technology",
+    "website": "https://weare.jobtome.com/",
+    "careers_url": "https://jobtome.recruitee.com/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Current Senior Backend Developer (Go) offers full remote from anywhere within UTC−1 to UTC+3; living within that European timezone window is a hard requirement and core hours apply. The application asks whether candidates can work as contractors, so do not promise employee payroll. Spain fits the timezone scope but is not named as an employing jurisdiction. Older EU-only advert is not used.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://jobtome.recruitee.com/o/senior-backend-developer-go-full-remote-european-timezones-only-utc1-to-utc3",
+      "https://jobtome.recruitee.com/",
+      "https://weare.jobtome.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "kinsta",
+    "name": "Kinsta",
+    "description": "Kinsta provides managed WordPress hosting and cloud infrastructure services.",
+    "category": "Cloud hosting",
+    "website": "https://kinsta.com",
+    "careers_url": "https://kinsta.com/careers/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Current Senior Product Designer posting is Full-time Remote with location Budapest, establishing European remote hiring in Hungary. Account Manager is advertised for Asia-Pacific. General work-from-anywhere wording does not override role geography.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://kinsta.com/careers/senior-product-designer/",
+      "https://kinsta.com/careers/",
+      "https://kinsta.com"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "kit",
+    "name": "Kit",
+    "description": "Kit is an email marketing and creator-business platform with audience management, automation and commerce tools.",
+    "category": "Creator tools and email marketing",
+    "website": "https://kit.com",
+    "careers_url": "https://kit.com/careers",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "ConvertKit officially rebranded as Kit. Current worldwide remote policy supports Spain in principle. Current Infrastructure Engineer II and Analytics Engineer contemplate Europe/Asia but mostly work US East Coast time, potentially early mornings/late evenings; infrastructure has out-of-hours on-call. Some roles instead restrict residence to North America or the US; video contracting can favor on-location work. Talent community is not a vacancy.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://kit.com/careers",
+      "https://kit.com"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "kong",
+    "name": "Kong",
+    "description": "Kong develops API connectivity, API gateway and AI infrastructure products.",
+    "category": "API and developer infrastructure",
+    "website": "https://careers.konghq.com/",
+    "careers_url": "https://careers.konghq.com/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The current official Kong Ashby board lists Staff Customer Success Manager in France with workplaceType Remote and isListed true; other country-scoped European remote roles also appear. Madrid enterprise sales is hybrid, not a Spain-remote entitlement. Eligibility is role- and country-specific, with residence and work authorization to be checked.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://api.ashbyhq.com/posting-api/job-board/kong",
+      "https://careers.konghq.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "locastic",
+    "name": "Locastic",
+    "description": "Locastic designs and develops digital products and custom software for client businesses.",
+    "category": "Software consulting",
+    "website": "https://locastic.com/",
+    "careers_url": "https://locastic.com/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Locastic’s current careers page permits work from Split, remotely or a mix, expressly saying Work from anywhere and that work quality matters rather than where staff sit. This supports its Croatia-based remote company policy and open-letter talent pool, not a verified live vacancy or a guarantee of Spanish/cross-border employment. Seasonal team activities remain part of the culture.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://locastic.com/careers",
+      "https://locastic.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "mapbox",
+    "name": "Mapbox",
+    "description": "Mapbox develops mapping, navigation, location search and geospatial software for developers and enterprises.",
+    "category": "Geospatial and developer infrastructure",
+    "website": "https://www.mapbox.com/careers",
+    "careers_url": "https://www.mapbox.com/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Current Software Development Engineer III, Logistics API explicitly permits remote work from any German city. This qualifies Germany, not unrestricted Europe or Spain. Other Mapbox locations have different rules; verify each role rather than relying on remote metadata or company benefits.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://api.ashbyhq.com/posting-api/job-board/Mapbox",
+      "https://www.mapbox.com/careers"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "mattermost",
+    "name": "Mattermost",
+    "description": "Mattermost develops secure, open-core collaboration software for organizations that need control over their communications and operational workflows.",
+    "category": "Secure collaboration software",
+    "website": "https://mattermost.com/",
+    "careers_url": "https://mattermost.com/company/careers/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Confirmed through an explicit company hiring policy, not a current European vacancy: the remote-first handbook says the company hires in Germany and the UK, as well as the US and Canada, and uses an employer of record outside its entity locations. Its current Greenhouse API returned 11 roles, located in the US, Canada and Japan; none explicitly offered European or Spanish eligibility. Most roles require availability for video calls between 8am and 1pm California time, with role-specific exceptions. Team meetups occur. Employment is tied to the contractual country and relocation needs written approval; EOR availability is not permission to hire in every country.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://handbook.mattermost.com/contributors/join-us/recruiting",
+      "https://handbook.mattermost.com/operations/workplace/people/working-at-mattermost/relocations",
+      "https://mattermost.com/company/careers/",
+      "https://mattermost.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "meltwater",
+    "name": "Meltwater",
+    "description": "Meltwater supplies media intelligence, social listening and consumer-insight software.",
+    "category": "Media intelligence software",
+    "website": "https://underthehood.meltwater.com/",
+    "careers_url": "https://jobs.jobvite.com/meltwater/jobs",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The current board and Sr. Software Engineer posting name Remote, London, United Kingdom; the role includes an on-call rotation. Other roles may be hybrid. UK-specific evidence is not EU-wide or Spain permission.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://jobs.jobvite.com/meltwater/job/oF0rAfwq",
+      "https://jobs.jobvite.com/meltwater/jobs",
+      "https://underthehood.meltwater.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "mirumee-software",
+    "name": "Mirumee Software",
+    "description": "Mirumee develops software and digital products for commerce and medical-technology organizations.",
+    "category": "Software engineering services",
+    "website": "https://mirumee.com/",
+    "careers_url": "https://mirumee.com/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Current Product Designer (Mid/Senior) visibly says Fully Remote at Piła/Wrocław HQ; official JSON-LD explicitly restricts applicant country to Poland and sets TELECOMMUTE. Poland qualifies; Spain is excluded for this checked role only. Full-time PLN remuneration is stated, but employee versus B2B form is unclear.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://careers.mirumee.com/jobs/8509002-product-designer-mid-senior",
+      "https://mirumee.com/careers",
+      "https://mirumee.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "modus-create",
+    "name": "Modus Create",
+    "description": "Modus Create provides digital product engineering, modernization and consulting services; PromptWorks is represented by its current parent identity.",
+    "category": "Software development and consulting",
+    "website": "https://www.moduscreate.com/",
+    "careers_url": "https://www.moduscreate.com/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Modus Create official acquisition announcement verifies Promptworks identity. Current parent Site Reliability Engineer contracts are listed in Romania, Portugal and Poland and explicitly Remote, Contract. Daily client-business-hours overlap and on-call during/after business hours apply. This is contractor-only evidence, not employee payroll or Spain hiring authorization.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.moduscreate.com/careers",
+      "https://www.moduscreate.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "monzo",
+    "name": "Monzo",
+    "description": "Monzo provides digital banking services.",
+    "category": "Financial technology",
+    "website": "https://monzo.com/",
+    "careers_url": "https://monzo.com/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The current official Greenhouse board explicitly has multiple Remote (UK) roles. The UK qualifies as Europe but not as EU or Spain. Barcelona and Dublin office positions do not establish Spain-remote permission. Role-specific location, right-to-work and any office attendance must be checked.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://job-boards.greenhouse.io/monzo",
+      "https://monzo.com/careers",
+      "https://monzo.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "naologic",
+    "name": "Naologic",
+    "description": "Naologic develops AI-enabled enterprise resource planning software for manufacturing and distribution.",
+    "category": "Enterprise Software",
+    "website": "https://naologic.com/",
+    "careers_url": "https://naologic.com/careers",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Although the careers index displays US flags, the current Senior Backend Developer detail explicitly lists Remote in US or Europe. This Europe-wide role-level remote permission supports Spain at geographic-policy level, subject to employment/payroll and work-right confirmation. The backend role also states 50–60+ hour weeks as standard, with more during critical builds; this workload is disclosed but is not a company-watch exclusion filter. No mandatory office or travel requirement was stated in reviewed role text.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://naologic.com/careers/senior-backend-developer",
+      "https://naologic.com/careers",
+      "https://naologic.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "nearform",
+    "name": "Nearform",
+    "description": "Nearform provides software engineering, design and digital-product development services.",
+    "category": "Software consultancy",
+    "website": "https://nearform.com/",
+    "careers_url": "https://nearform.com/careers/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Formidable’s old careers URL redirects to Nearform. The current Nearform board explicitly lists remote roles in the UK, Ireland, Italy and Poland alongside other countries. Some roles require travel and some are contracts rather than permanent jobs. Spain was not confirmed; the UK is Europe but not EU eligibility.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://nearform.com/careers/",
+      "https://nearform.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "netguru",
+    "name": "Netguru",
+    "description": "Netguru provides software engineering, product design and digital consulting services.",
+    "category": "Software consulting",
+    "website": "https://apply.workable.com/",
+    "careers_url": "https://apply.workable.com/netguru/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Current official recruiting content offers remote freelance B2B roles for EU-based residents, with some roles expressly requiring current EU residence. Spain is geographically within that EU route, but Spanish payroll or employee status is not established. The cited qualifying opportunities are freelance/B2B; other roles can impose Poland, language, hours or office-visit restrictions.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://apply.workable.com/netguru/",
+      "https://apply.workable.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "nexcess",
+    "name": "Nexcess",
+    "description": "Nexcess provides web hosting and cloud infrastructure services, including the Liquid Web and Servers.com businesses.",
+    "category": "Cloud and hosting services",
+    "website": "https://www.nexcess.com/",
+    "careers_url": "https://ats.rippling.com/nexcess",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Official Nexcess-hosted Servers.com Technical Support Engineer permits remote work from Bratislava, optional coworking, and legalization support in Slovakia. It explicitly describes Servers.com as part of Nexcess; Liquid Web footer identifies Nexcess Corp. Current board page=2 lists this exact role ID, establishing current vacancy rather than an orphaned detail. Approval is Slovakia-specific, not Spain/Europe-wide. The board location metadata says ON_SITE, while explicit role-body remote permission is the basis for this narrowly qualified arrangement.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://ats.rippling.com/nexcess/jobs/90e7cee4-470b-41b0-8954-7a6b8f64239d",
+      "https://ats.rippling.com/nexcess",
+      "https://www.nexcess.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "niteo",
+    "name": "Niteo",
+    "description": "Niteo is a startup studio building and operating software products.",
+    "category": "Software products",
+    "website": "https://niteo.co/",
+    "careers_url": "https://niteo.co/careers/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The original Niteoweb domain redirects to Niteo. Its current official careers policy allows remote work in any time zone and work from where the person wants, but explicitly has no open roles right now. Suitable for company-policy monitoring, not a current vacancy; Spain employment setup is not named.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://niteo.co/careers/",
+      "https://www.niteoweb.com/careers",
+      "https://niteo.co/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "norbsoft",
+    "name": "Norbsoft",
+    "description": "Norbsoft designs and develops mobile applications for business clients.",
+    "category": "Mobile Development",
+    "website": "https://www.norbsoft.com/",
+    "careers_url": "https://www.norbsoft.com/kariera",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The currently indexed iOS Developer opportunity offers 100% remote work, Warsaw/remote location and B2B or Polish employment-contract (UoP) arrangements. It explicitly requires Polish tax residence, Polish C1 and English B2. A statement about working anywhere does not override that tax-residence requirement or establish Spain-based hiring. An annual team trip is described; other contract terms require confirmation.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.norbsoft.com/kariera/ios-developer",
+      "https://www.norbsoft.com/kariera",
+      "https://www.norbsoft.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "octopus-energy",
+    "name": "Octopus Energy",
+    "description": "Octopus Energy Group supplies energy and develops technology and services for electrification.",
+    "category": "Energy and climate technology",
+    "website": "https://octopus.energy/",
+    "careers_url": "https://octopus.energy/careers/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Current Vehicle Operations Specialist is marked remote in the official Lever record with London (GB) location and GB country; reviewed body contains no mandatory weekly office schedule. Consumer Underwriter is also remote but a three-month fixed-term contract. Approve UK remote roles only. Spain postings reviewed are hybrid/onsite; a generic Remote (ES) filter is not a Spain vacancy.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://octopus.energy/careers/",
+      "https://octopus.energy/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "onesignal",
+    "name": "OneSignal",
+    "description": "OneSignal develops tools for push notifications, email, messaging and customer engagement automation.",
+    "category": "Customer engagement software",
+    "website": "https://onesignal.com/",
+    "careers_url": "https://onesignal.com/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "OneSignal’s official Gem Renewals Manager advert is United Kingdom (Remote), full-time, and expressly supports UK remote work as the default. It covers EMEA/APAC renewals and asks about UK work authorization and sponsorship. This establishes UK, not EU-wide remote hiring. Another SRE/Platform page displays Spain (Remote) alongside UK but asks specifically for UK work rights; Spain employment remains unconfirmed rather than resolving that conflict optimistically.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://jobs.gem.com/onesignal/am9icG9zdDrbIbwm2tw53bwDktZ6OX6a",
+      "https://onesignal.com/careers",
+      "https://onesignal.com/blog/onesignal-is-now-remote-first/",
+      "https://jobs.gem.com/onesignal/am9icG9zdDoN8Jj1GjaFmNgF0yx4xT2v",
+      "https://onesignal.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "optilyz",
+    "name": "optilyz",
+    "description": "optilyz provides software for automating personalized direct-mail campaigns and integrating them with marketing workflows.",
+    "category": "Marketing automation",
+    "website": "https://about.optilyz.com/en/careers",
+    "careers_url": "https://about.optilyz.com/en/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The current official policy explicitly says all jobs can be done remotely within Germany. Up to three months of EU workation is temporary and does not confirm employment in Spain. Both the official careers page and Personio board currently show no open roles.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://about.optilyz.com/en/about-us",
+      "https://about.optilyz.com/en/careers"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "palo-alto-networks",
+    "name": "Palo Alto Networks",
+    "description": "Palo Alto Networks develops cybersecurity platforms; the former Twistlock domain now routes to its Prisma Cloud product.",
+    "category": "Cybersecurity",
+    "website": "https://www.paloaltonetworks.com/",
+    "careers_url": "https://jobs.paloaltonetworks.com/en",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Twistlock now routes to Palo Alto Networks Prisma Cloud. The current official Transformation Success Engineer requisition JR-022631 is Madrid, Spain and expressly remote. It does not offer immigration sponsorship. This qualifies successor-level monitoring, not a guarantee of openings on the original Twistlock team; customer collaboration requirements vary by role.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://jobs.paloaltonetworks.com/en/job/madrid/transformation-success-engineer-tse/47263/101311780816",
+      "https://www.twistlock.com",
+      "https://jobs.paloaltonetworks.com/en",
+      "https://www.paloaltonetworks.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "parabol",
+    "name": "Parabol",
+    "description": "Parabol builds open-source meeting software that helps remote and agile teams run structured discussions and improve collaboration.",
+    "category": "Meeting and team collaboration software",
+    "website": "https://www.parabol.co/",
+    "careers_url": "https://www.parabol.co/join/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Confirmed via the official unrestricted work-location policy and a fully remote speculative application, not a verified live role-specific vacancy. The /join/ landing URL currently redirects to /join/speculative-application/. The purpose page explicitly says there are no restrictions on where people work, so Spain is included by this worldwide policy rather than being named individually. Location-agnostic US-based pay; recurring meetings generally limited to 1–2 hours per week per team. The purpose page describes quarterly in-person or virtual retreats. No country-specific employment mechanism or work-authorization undertaking was found.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.parabol.co/join/speculative-application/",
+      "https://www.parabol.co/purpose/",
+      "https://www.parabol.co/join/",
+      "https://www.parabol.co/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "procore",
+    "name": "Procore",
+    "description": "DroneDeploy provides visual site intelligence and reality-capture software and is now part of construction software company Procore.",
+    "category": "Construction and geospatial software",
+    "website": "https://www.dronedeploy.com/about/careers/",
+    "careers_url": "https://careers.procore.com/jobs/search",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "DroneDeploy official careers confirms it is part of Procore and routes applicants there. Current parent board lists Associate Product Manager as IE - Remote, County Dublin, Ireland. Approve Ireland-scoped remote recruitment at Procore; this is neither Spain/EU-wide permission nor confirmation that the role sits inside DroneDeploy.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://careers.procore.com/jobs/search",
+      "https://www.dronedeploy.com/about/careers/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "progress",
+    "name": "Progress",
+    "description": "Progress develops enterprise software; Chef is its infrastructure automation and configuration-management product business.",
+    "category": "Enterprise software and DevOps",
+    "website": "https://www.progress.com/",
+    "careers_url": "https://www.progress.com/company/careers/open-positions",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Chef’s official careers page identifies Chef as part of the Progress product portfolio. The current Progress board links Principal Rust Engineer with Remote Type Remote and Location Spain. This supports Spain-specific parent-company monitoring, not an independent Chef employer or a guaranteed Chef-team role; other Progress jobs may be hybrid.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.progress.com/company/careers/open-positions/principal-rust-engineer-oqe0afwo",
+      "https://www.progress.com/company/careers/open-positions",
+      "https://www.progress.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "qonto",
+    "name": "Qonto",
+    "description": "Qonto provides business accounts, payments and financial management tools for small and medium-sized businesses.",
+    "category": "Financial technology",
+    "website": "https://qonto.com/",
+    "careers_url": "https://jobs.ashbyhq.com/qonto",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Qonto’s default model is three office days and up to two remote days weekly, plus 12 bonus remote days within +/-3 hours of CET. Explicit fully remote exceptions exist: the current Staff Software Engineer, AI Agents (Python) role authorizes remote work within France, Germany, Spain or Italy. The official Ashby feed also lists Spain remote engineering roles. Eligibility is limited to the role’s named hiring countries, not all Europe.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://jobs.ashbyhq.com/qonto/b1d8d47e-6fef-48ab-90fe-445354f3d2cd",
+      "https://qonto.com/en/careers",
+      "https://api.ashbyhq.com/posting-api/job-board/qonto",
+      "https://jobs.ashbyhq.com/qonto",
+      "https://qonto.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "radiant",
+    "name": "Radiant",
+    "description": "Radiant supplies AI cloud infrastructure and GPU computing services, continuing the Ori business.",
+    "category": "AI cloud infrastructure",
+    "website": "https://radiant.co/",
+    "careers_url": "https://radiant.co/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Ori officially merged into Radiant. Current Radiant careers embeds its Ashby board; current Principal SDET is explicitly Remote and located United Kingdom. This replaces reliance on an old Ori role recovered only as sparse metadata. UK qualifies as Europe, not EU/Spain. Most other current roles are hybrid or have no workplace type; do not generalize.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://api.ashbyhq.com/posting-api/job-board/radiant",
+      "https://radiant.co/careers",
+      "https://radiant.co/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "rapptr-labs",
+    "name": "Rapptr Labs",
+    "description": "Rapptr Labs designs and develops mobile applications and web products for client businesses.",
+    "category": "Digital product agency",
+    "website": "https://www.RapptrLabs.com/",
+    "careers_url": "https://careers.rapptrlabs.com",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Current Product Designer explicitly permits work from anywhere, with availability during core US business hours. Body describes part-time scalable hours despite a Full Time ATS header; clarify schedule and employee-versus-contractor form. Spain is supported only by worldwide role wording. Separate QA opening is Latin-America-scoped and cannot be generalized to Europe.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://careers.rapptrlabs.com/apply/IKzzvKekun/Product-Designer",
+      "https://careers.rapptrlabs.com",
+      "https://www.RapptrLabs.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "resourcify",
+    "name": "Resourcify",
+    "description": "Resourcify develops software for waste management, recycling and circular-material operations, connecting business workflows with recovery partners and supporting evidence.",
+    "category": "Circular economy and waste management software",
+    "website": "https://www.resourcify.com/",
+    "careers_url": "https://resourcify.teamtailor.com/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Explicit permanent-employment eligibility for Spain appears on both the Teamtailor company policy and its fully remote engineering talent-community posting. The company policy lists fully remote Germany and Austria plus permanent employment in Spain and Portugal; the engineering talent-community posting instead lists Germany, Austria, Denmark, Italy and Spain. Treat Spain as confirmed, but resolve other country-list discrepancies with the employer. Teamtailor says staff are based within +/- 1 hour of CET for synchronous collaboration. German offices are optional under the policy. The current board has one concrete operations vacancy and four talent-community posts; its filter marks the operations vacancy as No Remote Work. Therefore this is a qualifying remote hiring policy/talent pipeline, not a verified active remote engineering vacancy. Offsites are annual in the main policy and twice yearly in the engineering talent post.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://resourcify.teamtailor.com/",
+      "https://resourcify.teamtailor.com/jobs/2096427-join-our-talent-community-software-engineering-department",
+      "https://www.resourcify.com/about",
+      "https://www.resourcify.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "rex-software",
+    "name": "Rex Software",
+    "description": "Rex Software develops customer relationship management and other software for real estate businesses.",
+    "category": "Real estate software",
+    "website": "https://www.rexsoftware.com/",
+    "careers_url": "https://www.rexsoftware.com/uk/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The official UK careers policy says design and development teams can work fully remotely, while business services roles can be hybrid or in-office. Its separate four-week work-from-anywhere leave is temporary travel flexibility, not a permanent global hiring policy. The current BambooHR feed has live vacancies, but no particular UK opening or Spain hiring permission is claimed.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.rexsoftware.com/uk/careers",
+      "https://www.rexsoftware.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "rvu",
+    "name": "RVU",
+    "description": "RVU operates consumer comparison and financial-service brands including Uswitch and Mojo Mortgages.",
+    "category": "Consumer Comparison Services",
+    "website": "https://www.rvu.co.uk/",
+    "careers_url": "https://careers.rvu.co.uk/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "RVU’s current official feed includes Mojo mortgage/protection-adviser routes expressly fully remote from anywhere in the UK. This qualifies through the UK, not EU-wide or Spain-based work; other RVU roles require office attendance. The separate 22-day work-away allowance is temporary.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://careers.rvu.co.uk/postings.json",
+      "https://careers.rvu.co.uk/",
+      "https://www.rvu.co.uk/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "salecycle",
+    "name": "SaleCycle",
+    "description": "SaleCycle develops conversion optimization and remarketing software for online businesses.",
+    "category": "E-commerce software",
+    "website": "https://www.salecycle.com/",
+    "careers_url": "https://careers.salecycle.com/jobs",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Product Expert is current UK Remote/Fully Remote, full-time, with regular Gateshead travel. Frequency is not quantified, so this is remote-home-base work with material recurring office travel, not a promise of no visits. UK is European but not EU/Spain eligibility. Separate Gateshead version is hybrid.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://careers.salecycle.com/jobs/8376264-product-expert",
+      "https://careers.salecycle.com/jobs",
+      "https://www.salecycle.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "searchapi",
+    "name": "SearchApi",
+    "description": "SearchApi provides APIs for retrieving search-engine and other public web results.",
+    "category": "Search data infrastructure",
+    "website": "https://www.searchapi.io/",
+    "careers_url": "https://www.searchapi.io/careers",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "The current official careers page explicitly says Remote Only and Work from anywhere, supporting worldwide remote work including Spain at policy level. Open positions remain a Loading placeholder in the fetched body, so no vacancy, payroll jurisdiction or contractor/employee model is asserted.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.searchapi.io/careers",
+      "https://www.searchapi.io/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "seesaw",
+    "name": "Seesaw",
+    "description": "Seesaw provides a digital learning and student-engagement platform for schools.",
+    "category": "Education Technology",
+    "website": "https://seesaw.com/",
+    "careers_url": "https://job-boards.greenhouse.io/seesaw",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The current official board lists Digital Customer Success Manager as Remote, United Kingdom. This is a UK-only evidenced remote route, not Spain. A different London training role is contractor-labelled; do not label the whole employer contractor-only or infer the remote role’s legal model solely from that contrast.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://job-boards.greenhouse.io/seesaw",
+      "https://seesaw.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "sensor-tower",
+    "name": "Sensor Tower",
+    "description": "Sensor Tower provides digital-market intelligence covering applications, advertising and consumer activity.",
+    "category": "Digital market intelligence",
+    "website": "https://sensortower.com/",
+    "careers_url": "https://sensortower.com/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The current Sensor Tower Ashby feed explicitly marks indexed Frontend Developer and other roles in Poland and Portugal with workplaceType Remote. Some records have isRemote true while workplaceType is Hybrid; those hybrid records do not qualify. No Spain eligibility or blanket European entitlement is established. Check role-specific work authorization and contract terms.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://api.ashbyhq.com/posting-api/job-board/sensor-tower",
+      "https://sensortower.com/careers",
+      "https://sensortower.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "sentisis",
+    "name": "Séntisis",
+    "description": "Séntisis develops language analytics software that categorizes customer conversations and feedback.",
+    "category": "Language analytics",
+    "website": "https://sentisis.com/",
+    "careers_url": "https://sentisis.com/puesto-vacante",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "The recruiting overview offers backend developers fully remote work, Madrid office work or a mixture, supporting Spain-context remote company-policy monitoring. Some detail links are historical/antiguas-vacantes; no live requisition is certified. A separate React advert mentions an indefinite contract and telework but does not itself prove full remote or current availability.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://sentisis.com/puesto-vacante",
+      "https://sentisis.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "signoz",
+    "name": "SigNoz",
+    "description": "SigNoz develops observability software for application logs, metrics and traces.",
+    "category": "Observability software",
+    "website": "https://signoz.io/",
+    "careers_url": "https://signoz.io/careers/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Current Technical Account Executive has location India or EU, Remote workplace type, and body says Fully remote. The body also says being based in India enables APAC mornings and European afternoons, creating a geographic/coverage tension. Approve only as explicitly EU-advertised remote recruiting with that conflict disclosed; do not confirm Spain payroll or unrestricted EU acceptance without clarification.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://api.ashbyhq.com/posting-api/job-board/SigNoz",
+      "https://signoz.io/careers/",
+      "https://signoz.io/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "smily",
+    "name": "Smily",
+    "description": "Smily provides vacation-rental management and distribution software under the BookingSync business.",
+    "category": "Hospitality software",
+    "website": "https://www.smily.com/",
+    "careers_url": "https://www.smily.com/company/jobs",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "BookingSync’s careers URL now redirects to Smily. The official company policy says it chooses remote collaboration with the best talent no matter where they are. This supports a worldwide company watch, but Spain-specific employment, approved countries, contract type and timezone overlap remain unverified; employee location anecdotes were not used as eligibility proof.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.smily.com/company/about-us",
+      "https://www.bookingsync.com/en/jobs",
+      "https://www.smily.com/company/jobs",
+      "https://www.smily.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "snyk",
+    "name": "Snyk",
+    "description": "Snyk develops security tools for application code, open-source dependencies, containers and cloud infrastructure.",
+    "category": "Developer security",
+    "website": "https://snyk.io/",
+    "careers_url": "https://snyk.io/careers/all-jobs/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The current official board and Staff Product Designer description explicitly identify Portugal - Remote with remote location type. Other remote openings name Germany, the UK, Netherlands or France while many engineering jobs are hybrid/onsite. This is country-specific European remote evidence, not Spain or all-EU permission.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://jobs.ashbyhq.com/Snyk/18909497-81c2-4a75-9b81-0c98d8cf7226",
+      "https://api.ashbyhq.com/posting-api/job-board/Snyk",
+      "https://snyk.io/careers/all-jobs/",
+      "https://snyk.io/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "solarwinds",
+    "name": "SolarWinds",
+    "description": "SolarWinds develops IT operations, monitoring, observability and infrastructure-management software.",
+    "category": "IT management software",
+    "website": "https://jobs.solarwinds.com/",
+    "careers_url": "https://jobs.solarwinds.com/jobs/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The old Squadcast careers URL redirects to SolarWinds. Current filtered results list Solutions Engineering Manager, UK Remote, and Solutions Architect, Belgium Remote. Monitor the current parent rather than a separately verified Squadcast team. The Belgian field role requires regular Benelux customer-site travel; frequency is unspecified. Spain is not confirmed. Monitor current parent SolarWinds, not a live Librato team: the legacy Librato jobs URL redirects to SolarWinds retirement/migration documentation. The Solutions Architect route is Belgium Remote but field-based with strong customer-site presence and regular Benelux travel of unspecified frequency. Language requirements apply; Spain is not confirmed.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://jobs.solarwinds.com/jobs/",
+      "https://jobs.solarwinds.com/",
+      "https://www.solarwinds.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "square",
+    "name": "Square",
+    "description": "Square develops payment processing, commerce software and financial tools for businesses within Block.",
+    "category": "Commerce technology",
+    "website": "https://squareup.com/",
+    "careers_url": "https://boards-api.greenhouse.io/v1/boards/block/jobs/5116657008",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Official Block Greenhouse record identifies the role brand as Square and explicitly titles Enterprise Account Executive, Remote UK, with remote permission metadata. Around 40% travel is required. This is UK remote-base hiring, not Spain or EU-wide permission; other Block jobs can impose office proximity/attendance.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://boards-api.greenhouse.io/v1/boards/block/jobs/5116657008",
+      "https://squareup.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "surglogs",
+    "name": "Surglogs",
+    "description": "Surglogs develops software for regulatory compliance and operational workflows in healthcare facilities.",
+    "category": "Healthcare compliance software",
+    "website": "https://surglogs.com/",
+    "careers_url": "https://surglogs.com/careers/slovakia/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "The official Slovakia careers policy explicitly permits work from anywhere in the world with internet access and describes team members working from Slovakia and Czech Republic. Spain is supported by that worldwide policy, but the readable page shows a general CV invitation rather than a verified named current vacancy. Calls accommodate US/European teams.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://surglogs.com/careers/slovakia/",
+      "https://surglogs.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "symplicity",
+    "name": "Symplicity",
+    "description": "Symplicity develops software connecting educational institutions, students and employers.",
+    "category": "Education and career software",
+    "website": "https://www.symplicity.com/",
+    "careers_url": "https://jobs.lever.co/symplicity",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Current Client Manager – UK is full-time, Remote, located London, UK on both official board and role body. This supports UK remote hiring, not Spain/EU-wide employment. Other Symplicity jobs use different countries and arrangements.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://jobs.lever.co/symplicity/578a230c-a24f-4c0c-8b31-ea2c6dacd398",
+      "https://jobs.lever.co/symplicity",
+      "https://www.symplicity.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "tablecheck",
+    "name": "TableCheck",
+    "description": "TableCheck develops restaurant reservation management and guest experience software.",
+    "category": "Hospitality software",
+    "website": "https://www.tablecheck.com/",
+    "careers_url": "https://careers.tablecheck.com/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "The official engineering culture article explicitly allows working anywhere worldwide with overlap during 11:00–15:00 JST (GMT+9) and attendance at core team meetings; it names team members in Spain, the UK, France and Belgium. The current official board has Fully Remote engineering roles even though their administrative location is Tokyo. This is engineering/product evidence, not a policy for every sales/support role. Confirm country payroll and exact overlap for each opening.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.tablecheck.com/en/blog/tech/what-it-s-like-to-work-at-tablecheck/",
+      "https://careers.tablecheck.com/jobs/7183475-design-engineer",
+      "https://careers.tablecheck.com/",
+      "https://www.tablecheck.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "teamwork-com",
+    "name": "Teamwork.com",
+    "description": "Teamwork.com provides professional services automation software that combines project delivery, resource planning and financial visibility for client-service businesses.",
+    "category": "Professional services automation software",
+    "website": "https://www.teamwork.com/",
+    "careers_url": "https://www.teamwork.com/careers/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Company-policy approval only: Teamwork.com explicitly permits remote work from named hubs including Ireland, the UK and Poland, normally from home or a nearby workspace within those locations. Travel to an office may be required occasionally or routinely for specific reasons; some functions, including Sales, Support and Finance, are hybrid with several office days weekly and are not fully remote. The current checked openings are Denver hybrid and Ontario-only remote, so no live European vacancy is claimed. Spain is outside the published hub policy.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.teamwork.com/careers/",
+      "https://www.teamwork.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "the-access-group",
+    "name": "The Access Group",
+    "description": "The Access Group develops business management software including charity websites and fundraising tools.",
+    "category": "Business software",
+    "website": "https://www.theaccessgroup.com/",
+    "careers_url": "https://careers.theaccessgroup.com/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Raising IT is now Access Charity Websites within The Access Group. The old customer-success listing URL now loads only a new Workday wrapper, so its recovered former job snippets are not treated as current. The current parent Workday board and individual Account Manager records confirm Ireland Remote and United Kingdom Remote with remoteType Home Based and posted/canApply true. A generic blended-office-working paragraph remains in the body and should be clarified with recruiting; Romania Remote engineering is explicitly Hybrid and is not qualifying evidence. Spain is not confirmed; no Raising-IT-specific opening is promised.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://theaccessgroup.wd103.myworkdayjobs.com/wday/cxs/theaccessgroup/Access_Group_External_Careers/job/Ireland-Remote/Account-Manager_JR004410-1",
+      "https://careers.theaccessgroup.com/",
+      "https://www.theaccessgroup.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "thoughtworks",
+    "name": "Thoughtworks",
+    "description": "Thoughtworks provides technology consulting, software development and digital transformation services.",
+    "category": "Software consultancy",
+    "website": "https://www.thoughtworks.com/",
+    "careers_url": "https://www.thoughtworks.com/en-es/careers",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "The official Spain benefits policy permits contributing from a home office in Spain, with optional Barcelona/Madrid offices. Monitor at policy level, subject to client/role travel and attendance checks. International work outside the employment country is separately limited to 30 calendar days per 12 months with citizenship/right to work; it is not permanent worldwide permission.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.thoughtworks.com/en-es/careers/benefits",
+      "https://www.thoughtworks.com/en-es/careers",
+      "https://www.thoughtworks.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "tiugo-technologies",
+    "name": "Tiugo Technologies",
+    "description": "ButterCMS provides a headless content-management platform within Tiugo Technologies’ portfolio of developer tools.",
+    "category": "Developer content platforms",
+    "website": "https://buttercms.com/",
+    "careers_url": "https://tiugotech.recruitee.com/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "ButterCMS official footer links Tiugo recruiting, verifying the group route. Current Senior Product Designer (TinyMCE) is remote at Warsaw, Poland; B2B remuneration or an employment-contract equivalent is offered. CET overlap is required. This is a sibling TinyMCE role through Tiugo, not a ButterCMS vacancy or Spain hiring authorization.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://tiugotech.recruitee.com/o/senior-product-designer-tinymce",
+      "https://tiugotech.recruitee.com/",
+      "https://buttercms.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "tooploox",
+    "name": "Tooploox",
+    "description": "Tooploox provides AI engineering, software development and digital product services.",
+    "category": "AI and software consulting",
+    "website": "https://tooploox.com/",
+    "careers_url": "https://tooploox.com/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The current official Tooploox Ashby feed lists Senior AI NodeJS Engineer in Poland with workplaceType Remote and isListed true. Its careers policy allows fully remote, hybrid or Warsaw/Wrocław office work and B2B or UoP contracts. The cited Senior Product Manager is currently listed but workplaceType is Hybrid despite isRemote true; it is not qualifying fully remote evidence. Flexible currency and location wording do not establish Spain eligibility; confirm contract and work-rights requirements.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://api.ashbyhq.com/posting-api/job-board/Tooploox",
+      "https://tooploox.com/careers",
+      "https://tooploox.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "uberall",
+    "name": "Uberall",
+    "description": "Uberall provides location marketing and online presence software for multi-location brands.",
+    "category": "Location marketing software",
+    "website": "https://uberall.com/en-us/company/careers",
+    "careers_url": "https://uberall.com/en-us/company/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The current official Ashby board lists a remote Lead Backend Software Engineer in Hungary. The company’s choice-first policy says office attendance is not required. No current Spain role or Spain-wide employment policy was verified.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://api.ashbyhq.com/posting-api/job-board/Uberall",
+      "https://uberall.com/en-us/company/careers"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "upstatement",
+    "name": "Upstatement",
+    "description": "Upstatement designs and builds digital products, websites and brand experiences.",
+    "category": "Digital design and engineering",
+    "website": "https://www.upstatement.com/",
+    "careers_url": "https://upstatement.com/jobs",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The recruiting page says Work wherever you like, with optional US offices, and currently says no open positions. Monitor explicit remote policy only, not a live vacancy; the company gathers once yearly. Spanish payroll, work rights and supported hiring jurisdictions remain unverified.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://www.upstatement.com/jobs/",
+      "https://upstatement.com/jobs",
+      "https://www.upstatement.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "wemake-services",
+    "name": "wemake.services",
+    "description": "wemake.services publishes a software-services working model focused on open-source contributions, code review and project-oriented delivery.",
+    "category": "Software consulting",
+    "website": "https://wemake.services/",
+    "careers_url": "https://wemake.services/meta/rsdp/job-application",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "The official recruiting handbook is continuously open to developers, says work is only remote, and explicitly says where a person is based does not matter. This worldwide recruiting policy supports Spain company-watch eligibility. Work is paid per task with an agreed hourly rate used for estimates, compatible with another full-time job; it is not a salaried-employee offering.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://wemake.services/meta/rsdp/employees",
+      "https://wemake.services/meta/rsdp/job-application",
+      "https://wemake.services/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "xebia",
+    "name": "Xebia",
+    "description": "Xebia provides digital engineering, AI, cloud and data consulting services, including security work.",
+    "category": "IT consulting",
+    "website": "https://xebia.com/",
+    "careers_url": "https://xebia.com/careers/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Xebia Security is reviewed under current Xebia. Its official-linked CEE board contains a Delivery Support Assistant explicitly Fully remote in Poland, with optional offices in Wroclaw, Warsaw, Gdansk or Rzeszow. The Spain board returned zero jobs, not a Spain ban; Spain remote eligibility is unconfirmed. The old 47 Degrees Breezy board explicitly identifies Xebia Functional as formerly 47 Degrees. Current Xebia careers links regional ATS boards. A current CEE full-stack role is explicitly Remote in Bulgaria and Romania. Spain, UK and Portugal boards were empty when fetched; do not infer Spain eligibility from the historical Madrid/Cadiz offices. This is current Xebia-group evidence, not a verified former 47 Degrees team vacancy.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://job-boards.greenhouse.io/xebiacee/jobs/6252424004",
+      "https://xebia.com/careers/",
+      "https://xebia.com/",
+      "https://job-boards.greenhouse.io/xebiacee/jobs/6238294004"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "xplor-technologies",
+    "name": "Xplor Technologies",
+    "description": "Xplor Technologies provides vertical business software and embedded payment services for service-based industries.",
+    "category": "Vertical software and payments",
+    "website": "https://www.ourxplor.com/",
+    "careers_url": "https://careers.smartrecruiters.com/Xplor",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "The current Xplor Application Support Specialist API record is Madrid, Spain, remote true and hybrid false; its description explicitly says fully remote based in Spain. Applicants must be legally authorized to work in Spain. This position offers no visa sponsorship, contractor arrangement or employer-of-record engagement. Eligibility is vacancy-specific.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://api.smartrecruiters.com/v1/companies/Xplor/postings/744000155299184",
+      "https://careers.smartrecruiters.com/Xplor",
+      "https://www.ourxplor.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "yld",
+    "name": "YLD",
+    "description": "YLD provides software engineering, product design and data consulting for client organizations.",
+    "category": "Software consulting",
+    "website": "https://www.yld.com/",
+    "careers_url": "https://job-boards.eu.greenhouse.io/yld",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Current Contract Senior Data Engineer permits EU remote work on an initial three-month B2B contract. This geographically includes Spain at contractor level, not employee payroll authorization. The application explicitly requires an active limited company/equivalent and rejects sole traders/self-employed individuals. Separate six-month Golang contract requires EU location and GMT working timezone. Keep contract duration, incorporation requirement and role-specific hours explicit.",
+    "record_reviewed_at": "2026-11-11",
+    "public_sources_checked_at": "2026-11-11",
+    "sources": [
+      "https://job-boards.eu.greenhouse.io/yld/jobs/5029781101",
+      "https://job-boards.eu.greenhouse.io/yld",
+      "https://www.yld.com/"
+    ],
+    "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
   }
 ]

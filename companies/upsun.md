@@ -7,14 +7,14 @@ Upsun provides cloud application hosting, developer workflows and observability 
 - **Jobs / careers:** [Careers](https://upsun.com/jobs/)
 - **Historical remote signal:** Spain remote signal
 
-The official careers page checked on 6 November 2026 lists Product Manager and Software Engineer roles as remote in Germany, Canada, France, Spain or the United Kingdom, plus a Sales Enablement Manager role in Spain, France, Germany and the United Kingdom. The page describes the company as remote by design, with annual team gatherings and a program allowing work abroad for up to 90 days a year.
+Platform.sh redirects to Upsun. The current official group Greenhouse feed lists remote Software Engineer and Product Manager roles in named countries including Spain, Germany, France and the UK, plus Canada; Sales Enablement Manager names Spain, France, Germany and the UK. Eligibility is role-specific. Annual team gatherings and the up-to-90-day international work-travel program are separate from permanent authorized hiring locations; an Anywhere heading elsewhere is not unlimited-country proof.
 
-- **Historical record reviewed:** 2026-11-06
-- **Public-source research date:** 2026-11-06
+- **Historical record reviewed:** 2026-11-11
+- **Public-source research date:** 2026-11-11
 
 ## Verification caveat
 
-Eligible countries differ by vacancy: other listed roles are limited to North America or Australia and India. Temporary work abroad is not unrestricted country-of-employment eligibility. Confirm the employing country, work authorization, timezone overlap and attendance requirements for each role.
+Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified.
 
 ## Sources
 

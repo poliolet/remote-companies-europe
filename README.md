@@ -1,6 +1,6 @@
 # Remote companies — Europe & Spain
 
-A public, source-linked directory of **380 companies** for people researching remote-friendly work in Europe, with particular attention to Spain.
+A public, source-linked directory of **383 companies** for people researching remote-friendly work in Europe, with particular attention to Spain.
 
 **This is a research directory, not a guarantee of current vacancies or eligibility.** Some entries have only historical signals, mixed hybrid policies or country restrictions. Always read the actual vacancy and confirm employment country, office attendance, timezone and contract terms. “Remote” does not mean “work from any country”.
 
@@ -16,10 +16,10 @@ A public, source-linked directory of **380 companies** for people researching re
 
 *These labels summarize historical research signals, not freshly verified company-wide policies.*
 
-- **Spain remote signal:** 206
+- **Spain remote signal:** 207
 - **Europe / EMEA remote signal:** 18
 - **Global / distributed signal:** 11
-- **Hybrid or country-restricted evidence:** 121
+- **Hybrid or country-restricted evidence:** 123
 - **Needs verification:** 24
 
 ## Company directory
@@ -310,12 +310,14 @@ A public, source-linked directory of **380 companies** for people researching re
 | [Revolut](companies/revolut.md) | Revolut provides app-based financial services including payment cards, money transfers, currency exchange, savings features, and tools for tracking spending. | Spain remote signal | [Website](https://www.revolut.com/) · [Careers](https://www.revolut.com/careers/) |
 | [Rex Software](companies/rex-software.md) | Rex Software develops customer relationship management and other software for real estate businesses. | Hybrid or country-restricted evidence | [Website](https://www.rexsoftware.com/) · [Careers](https://www.rexsoftware.com/uk/careers) |
 | [RoomPriceGenie](companies/roompricegenie.md) | RoomPriceGenie provides automated hotel pricing and revenue management software that helps accommodation businesses adjust room rates and manage occupancy. | Spain remote signal | [Website](https://roompricegenie.com/) · [Careers](https://jobs.ashbyhq.com/roompricegenie) |
+| [Rover](companies/rover.md) | Rover operates an online marketplace connecting pet owners with pet sitters, dog walkers and related pet-care services. | Spain remote signal | [Website](https://www.rover.com/) · [Careers](https://jobs.lever.co/rover) |
 | [Runway](companies/runway.md) | Runway develops generative AI models and creative tools for video, images, and world simulation. | Hybrid or country-restricted evidence | [Website](https://runway.com) · [Careers](https://runway.com/careers) |
 | [RVU](companies/rvu.md) | RVU operates consumer comparison and financial-service brands including Uswitch and Mojo Mortgages. | Hybrid or country-restricted evidence | [Website](https://www.rvu.co.uk/) · [Careers](https://careers.rvu.co.uk/) |
 | [Safeguard Global](companies/safeguard-global.md) | Safeguard Global provides international workforce services covering recruitment, onboarding, payroll, employment management, and compliance for organizations operating across countries. | Spain remote signal | [Website](https://www.safeguardglobal.com/) · [Careers](https://safeguardglobal.wd3.myworkdayjobs.com/External_Careers) |
 | [SafetyWing](companies/safetywing.md) | SafetyWing offers health and travel insurance products designed for people working internationally and companies with geographically distributed teams. | Global / distributed signal | [Website](https://safetywing.com/) · [Careers](https://safetywing.pinpointhq.com) |
 | [SaleCycle](companies/salecycle.md) | SaleCycle develops conversion optimization and remarketing software for online businesses. | Hybrid or country-restricted evidence | [Website](https://www.salecycle.com/) · [Careers](https://careers.salecycle.com/jobs) |
 | [Sanity](companies/sanity.md) | Sanity provides content infrastructure that helps organizations manage structured content and deliver it across websites, mobile applications, and AI experiences. | Spain remote signal | [Website](https://www.sanity.io/) · [Careers](https://jobs.ashbyhq.com/sanity) |
+| [Sanofi](companies/sanofi.md) | Sanofi is a biopharmaceutical company developing medicines and vaccines, with Digital, Data and AI teams supporting research, manufacturing, supply and commercial operations. | Hybrid or country-restricted evidence | [Website](https://www.sanofi.com/) · [Careers](https://jobs.sanofi.com/en/search-jobs) |
 | [Scaleway](companies/scaleway.md) | Scaleway provides European cloud infrastructure and AI services, including computing resources, GPU capacity, and tools for deploying applications. | Spain remote signal | [Website](https://www.scaleway.com/en/) · [Careers](https://jobs.lever.co/scaleway) |
 | [SearchApi](companies/searchapi.md) | SearchApi provides APIs for retrieving search-engine and other public web results. | Spain remote signal | [Website](https://www.searchapi.io/) · [Careers](https://www.searchapi.io/careers) |
 | [Secfix](companies/secfix.md) | Secfix provides compliance automation software and audit support to help businesses manage security controls and prepare for information security certifications. | Spain remote signal | [Website](https://www.secfix.com/) · [Careers](https://jobs.ashbyhq.com/secfix) |
@@ -330,6 +332,7 @@ A public, source-linked directory of **380 companies** for people researching re
 | [Sierra](companies/sierra.md) | Sierra provides a conversational AI platform that businesses use to build customer facing agents across messaging, voice, and other channels. | Needs verification | [Website](https://sierra.ai/) · [Careers](https://jobs.ashbyhq.com/Sierra) |
 | [Signicat](companies/signicat.md) | Signicat provides identity verification, authentication, electronic signing, and orchestration tools that help businesses manage secure and compliant customer interactions. | Hybrid or country-restricted evidence | [Website](https://www.signicat.com/) · [Careers](https://signicat.teamtailor.com/jobs) |
 | [SigNoz](companies/signoz.md) | SigNoz develops observability software for application logs, metrics and traces. | Hybrid or country-restricted evidence | [Website](https://signoz.io/) · [Careers](https://signoz.io/careers/) |
+| [Sinch](companies/sinch.md) | Sinch provides cloud communications infrastructure and applications for messaging, voice, email and customer engagement, including conversational AI and agent orchestration. | Hybrid or country-restricted evidence | [Website](https://www.sinch.com/) · [Careers](https://www.group.sinch.com/careers/join-us/) |
 | [Slite](companies/slite.md) | Slite provides an AI-powered knowledge base that helps teams maintain accurate documentation and share information with people and agents. | Spain remote signal | [Website](https://slite.com/) · [Careers](https://slite.com/jobs) |
 | [Smily](companies/smily.md) | Smily provides vacation-rental management and distribution software under the BookingSync business. | Hybrid or country-restricted evidence | [Website](https://www.smily.com/) · [Careers](https://www.smily.com/company/jobs) |
 | [Sngular](companies/sngular.md) | Sngular provides technology consulting and development services specializing in software engineering, data systems, and artificial intelligence. | Spain remote signal | [Website](https://www.sngular.com/) · [Careers](https://www.sngular.com/talent-and-culture/jobs) |

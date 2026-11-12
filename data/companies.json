@@ -6653,5 +6653,63 @@
       "https://www.yld.com/"
     ],
     "verification_note": "Eligibility is role- and country-specific. Policy, talent-pool and empty-board evidence is not a guarantee of a current vacancy or of unrestricted cross-border employment. The original upstream interview-process claim has not been independently certified."
+  },
+  {
+    "id": "sinch",
+    "name": "Sinch",
+    "description": "Sinch provides cloud communications infrastructure and applications for messaging, voice, email and customer engagement, including conversational AI and agent orchestration.",
+    "category": "Cloud communications and conversational AI",
+    "website": "https://www.sinch.com/",
+    "careers_url": "https://www.group.sinch.com/careers/join-us/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The official Senior Site Reliability Engineer role 1102 is fully remote in France and requires current French residence and employment eligibility, without relocation or visa sponsorship. Customer Success Manager UK&I 1696 is remote in the UK with regular regional travel and British citizenship/work-permit requirements stated in the advert. The Principal Software Engineer / Agentic Orchestration role 1735 is hybrid in Madrid or Stockholm; office cadence is unspecified. These examples establish country-specific European remote hiring, not remote permission from Spain for every role.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://www.group.sinch.com/careers/",
+      "https://www.group.sinch.com/careers/join-us/",
+      "https://iaings.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SinchCareer/job/1102",
+      "https://iaings.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SinchCareer/job/1696",
+      "https://iaings.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SinchCareer/job/1735"
+    ],
+    "verification_note": "Full official role descriptions and current Oracle ATS metadata were checked. Residence, work rights, travel, office attendance and eligible country depend on the individual vacancy. The UK is in Europe, not the EU. Spain-remote employment is not confirmed by the reviewed hybrid Madrid vacancy."
+  },
+  {
+    "id": "rover",
+    "name": "Rover",
+    "description": "Rover operates an online marketplace connecting pet owners with pet sitters, dog walkers and related pet-care services.",
+    "category": "Pet-care marketplace technology",
+    "website": "https://www.rover.com/",
+    "careers_url": "https://jobs.lever.co/rover",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "The current official Senior Application Admin - Zendesk role explicitly lists Spain, Full-time and Remote. Its manager and wider team are in Seattle, so working-hour overlap should be clarified. Other current Product and Engineering openings, including Senior Backend Engineer (Python), are hybrid in Barcelona or other named cities. A Spain-remote IT vacancy does not make every engineering or leadership role remotely eligible.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://www.rover.com/careers/",
+      "https://www.rover.com/careers/search/",
+      "https://jobs.lever.co/rover",
+      "https://jobs.lever.co/rover/2bf520a7-505a-425b-942d-1d6182a08d6b"
+    ],
+    "verification_note": "Spain remote eligibility is verified for the cited specific role, not as an unrestricted company-wide policy. Read country, office, timezone and employment terms for each vacancy."
+  },
+  {
+    "id": "sanofi",
+    "name": "Sanofi",
+    "description": "Sanofi is a biopharmaceutical company developing medicines and vaccines, with Digital, Data and AI teams supporting research, manufacturing, supply and commercial operations.",
+    "category": "Biopharma and digital health technology",
+    "website": "https://www.sanofi.com/",
+    "careers_url": "https://jobs.sanofi.com/en/search-jobs",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The reviewed official Data & AI Engineering Specialist vacancy is based in Barcelona and explicitly tagged LI-Hybrid and BarcelonaHub. The corporate careers policy discusses flexible working and home or site focus, but this is not a verified fully remote Spain hiring policy. This entry is a research watch for materially different future opportunities; do not treat the reviewed hybrid Barcelona job as work-from-anywhere.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://jobs.sanofi.com/en",
+      "https://jobs.sanofi.com/en/why-join-sanofi",
+      "https://jobs.sanofi.com/en/search-jobs",
+      "https://jobs.sanofi.com/en/job/barcelona/data-and-ai-engineering-specialist/2649/46483228096"
+    ],
+    "verification_note": "Hybrid-only evidence in the reviewed Spanish role. Fully remote eligibility from Spain or another European country was not established in this bounded review. Inclusion is for research monitoring, not confirmation of remote suitability."
   }
 ]

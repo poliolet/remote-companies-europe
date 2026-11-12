@@ -286,12 +286,14 @@
 - [Revolut](revolut.md) — Financial services
 - [Rex Software](rex-software.md) — Real estate software
 - [RoomPriceGenie](roompricegenie.md) — Hospitality software
+- [Rover](rover.md) — Pet-care marketplace technology
 - [Runway](runway.md) — Generative AI / creative software
 - [RVU](rvu.md) — Consumer Comparison Services
 - [Safeguard Global](safeguard-global.md) — Global workforce services
 - [SafetyWing](safetywing.md) — Insurance
 - [SaleCycle](salecycle.md) — E-commerce software
 - [Sanity](sanity.md) — Content management software
+- [Sanofi](sanofi.md) — Biopharma and digital health technology
 - [Scaleway](scaleway.md) — Cloud infrastructure
 - [SearchApi](searchapi.md) — Search data infrastructure
 - [Secfix](secfix.md) — Security compliance
@@ -306,6 +308,7 @@
 - [Sierra](sierra.md) — Customer support software
 - [Signicat](signicat.md) — Digital identity
 - [SigNoz](signoz.md) — Observability software
+- [Sinch](sinch.md) — Cloud communications and conversational AI
 - [Slite](slite.md) — Knowledge management software
 - [Smily](smily.md) — Hospitality software
 - [Sngular](sngular.md) — Technology consulting

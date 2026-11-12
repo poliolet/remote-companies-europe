@@ -6711,5 +6711,42 @@
       "https://jobs.sanofi.com/en/job/barcelona/data-and-ai-engineering-specialist/2649/46483228096"
     ],
     "verification_note": "Hybrid-only evidence in the reviewed Spanish role. Fully remote eligibility from Spain or another European country was not established in this bounded review. Inclusion is for research monitoring, not confirmation of remote suitability."
+  },
+  {
+    "id": "finary",
+    "name": "Finary",
+    "description": "Finary develops personal wealth tracking, investment and financial advisory software, including AI-assisted planning and regulated investment services.",
+    "category": "Financial technology",
+    "website": "https://finary.com/",
+    "careers_url": "https://jobs.ashbyhq.com/finary",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The official AI Product Engineer role lists Remote, Europe and explicitly accepts Europe-based candidates with EU work rights, requiring residence in Western Europe. One week in Paris every quarter is mandatory, with travel and accommodation covered; the employer calls this a hybrid setup. This is remote work with recurring planned onsite weeks, not office-free employment or weekly office hybrid. Spain is not explicitly named and employment arrangements must be checked per role.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://finary.com/",
+      "https://finary.com/en/careers",
+      "https://jobs.ashbyhq.com/finary/134c298f-68a4-44cc-8c5b-0f46f3030af9"
+    ],
+    "verification_note": "Role-specific eligibility, not a company-wide policy. The cited role also requires fluent French and professional English. Official remote metadata and the description's hybrid terminology are both preserved; quarterly Paris attendance must not be omitted."
+  },
+  {
+    "id": "resilience-care",
+    "name": "Resilience Care",
+    "description": "Resilience Care develops patient-reported outcome applications, clinical monitoring software and real-world evidence services for healthcare providers and research partners.",
+    "category": "Healthcare technology",
+    "website": "https://www.resilience.care/",
+    "careers_url": "https://jobs.ashbyhq.com/Resilience%20Care",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The official full-time RWE Project Manager posting explicitly includes Germany - Remote and France - Remote among eligible locations, supporting role-specific remote hiring beyond France. The posting does not specify a comprehensive office-attendance policy; confirm onsite and travel obligations. A separate Remote spontaneous-application page includes Madrid and Barcelona, but is a talent pool, not a current Spain-remote vacancy or unrestricted Europe-wide policy.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://www.resilience.care/",
+      "https://jobs.ashbyhq.com/Resilience%20Care",
+      "https://jobs.ashbyhq.com/Resilience%20Care/89c899e9-ab74-4448-b4e6-02b5b2aa43d7",
+      "https://jobs.ashbyhq.com/Resilience%20Care/83c7e889-e863-4409-b564-4f9c712fcb7e"
+    ],
+    "verification_note": "The employment signal comes from official role locations, not the company's remote-patient-monitoring product. RWE workplaceType metadata is absent; preserve that limit instead of claiming an unconditional fully remote policy. Spain-wide remote eligibility remains unconfirmed."
   }
 ]

@@ -1,6 +1,6 @@
 # Remote companies — Europe & Spain
 
-A public, source-linked directory of **383 companies** for people researching remote-friendly work in Europe, with particular attention to Spain.
+A public, source-linked directory of **385 companies** for people researching remote-friendly work in Europe, with particular attention to Spain.
 
 **This is a research directory, not a guarantee of current vacancies or eligibility.** Some entries have only historical signals, mixed hybrid policies or country restrictions. Always read the actual vacancy and confirm employment country, office attendance, timezone and contract terms. “Remote” does not mean “work from any country”.
 
@@ -19,7 +19,7 @@ A public, source-linked directory of **383 companies** for people researching re
 - **Spain remote signal:** 207
 - **Europe / EMEA remote signal:** 18
 - **Global / distributed signal:** 11
-- **Hybrid or country-restricted evidence:** 123
+- **Hybrid or country-restricted evidence:** 125
 - **Needs verification:** 24
 
 ## Company directory
@@ -156,6 +156,7 @@ A public, source-linked directory of **383 companies** for people researching re
 | [Fever](companies/fever.md) | Fever operates a discovery and ticketing platform where consumers can find and book concerts, cultural events, attractions, and other experiences. | Needs verification | [Website](https://feverup.com/en) · [Careers](https://job-boards.eu.greenhouse.io/feverup) |
 | [Fieldguide](companies/fieldguide.md) | Fieldguide develops AI-assisted software for audit, assurance and advisory practices. | Hybrid or country-restricted evidence | [Website](https://fieldguide.com) · [Careers](https://www.fieldguide.com/careers) |
 | [Figma](companies/figma.md) | Figma provides collaborative software that brings design, code, and AI tools together to help teams develop digital products. | Spain remote signal | [Website](https://www.figma.com/) · [Careers](https://www.figma.com/careers/) |
+| [Finary](companies/finary.md) | Finary develops personal wealth tracking, investment and financial advisory software, including AI-assisted planning and regulated investment services. | Hybrid or country-restricted evidence | [Website](https://finary.com/) · [Careers](https://jobs.ashbyhq.com/finary) |
 | [Fingerprint](companies/fingerprint.md) | Fingerprint provides device intelligence software that identifies website visitors and mobile devices to support fraud detection and risk decisions. | Spain remote signal | [Website](https://fingerprint.com/) · [Careers](https://fingerprint.com/careers/jobs/) |
 | [Finom](companies/finom.md) | Finom provides business accounts, payment tools, invoicing, and accounting integrations that help entrepreneurs and smaller companies manage their finances. | Hybrid or country-restricted evidence | [Website](https://finom.co/) · [Careers](https://careers.finom.co) |
 | [FireHire](companies/firehire.md) | FireHire matches freelance software developers with remote client projects through an AI-assisted talent platform. | Spain remote signal | [Website](https://www.firehire.ai/) · [Careers](https://www.firehire.ai/freelance-jobs) |
@@ -305,6 +306,7 @@ A public, source-linked directory of **383 companies** for people researching re
 | [Reddit](companies/reddit.md) | Reddit operates an online platform where people form communities to discuss interests, share content, and exchange information. | Hybrid or country-restricted evidence | [Website](https://reddit.com) · [Careers](https://redditinc.com/careers) |
 | [Remote](companies/remote.md) | Remote provides a global employment platform covering employer-of-record services, payroll, contractor management, payments, and compliance for internationally distributed organizations. | Hybrid or country-restricted evidence | [Website](https://remote.com/) · [Careers](https://remote.com/openings) |
 | [Resend](companies/resend.md) | Resend provides email delivery infrastructure that helps developers and businesses send transactional and marketing messages through programmatic integrations. | Needs verification | [Website](https://resend.com/) · [Careers](https://resend.com/careers) |
+| [Resilience Care](companies/resilience-care.md) | Resilience Care develops patient-reported outcome applications, clinical monitoring software and real-world evidence services for healthcare providers and research partners. | Hybrid or country-restricted evidence | [Website](https://www.resilience.care/) · [Careers](https://jobs.ashbyhq.com/Resilience%20Care) |
 | [Resourcify](companies/resourcify.md) | Resourcify develops software for waste management, recycling and circular-material operations, connecting business workflows with recovery partners and supporting evidence. | Spain remote signal | [Website](https://www.resourcify.com/) · [Careers](https://resourcify.teamtailor.com/) |
 | [RevenueCat](companies/revenuecat.md) | RevenueCat provides infrastructure for managing in app purchases, subscriptions, and customer revenue data across mobile and web applications. | Spain remote signal | [Website](https://www.revenuecat.com/) · [Careers](https://jobs.ashbyhq.com/revenuecat) |
 | [Revolut](companies/revolut.md) | Revolut provides app-based financial services including payment cards, money transfers, currency exchange, savings features, and tools for tracking spending. | Spain remote signal | [Website](https://www.revolut.com/) · [Careers](https://www.revolut.com/careers/) |

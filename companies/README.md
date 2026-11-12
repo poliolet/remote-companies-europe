@@ -132,6 +132,7 @@
 - [Fever](fever.md) — Events marketplace
 - [Fieldguide](fieldguide.md) — Audit and accounting software
 - [Figma](figma.md) — Design software
+- [Finary](finary.md) — Financial technology
 - [Fingerprint](fingerprint.md) — Fraud prevention
 - [Finom](finom.md) — Business financial services
 - [FireHire](firehire.md) — Technical talent platform
@@ -281,6 +282,7 @@
 - [Reddit](reddit.md) — Social platform / online communities
 - [Remote](remote.md) — Employment software
 - [Resend](resend.md) — Developer tools
+- [Resilience Care](resilience-care.md) — Healthcare technology
 - [Resourcify](resourcify.md) — Circular economy and waste management software
 - [RevenueCat](revenuecat.md) — Subscription infrastructure
 - [Revolut](revolut.md) — Financial services

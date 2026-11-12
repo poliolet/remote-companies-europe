@@ -12,6 +12,17 @@ Remote eligibility is not established by the available historical signal. Treat 
 - **Historical record reviewed:** 2026-10-30
 - **Public-source research date:** 2026-11-02
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 Direct HTTP retrieval was blocked; the official homepage was successfully read through an alternate public extraction service. Careers link returned HTTP 403 during the 2026-11-02 automated link check; availability could not be verified. This does not establish that the employer has no vacancies.

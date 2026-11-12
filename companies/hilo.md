@@ -12,6 +12,17 @@ The official Workable board checked on 5 November 2026 lists remote design roles
 - **Historical record reviewed:** 2026-11-05
 - **Public-source research date:** 2026-11-05
 
+## Structured eligibility
+
+- **Scope:** europe
+- **Explicit countries:** None verified
+- **Work model:** mixed
+- **Restrictions:** Senior Product Designer says fully remote, open to candidates across the UK and Europe.; Applicants must already hold a valid visa/work permit in their country of residence; no visa sponsorship.; Regional wording is not confirmation for every European country. Swiss roles may have separate flexible/office arrangements.
+- **Eligibility checked:** 2026-11-12
+- **Eligibility sources:** https://apply.workable.com/hilobyaktiia/ ; https://apply.workable.com/hilobyaktiia/j/D14FDCFF04/
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 Applicants must already have a valid visa or work permit in their country of residence; the posting says visa sponsorship is unavailable. Location and contract terms differ by vacancy, including freelance roles. Confirm country eligibility, collaboration hours and any attendance obligations for the individual role.

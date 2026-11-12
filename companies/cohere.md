@@ -12,6 +12,17 @@ Official postings checked on 5 November 2026 include remote roles whose location
 - **Historical record reviewed:** 2026-11-05
 - **Public-source research date:** 2026-11-05
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 A location of Europe does not confirm that Spain is an eligible country. Check the employing entity, country list and any security-clearance requirement for each role.

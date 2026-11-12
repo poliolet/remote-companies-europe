@@ -12,6 +12,17 @@ The official board checked on 6 November 2026 lists EU roles as Fully Remote. Th
 - **Historical record reviewed:** 2026-11-06
 - **Public-source research date:** 2026-11-06
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 The EU label does not establish employment availability in every member country or specifically in Spain. The posting says the applicable work location will be confirmed during recruitment; confirm country eligibility, contract arrangements, collaboration hours and offsite attendance for the individual role.

@@ -12,6 +12,17 @@ The current official Senior Application Admin - Zendesk role explicitly lists Sp
 - **Historical record reviewed:** 2026-11-12
 - **Public-source research date:** 2026-11-12
 
+## Structured eligibility
+
+- **Scope:** countries
+- **Explicit countries:** ES
+- **Work model:** mixed
+- **Restrictions:** Senior Application Admin - Zendesk is explicitly Spain/Remote.; Seattle team overlap requires confirmation; engineering/backend openings may be Barcelona hybrid.
+- **Eligibility checked:** 2026-11-12
+- **Eligibility sources:** https://jobs.lever.co/rover/2bf520a7-505a-425b-942d-1d6182a08d6b
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 Spain remote eligibility is verified for the cited specific role, not as an unrestricted company-wide policy. Read country, office, timezone and employment terms for each vacancy.

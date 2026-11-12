@@ -1,0 +1,385 @@
+# Unknown eligibility
+
+[Browse countries](README.md)
+
+Unknown is not ineligible. No country eligibility has been confirmed; legacy signals never supply countries.
+
+- [1Password](../companies/1password.md) — unknown
+- [37signals](../companies/37signals.md) — unknown
+- [8am](../companies/8am.md) — unknown
+- [Abi Global Health](../companies/abi-global-health.md) — unknown
+- [Accredible](../companies/accredible.md) — unknown
+- [Action1](../companies/action1.md) — unknown
+- [adnymics](../companies/adnymics.md) — unknown
+- [Adthena](../companies/adthena.md) — unknown
+- [Affirm](../companies/affirm.md) — unknown
+- [Airalo](../companies/airalo.md) — unknown
+- [Akamai](../companies/akamai.md) — unknown
+- [Alan](../companies/alan.md) — unknown
+- [Algolia](../companies/algolia.md) — unknown
+- [Alinia AI](../companies/alinia-ai.md) — unknown
+- [Alpaca](../companies/alpaca.md) — unknown
+- [AlphaSights](../companies/alphasights.md) — unknown
+- [Altinity](../companies/altinity.md) — unknown
+- [Ankorstore](../companies/ankorstore.md) — unknown
+- [anynines](../companies/anynines.md) — unknown
+- [Apollo Agriculture](../companies/apollo-agriculture.md) — unknown
+- [Appinio](../companies/appinio.md) — unknown
+- [AppSignal](../companies/appsignal.md) — unknown
+- [Appwrite](../companies/appwrite.md) — unknown
+- [Ashby](../companies/ashby.md) — unknown
+- [Atlassian](../companies/atlassian.md) — unknown
+- [Attio](../companies/attio.md) — unknown
+- [Auctane](../companies/auctane.md) — unknown
+- [Auros](../companies/auros.md) — unknown
+- [Automattic](../companies/automattic.md) — unknown
+- [Axelerant](../companies/axelerant.md) — unknown
+- [Axmed](../companies/axmed.md) — unknown
+- [Axo Longevity](../companies/axo-longevity.md) — unknown
+- [baesh](../companies/baesh.md) — unknown
+- [Barracuda Networks](../companies/barracuda-networks.md) — unknown
+- [BCW Group](../companies/bcw-group.md) — unknown
+- [beehiiv](../companies/beehiiv.md) — unknown
+- [Belvo](../companies/belvo.md) — unknown
+- [Bending Spoons](../companies/bending-spoons.md) — unknown
+- [Benifex](../companies/benifex.md) — unknown
+- [Bitso](../companies/bitso.md) — unknown
+- [Bizneo HR](../companies/bizneo-hr.md) — unknown
+- [BJAK](../companies/bjak.md) — unknown
+- [BLP Digital](../companies/blp-digital.md) — unknown
+- [Booksy](../companies/booksy.md) — unknown
+- [Brainly](../companies/brainly.md) — unknown
+- [Bramble](../companies/bramble.md) — unknown
+- [Brave](../companies/brave.md) — unknown
+- [BRYTER](../companies/bryter.md) — unknown
+- [Buffer](../companies/buffer.md) — unknown
+- [Builder.io](../companies/builder-io.md) — unknown
+- [Buildkite](../companies/buildkite.md) — unknown
+- [bunch](../companies/bunch.md) — unknown
+- [bunny.net](../companies/bunny-net.md) — unknown
+- [Busbud](../companies/busbud.md) — unknown
+- [Business Insights](../companies/business-insights.md) — unknown
+- [Cabify](../companies/cabify.md) — unknown
+- [Camunda](../companies/camunda.md) — unknown
+- [Canonical](../companies/canonical.md) — unknown
+- [Capacity](../companies/capacity.md) — unknown
+- [Capchase](../companies/capchase.md) — unknown
+- [Capitole](../companies/capitole.md) — unknown
+- [cargo.one](../companies/cargo-one.md) — unknown
+- [CARTO](../companies/carto.md) — unknown
+- [Cashlink Technologies](../companies/cashlink-technologies.md) — unknown
+- [Chainguard](../companies/chainguard.md) — unknown
+- [Checkly](../companies/checkly.md) — unknown
+- [Chess.com](../companies/chess-com.md) — unknown
+- [Chili Piper](../companies/chili-piper.md) — unknown
+- [Circle](../companies/circle.md) — unknown
+- [CircleCI](../companies/circleci.md) — unknown
+- [Citibox](../companies/citibox.md) — unknown
+- [Civo](../companies/civo.md) — unknown
+- [Clarity AI](../companies/clarity-ai.md) — unknown
+- [Clipboard](../companies/clipboard.md) — unknown
+- [Cloudflare](../companies/cloudflare.md) — unknown
+- [CloudTalk](../companies/cloudtalk.md) — unknown
+- [Codekeeper](../companies/codekeeper.md) — unknown
+- [Cognizant](../companies/cognizant.md) — unknown
+- [Cohere](../companies/cohere.md) — unknown
+- [Collabora](../companies/collabora.md) — unknown
+- [commercetools](../companies/commercetools.md) — unknown
+- [Confluent](../companies/confluent.md) — unknown
+- [Consensys](../companies/consensys.md) — unknown
+- [Constructor](../companies/constructor.md) — unknown
+- [Contentsquare](../companies/contentsquare.md) — unknown
+- [Coverflex](../companies/coverflex.md) — unknown
+- [CrossPoint](../companies/crosspoint.md) — unknown
+- [Customer.io](../companies/customer-io.md) — unknown
+- [Cyncly](../companies/cyncly.md) — unknown
+- [Dash0](../companies/dash0.md) — unknown
+- [Datadog](../companies/datadog.md) — unknown
+- [Deel](../companies/deel.md) — unknown
+- [Deepgram](../companies/deepgram.md) — unknown
+- [DeSmart](../companies/desmart.md) — unknown
+- [Development Seed](../companies/development-seed.md) — unknown
+- [Devo](../companies/devo.md) — unknown
+- [DevsData](../companies/devsdata.md) — unknown
+- [Directus](../companies/directus.md) — unknown
+- [DistroKid](../companies/distrokid.md) — unknown
+- [DKB Code Factory](../companies/dkb-code-factory.md) — unknown
+- [Docker](../companies/docker.md) — unknown
+- [DocPlanner](../companies/docplanner.md) — unknown
+- [DoiT](../companies/doit.md) — unknown
+- [Dropbox](../companies/dropbox.md) — unknown
+- [DualEntry](../companies/dualentry.md) — unknown
+- [DuckDuckGo](../companies/duckduckgo.md) — unknown
+- [Easor](../companies/easor.md) — unknown
+- [Ebury](../companies/ebury.md) — unknown
+- [Edpuzzle](../companies/edpuzzle.md) — unknown
+- [eduki](../companies/eduki.md) — unknown
+- [EL Passion](../companies/el-passion.md) — unknown
+- [Elastic](../companies/elastic.md) — unknown
+- [ElevenLabs](../companies/elevenlabs.md) — unknown
+- [Ellucian](../companies/ellucian.md) — unknown
+- [Employment Hero](../companies/employment-hero.md) — unknown
+- [Enhancv](../companies/enhancv.md) — unknown
+- [Enode](../companies/enode.md) — unknown
+- [Epassi](../companies/epassi.md) — unknown
+- [Etereo](../companies/etereo.md) — unknown
+- [Eventbrite](../companies/eventbrite.md) — unknown
+- [EverAI](../companies/everai.md) — unknown
+- [EverCommerce](../companies/evercommerce.md) — unknown
+- [EWOR](../companies/ewor.md) — unknown
+- [Exoscale](../companies/exoscale.md) — unknown
+- [Factorial](../companies/factorial.md) — unknown
+- [FastBill](../companies/fastbill.md) — unknown
+- [Fastly](../companies/fastly.md) — unknown
+- [Fever](../companies/fever.md) — unknown
+- [Fieldguide](../companies/fieldguide.md) — unknown
+- [Figma](../companies/figma.md) — unknown
+- [Fingerprint](../companies/fingerprint.md) — unknown
+- [Finom](../companies/finom.md) — unknown
+- [FireHire](../companies/firehire.md) — unknown
+- [Flexcompute](../companies/flexcompute.md) — unknown
+- [Flywire](../companies/flywire.md) — unknown
+- [Fold](../companies/fold.md) — unknown
+- [Form3](../companies/form3.md) — unknown
+- [Fourthwall](../companies/fourthwall.md) — unknown
+- [FreeAgent](../companies/freeagent.md) — unknown
+- [Fundamental](../companies/fundamental.md) — unknown
+- [Fundraise Up](../companies/fundraise-up.md) — unknown
+- [FYUL](../companies/fyul.md) — unknown
+- [Gcore](../companies/gcore.md) — unknown
+- [Ghost](../companies/ghost.md) — unknown
+- [GitBook](../companies/gitbook.md) — unknown
+- [GitHub](../companies/github.md) — unknown
+- [GitLab](../companies/gitlab.md) — unknown
+- [Gr4vy](../companies/gr4vy.md) — unknown
+- [Grafana](../companies/grafana.md) — unknown
+- [Grid Dynamics](../companies/grid-dynamics.md) — unknown
+- [Gruntwork](../companies/gruntwork.md) — unknown
+- [haddock](../companies/haddock.md) — unknown
+- [HeavenHR](../companies/heavenhr.md) — unknown
+- [Herdr](../companies/herdr.md) — unknown
+- [HexGrid Cloud](../companies/hexgrid-cloud.md) — unknown
+- [Higharc](../companies/higharc.md) — unknown
+- [HolidayPirates](../companies/holidaypirates.md) — unknown
+- [Horizon3.ai](../companies/horizon3-ai.md) — unknown
+- [Hostaway](../companies/hostaway.md) — unknown
+- [Hubstaff](../companies/hubstaff.md) — unknown
+- [Hunter](../companies/hunter.md) — unknown
+- [Ideamotive](../companies/ideamotive.md) — unknown
+- [Igalia](../companies/igalia.md) — unknown
+- [IgniteTech](../companies/ignitetech.md) — unknown
+- [Immersive](../companies/immersive.md) — unknown
+- [InfiniteWatch](../companies/infinitewatch.md) — unknown
+- [INFINNI](../companies/infinni.md) — unknown
+- [InfluxData](../companies/influxdata.md) — unknown
+- [IntegrityNext](../companies/integritynext.md) — unknown
+- [IONOS](../companies/ionos.md) — unknown
+- [iPronics](../companies/ipronics.md) — unknown
+- [Iristrace](../companies/iristrace.md) — unknown
+- [itdesign](../companies/itdesign.md) — unknown
+- [Jitter](../companies/jitter.md) — unknown
+- [Jobtome](../companies/jobtome.md) — unknown
+- [JOIN](../companies/join.md) — unknown
+- [Joko](../companies/joko.md) — unknown
+- [Keepler Data Tech](../companies/keepler-data-tech.md) — unknown
+- [Kestra](../companies/kestra.md) — unknown
+- [Keyrock](../companies/keyrock.md) — unknown
+- [Kinsta](../companies/kinsta.md) — unknown
+- [Kit](../companies/kit.md) — unknown
+- [Koinly](../companies/koinly.md) — unknown
+- [Komoot](../companies/komoot.md) — unknown
+- [Kong](../companies/kong.md) — unknown
+- [Kota](../companies/kota.md) — unknown
+- [Kraken](../companies/kraken.md) — unknown
+- [Kustomer](../companies/kustomer.md) — unknown
+- [Lago](../companies/lago.md) — unknown
+- [lemlist](../companies/lemlist.md) — unknown
+- [Lemon.io](../companies/lemon-io.md) — unknown
+- [Lighthouse](../companies/lighthouse.md) — unknown
+- [Linear](../companies/linear.md) — unknown
+- [Lingo.dev](../companies/lingo-dev.md) — unknown
+- [LocalStack](../companies/localstack.md) — unknown
+- [Locastic](../companies/locastic.md) — unknown
+- [LORIOT](../companies/loriot.md) — unknown
+- [Ludus](../companies/ludus.md) — unknown
+- [MailerLite](../companies/mailerlite.md) — unknown
+- [Maisa](../companies/maisa.md) — unknown
+- [Mango](../companies/mango.md) — unknown
+- [Mapbox](../companies/mapbox.md) — unknown
+- [Marqeta](../companies/marqeta.md) — unknown
+- [Mattermost](../companies/mattermost.md) — unknown
+- [Maven Clinic](../companies/maven-clinic.md) — unknown
+- [Maze](../companies/maze.md) — unknown
+- [Meltwater](../companies/meltwater.md) — unknown
+- [Mentimeter](../companies/mentimeter.md) — unknown
+- [Mercadona Tech](../companies/mercadona-tech.md) — unknown
+- [Microsoft](../companies/microsoft.md) — unknown
+- [Mimica](../companies/mimica.md) — unknown
+- [Mirumee Software](../companies/mirumee-software.md) — unknown
+- [Mistral AI](../companies/mistral-ai.md) — unknown
+- [Mitek Systems](../companies/mitek-systems.md) — unknown
+- [MITO AI](../companies/mito-ai.md) — unknown
+- [Mitratech](../companies/mitratech.md) — unknown
+- [Modash.io](../companies/modash-io.md) — unknown
+- [Modus Create](../companies/modus-create.md) — unknown
+- [Moka Care](../companies/moka-care.md) — unknown
+- [Molecule](../companies/molecule.md) — unknown
+- [Monest Capital](../companies/monest-capital.md) — unknown
+- [Monzo](../companies/monzo.md) — unknown
+- [Mozilla](../companies/mozilla.md) — unknown
+- [Mural](../companies/mural.md) — unknown
+- [Mática Partners](../companies/matica-partners.md) — unknown
+- [n8n](../companies/n8n.md) — unknown
+- [Naologic](../companies/naologic.md) — unknown
+- [Nearform](../companies/nearform.md) — unknown
+- [Nebius](../companies/nebius.md) — unknown
+- [Netguru](../companies/netguru.md) — unknown
+- [Netskope](../companies/netskope.md) — unknown
+- [New Relic](../companies/new-relic.md) — unknown
+- [Nexcess](../companies/nexcess.md) — unknown
+- [Niteo](../companies/niteo.md) — unknown
+- [Nomic Foundation](../companies/nomic-foundation.md) — unknown
+- [Norbsoft](../companies/norbsoft.md) — unknown
+- [Nordhealth](../companies/nordhealth.md) — unknown
+- [Northius](../companies/northius.md) — unknown
+- [NTT DATA Spain](../companies/ntt-data-spain.md) — unknown
+- [Octopus Energy](../companies/octopus-energy.md) — unknown
+- [Oddin.gg](../companies/oddin-gg.md) — unknown
+- [OneSignal](../companies/onesignal.md) — unknown
+- [optilyz](../companies/optilyz.md) — unknown
+- [Orbitant](../companies/orbitant.md) — unknown
+- [osapiens](../companies/osapiens.md) — unknown
+- [Otto Group one.O](../companies/otto-group-one-o.md) — unknown
+- [OVHcloud](../companies/ovhcloud.md) — unknown
+- [Owner](../companies/owner.md) — unknown
+- [Oyster](../companies/oyster.md) — unknown
+- [Paddle](../companies/paddle.md) — unknown
+- [Palo Alto Networks](../companies/palo-alto-networks.md) — unknown
+- [PandaDoc](../companies/pandadoc.md) — unknown
+- [Pantheon](../companies/pantheon.md) — unknown
+- [Parabol](../companies/parabol.md) — unknown
+- [Parloa](../companies/parloa.md) — unknown
+- [PcComponentes](../companies/pccomponentes.md) — unknown
+- [Pencil](../companies/pencil.md) — unknown
+- [Phantom](../companies/phantom.md) — unknown
+- [Phrase](../companies/phrase.md) — unknown
+- [Pitchup](../companies/pitchup.md) — unknown
+- [Plain Concepts](../companies/plain-concepts.md) — unknown
+- [Pleo](../companies/pleo.md) — unknown
+- [Poolside AI](../companies/poolside-ai.md) — unknown
+- [PostHog](../companies/posthog.md) — unknown
+- [Postman](../companies/postman.md) — unknown
+- [Privera](../companies/privera.md) — unknown
+- [Procore](../companies/procore.md) — unknown
+- [Profile Software Services](../companies/profile-software-services.md) — unknown
+- [Progress](../companies/progress.md) — unknown
+- [Prosper AI](../companies/prosper-ai.md) — unknown
+- [Qonto](../companies/qonto.md) — unknown
+- [Qualifyze](../companies/qualifyze.md) — unknown
+- [Radiant](../companies/radiant.md) — unknown
+- [Rapptr Labs](../companies/rapptr-labs.md) — unknown
+- [Reddit](../companies/reddit.md) — unknown
+- [Remote](../companies/remote.md) — unknown
+- [Resend](../companies/resend.md) — unknown
+- [Resourcify](../companies/resourcify.md) — unknown
+- [RevenueCat](../companies/revenuecat.md) — unknown
+- [Revolut](../companies/revolut.md) — unknown
+- [Rex Software](../companies/rex-software.md) — unknown
+- [RoomPriceGenie](../companies/roompricegenie.md) — unknown
+- [Runway](../companies/runway.md) — unknown
+- [RVU](../companies/rvu.md) — unknown
+- [Safeguard Global](../companies/safeguard-global.md) — unknown
+- [SafetyWing](../companies/safetywing.md) — unknown
+- [SaleCycle](../companies/salecycle.md) — unknown
+- [Sanity](../companies/sanity.md) — unknown
+- [Sanofi](../companies/sanofi.md) — unknown
+- [Scaleway](../companies/scaleway.md) — unknown
+- [SearchApi](../companies/searchapi.md) — unknown
+- [Secfix](../companies/secfix.md) — unknown
+- [Second Front](../companies/second-front.md) — unknown
+- [Seedtag](../companies/seedtag.md) — unknown
+- [Seesaw](../companies/seesaw.md) — unknown
+- [Sensor Tower](../companies/sensor-tower.md) — unknown
+- [SerpApi](../companies/serpapi.md) — unknown
+- [Shakers](../companies/shakers.md) — unknown
+- [Siemens Energy](../companies/siemens-energy.md) — unknown
+- [Siena AI](../companies/siena-ai.md) — unknown
+- [Sierra](../companies/sierra.md) — unknown
+- [Signicat](../companies/signicat.md) — unknown
+- [SigNoz](../companies/signoz.md) — unknown
+- [Slite](../companies/slite.md) — unknown
+- [Smily](../companies/smily.md) — unknown
+- [Sngular](../companies/sngular.md) — unknown
+- [Snyk](../companies/snyk.md) — unknown
+- [SolarWinds](../companies/solarwinds.md) — unknown
+- [Sourcegraph](../companies/sourcegraph.md) — unknown
+- [Sovendus](../companies/sovendus.md) — unknown
+- [SplitMetrics](../companies/splitmetrics.md) — unknown
+- [Spotify](../companies/spotify.md) — unknown
+- [Square](../companies/square.md) — unknown
+- [Sticker Mule](../companies/sticker-mule.md) — unknown
+- [Storelink / Comply](../companies/storelink-comply.md) — unknown
+- [Storyblok](../companies/storyblok.md) — unknown
+- [Stripe](../companies/stripe.md) — unknown
+- [Sumsub](../companies/sumsub.md) — unknown
+- [Supabase](../companies/supabase.md) — unknown
+- [Super Technologies](../companies/super-technologies.md) — unknown
+- [Surglogs](../companies/surglogs.md) — unknown
+- [Sword Health](../companies/sword-health.md) — unknown
+- [Symplicity](../companies/symplicity.md) — unknown
+- [Synthesia](../companies/synthesia.md) — unknown
+- [Séntisis](../companies/sentisis.md) — unknown
+- [T-Systems Iberia](../companies/t-systems-iberia.md) — unknown
+- [TableCheck](../companies/tablecheck.md) — unknown
+- [Tailscale](../companies/tailscale.md) — unknown
+- [Teamwire](../companies/teamwire.md) — unknown
+- [Teamwork.com](../companies/teamwork-com.md) — unknown
+- [Techsoulogy](../companies/techsoulogy.md) — unknown
+- [Tempo](../companies/tempo.md) — unknown
+- [Tether](../companies/tether.md) — unknown
+- [The Access Group](../companies/the-access-group.md) — unknown
+- [Thoughtworks](../companies/thoughtworks.md) — unknown
+- [Tinybird](../companies/tinybird.md) — unknown
+- [Tiugo Technologies](../companies/tiugo-technologies.md) — unknown
+- [Todoist](../companies/todoist.md) — unknown
+- [Together](../companies/together.md) — unknown
+- [Toggl](../companies/toggl.md) — unknown
+- [Tooploox](../companies/tooploox.md) — unknown
+- [Toptal](../companies/toptal.md) — unknown
+- [Treatwell](../companies/treatwell.md) — unknown
+- [Trigger.dev](../companies/trigger-dev.md) — unknown
+- [Triple](../companies/triple.md) — unknown
+- [Tucuvi](../companies/tucuvi.md) — unknown
+- [Twilio](../companies/twilio.md) — unknown
+- [Typeform](../companies/typeform.md) — unknown
+- [Uberall](../companies/uberall.md) — unknown
+- [UpScrolled](../companies/upscrolled.md) — unknown
+- [Upstatement](../companies/upstatement.md) — unknown
+- [Upsun](../companies/upsun.md) — unknown
+- [Valdyr (formerly Telness Tech)](../companies/valdyr.md) — unknown
+- [Valsea Technologies](../companies/valsea-technologies.md) — unknown
+- [Vanta](../companies/vanta.md) — unknown
+- [Veeva Systems](../companies/veeva-systems.md) — unknown
+- [Vercel](../companies/vercel.md) — unknown
+- [VistaPrint](../companies/vistaprint.md) — unknown
+- [Vodafone AI and Sovereign Cloud](../companies/vodafone-ai-and-sovereign-cloud.md) — unknown
+- [Voicemod](../companies/voicemod.md) — unknown
+- [voize](../companies/voize.md) — unknown
+- [Vonage](../companies/vonage.md) — unknown
+- [WalletConnect](../companies/walletconnect.md) — unknown
+- [Wave Mobile Money](../companies/wave-mobile-money.md) — unknown
+- [wemake.services](../companies/wemake-services.md) — unknown
+- [Whereto](../companies/whereto.md) — unknown
+- [Wikiloc](../companies/wikiloc.md) — unknown
+- [Wikimedia Foundation](../companies/wikimedia-foundation.md) — unknown
+- [Workato](../companies/workato.md) — unknown
+- [Wunderkind](../companies/wunderkind.md) — unknown
+- [Xebia](../companies/xebia.md) — unknown
+- [Xplor Technologies](../companies/xplor-technologies.md) — unknown
+- [Yazio](../companies/yazio.md) — unknown
+- [YLD](../companies/yld.md) — unknown
+- [YouGov](../companies/yougov.md) — unknown
+- [Yuno](../companies/yuno.md) — unknown
+- [Zapier](../companies/zapier.md) — unknown
+- [Zed](../companies/zed.md) — unknown
+- [Zero Hash](../companies/zero-hash.md) — unknown

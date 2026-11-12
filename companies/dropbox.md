@@ -12,6 +12,17 @@ Dropbox describes a Virtual First model with remote day-to-day work, core collab
 - **Historical record reviewed:** 2026-11-04
 - **Public-source research date:** 2026-11-04
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 The Poland infrastructure role requires offsite/team travel, described as approximately 5-10% of the year or 2-3 days per quarter. Check each role's actual country and attendance terms; Spain eligibility is not established by these sources.

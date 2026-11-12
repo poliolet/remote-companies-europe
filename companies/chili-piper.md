@@ -12,6 +12,17 @@ The official Sr. Customer Success Manager posting checked on 11 November 2026 ex
 - **Historical record reviewed:** 2026-11-11
 - **Public-source research date:** 2026-11-11
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 The posting's broad work-from-anywhere language is not a verified country-employment list. Confirm Spain eligibility, work authorization, meeting hours and retreat attendance for each role.

@@ -12,6 +12,17 @@ The official Engineering Manager vacancy is labelled EMEA and Remote, and its be
 - **Historical record reviewed:** 2026-11-09
 - **Public-source research date:** 2026-11-09
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 Spain-specific eligibility, the employing entity or EOR, visa sponsorship and any travel or attendance requirements are not explicitly confirmed by the inspected posting. Confirm these terms for the individual vacancy; EMEA does not establish eligibility in every country.

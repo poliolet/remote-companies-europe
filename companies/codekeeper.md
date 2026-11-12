@@ -12,6 +12,17 @@ Historical research found a Spain-related remote-work signal. Country eligibilit
 - **Historical record reviewed:** 2026-10-28
 - **Public-source research date:** 2026-11-02
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Sources
 
 - https://codekeeper.co/

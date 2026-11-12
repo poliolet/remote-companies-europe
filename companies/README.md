@@ -41,6 +41,7 @@
 - [Belvo](belvo.md) — Financial infrastructure
 - [Bending Spoons](bending-spoons.md) — Consumer software
 - [Benifex](benifex.md) — Employee benefits technology
+- [BeReal](bereal.md) — Social media
 - [Bitso](bitso.md) — Cryptocurrency and payments
 - [Bizneo HR](bizneo-hr.md) — HR software
 - [BJAK](bjak.md) — Insurance technology
@@ -193,6 +194,7 @@
 - [Kraken](kraken.md) — Financial technology
 - [Kustomer](kustomer.md) — Customer support software
 - [Lago](lago.md) — Billing software
+- [Legalstart](legalstart.md) — Legal technology
 - [lemlist](lemlist.md) — Sales software
 - [Lemon.io](lemon-io.md) — Talent marketplace
 - [Lighthouse](lighthouse.md) — Hospitality software
@@ -220,6 +222,7 @@
 - [Mitek Systems](mitek-systems.md) — Identity verification
 - [MITO AI](mito-ai.md) — Creative software
 - [Mitratech](mitratech.md) — Legal technology / governance, risk and compliance
+- [Mixmax](mixmax.md) — Sales software
 - [Modash.io](modash-io.md) — Marketing software
 - [Modus Create](modus-create.md) — Software development and consulting
 - [Moka Care](moka-care.md) — Employee mental health
@@ -254,6 +257,7 @@
 - [Owner](owner.md) — Restaurant software
 - [Oyster](oyster.md) — HR technology
 - [Paddle](paddle.md) — Payments software
+- [Paessler GmbH](paessler-gmbh.md) — IT monitoring software
 - [Palo Alto Networks](palo-alto-networks.md) — Cybersecurity
 - [PandaDoc](pandadoc.md) — Document software
 - [Pantheon](pantheon.md) — Web infrastructure and WebOps
@@ -308,6 +312,7 @@
 - [Siemens Energy](siemens-energy.md) — Energy technology
 - [Siena AI](siena-ai.md) — Customer service ai
 - [Sierra](sierra.md) — Customer support software
+- [Sifflet](sifflet.md) — Data observability
 - [Signicat](signicat.md) — Digital identity
 - [SigNoz](signoz.md) — Observability software
 - [Sinch](sinch.md) — Cloud communications and conversational AI
@@ -354,6 +359,7 @@
 - [Trigger.dev](trigger-dev.md) — Developer infrastructure
 - [Triple](triple.md) — Financial software
 - [Tucuvi](tucuvi.md) — Healthcare ai
+- [TuneIn](tunein.md) — Audio streaming
 - [Twilio](twilio.md) — Communications infrastructure
 - [Typeform](typeform.md) — Form software
 - [Uberall](uberall.md) — Location marketing software
@@ -386,4 +392,5 @@
 - [Yuno](yuno.md) — Payments technology
 - [Zapier](zapier.md) — Workflow automation
 - [Zed](zed.md) — Developer tools
+- [Zeliq](zeliq.md) — Sales technology
 - [Zero Hash](zero-hash.md) — Fintech / digital-asset infrastructure

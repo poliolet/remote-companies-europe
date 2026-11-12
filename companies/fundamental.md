@@ -12,6 +12,17 @@ The official careers board checked on 5 November 2026 lists multiple engineering
 - **Historical record reviewed:** 2026-11-05
 - **Public-source research date:** 2026-11-05
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 The checked official posting does not specify eligible employment countries, timezone overlap or recurring attendance requirements. Confirm these individually; a Europe label does not establish employment availability in every European country or absence of travel.

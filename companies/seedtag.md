@@ -12,6 +12,17 @@ Official postings checked on 5 November 2026, such as MLOps Engineer, Agentic Pl
 - **Historical record reviewed:** 2026-11-05
 - **Public-source research date:** 2026-11-05
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 The postings list cities in several countries; confirm the hiring country and any office expectations for each role.

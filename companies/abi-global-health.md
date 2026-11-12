@@ -12,6 +12,17 @@ The official Workable board checked on 7 November 2026 lists remote medical oppo
 - **Historical record reviewed:** 2026-11-07
 - **Public-source research date:** 2026-11-07
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 The Swiss posting requires an active Swiss cantonal medical licence, completed residency, a HIN account or willingness to obtain one, and English and German fluency. Country, licensing and engagement terms vary by role; flexible clinical work is not proof of salaried remote employment across Europe. The same board lists technology submissions as on-site in Barcelona or hybrid in Dublin. No Spain-remote or unrestricted cross-border policy is established.

@@ -12,6 +12,17 @@ The official Senior Site Reliability Engineer role 1102 is fully remote in Franc
 - **Historical record reviewed:** 2026-11-12
 - **Public-source research date:** 2026-11-12
 
+## Structured eligibility
+
+- **Scope:** countries
+- **Explicit countries:** FR, GB
+- **Work model:** mixed
+- **Restrictions:** Senior SRE1102 is fully remote in France with current French residence/work eligibility; no relocation or visa support.; CSM1696 is UK-remote with regional travel and work-right/citizenship conditions in the posting.; Madrid/Stockholm Principal1735 is hybrid, not evidence of Spain remote.
+- **Eligibility checked:** 2026-11-12
+- **Eligibility sources:** https://iaings.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SinchCareer/job/1102 ; https://iaings.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SinchCareer/job/1696
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 Full official role descriptions and current Oracle ATS metadata were checked. Residence, work rights, travel, office attendance and eligible country depend on the individual vacancy. The UK is in Europe, not the EU. Spain-remote employment is not confirmed by the reviewed hybrid Madrid vacancy.

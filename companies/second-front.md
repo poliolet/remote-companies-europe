@@ -12,6 +12,17 @@ Strategic Business Development Lead, Continental Europe is EU-wide remote, inclu
 - **Historical record reviewed:** 2026-11-11
 - **Public-source research date:** 2026-11-11
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 Full official ATS descriptions read. Spain is confirmed through explicit EU-wide/anywhere-in-EU eligibility, not a Spain-named listing. Citizenship and clearance conditions differ by role; US-specific restrictions in other openings should not be generalized.

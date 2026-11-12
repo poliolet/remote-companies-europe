@@ -12,6 +12,17 @@ Future clinical-provider eligibility only, not current corporate hiring. Current
 - **Historical record reviewed:** 2026-11-11
 - **Public-source research date:** 2026-11-11
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 Reviewed 31 corporate postings and all 14 entries in the separate official 1099 provider board linked from the practitioner page. The European/Spain provider route is a talent pool only, not verified immediate hiring. Corporate roles can require NYC onsite Tuesday–Thursday and monthly Work Together Days in other US hubs. This deliberately separates future eligibility from current openings.

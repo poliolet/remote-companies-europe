@@ -12,6 +12,17 @@ Customer Support Engineer (Tier 1) is Remote (United Kingdom); a UK ABM Campaign
 - **Historical record reviewed:** 2026-11-11
 - **Public-source research date:** 2026-11-11
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 UK counts as Europe, not EU or Spain. Global/anywhere culture language does not establish Spain hiring eligibility.

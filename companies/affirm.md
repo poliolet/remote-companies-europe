@@ -12,6 +12,17 @@ Analytics Engineer II, Full Stack (Revenue Analytics) is Remote Spain and requir
 - **Historical record reviewed:** 2026-11-11
 - **Public-source research date:** 2026-11-11
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 Careers extraction displayed zero openings because of dynamic rendering; the live public Greenhouse API and actual Spain role were read instead. Eligibility varies by role.

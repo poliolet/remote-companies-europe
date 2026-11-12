@@ -12,6 +12,17 @@ Director of Enterprise Sales, Payments - EMEA is explicitly remote in the United
 - **Historical record reviewed:** 2026-11-11
 - **Public-source research date:** 2026-11-11
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 Official role text and ATS JSON read. The extracted role body omitted its location header, so public HTML metadata and JSON were checked. UK and Netherlands do not imply Spain eligibility.

@@ -12,6 +12,17 @@ Enterprise Account Executive, Spain - Catalonia explicitly allows remote work wi
 - **Historical record reviewed:** 2026-11-11
 - **Public-source research date:** 2026-11-11
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 Full role description read through the official public Ashby API. This Spain role lacks workplaceType metadata, but its actual description explicitly states remote Catalonia. Do not generalize to engineering or all Spanish regions.

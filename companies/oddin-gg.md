@@ -12,6 +12,17 @@ The official Lever board checked on 8 November 2026 lists the CTO at Oddin.gg ro
 - **Historical record reviewed:** 2026-11-08
 - **Public-source research date:** 2026-11-08
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 The inspected postings do not establish an eligible-country list, Spain-specific employment, visa sponsorship, collaboration hours or office-attendance requirements. Confirm these terms and the employing entity for each vacancy. Engagement varies between full-time and freelance roles; Europe metadata does not guarantee employment from every European country. The shared board includes other brands and business units, so verify the named employer rather than assuming every posting belongs to the same team.

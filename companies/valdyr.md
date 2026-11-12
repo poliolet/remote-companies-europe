@@ -12,6 +12,17 @@ The official Senior Software Engineer (US Eastern Time) posting checked on 7 Nov
 - **Historical record reviewed:** 2026-11-07
 - **Public-source research date:** 2026-11-07
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 The main careers page labels this same engineering role Hybrid with Madrid and EU (Remote), while the individual ATS posting says Fully Remote. Its description also calls the wider company setup hybrid. Confirm office attendance, Spanish employment eligibility and the precise seasonal timezone schedule before relying on the remote label. Other fully remote roles on the main page are US-specific; the EU metadata is not permission to work from every European country.

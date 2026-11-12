@@ -12,6 +12,17 @@ Official careers information describes remote-first work across Europe. A curren
 - **Historical record reviewed:** 2026-11-03
 - **Public-source research date:** 2026-11-03
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 European remote and timezone signals do not establish employment eligibility in every country. Confirm the legal hiring arrangement, compensation and travel requirements for the individual vacancy.

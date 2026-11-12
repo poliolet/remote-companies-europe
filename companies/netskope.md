@@ -12,6 +12,17 @@ Historical research found a global, distributed or remote-friendly signal. Hirin
 - **Historical record reviewed:** 2026-09-14
 - **Public-source research date:** 2026-11-02
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Sources
 
 - https://www.netskope.com/

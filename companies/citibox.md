@@ -12,6 +12,17 @@ An official Designer posting, labelled Madrid, says employees can work almost an
 - **Historical record reviewed:** 2026-11-04
 - **Public-source research date:** 2026-11-04
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 The Designer page is accessible but undated and is not listed on the checked careers overview. Its current vacancy status is unconfirmed. Verify employment country, meeting hours and attendance directly for each new role.

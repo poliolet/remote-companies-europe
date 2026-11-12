@@ -12,6 +12,17 @@ Historical research found a Spain-related remote-work signal. Country eligibilit
 - **Historical record reviewed:** 2026-09-22
 - **Public-source research date:** 2026-11-02
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 Careers link returned HTTP 429 during the 2026-11-02 automated link check; availability could not be verified. This does not establish that the employer has no vacancies.

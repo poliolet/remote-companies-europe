@@ -12,6 +12,17 @@ The official Backend Team Lead (Python) posting checked on 11 November 2026 is f
 - **Historical record reviewed:** 2026-11-11
 - **Public-source research date:** 2026-11-11
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 The employer explicitly warns that remote roles may have country-specific eligibility requirements. European time-zone coverage is not an all-country employment guarantee. Confirm work authorization, precise collaboration hours and retreat attendance requirements for each vacancy.

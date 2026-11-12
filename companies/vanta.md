@@ -12,6 +12,17 @@ Staff Software Engineer, AI and Data Risk is remote-first in the UK and Ireland.
 - **Historical record reviewed:** 2026-11-11
 - **Public-source research date:** 2026-11-11
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 Role-level evidence is more specific than the careers-page international-hybrid summary. No Spain-specific eligible role found.

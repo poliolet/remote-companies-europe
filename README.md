@@ -1,25 +1,26 @@
-# Remote companies — Europe & Spain
+# Remote companies — Europe
 
-A public, source-linked directory of **385 companies** for people researching remote-friendly work in Europe, with particular attention to Spain.
+A public, source-linked directory of **392 companies** for people researching remote-friendly work across Europe.
 
 **This is a research directory, not a guarantee of current vacancies or eligibility.** Some entries have only historical signals, mixed hybrid policies or country restrictions. Always read the actual vacancy and confirm employment country, office attendance, timezone and contract terms. “Remote” does not mean “work from any country”.
 
 ## Browse
 
+- [Browse by country](countries/README.md)
 - [Alphabetical company profiles](companies/README.md)
 - [JSON dataset](data/companies.json)
 - [CSV dataset](data/companies.csv)
 - [Methodology and status definitions](METHODOLOGY.md)
 - [Contribute a correction or company](CONTRIBUTING.md)
 
-## Evidence signals
+## Historical signals — not country eligibility
 
 *These labels summarize historical research signals, not freshly verified company-wide policies.*
 
 - **Spain remote signal:** 207
 - **Europe / EMEA remote signal:** 18
 - **Global / distributed signal:** 11
-- **Hybrid or country-restricted evidence:** 125
+- **Hybrid or country-restricted evidence:** 132
 - **Needs verification:** 24
 
 ## Company directory
@@ -65,6 +66,7 @@ A public, source-linked directory of **385 companies** for people researching re
 | [Belvo](companies/belvo.md) | Belvo provides financial data connectivity, analytics, and payment infrastructure for businesses building financial services in Latin America. | Spain remote signal | [Website](https://belvo.com/) · [Careers](https://jobs.ashbyhq.com/belvo) |
 | [Bending Spoons](companies/bending-spoons.md) | Bending Spoons acquires and operates digital products, applying its engineering and product development capabilities to improve established software businesses. | Spain remote signal | [Website](https://bendingspoons.com/) · [Careers](https://jobs.bendingspoons.com/) |
 | [Benifex](companies/benifex.md) | Benifex provides employee benefits, reward and experience software and services. | Hybrid or country-restricted evidence | [Website](https://benifex.com/) · [Careers](https://careers.benifex.com/jobs) |
+| [BeReal](companies/bereal.md) | BeReal operates a social network for sharing authentic, unfiltered photos and everyday moments. | Hybrid or country-restricted evidence | [Website](https://bereal.com/) · [Careers](https://jobs.ashbyhq.com/bereal) |
 | [Bitso](companies/bitso.md) | Bitso provides cryptocurrency trading and payment infrastructure for individuals and businesses. | Hybrid or country-restricted evidence | [Website](https://bitso.com/) · [Careers](https://bitso.bamboohr.com/careers) |
 | [Bizneo HR](companies/bizneo-hr.md) | Bizneo HR develops human resources software covering recruitment, time tracking, employee records, talent management, and workforce development. | Spain remote signal | [Website](https://www.bizneo.com/) · [Careers](https://www.linkedin.com/jobs/bizneo-hr-jobs-worldwide) |
 | [BJAK](companies/bjak.md) | BJAK operates an online insurance comparison and renewal service for car and motorcycle owners in Malaysia. | Spain remote signal | [Website](https://bjak.my/en) · [Careers](https://jobs.ashbyhq.com/bjakcareer) |
@@ -217,6 +219,7 @@ A public, source-linked directory of **385 companies** for people researching re
 | [Kraken](companies/kraken.md) | Kraken operates a cryptocurrency trading platform offering digital asset trading and related financial services for individual and institutional customers. | Spain remote signal | [Website](https://www.kraken.com/) · [Careers](https://jobs.ashbyhq.com/kraken.com) |
 | [Kustomer](companies/kustomer.md) | Kustomer provides customer service software combining CRM data, omnichannel conversations, AI automation, and support workflow management. | Needs verification | [Website](https://www.kustomer.com/) · [Careers](https://jobs.ashbyhq.com/Kustomer) |
 | [Lago](companies/lago.md) | Lago develops billing software for usage-based, subscription, and hybrid pricing, with invoicing capabilities and both hosted and self-managed deployment options. | Spain remote signal | [Website](https://getlago.com/) · [Careers](https://getlago.com/hiring) |
+| [Legalstart](companies/legalstart.md) | Legalstart provides online legal and administrative services for entrepreneurs and small businesses. | Hybrid or country-restricted evidence | [Website](https://www.legalstart.fr/) · [Careers](https://www.welcometothejungle.com/fr/companies/legalstart/jobs) |
 | [lemlist](companies/lemlist.md) | lemlist provides sales prospecting and outreach software that helps teams identify prospects, find contacts, and coordinate engagement across channels. | Spain remote signal | [Website](https://www.lemlist.com/) · [Careers](https://www.lemlist.com/join-lemlist) |
 | [Lemon.io](companies/lemon-io.md) | Lemon.io connects startups and larger companies with vetted software developers for full time or part time technical work. | Spain remote signal | [Website](https://lemon.io/) · [Careers](https://jobs.ashbyhq.com/lemon-io) |
 | [Lighthouse](companies/lighthouse.md) | Lighthouse provides hospitality intelligence and pricing software that helps hotels interpret market data and manage their revenue strategies. | Spain remote signal | [Website](https://www.mylighthouse.com/) · [Careers](https://job-boards.greenhouse.io/lighthouse) |
@@ -244,6 +247,7 @@ A public, source-linked directory of **385 companies** for people researching re
 | [Mitek Systems](companies/mitek-systems.md) | Mitek Systems provides digital identity verification and authentication technology that helps businesses verify customers and assess transaction fraud risks. | Spain remote signal | [Website](https://www.miteksystems.com/) · [Careers](https://jobs.lever.co/miteksystems-2) |
 | [MITO AI](companies/mito-ai.md) | MITO AI provides collaborative video creation software that combines generative AI models with scripting, storyboarding, editing, and approval tools. | Hybrid or country-restricted evidence | [Website](https://mito.ai/) · [Careers](https://mito.ai/careers) |
 | [Mitratech](companies/mitratech.md) | Mitratech supplies enterprise software for legal operations, risk, compliance, and human resources. | Hybrid or country-restricted evidence | [Website](https://mitratech.com) · [Careers](https://mitratech.com/about-us/careers/) |
+| [Mixmax](companies/mixmax.md) | Mixmax develops sales-engagement and workflow automation software for revenue teams. | Hybrid or country-restricted evidence | [Website](https://www.mixmax.com/) · [Careers](https://www.mixmax.com/careers) |
 | [Modash.io](companies/modash-io.md) | Modash.io provides influencer marketing software that helps teams discover creators, analyze audiences, and monitor influencer campaigns across markets. | Spain remote signal | [Website](https://www.modash.io/) · [Careers](https://www.modash.io/careers) |
 | [Modus Create](companies/modus-create.md) | Modus Create provides digital product engineering, modernization and consulting services; PromptWorks is represented by its current parent identity. | Hybrid or country-restricted evidence | [Website](https://www.moduscreate.com/) · [Careers](https://www.moduscreate.com/careers) |
 | [Moka Care](companies/moka-care.md) | Moka Care provides workplace mental health services that help companies support employees through professional care, prevention, and education. | Spain remote signal | [Website](https://www.moka.care/) · [Careers](https://www.welcometothejungle.com/en/companies-v1/moka-care/jobs) |
@@ -278,6 +282,7 @@ A public, source-linked directory of **385 companies** for people researching re
 | [Owner](companies/owner.md) | Owner provides independent restaurants with online ordering, websites, mobile loyalty applications, and marketing tools for managing direct customer relationships. | Spain remote signal | [Website](https://www.owner.com/) · [Careers](https://www.owner.com/careers) |
 | [Oyster](companies/oyster.md) | Oyster provides employer-of-record, global payroll and HR services that help businesses employ and support international teams. | Spain remote signal | [Website](https://www.oysterhr.com/) · [Careers](https://www.oysterhr.com/careers) |
 | [Paddle](companies/paddle.md) | Paddle provides payment and subscription infrastructure for software businesses, handling billing, tax obligations, and compliance through one platform. | Hybrid or country-restricted evidence | [Website](https://www.paddle.com/) · [Careers](https://jobs.ashbyhq.com/paddle) |
+| [Paessler GmbH](companies/paessler-gmbh.md) | Paessler develops PRTG network, infrastructure and operational-technology monitoring software. | Hybrid or country-restricted evidence | [Website](https://www.paessler.com/) · [Careers](https://jobs.paessler.com/) |
 | [Palo Alto Networks](companies/palo-alto-networks.md) | Palo Alto Networks develops cybersecurity platforms; the former Twistlock domain now routes to its Prisma Cloud product. | Spain remote signal | [Website](https://www.paloaltonetworks.com/) · [Careers](https://jobs.paloaltonetworks.com/en) |
 | [PandaDoc](companies/pandadoc.md) | PandaDoc provides document management software for creating proposals, automating agreements, collecting electronic signatures, and managing related payment workflows. | Needs verification | [Website](https://www.pandadoc.com/) · [Careers](https://job-boards.greenhouse.io/pandadoc) |
 | [Pantheon](companies/pantheon.md) | Pantheon provides managed hosting and WebOps tools for teams developing and operating websites. | Hybrid or country-restricted evidence | [Website](https://pantheon.io) · [Careers](https://pantheon.io/about/careers) |
@@ -332,6 +337,7 @@ A public, source-linked directory of **385 companies** for people researching re
 | [Siemens Energy](companies/siemens-energy.md) | Siemens Energy supplies technology and services that help companies and countries develop, maintain, and modernize their energy systems. | Spain remote signal | [Website](https://www.siemens-energy.com/global/en/home.html) · [Careers](https://jobs.siemens-energy.com/en_US/jobs/) |
 | [Siena AI](companies/siena-ai.md) | Siena AI develops AI customer service agents for commerce businesses, combining automated workflows with personalized support for shoppers. | Spain remote signal | [Website](https://www.siena.cx/) · [Careers](https://jobs.ashbyhq.com/siena) |
 | [Sierra](companies/sierra.md) | Sierra provides a conversational AI platform that businesses use to build customer facing agents across messaging, voice, and other channels. | Needs verification | [Website](https://sierra.ai/) · [Careers](https://jobs.ashbyhq.com/Sierra) |
+| [Sifflet](companies/sifflet.md) | Sifflet develops data observability software that helps organizations understand data lineage, ownership, quality and reliability for analytics and AI. | Hybrid or country-restricted evidence | [Website](https://www.siffletdata.com/) · [Careers](https://jobs.ashbyhq.com/sifflet) |
 | [Signicat](companies/signicat.md) | Signicat provides identity verification, authentication, electronic signing, and orchestration tools that help businesses manage secure and compliant customer interactions. | Hybrid or country-restricted evidence | [Website](https://www.signicat.com/) · [Careers](https://signicat.teamtailor.com/jobs) |
 | [SigNoz](companies/signoz.md) | SigNoz develops observability software for application logs, metrics and traces. | Hybrid or country-restricted evidence | [Website](https://signoz.io/) · [Careers](https://signoz.io/careers/) |
 | [Sinch](companies/sinch.md) | Sinch provides cloud communications infrastructure and applications for messaging, voice, email and customer engagement, including conversational AI and agent orchestration. | Hybrid or country-restricted evidence | [Website](https://www.sinch.com/) · [Careers](https://www.group.sinch.com/careers/join-us/) |
@@ -378,6 +384,7 @@ A public, source-linked directory of **385 companies** for people researching re
 | [Trigger.dev](companies/trigger-dev.md) | Trigger.dev develops an open source platform for durable TypeScript tasks, AI agents, and workflows with queues, retries, and execution observability. | Hybrid or country-restricted evidence | [Website](https://trigger.dev/) · [Careers](https://jobs.ashbyhq.com/triggerdev) |
 | [Triple](companies/triple.md) | Triple develops transaction enrichment APIs and AI agents that help banks and fintech companies improve payment data and automate dispute management. | Spain remote signal | [Website](https://www.jointriple.com/) · [Careers](https://www.linkedin.com/jobs/view/4469433508/) |
 | [Tucuvi](companies/tucuvi.md) | Tucuvi provides an AI care management platform that automates patient follow-up and care workflows according to healthcare organizations' clinical protocols. | Spain remote signal | [Website](https://www.tucuvi.com/) · [Careers](https://tucuvipeople.factorialhr.com/job_posting/director-of-product-319561) |
+| [TuneIn](companies/tunein.md) | TuneIn operates an audio-streaming platform aggregating radio, sports, news, music and other audio content. | Hybrid or country-restricted evidence | [Website](https://tunein.com/) · [Careers](https://cms.tunein.com/careers/) |
 | [Twilio](companies/twilio.md) | Twilio provides communications APIs for messaging, voice, and email, alongside conversational AI and identity verification tools for businesses. | Spain remote signal | [Website](https://www.twilio.com/en-us) · [Careers](https://www.twilio.com/en-us/company/jobs) |
 | [Typeform](companies/typeform.md) | Typeform provides online form-building software with AI and automation features for collecting information, qualifying leads, and triggering business workflows. | Spain remote signal | [Website](https://www.typeform.com/) · [Careers](https://job-boards.greenhouse.io/typeform) |
 | [Uberall](companies/uberall.md) | Uberall provides location marketing and online presence software for multi-location brands. | Hybrid or country-restricted evidence | [Website](https://uberall.com/en-us/company/careers) · [Careers](https://uberall.com/en-us/company/careers) |
@@ -410,6 +417,7 @@ A public, source-linked directory of **385 companies** for people researching re
 | [Yuno](companies/yuno.md) | Yuno provides payment orchestration infrastructure that connects merchants and financial institutions to payment providers, fraud tools, and financial services. | Spain remote signal | [Website](https://y.uno/en) · [Careers](https://jobs.lever.co/yuno) |
 | [Zapier](companies/zapier.md) | Zapier provides software connecting business applications into automated workflows and AI agents without requiring users to build custom integrations. | Spain remote signal | [Website](https://zapier.com/) · [Careers](https://zapier.com/jobs) |
 | [Zed](companies/zed.md) | Zed develops a code editor designed for high performance and multiplayer collaboration, created by developers behind Atom and Tree-sitter. | Needs verification | [Website](https://zed.dev/) · [Careers](https://zed.dev/jobs) |
+| [Zeliq](companies/zeliq.md) | Zeliq develops a sales engagement platform combining prospect data, outbound workflows and omnichannel outreach. | Hybrid or country-restricted evidence | [Website](https://www.zeliq.com/) · [Careers](https://welcometothejungle.com/en/companies/zeliq/jobs) |
 | [Zero Hash](companies/zero-hash.md) | Zero Hash supplies APIs and infrastructure for digital-asset trading, stablecoin payments and tokenization. | Hybrid or country-restricted evidence | [Website](https://zerohash.com) · [Careers](https://zero-hash.breezy.hr/) |
 
 ## License

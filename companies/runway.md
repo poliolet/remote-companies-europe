@@ -12,6 +12,17 @@ Confirmed UK remote hiring: Mid-Market Account Executive explicitly permits remo
 - **Historical record reviewed:** 2026-11-11
 - **Public-source research date:** 2026-11-11
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 Reviewed the official Runway AI site and its runway-ml Ashby feed (48 postings). No Spain-specific eligibility found. This is Runway AI, not financial-planning or other Runway businesses.

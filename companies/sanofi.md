@@ -12,6 +12,17 @@ The reviewed official Data & AI Engineering Specialist vacancy is based in Barce
 - **Historical record reviewed:** 2026-11-12
 - **Public-source research date:** 2026-11-12
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 Hybrid-only evidence in the reviewed Spanish role. Fully remote eligibility from Spain or another European country was not established in this bounded review. Inclusion is for research monitoring, not confirmation of remote suitability.

@@ -12,6 +12,17 @@ Senior Engineering Manager, Customer Runtimes is Ireland (Remote) and explicitly
 - **Historical record reviewed:** 2026-11-11
 - **Public-source research date:** 2026-11-11
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 The public role-detail web page did not render its job content through extraction; the official Greenhouse API supplied the full role content and current listing. No Spain role found.

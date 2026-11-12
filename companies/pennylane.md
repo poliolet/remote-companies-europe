@@ -12,6 +12,17 @@ The official job board lists remote roles with Spain among their eligible locati
 - **Historical record reviewed:** 2026-11-03
 - **Public-source research date:** 2026-11-03
 
+## Structured eligibility
+
+- **Scope:** countries
+- **Explicit countries:** DE, ES, GB, IE, PT
+- **Work model:** mixed
+- **Restrictions:** Official Product Designer role explicitly lists Germany, Ireland, Portugal, Spain and United Kingdom as remote locations.; The cited role requires French and English; periodic team gatherings and role-specific country/contract terms apply. Some other vacancies are hybrid.
+- **Eligibility checked:** 2026-11-12
+- **Eligibility sources:** https://jobs.ashbyhq.com/pennylane/d0918e54-49c5-42be-9e97-66b1186a4b66
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 Spain remote eligibility is supported at role level, not guaranteed for every position. Job-board metadata and individual descriptions may differ; verify the exact vacancy before applying.

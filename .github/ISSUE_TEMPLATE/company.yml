@@ -1,0 +1,89 @@
+name: Company addition or correction
+description: Submit a public employer lead or correct country eligibility with official evidence.
+title: "Company: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Public company information only. Do not include applicant names, personal contacts/emails, application histories, private screenshots, internal documents, authentication links or URL query strings. Unknown is not ineligible; do not guess countries from remote wording.
+        New companies must offer genuine remote work in at least one European country or have a credible European remote policy, supported by official public evidence. Weekly-office hybrid-only employers do not qualify; mixed employers need at least one evidenced qualifying remote arrangement. Legacy hybrid entries and research leads are retained visibly with historical labels and caveats, not remote-work guarantees or precedents for new additions.
+        Planned quarterly on-sites are acceptable as remote_with_travel. Recording travel frequency and who pays travel costs is mandatory; explicitly mark missing source details as unknown and needing confirmation, never as employer-paid.
+  - type: input
+    id: company
+    attributes:
+      label: Company name
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: Official public website
+      placeholder: https://example.org/
+    validations:
+      required: true
+  - type: input
+    id: careers
+    attributes:
+      label: Official careers page or official ATS board
+    validations:
+      required: false
+  - type: textarea
+    id: change
+    attributes:
+      label: Proposed addition or correction
+      description: Short original business description or factual correction; disclose role-specific limitations.
+    validations:
+      required: true
+  - type: dropdown
+    id: scope
+    attributes:
+      label: Evidence scope
+      options:
+        - unknown
+        - countries
+        - europe
+        - eu_eea
+        - worldwide
+    validations:
+      required: true
+  - type: input
+    id: countries
+    attributes:
+      label: Explicitly supported European ISO country codes
+      description: Only codes named by official evidence; GB not UK, no EU code. Leave empty if only regional wording or unknown.
+    validations:
+      required: false
+  - type: dropdown
+    id: work_model
+    attributes:
+      label: Work model
+      description: Planned quarterly on-sites are remote_with_travel; weekly office attendance is hybrid and cannot qualify a hybrid-only new employer. Remote can still be country-restricted.
+      options:
+        - unknown
+        - fully_remote
+        - remote_with_travel
+        - hybrid
+        - mixed
+    validations:
+      required: true
+  - type: textarea
+    id: restrictions
+    attributes:
+      label: Public restrictions and limitations
+      description: Role scope, employment country, work authorization, timezone, contract route and office attendance. For travel, recording frequency and who pays costs is mandatory; explicitly mark unknown details for confirmation. No applicant information.
+    validations:
+      required: false
+  - type: input
+    id: checked_at
+    attributes:
+      label: Evidence checked on (YYYY-MM-DD)
+      description: Required for confirmed countries or broad scope; leave empty for an unchecked lead.
+    validations:
+      required: false
+  - type: textarea
+    id: sources
+    attributes:
+      label: Official public evidence URLs
+      description: Required for confirmed countries or broad scope. Link the official policy/careers/ATS source and summarize what it supports; no private or query-token URLs.
+    validations:
+      required: false

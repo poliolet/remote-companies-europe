@@ -12,6 +12,17 @@ Senior Solutions Architect - Europe explicitly permits remote work from United K
 - **Historical record reviewed:** 2026-11-11
 - **Public-source research date:** 2026-11-11
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 Current Ashby feed and actual role page checked. Search-index copies listed additional countries; the current actual role content has the narrower four-country list used here.

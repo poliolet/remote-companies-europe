@@ -12,6 +12,17 @@ Official postings checked on 5 November 2026 include several roles located in Sp
 - **Historical record reviewed:** 2026-11-05
 - **Public-source research date:** 2026-11-05
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 As a consultancy, some roles may involve client-site work or travel; check each posting.

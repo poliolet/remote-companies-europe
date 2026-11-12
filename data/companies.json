@@ -2876,7 +2876,26 @@
       "https://jobs.ashbyhq.com/pennylane",
       "https://api.ashbyhq.com/posting-api/job-board/pennylane"
     ],
-    "verification_note": "Spain remote eligibility is supported at role level, not guaranteed for every position. Job-board metadata and individual descriptions may differ; verify the exact vacancy before applying."
+    "verification_note": "Spain remote eligibility is supported at role level, not guaranteed for every position. Job-board metadata and individual descriptions may differ; verify the exact vacancy before applying.",
+    "eligibility": {
+      "scope": "countries",
+      "countries": [
+        "DE",
+        "ES",
+        "GB",
+        "IE",
+        "PT"
+      ],
+      "work_model": "mixed",
+      "restrictions": [
+        "Official Product Designer role explicitly lists Germany, Ireland, Portugal, Spain and United Kingdom as remote locations.",
+        "The cited role requires French and English; periodic team gatherings and role-specific country/contract terms apply. Some other vacancies are hybrid."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://jobs.ashbyhq.com/pennylane/d0918e54-49c5-42be-9e97-66b1186a4b66"
+      ]
+    }
   },
   {
     "id": "phantom",
@@ -4228,7 +4247,22 @@
       "https://apply.workable.com/hilobyaktiia/",
       "https://apply.workable.com/hilobyaktiia/j/D14FDCFF04/"
     ],
-    "verification_note": "Applicants must already have a valid visa or work permit in their country of residence; the posting says visa sponsorship is unavailable. Location and contract terms differ by vacancy, including freelance roles. Confirm country eligibility, collaboration hours and any attendance obligations for the individual role."
+    "verification_note": "Applicants must already have a valid visa or work permit in their country of residence; the posting says visa sponsorship is unavailable. Location and contract terms differ by vacancy, including freelance roles. Confirm country eligibility, collaboration hours and any attendance obligations for the individual role.",
+    "eligibility": {
+      "scope": "europe",
+      "countries": [],
+      "work_model": "mixed",
+      "restrictions": [
+        "Senior Product Designer says fully remote, open to candidates across the UK and Europe.",
+        "Applicants must already hold a valid visa/work permit in their country of residence; no visa sponsorship.",
+        "Regional wording is not confirmation for every European country. Swiss roles may have separate flexible/office arrangements."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://apply.workable.com/hilobyaktiia/",
+        "https://apply.workable.com/hilobyaktiia/j/D14FDCFF04/"
+      ]
+    }
   },
   {
     "id": "oyster",
@@ -6672,7 +6706,25 @@
       "https://iaings.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SinchCareer/job/1696",
       "https://iaings.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SinchCareer/job/1735"
     ],
-    "verification_note": "Full official role descriptions and current Oracle ATS metadata were checked. Residence, work rights, travel, office attendance and eligible country depend on the individual vacancy. The UK is in Europe, not the EU. Spain-remote employment is not confirmed by the reviewed hybrid Madrid vacancy."
+    "verification_note": "Full official role descriptions and current Oracle ATS metadata were checked. Residence, work rights, travel, office attendance and eligible country depend on the individual vacancy. The UK is in Europe, not the EU. Spain-remote employment is not confirmed by the reviewed hybrid Madrid vacancy.",
+    "eligibility": {
+      "scope": "countries",
+      "countries": [
+        "FR",
+        "GB"
+      ],
+      "work_model": "mixed",
+      "restrictions": [
+        "Senior SRE1102 is fully remote in France with current French residence/work eligibility; no relocation or visa support.",
+        "CSM1696 is UK-remote with regional travel and work-right/citizenship conditions in the posting.",
+        "Madrid/Stockholm Principal1735 is hybrid, not evidence of Spain remote."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://iaings.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SinchCareer/job/1102",
+        "https://iaings.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/SinchCareer/job/1696"
+      ]
+    }
   },
   {
     "id": "rover",
@@ -6691,7 +6743,22 @@
       "https://jobs.lever.co/rover",
       "https://jobs.lever.co/rover/2bf520a7-505a-425b-942d-1d6182a08d6b"
     ],
-    "verification_note": "Spain remote eligibility is verified for the cited specific role, not as an unrestricted company-wide policy. Read country, office, timezone and employment terms for each vacancy."
+    "verification_note": "Spain remote eligibility is verified for the cited specific role, not as an unrestricted company-wide policy. Read country, office, timezone and employment terms for each vacancy.",
+    "eligibility": {
+      "scope": "countries",
+      "countries": [
+        "ES"
+      ],
+      "work_model": "mixed",
+      "restrictions": [
+        "Senior Application Admin - Zendesk is explicitly Spain/Remote.",
+        "Seattle team overlap requires confirmation; engineering/backend openings may be Barcelona hybrid."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://jobs.lever.co/rover/2bf520a7-505a-425b-942d-1d6182a08d6b"
+      ]
+    }
   },
   {
     "id": "sanofi",
@@ -6728,7 +6795,21 @@
       "https://finary.com/en/careers",
       "https://jobs.ashbyhq.com/finary/134c298f-68a4-44cc-8c5b-0f46f3030af9"
     ],
-    "verification_note": "Role-specific eligibility, not a company-wide policy. The cited role also requires fluent French and professional English. Official remote metadata and the description's hybrid terminology are both preserved; quarterly Paris attendance must not be omitted."
+    "verification_note": "Role-specific eligibility, not a company-wide policy. The cited role also requires fluent French and professional English. Official remote metadata and the description's hybrid terminology are both preserved; quarterly Paris attendance must not be omitted.",
+    "eligibility": {
+      "scope": "europe",
+      "countries": [],
+      "work_model": "remote_with_travel",
+      "restrictions": [
+        "Western Europe residence and EU work rights required for the cited role.",
+        "One mandatory week in Paris every quarter; travel and accommodation covered. Employer calls the setup hybrid.",
+        "Fluent French and professional English required for the cited role; named country payroll eligibility not enumerated."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://jobs.ashbyhq.com/finary/134c298f-68a4-44cc-8c5b-0f46f3030af9"
+      ]
+    }
   },
   {
     "id": "resilience-care",
@@ -6747,6 +6828,278 @@
       "https://jobs.ashbyhq.com/Resilience%20Care/89c899e9-ab74-4448-b4e6-02b5b2aa43d7",
       "https://jobs.ashbyhq.com/Resilience%20Care/83c7e889-e863-4409-b564-4f9c712fcb7e"
     ],
-    "verification_note": "The employment signal comes from official role locations, not the company's remote-patient-monitoring product. RWE workplaceType metadata is absent; preserve that limit instead of claiming an unconditional fully remote policy. Spain-wide remote eligibility remains unconfirmed."
+    "verification_note": "The employment signal comes from official role locations, not the company's remote-patient-monitoring product. RWE workplaceType metadata is absent; preserve that limit instead of claiming an unconditional fully remote policy. Spain-wide remote eligibility remains unconfirmed.",
+    "eligibility": {
+      "scope": "countries",
+      "countries": [
+        "DE",
+        "FR"
+      ],
+      "work_model": "mixed",
+      "restrictions": [
+        "RWE Project Manager explicitly lists Germany - Remote and France - Remote.",
+        "Workplace metadata absent; confirm office and travel obligations.",
+        "Madrid/Barcelona Remote spontaneous application is a talent pool, not proof of a currently available Spain-remote role."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://jobs.ashbyhq.com/Resilience%20Care/89c899e9-ab74-4448-b4e6-02b5b2aa43d7",
+        "https://jobs.ashbyhq.com/Resilience%20Care/83c7e889-e863-4409-b564-4f9c712fcb7e"
+      ]
+    }
+  },
+  {
+    "id": "mixmax",
+    "name": "Mixmax",
+    "description": "Mixmax develops sales-engagement and workflow automation software for revenue teams.",
+    "category": "Sales software",
+    "website": "https://www.mixmax.com/",
+    "careers_url": "https://www.mixmax.com/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Senior Product Engineer (AI-native) is remote, ideally in LATAM; Europe-based applicants may qualify if they work Brazil/Argentina time zones. The official API lists the role with Brazil or Argentina as its location and explicitly permits Europe in the description. Named European hiring countries and Spain eligibility are not established.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://www.mixmax.com/careers",
+      "https://boards-api.greenhouse.io/v1/boards/mixmax/jobs/8881421002"
+    ],
+    "verification_note": "Fresh official ATS API confirms the requisition and its Europe exception. The public role-page URL returned 404 via alternate extraction, so confirm application availability directly. Country authorization, employment/contractor model, payroll and any travel requirements are unknown; Europe does not mean permission to work from every European country. The individual public Greenhouse JSON endpoint confirms the Europe exception even where the company-rendered application page fails.",
+    "eligibility": {
+      "scope": "europe",
+      "countries": [],
+      "work_model": "fully_remote",
+      "restrictions": [
+        "Europe-based applicants must work Brazil/Argentina time zones.",
+        "LATAM preferred, particularly Brazil or Argentina.",
+        "Cannot hire in the US at present.",
+        "Individual European countries, residence/work-right requirements and contractual model not specified.",
+        "No Spain eligibility promise; application-page availability requires confirmation."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://boards-api.greenhouse.io/v1/boards/mixmax/jobs/8881421002",
+        "https://www.mixmax.com/careers"
+      ]
+    }
+  },
+  {
+    "description": "Legalstart provides online legal and administrative services for entrepreneurs and small businesses.",
+    "category": "Legal technology",
+    "website": "https://www.legalstart.fr/",
+    "careers_url": "https://www.welcometothejungle.com/fr/companies/legalstart/jobs",
+    "id": "legalstart",
+    "name": "Legalstart",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Employer-authored Senior Accountant role is explicitly 100% telework and located in Paris, France. FR is the only confirmed country; no cross-border or worldwide permission inferred. Other Legalstart positions may be hybrid. Role-specific total telework overrides the generic company-profile 1–2-day telework benefit; confirm contract terms and any team-event travel with recruiter. Current application availability was not certified.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://www.welcometothejungle.com/fr/companies/legalstart/jobs/collaborateur-comptable-confirme-100-teletravail_paris_LEGAL_llYQwQK",
+      "https://www.welcometothejungle.com/fr/companies/legalstart/jobs"
+    ],
+    "verification_note": "Employer-authored posting body freshly recovered through web_extract on 2026-11-12. Direct HTTP/browser access returned 403. Total telework appears in the title/metadata and is repeated explicitly in the role body; generic company benefit differs and is retained as a caveat. This is a company-directory eligibility record, not a claim that an application is currently open. No private sources or historical third-party listings used as eligibility evidence.",
+    "eligibility": {
+      "scope": "countries",
+      "countries": [
+        "FR"
+      ],
+      "work_model": "mixed",
+      "restrictions": [
+        "Confirmed fully remote route is the Senior Accountant / LS Compta role only; do not generalise across Legalstart roles.",
+        "France is established by the role location Paris and full French postal address; no additional country permission is stated.",
+        "Accounting qualification Bac +2 minimum and minimum five tax seasons in an accounting firm; autonomous portfolio management through tax filing.",
+        "Team buildings and regular events are mentioned; frequency and mandatory travel are unspecified.",
+        "Generic company-profile benefit says 1–2 telework days, while this specific title, metadata and job body explicitly say total/100% telework. Confirm role-specific terms before applying.",
+        "Application-open status is not certified; extraction recovered an employer posting, while direct HTTP and browser access were blocked."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://www.welcometothejungle.com/fr/companies/legalstart/jobs/collaborateur-comptable-confirme-100-teletravail_paris_LEGAL_llYQwQK"
+      ]
+    }
+  },
+  {
+    "id": "paessler-gmbh",
+    "name": "Paessler GmbH",
+    "description": "Paessler develops PRTG network, infrastructure and operational-technology monitoring software.",
+    "category": "IT monitoring software",
+    "website": "https://www.paessler.com/",
+    "careers_url": "https://jobs.paessler.com/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The official Commercial Renewals Manager evergreen talent pool explicitly offers remote work for permanent residents of Germany, Poland, the Netherlands, Italy, Spain, Greece, Croatia and the UK. It is not a guaranteed immediate vacancy. Current Senior Director of Engineering and Product Marketing Manager roles are hybrid in Krakow or Nuremberg. Remote permission is role-specific, not company-wide.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://jobs.paessler.com/",
+      "https://jobs.paessler.com/Commercial-Renewals-Manager-Evergreen-eng-j912.html",
+      "https://jobs.paessler.com/Senior-Director-of-Engineering-eng-j894.html",
+      "https://jobs.paessler.com/Product-Marketing-Manager-eng-j919.html"
+    ],
+    "verification_note": "Fresh official careers index links the evergreen role; both index and full role description were read. Country-local remote work qualifies; no cross-border permission is implied. Older j775/j807/j837 adverts remain readable but are absent from the current index and are not presented as active vacancies. Confirm work authorization and any travel/meeting obligations for a future opening.",
+    "eligibility": {
+      "scope": "countries",
+      "countries": [
+        "DE",
+        "ES",
+        "GB",
+        "GR",
+        "HR",
+        "IT",
+        "NL",
+        "PL"
+      ],
+      "work_model": "fully_remote",
+      "restrictions": [
+        "Permanent residence in one of the eight explicitly named countries is required.",
+        "Evergreen talent pool for future Renewals Manager opportunities; no immediate opening promised.",
+        "Country and remote scope apply to this recruiting route, not all company vacancies.",
+        "Engineering leadership and checked product marketing vacancies are hybrid.",
+        "Work authorization and unlisted travel requirements require employer confirmation."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://jobs.paessler.com/Commercial-Renewals-Manager-Evergreen-eng-j912.html"
+      ]
+    }
+  },
+  {
+    "id": "tunein",
+    "name": "TuneIn",
+    "description": "TuneIn operates an audio-streaming platform aggregating radio, sports, news, music and other audio content.",
+    "category": "Audio streaming",
+    "website": "https://tunein.com/",
+    "careers_url": "https://cms.tunein.com/careers/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Official careers policy explicitly makes many roles available to remote candidates in Europe, as well as the USA, Canada and other selected locations. This is role-dependent Europe permission, not unrestricted worldwide hiring or confirmation for any named European country. Current vacancy details and employing-country restrictions require role-level confirmation.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://cms.tunein.com/careers/"
+    ],
+    "verification_note": "Europe-scoped remote recruiting policy checked on the official careers page. No specific European country, Spain eligibility or current vacancy count is asserted. The all-positions route did not yield a usable job list.",
+    "eligibility": {
+      "scope": "europe",
+      "countries": [],
+      "work_model": "fully_remote",
+      "restrictions": [
+        "Applies to many roles, not all vacancies.",
+        "Europe is stated at regional level; no named European country or EU/EEA-wide authorization is independently confirmed.",
+        "Employment country, work rights, travel and any attendance requirements must be confirmed for the individual role.",
+        "Current job-list details were not recovered; policy evidence only."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://cms.tunein.com/careers/"
+      ]
+    }
+  },
+  {
+    "id": "bereal",
+    "name": "BeReal",
+    "description": "BeReal operates a social network for sharing authentic, unfiltered photos and everyday moments.",
+    "category": "Social media",
+    "website": "https://bereal.com/",
+    "careers_url": "https://jobs.ashbyhq.com/bereal",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Selected engineering roles, including Senior SRE, are explicitly listed Remote with Paris, France location. Evidence supports France-scoped remote roles only; not unrestricted Europe-wide or Spain eligibility. Do not generalize to QA Automation Engineer or mobile monetization roles, whose descriptions limit remote work to Fridays.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://jobs.ashbyhq.com/bereal",
+      "https://jobs.ashbyhq.com/bereal/9ac97ba9-c6af-4ac6-8cad-920b84ea952e",
+      "https://api.ashbyhq.com/posting-api/job-board/bereal",
+      "https://jobs.ashbyhq.com/bereal/b3d30a51-173f-4bd5-8b99-d632a1a468ff"
+    ],
+    "verification_note": "Official live ATS and full Senior SRE description checked. No weekly office requirement was found in that description. Paris-office wellness is a benefit, not an attendance mandate. QA metadata says Remote but its Friday-only benefit is contradictory; QA is excluded as supporting evidence. Country is derived from official Paris addressCountry France; wider residence eligibility is not established.",
+    "eligibility": {
+      "scope": "countries",
+      "countries": [
+        "FR"
+      ],
+      "work_model": "fully_remote",
+      "restrictions": [
+        "Role-specific; confirm France residence/contract arrangements.",
+        "QA and monetization roles are not accepted as full-remote evidence.",
+        "No Spain or broad European cross-border eligibility established."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://api.ashbyhq.com/posting-api/job-board/bereal",
+        "https://jobs.ashbyhq.com/bereal",
+        "https://jobs.ashbyhq.com/bereal/9ac97ba9-c6af-4ac6-8cad-920b84ea952e",
+        "https://jobs.ashbyhq.com/bereal/b3d30a51-173f-4bd5-8b99-d632a1a468ff"
+      ]
+    }
+  },
+  {
+    "id": "sifflet",
+    "name": "Sifflet",
+    "description": "Sifflet develops data observability software that helps organizations understand data lineage, ownership, quality and reliability for analytics and AI.",
+    "category": "Data observability",
+    "website": "https://www.siffletdata.com/",
+    "careers_url": "https://jobs.ashbyhq.com/sifflet",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Current Enterprise Account Executive – France and General Counsel roles are explicitly Remote and located in France. This supports role-specific full-remote hiring in France, not any other European country or unrestricted global work. Sales requires fluent French and English; General Counsel additionally requires French bar certification.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://jobs.ashbyhq.com/sifflet",
+      "https://jobs.ashbyhq.com/sifflet/80885c63-f9a7-4fc2-bf1e-5dab1679af7f",
+      "https://api.ashbyhq.com/posting-api/job-board/sifflet"
+    ],
+    "verification_note": "Live official board contains two listed roles, both Remote with addressCountry France and no secondary locations. Both complete descriptions reviewed; no recurring office attendance stated. Prior France-only rejection is obsolete under Europe-any-country scope.",
+    "eligibility": {
+      "scope": "countries",
+      "countries": [
+        "FR"
+      ],
+      "work_model": "fully_remote",
+      "restrictions": [
+        "France-scoped only; country eligibility differs from customer territory.",
+        "Sales role requires fluent French and English.",
+        "General Counsel requires French bar certification."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://api.ashbyhq.com/posting-api/job-board/sifflet",
+        "https://jobs.ashbyhq.com/sifflet",
+        "https://jobs.ashbyhq.com/sifflet/80885c63-f9a7-4fc2-bf1e-5dab1679af7f"
+      ]
+    }
+  },
+  {
+    "id": "zeliq",
+    "name": "Zeliq",
+    "description": "Zeliq develops a sales engagement platform combining prospect data, outbound workflows and omnichannel outreach.",
+    "category": "Sales technology",
+    "website": "https://www.zeliq.com/",
+    "careers_url": "https://welcometothejungle.com/en/companies/zeliq/jobs",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Employer-authored Front-end Developer and Senior Back-end Developer listings are labelled Fully-remote with Paris location. Accept as role-specific France-scoped remote evidence, not permission to work anywhere in Europe. Both descriptions also say hybrid and remote-friendly and Remote sponsorship after the trial period; confirm the initial trial-period arrangement and contract before relying on full-remote availability.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://welcometothejungle.com/en/companies/zeliq/jobs/front-end-developer_paris",
+      "https://welcometothejungle.com/en/companies/getheroes/jobs/senior-back-end-developer_paris"
+    ],
+    "verification_note": "Full employer-authored descriptions retrieved with Apply visible and no closed-position notice. Old October 2024 start-date metadata persists, so vacancy freshness is not proven by that date. The getheroes URL displays ZELIQ as employer, not a different company. Full-remote header supports France-only scope under new standard, but mixed benefits and post-trial sponsorship remain restrictions; no Spain eligibility inferred. Direct candidate ATS detail endpoints returned 404, so accessible employer page text, not a claimed live API record, is the evidence.",
+    "eligibility": {
+      "scope": "countries",
+      "countries": [
+        "FR"
+      ],
+      "work_model": "mixed",
+      "restrictions": [
+        "France-scoped inference from Paris; exact eligible residence area must be confirmed.",
+        "Mixed hybrid/remote-friendly benefits; remote sponsorship only after trial period.",
+        "Quarterly team buildings mentioned; required attendance and frequency not specified.",
+        "Old start date remains in accessible listings; confirm vacancy still accepting applications."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://welcometothejungle.com/en/companies/getheroes/jobs/senior-back-end-developer_paris",
+        "https://welcometothejungle.com/en/companies/zeliq/jobs/front-end-developer_paris"
+      ]
+    }
   }
 ]

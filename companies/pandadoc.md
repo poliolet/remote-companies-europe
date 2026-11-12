@@ -12,6 +12,17 @@ Remote eligibility is not established by the available historical signal. Treat 
 - **Historical record reviewed:** 2026-10-13
 - **Public-source research date:** 2026-11-02
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 Direct HTTP retrieval was rate-limited; the official homepage was successfully read through an alternate public extraction service.

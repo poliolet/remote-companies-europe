@@ -12,6 +12,17 @@ Senior Commercial Deal Desk Analyst is explicitly remote within the UK. Enterpri
 - **Historical record reviewed:** 2026-11-11
 - **Public-source research date:** 2026-11-11
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 Current public roles independently checked; prior inclusion was not used as evidence. No Spain-eligible current role found; this is not a universal hiring ban.

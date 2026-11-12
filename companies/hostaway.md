@@ -12,6 +12,17 @@ The official careers page describes a 100% remote company. An inbound sales post
 - **Historical record reviewed:** 2026-11-11
 - **Public-source research date:** 2026-11-11
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 The selected posting says the displayed city or country is not itself mandatory, but residence in Europe is. Other openings target different regions. Confirm permitted employment country, work authorization, collaboration hours and any travel or attendance requirements per role.

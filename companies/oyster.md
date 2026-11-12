@@ -12,6 +12,17 @@ Oyster's official careers page describes a fully remote, distributed team. Its l
 - **Historical record reviewed:** 2026-11-05
 - **Public-source research date:** 2026-11-05
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 Employees must be authorized to work where they live. Country eligibility and timezone constraints are role-specific; Oyster's customer-facing employment coverage is not proof that its own team hires in every supported country. A talent-community signup is not a confirmed vacancy.

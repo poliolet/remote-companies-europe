@@ -12,6 +12,17 @@ Vendor Management Senior Analyst - UK can be remote within the UK. Employees wit
 - **Historical record reviewed:** 2026-11-11
 - **Public-source research date:** 2026-11-11
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 Positive is UK-specific and conditional on distance from London. No Spain opening found in current ATS locations; not proof Spain hiring never occurs.

@@ -12,6 +12,17 @@ Official openings include Senior Software Engineer - AI/ML in Germany (remote) a
 - **Historical record reviewed:** 2026-11-11
 - **Public-source research date:** 2026-11-11
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 Confirmation applies to Germany and the United Kingdom. The UK is in Europe but not the EU. No explicit Spain eligibility, relocation, cross-border employment, or travel frequency commitment was found.

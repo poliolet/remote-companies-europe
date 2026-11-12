@@ -12,6 +12,17 @@ Current roles explicitly list remote work in the United Kingdom, Ireland, and th
 - **Historical record reviewed:** 2026-11-11
 - **Public-source research date:** 2026-11-11
 
+## Structured eligibility
+
+- **Scope:** unknown
+- **Explicit countries:** None verified
+- **Work model:** unknown
+- **Restrictions:** Not recorded (not a claim of no restrictions)
+- **Eligibility checked:** Not verified
+- **Eligibility sources:** None verified
+
+Unknown is not ineligible. Historical remote signals are not country eligibility.
+
 ## Verification caveat
 
 Reviewed 157 live postings from the official Greenhouse feed. UK counts as Europe but not the EU; no inference of Spain eligibility from other European locations.

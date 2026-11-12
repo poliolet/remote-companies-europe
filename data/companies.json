@@ -7101,5 +7101,937 @@
         "https://welcometothejungle.com/en/companies/zeliq/jobs/front-end-developer_paris"
       ]
     }
+  },
+  {
+    "id": "actian",
+    "name": "Actian",
+    "description": "Actian develops data management, integration and data intelligence software.",
+    "category": "Data management software",
+    "website": "https://www.actian.com/",
+    "careers_url": "https://www.actian.com/company/careers/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Current Director of Platform Engineering is remote from the UK, Spain, France or Germany (also US), with occasional team travel and at least four hours daily overlap with both US Eastern and Central European time.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://www.actian.com/company/careers/",
+      "https://jobs.lever.co/actian/dcb6a1c0-b40b-401f-a214-0c7cf7ee6009",
+      "https://api.lever.co/v0/postings/actian"
+    ],
+    "verification_note": "Current Lever API includes this posting; broader remote-or-hybrid benefits do not override its specific fully remote clause. Not Europe-wide permission.",
+    "eligibility": {
+      "scope": "countries",
+      "countries": [
+        "DE",
+        "ES",
+        "FR",
+        "GB"
+      ],
+      "work_model": "remote_with_travel",
+      "restrictions": [
+        "Role-specific authorized employment countries; US is additionally permitted but not enumerated in the European country list.",
+        "At least four hours daily overlap with both US Eastern Time and Central European Time.",
+        "Occasional travel for team offsites and company-wide meetings."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://www.actian.com/company/careers/",
+        "https://jobs.lever.co/actian/dcb6a1c0-b40b-401f-a214-0c7cf7ee6009",
+        "https://api.lever.co/v0/postings/actian"
+      ]
+    }
+  },
+  {
+    "id": "alignerr",
+    "name": "Alignerr",
+    "description": "Alignerr, powered by Labelbox, connects subject-matter experts with paid freelance AI training and evaluation projects.",
+    "category": "Freelance AI training platform",
+    "website": "https://www.alignerr.com/",
+    "careers_url": "https://alignerr.com/jobs/3673a42d-d3db-4561-a33f-8fa733e1fc0d",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Accessible official Finance & Accounting Task Author advert seeks Ireland-based experts for fully remote, flexible hourly contract work. This is task based freelance AI training, not permanent salaried employment or guaranteed project allocation; immediate task availability is not independently confirmed.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://www.alignerr.com/",
+      "https://alignerr.com/jobs/3673a42d-d3db-4561-a33f-8fa733e1fc0d"
+    ],
+    "verification_note": "Live official advert returns 200 and links to an application/sign-in flow. Complete role reviewed; IE eligibility is explicit. Current project allocation and exact board membership were not confirmed, so page accessibility is not presented as a guaranteed current opening.",
+    "eligibility": {
+      "scope": "countries",
+      "countries": [
+        "IE"
+      ],
+      "work_model": "fully_remote",
+      "restrictions": [
+        "Ireland-based finance professionals for the cited role.",
+        "Hourly freelance contract; flexible task based work, not a salaried employment guarantee.",
+        "Project availability, screening and continued allocation are not guaranteed."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://www.alignerr.com/",
+        "https://alignerr.com/jobs/3673a42d-d3db-4561-a33f-8fa733e1fc0d"
+      ]
+    }
+  },
+  {
+    "id": "alpega",
+    "name": "Alpega",
+    "description": "Alpega provides road freight transportation management software and freight exchange platforms.",
+    "category": "Logistics technology",
+    "website": "https://www.alpegagroup.com/",
+    "careers_url": "https://job-boards.eu.greenhouse.io/alpega",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Account Manager DACH permits remote work from Germany with client travel; Vienna alternative is hybrid and does not qualify.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://job-boards.eu.greenhouse.io/alpega/jobs/4943503101"
+    ],
+    "verification_note": "Complete live official role and application section reviewed; retired Poland and Spain ads redirect to the board and are not relied on.",
+    "eligibility": {
+      "scope": "countries",
+      "countries": [
+        "DE"
+      ],
+      "work_model": "remote_with_travel",
+      "restrictions": [
+        "Germany-based role; no cross-border employment promise.",
+        "Client visits in DACH required; German C2 and fluent English.",
+        "Austria option is hybrid and excluded."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://job-boards.eu.greenhouse.io/alpega/jobs/4943503101"
+      ]
+    }
+  },
+  {
+    "id": "b12",
+    "name": "B12",
+    "description": "B12 develops an AI website builder and related scheduling, payment and marketing tools, with a marketplace connecting users to independent experts.",
+    "category": "Website software",
+    "website": "https://www.b12.io/",
+    "careers_url": "https://job-boards.greenhouse.io/b12/jobs/8249777",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Current official Staff Software Engineer vacancy is listed Anywhere and is a direct B12 product-engineering role; B12 separately describes itself as fully remote. Country-specific hiring arrangements require confirmation. Do not use its Spain-listed freelance partner marketplace as proof of internal employment.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://boards-api.greenhouse.io/v1/boards/b12/jobs",
+      "https://job-boards.greenhouse.io/b12/jobs/8249777",
+      "https://job-boards.greenhouse.io/b12/jobs/7987863"
+    ],
+    "verification_note": "Live official ATS board and full Staff Software Engineer application checked. Location Anywhere plus official fully-remote employer statement supports global remote signal, not enumerated national payroll coverage. Separate partner marketplace posting is not the basis of approval.",
+    "eligibility": {
+      "scope": "worldwide",
+      "countries": [],
+      "work_model": "fully_remote",
+      "restrictions": [
+        "Current Staff Software Engineer lists work location as Anywhere; this is a regional/global signal, not a confirmed payroll entity in each country.",
+        "10+ years of production product/system experience and strong backend/infrastructure skills required.",
+        "Country-specific employment/contract arrangements and work rights must be confirmed; Spain-specific salaried eligibility is not separately asserted."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://boards-api.greenhouse.io/v1/boards/b12/jobs",
+        "https://job-boards.greenhouse.io/b12/jobs/8249777",
+        "https://job-boards.greenhouse.io/b12/jobs/7987863"
+      ]
+    }
+  },
+  {
+    "id": "belka",
+    "name": "Belka",
+    "description": "Belka is a digital product studio providing UX research, design strategy and software development.",
+    "category": "Digital product studio",
+    "website": "https://belkadigital.com/",
+    "careers_url": "https://careers.belkadigital.com",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Current Junior UX Strategist permits remote work within Italy with a monthly HQ visit in Trento and client/Trento workshops as needed. The employer labels this hybrid. No weekly office cadence is stated; Italian and English C1 are required.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://belkadigital.com/careers",
+      "https://careers.belkadigital.com/jobs/8350452-junior-ux-strategist"
+    ],
+    "verification_note": "Live official employer board contains Junior UX Strategist 8350452 with application controls. ATS labels it Ibrido/hybrid, while the full body explicitly permits remote work within Italy with a monthly HQ visit and client/Trento workshops as necessary. This is not fully remote without attendance and no weekly office cadence is stated. Permanent full-time CCNL Metalmeccanico employment; Italian and English C1 required. Belka Games is unrelated.",
+    "eligibility": {
+      "scope": "countries",
+      "countries": [
+        "IT"
+      ],
+      "work_model": "remote_with_travel",
+      "restrictions": [
+        "Must live in Italy and be able to reach Trento HQ or client premises when necessary.",
+        "Monthly visit to HQ and participation in workshops at clients or Trento.",
+        "Italian and English C1."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://belkadigital.com/careers",
+        "https://careers.belkadigital.com/jobs/8350452-junior-ux-strategist"
+      ]
+    }
+  },
+  {
+    "id": "beyond",
+    "name": "Beyond",
+    "description": "Beyond provides revenue management and dynamic pricing software for short-term rental property managers and owners.",
+    "category": "Travel technology",
+    "website": "https://www.beyondpricing.com/",
+    "careers_url": "https://www.beyondpricing.com/about/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Current Business Development Representative permits remote work in Portugal or England. Barcelona option is hybrid 2–3 days weekly and does not qualify.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://www.beyondpricing.com/about/careers",
+      "https://boards-api.greenhouse.io/v1/boards/beyond/jobs/4749393005"
+    ],
+    "verification_note": "Official live Greenhouse board contains this role and its complete description. Beyond here means beyondpricing.com, not BeyondTrust, bynd.com or joinbeyond.co. Country GB records England only, not all UK nations. The legacy /job-boards/ role URL redirects to the employer careers page; evidence is the live ATS endpoint.",
+    "eligibility": {
+      "scope": "countries",
+      "countries": [
+        "GB",
+        "PT"
+      ],
+      "work_model": "fully_remote",
+      "restrictions": [
+        "Role-specific: Portugal or England only; GB code denotes England, not UK-wide eligibility.",
+        "Barcelona alternative requires 2–3 office days per week and is excluded.",
+        "Fluent English required; no wider European residence or cross-border employment guarantee."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://www.beyondpricing.com/about/careers",
+        "https://boards-api.greenhouse.io/v1/boards/beyond/jobs/4749393005"
+      ]
+    }
+  },
+  {
+    "id": "bluecoders",
+    "name": "Bluecoders",
+    "description": "Bluecoders is a French technology recruitment agency advertising engineering roles for partner companies.",
+    "category": "Technology recruitment agency",
+    "website": "https://www.bluecoders.com/",
+    "careers_url": "https://www.bluecoders.com/en/nos-offres",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The current recruiter-owned Engineering Manager advert is located Marseille, France and explicitly Fully remote. This is partner-company recruitment, not confirmation that Bluecoders internal staff work remotely.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://www.bluecoders.com/en/nos-offres",
+      "https://www.bluecoders.com/en/nos-offres/engineering-manager-hands-off-full-remote-h-f-8b661f"
+    ],
+    "verification_note": "Full official job description checked; no weekly office requirement found. Do not confuse Bluecoders with unrelated Blue Coding. Direct employing client is unnamed.",
+    "eligibility": {
+      "scope": "countries",
+      "countries": [
+        "FR"
+      ],
+      "work_model": "fully_remote",
+      "restrictions": [
+        "Recruiter listing for an unnamed partner, not an internal Bluecoders vacancy",
+        "France-located role; cross-border employment not established"
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://www.bluecoders.com/en/nos-offres",
+        "https://www.bluecoders.com/en/nos-offres/engineering-manager-hands-off-full-remote-h-f-8b661f"
+      ]
+    }
+  },
+  {
+    "id": "checkr",
+    "name": "Checkr",
+    "description": "Checkr provides background checks and identity, employment and income verification technology; its Truv subsidiary provides financial-data connectivity.",
+    "category": "Employment verification technology",
+    "website": "https://checkr.com/",
+    "careers_url": "https://jobs.lever.co/truv",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Current Sr Product Designer at Truv by Checkr is fully remote in explicitly listed European countries. Eligibility applies to this subsidiary role, not all Checkr positions.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://jobs.lever.co/truv/2bf109bc-b9de-4556-894b-ad12293f2818",
+      "https://api.lever.co/v0/postings/truv"
+    ],
+    "verification_note": "Role is listed in the live official Lever postings API and has an active application link. Although originally posted in 2025, it remains on the current board and its text explicitly reflects the September 2026 Checkr acquisition. Other subsidiary roles may be hybrid.",
+    "eligibility": {
+      "scope": "countries",
+      "countries": [
+        "CY",
+        "DE",
+        "ES",
+        "FR",
+        "GE",
+        "IT",
+        "ME",
+        "PL",
+        "PT",
+        "RS"
+      ],
+      "work_model": "fully_remote",
+      "restrictions": [
+        "Role-specific country list; not unrestricted worldwide hiring.",
+        "Evidence is a Truv by Checkr role following its September 2026 acquisition."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://jobs.lever.co/truv/2bf109bc-b9de-4556-894b-ad12293f2818",
+        "https://api.lever.co/v0/postings/truv"
+      ]
+    }
+  },
+  {
+    "id": "colonist",
+    "name": "Colonist",
+    "description": "Colonist builds an online multiplayer digital board-game platform.",
+    "category": "Gaming",
+    "website": "https://colonist.io/",
+    "careers_url": "https://jobs.ashbyhq.com/colonist",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Fully remote and asynchronous; current official Ashby API includes DevOps Engineer with Any Location / Remote. Careers policy says work from anywhere. DevOps benefits include a yearly team offsite. The separate Talent Pool is evergreen and explicitly not an active role.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://colonist.io/careers",
+      "https://jobs.ashbyhq.com/colonist/a8300c34-6aaf-415c-a247-5e0ce8556c5f",
+      "https://jobs.ashbyhq.com/colonist/ee99fc96-537a-40f6-966e-c17f207cbba3",
+      "https://api.ashbyhq.com/posting-api/job-board/colonist"
+    ],
+    "verification_note": "Current official Ashby API includes the DevOps vacancy and the Talent Pool as distinct postings. Do not describe pool membership as an offer or guaranteed future vacancy.",
+    "eligibility": {
+      "scope": "worldwide",
+      "countries": [],
+      "work_model": "remote_with_travel",
+      "restrictions": [
+        "Any Location / work-from-anywhere signal; local hiring and contracting arrangements still require confirmation.",
+        "Yearly team offsite is listed in the complete DevOps description; attendance details require confirmation.",
+        "Separate Talent Pool is not an active vacancy and guarantees neither an opening nor a response.",
+        "Asynchronous work requires strong written communication."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://colonist.io/careers",
+        "https://api.ashbyhq.com/posting-api/job-board/colonist",
+        "https://jobs.ashbyhq.com/colonist/a8300c34-6aaf-415c-a247-5e0ce8556c5f",
+        "https://jobs.ashbyhq.com/colonist/ee99fc96-537a-40f6-966e-c17f207cbba3"
+      ]
+    }
+  },
+  {
+    "id": "getaround",
+    "name": "Getaround",
+    "description": "Getaround operates a European peer-to-peer carsharing marketplace and connected-vehicle technology.",
+    "category": "Mobility technology",
+    "website": "https://getaround.com/",
+    "careers_url": "https://getaround.com/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Getaround (formerly Drivy) currently accepts fully remote applications through its Paris, France Open Application. This is an evergreen talent pool, not a specific currently vacant engineering role. Other roles are hybrid or field-based.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://getaround.com/careers",
+      "https://getaround.com/careers/33863"
+    ],
+    "verification_note": "Legacy Drivy URLs redirect to current official Getaround careers pages. Current overview links Open Application 33863 and its full employer-hosted text accepts fully remote applications with Paris, FR metadata. Evergreen talent pool only; confirm employment country and office conditions for any actual offer. Linked Polymer application returned 403; submission functionality not verified.",
+    "eligibility": {
+      "scope": "countries",
+      "countries": [
+        "FR"
+      ],
+      "work_model": "mixed",
+      "restrictions": [
+        "Evergreen Open Application / talent pool; no specific current full-remote vacancy confirmed.",
+        "France is the verified application location, not a guaranteed eventual employing jurisdiction; confirm for any offer.",
+        "Standard policy is Paris-based with up to three remote days weekly, with full-remote applications expressly considered.",
+        "Other positions can require office attendance or field work; no visa/sponsorship guarantee verified."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://getaround.com/careers",
+        "https://getaround.com/careers/33863"
+      ]
+    }
+  },
+  {
+    "id": "hologram",
+    "name": "Hologram",
+    "description": "Hologram provides cellular IoT connectivity and infrastructure for connected devices.",
+    "category": "IoT connectivity",
+    "website": "https://www.hologram.io/",
+    "careers_url": "https://job-boards.greenhouse.io/hologram/jobs/8201073003",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Official current Sr. EMEA Account Executive listing is located in the United Kingdom. Careers policy supports home-office equipment and flexible working location; confirm role-specific travel with the recruiter.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://job-boards.greenhouse.io/hologram/jobs/8201073003",
+      "https://www.hologram.io/careers/"
+    ],
+    "verification_note": "Old job 7731333003 redirected to board; new job 8201073003 was opened and reviewed. GB is the conservative location despite broader EMEA wording in requirements.",
+    "eligibility": {
+      "scope": "countries",
+      "countries": [
+        "GB"
+      ],
+      "work_model": "fully_remote",
+      "restrictions": [
+        "Verified job-board location is United Kingdom.",
+        "Role requires overlap into US working hours.",
+        "EMEA sales territory does not establish hiring across every EMEA country."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://job-boards.greenhouse.io/hologram/jobs/8201073003",
+        "https://www.hologram.io/careers/"
+      ]
+    }
+  },
+  {
+    "id": "ledgy",
+    "name": "Ledgy",
+    "description": "Ledgy builds equity management and financial reporting software for private and public companies.",
+    "category": "Equity management software",
+    "website": "https://ledgy.com/",
+    "careers_url": "https://ledgy.com/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Official careers policy offers remote work across Europe as an alternative to London/Zürich hubs. Policy evidence, not a promise of an active remote vacancy.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://ledgy.com/careers"
+    ],
+    "verification_note": "Current official policy reviewed in full; no particular live opening asserted.",
+    "eligibility": {
+      "scope": "europe",
+      "countries": [],
+      "work_model": "mixed",
+      "restrictions": [
+        "Hiring country and role must be confirmed; Europe is not a country-by-country guarantee.",
+        "Company offsites and regular team retreats; only 40 remote-abroad days per year.",
+        "Office/hybrid roles coexist with remote workers."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://ledgy.com/careers"
+      ]
+    }
+  },
+  {
+    "id": "maxit-consulting",
+    "name": "MaxIT Consulting",
+    "description": "MaxIT Consulting recruits technology professionals for client organizations.",
+    "category": "Technology recruitment agency",
+    "website": "https://maxit-consulting.net/en/",
+    "careers_url": "https://maxit-consulting-jobs.careers-page.com/",
+    "remote_signal": "europe_remote_signal",
+    "remote_note": "Official client-recruitment adverts support fully remote Senior Backend work within Spain and Forward Deployed AI Engineering from the UK or elsewhere in Europe. These are client placements, not evidence of internal MaxIT remote employment. Work rights and US-client time-zone conditions are role-specific.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://maxit-consulting-jobs.careers-page.com/",
+      "https://maxit-consulting-jobs.careers-page.com/jobs/c857cb81-3647-447d-9d6c-6631470aac65",
+      "https://maxit-consulting.net/en/",
+      "https://careers.maxit-consulting.net/jobs/630387dc-12ba-4887-b0a3-5b6954507ae5"
+    ],
+    "verification_note": "Full recruiter-owned JD and current board checked. Client employer is unnamed; Europe is a regional eligibility hint, not confirmation of every individual country. GB is explicitly supported.",
+    "eligibility": {
+      "scope": "europe",
+      "countries": [
+        "ES",
+        "GB"
+      ],
+      "work_model": "fully_remote",
+      "restrictions": [
+        "Client placements, not verified internal MaxIT employment; employing entity and contract require confirmation.",
+        "AI engineering role: UK or elsewhere in Europe with existing work rights; US client hours apply.",
+        "Spain backend role: current Spain residence and existing legal authorization required, plus payments/banking experience.",
+        "Regional Europe wording is not an enumerated all-country guarantee."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://maxit-consulting-jobs.careers-page.com/",
+        "https://maxit-consulting-jobs.careers-page.com/jobs/c857cb81-3647-447d-9d6c-6631470aac65",
+        "https://maxit-consulting.net/en/",
+        "https://careers.maxit-consulting.net/jobs/630387dc-12ba-4887-b0a3-5b6954507ae5"
+      ]
+    }
+  },
+  {
+    "id": "mews",
+    "name": "Mews",
+    "description": "Mews builds a hospitality management platform for hotels and other accommodation providers.",
+    "category": "Hospitality software",
+    "website": "https://www.mews.com/",
+    "careers_url": "https://www.mews.com/en/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Current Lead GTM Product Builder advert lists Czechia, Ireland, Spain, Sweden and UK and describes remote-first work, with travel to offices for project embedding; hybrid options also exist.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://www.mews.com/en/careers/jobs/4861773101",
+      "https://boards-api.greenhouse.io/v1/boards/mewssystems/jobs"
+    ],
+    "verification_note": "Complete current ATS role reviewed, including all benefits and office/travel references; no weekly mandatory office cadence stated.",
+    "eligibility": {
+      "scope": "countries",
+      "countries": [
+        "CZ",
+        "ES",
+        "GB",
+        "IE",
+        "SE"
+      ],
+      "work_model": "remote_with_travel",
+      "restrictions": [
+        "Travel to local offices for deeper team embedding and training.",
+        "Remote-first with flexible hybrid options; confirm role-specific attendance.",
+        "Listed countries only; work-abroad benefit is temporary, not cross-border employment permission."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://www.mews.com/en/careers/jobs/4861773101",
+        "https://boards-api.greenhouse.io/v1/boards/mewssystems/jobs"
+      ]
+    }
+  },
+  {
+    "id": "monetizemore",
+    "name": "MonetizeMore",
+    "description": "MonetizeMore develops advertising technology and monetization services for digital publishers.",
+    "category": "Advertising technology",
+    "website": "https://www.monetizemore.com/",
+    "careers_url": "https://monetizem.applytojob.com/apply",
+    "remote_signal": "global_remote_signal",
+    "remote_note": "Current official Group Product Manager advert is located Kraków, Poland and describes a 100% remote organization with worldwide location autonomy. The application form requires regular collaboration during 7AM–10AM Pacific time. Poland is explicitly verified; worldwide wording does not guarantee employment in every country.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://monetizem.applytojob.com/apply",
+      "https://monetizem.applytojob.com/apply/vGobAmegjm/Group-Product-Manager-Remote"
+    ],
+    "verification_note": "Exact advert remains linked from the live official board and has a full active application form. Full job and application questions checked, including mandatory Pacific-time overlap; no recurring office attendance found.",
+    "eligibility": {
+      "scope": "worldwide",
+      "countries": [
+        "PL"
+      ],
+      "work_model": "fully_remote",
+      "restrictions": [
+        "Role-specific hiring and contract terms require confirmation",
+        "Worldwide policy wording does not guarantee legal employment in every country",
+        "Application form requires consistent collaboration during core overlap hours of 7AM–10AM Pacific time"
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://monetizem.applytojob.com/apply",
+        "https://monetizem.applytojob.com/apply/vGobAmegjm/Group-Product-Manager-Remote"
+      ]
+    }
+  },
+  {
+    "id": "moniepoint",
+    "name": "Moniepoint",
+    "description": "Moniepoint provides business banking, payments, credit and financial-management services.",
+    "category": "Financial technology",
+    "website": "https://moniepoint.com/",
+    "careers_url": "https://moniepoint.com/careers",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "Current official Head of Engineering, Rewards posting is remote within Spain. Applicants must currently be based in Spain with the full legal right to work there; this is not Europe-wide eligibility.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://moniepoint.com/careers",
+      "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4974177101",
+      "https://moniepoint.com/careers/roles/4974177101"
+    ],
+    "verification_note": "Live official Greenhouse description and application reviewed. Application explicitly requires current residence and full legal work rights in Spain. Employer website returns 403; official ATS supplies full role and application.",
+    "eligibility": {
+      "scope": "countries",
+      "countries": [
+        "ES"
+      ],
+      "work_model": "fully_remote",
+      "restrictions": [
+        "Must currently be based in Spain with the full legal right to work there.",
+        "Role requires consumer-facing product engineering, front-end/mobile depth and experience managing managers.",
+        "Confirm any meeting/travel requirements during hiring."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://moniepoint.com/careers",
+        "https://job-boards.eu.greenhouse.io/moniepoint/jobs/4974177101",
+        "https://moniepoint.com/careers/roles/4974177101"
+      ]
+    }
+  },
+  {
+    "id": "novartis",
+    "name": "Novartis",
+    "description": "Novartis develops and commercializes innovative medicines.",
+    "category": "Pharmaceuticals",
+    "website": "https://www.novartis.com/",
+    "careers_url": "https://www.novartis.com/careers/career-search",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Official Global Process Manager REQ-10089430, dated 26 October 2026, lists London hybrid for candidates within 50 miles and Remote, United Kingdom for UK residents living more than 50 miles from the office.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://novartis.com/careers/career-search/job/details/req-10089430-global-process-manager",
+      "https://www.novartis.com/careers/career-search"
+    ],
+    "verification_note": "Live official full advert and JobPosting structured data checked, including Home Worker, United Kingdom and the explicit over-50-mile remote exception despite LI-Hybrid. Linked Workday HTML returns 200, but its detail API returned 403; do not claim independently verified final application intake.",
+    "eligibility": {
+      "scope": "countries",
+      "countries": [
+        "GB"
+      ],
+      "work_model": "mixed",
+      "restrictions": [
+        "Remote alternative only for UK-based candidates living more than 50 miles from the office.",
+        "Candidates within 50 miles of London office are in the hybrid arrangement.",
+        "No relocation support; confirm role-specific attendance/travel obligations."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://novartis.com/careers/career-search/job/details/req-10089430-global-process-manager",
+        "https://www.novartis.com/careers/career-search"
+      ]
+    }
+  },
+  {
+    "id": "novoda",
+    "name": "Novoda",
+    "description": "Novoda is a software consultancy that designs and develops digital products.",
+    "category": "Software consultancy",
+    "website": "https://novoda.com/",
+    "careers_url": "https://novoda.com/contact/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Current official site explicitly describes a fully remote business distributed mostly across UK and Europe. Policy-only inclusion; no current vacancy confirmed.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://novoda.com/contact/"
+    ],
+    "verification_note": "Former joinus URL redirects to current contact page retaining explicit fully remote policy; reviewed full text.",
+    "eligibility": {
+      "scope": "europe",
+      "countries": [],
+      "work_model": "fully_remote",
+      "restrictions": [
+        "Country-specific contracts and hiring availability must be confirmed.",
+        "UK and European team distribution is not permission to work in every European country.",
+        "No active vacancy promised."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://novoda.com/contact/"
+      ]
+    }
+  },
+  {
+    "id": "olx-group",
+    "name": "OLX Group",
+    "description": "OLX Group operates online classifieds and marketplaces for vehicles, property, jobs and secondhand goods.",
+    "category": "Online marketplaces",
+    "website": "https://www.olxgroup.com/",
+    "careers_url": "https://jobs.eu.lever.co/olx/460655c1-7e11-49e8-b8a2-eca7c7ed3008",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Current Staff Backend Software Engineer advert specifies remote work from Portugal and 100% remote work with optional Lisbon office access.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://jobs.eu.lever.co/olx/460655c1-7e11-49e8-b8a2-eca7c7ed3008"
+    ],
+    "verification_note": "Complete official Lever description reviewed; office access is optional, not a weekly attendance mandate. Other roles and countries require their own review.",
+    "eligibility": {
+      "scope": "countries",
+      "countries": [
+        "PT"
+      ],
+      "work_model": "fully_remote",
+      "restrictions": [
+        "Portugal residence for the reviewed role.",
+        "Role/country-specific hiring, not unrestricted European employment.",
+        "Poland secondary ATS location is not treated as independently confirmed by this Portugal description."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://jobs.eu.lever.co/olx/460655c1-7e11-49e8-b8a2-eca7c7ed3008"
+      ]
+    }
+  },
+  {
+    "id": "opswat",
+    "name": "OPSWAT",
+    "description": "OPSWAT develops cybersecurity software protecting critical infrastructure and securing files and devices.",
+    "category": "Cybersecurity",
+    "website": "https://www.opswat.com/",
+    "careers_url": "https://www.opswat.com/jobs",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Current official ATS lists L2 Technical Support Engineer (remote) in Timișoara, Romania. Full role reviewed without recurring office requirement; country/role restricted, not a universal remote company policy.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://boards-api.greenhouse.io/v1/boards/opswat/jobs",
+      "https://www.opswat.com/jobs/4728214005"
+    ],
+    "verification_note": "Exact role ID 4728214005 is present in the live official Greenhouse board API. Full decoded role body and Romanian location reviewed; no recurring office obligation found. Employer role page was CloudFront-blocked in browser (403), so application-page availability was not independently established.",
+    "eligibility": {
+      "scope": "countries",
+      "countries": [
+        "RO"
+      ],
+      "work_model": "fully_remote",
+      "restrictions": [
+        "Verified role located in Timișoara, Romania; do not infer EU-wide remote employment.",
+        "Professional-services delivery is included; confirm any customer travel.",
+        "Other OPSWAT roles are on-site or differently restricted."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://boards-api.greenhouse.io/v1/boards/opswat/jobs",
+        "https://www.opswat.com/jobs/4728214005"
+      ]
+    }
+  },
+  {
+    "id": "salve-inno-consulting",
+    "name": "Salve.Inno Consulting",
+    "description": "Salve.Inno Consulting recruits professionals for client organizations across technology and other business functions.",
+    "category": "Recruitment services",
+    "website": "https://careers.salveinno.com/",
+    "careers_url": "https://careers.salveinno.com/jobs",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Current client AI/LLM Engineer vacancy permits fully remote work within Europe under a long-term B2B contractor agreement and lists an annual team gathering. This is client recruitment, not evidence of direct employment by Salve.Inno.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://careers.salveinno.com/jobs",
+      "https://careers.salveinno.com/jobs/8586188-ai-llm-engineer-model-fine-tuning-conversational-ai"
+    ],
+    "verification_note": "Live official Teamtailor vacancy returns 200 and is listed on the current official board. Older Talent Acquisition Specialist listing returns 410 and is not used as current evidence. Client identity is undisclosed.",
+    "eligibility": {
+      "scope": "europe",
+      "countries": [],
+      "work_model": "remote_with_travel",
+      "restrictions": [
+        "Client placement through a recruitment agency; end employer is unnamed.",
+        "Europe residence and B2B contractor agreement required; not an employee offer.",
+        "Annual team gathering; attendance/travel details must be confirmed.",
+        "Regional Europe scope does not enumerate or guarantee any particular country."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://careers.salveinno.com/jobs",
+        "https://careers.salveinno.com/jobs/8586188-ai-llm-engineer-model-fine-tuning-conversational-ai"
+      ]
+    }
+  },
+  {
+    "id": "scopely",
+    "name": "Scopely",
+    "description": "Scopely develops, publishes and operates mobile, web, PC and console games.",
+    "category": "Video games",
+    "website": "https://www.scopely.com/",
+    "careers_url": "https://job-boards.greenhouse.io/scopely/jobs/5436403008",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Current CRM Product Manager advert supports UK remote, separately from Barcelona hybrid with three office days weekly. A Senior Producer body also says UK remote but conflicts with Hybrid/Spain ATS metadata; do not treat that advert as independently confirmed remote.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://job-boards.greenhouse.io/scopely/jobs/5430380008",
+      "https://job-boards.greenhouse.io/scopely/jobs/5436403008"
+    ],
+    "verification_note": "Full live role bodies and exact Greenhouse APIs checked. Senior Producer body says UK remote but API metadata says Hybrid and Spain, so that role has an unresolved metadata inconsistency. CRM Product Manager independently supports UK remote versus Barcelona hybrid and API Work Arrangement includes Hybrid and Remote. GB only; stale EU snippets and Barcelona metadata do not establish Spain remote eligibility.",
+    "eligibility": {
+      "scope": "countries",
+      "countries": [
+        "GB"
+      ],
+      "work_model": "mixed",
+      "restrictions": [
+        "Reviewed remote alternatives are UK-based; no Spain or all-EU remote eligibility established.",
+        "Barcelona CRM Product Manager alternative requires office attendance three times per week and is not a qualifying remote option.",
+        "Senior Producer remote-UK body conflicts with Hybrid/Spain ATS metadata; confirm arrangement with recruiter and prefer the corroborating CRM role as evidence."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://job-boards.greenhouse.io/scopely/jobs/5430380008",
+        "https://job-boards.greenhouse.io/scopely/jobs/5436403008"
+      ]
+    }
+  },
+  {
+    "id": "sembi",
+    "name": "Sembi",
+    "description": "Sembi operates software quality, testing and DevSecOps products including TestRail, Xray, Testmo, Ranorex, Kiuwan and PreEmptive.",
+    "category": "Developer tools",
+    "website": "https://www.sembi.com/",
+    "careers_url": "https://www.sembi.com/careers/",
+    "remote_signal": "global_remote_signal",
+    "remote_note": "Official careers policy explicitly supports remote and hybrid work from anywhere in the world, alongside a live remote hiring board. Qualifies as a worldwide-policy lead, not confirmation that each role can employ people in every European country.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://www.sembi.com/careers/",
+      "https://sembi.applytojob.com/apply",
+      "https://sembi.applytojob.com/apply/G99KZk3bjP/Customer-Digital-Engagement-Specialist",
+      "https://sembi.applytojob.com/apply/PyqlnUwqs7/Technical-Writer-Xray",
+      "https://www.sembi.com/news/launch-announcement/"
+    ],
+    "verification_note": "Policy and two complete current remote role descriptions directly rechecked live on 2026-11-12. The Director of Engineering Platforms role is not on the checked live board and is not a verified current vacancy. Remove its URL from eligibility.sources as well. Worldwide policy language is a lead, not proof of legal employment in each European country.",
+    "eligibility": {
+      "scope": "worldwide",
+      "countries": [],
+      "work_model": "mixed",
+      "restrictions": [
+        "Worldwide policy is a research lead, not a guarantee of legal employment in every country.",
+        "Remote and hybrid roles coexist; confirm role-specific office attendance and employing jurisdiction.",
+        "No current Europe-eligible Director vacancy independently verified."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://www.sembi.com/careers/",
+        "https://sembi.applytojob.com/apply",
+        "https://sembi.applytojob.com/apply/G99KZk3bjP/Customer-Digital-Engagement-Specialist",
+        "https://sembi.applytojob.com/apply/PyqlnUwqs7/Technical-Writer-Xray",
+        "https://www.sembi.com/news/launch-announcement/"
+      ]
+    }
+  },
+  {
+    "id": "seqera",
+    "name": "Seqera",
+    "description": "Seqera develops scientific workflow and cloud data analysis software, including Nextflow and Seqera Platform.",
+    "category": "Scientific software",
+    "website": "https://seqera.io/",
+    "careers_url": "https://seqera.io/careers/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Current official Technical Solutions Architect advert explicitly lists Spain (Remote), confirmed by the live Ashby board as workplaceType Remote. Full description has no recurring office requirement; team retreats and bonding activities remain. The older Staff Software Engineer page is still accessible but absent from the live Ashby board.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://seqera.io/careers/0e6dca4a-9d78-4ef3-b84e-eceb861448b3/",
+      "https://api.ashbyhq.com/posting-api/job-board/seqera.io"
+    ],
+    "verification_note": "The Staff Software Engineer corporate page remains accessible and linked but is absent from current Ashby postings; do not call that vacancy current. Replaced positive current-role evidence with Technical Solutions Architect 0e6dca4a-9d78-4ef3-b84e-eceb861448b3, isListed true, Spain (Remote), workplaceType Remote. Complete current corporate/API description checked; cloud/hybrid/on-prem mentions refer to client infrastructure, not a hybrid attendance mandate.",
+    "eligibility": {
+      "scope": "countries",
+      "countries": [
+        "ES"
+      ],
+      "work_model": "fully_remote",
+      "restrictions": [
+        "Spain-based remote option only; no cross-border employment inference.",
+        "Team retreats and bonding activities."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://seqera.io/careers/0e6dca4a-9d78-4ef3-b84e-eceb861448b3/",
+        "https://api.ashbyhq.com/posting-api/job-board/seqera.io"
+      ]
+    }
+  },
+  {
+    "id": "tecdata-engineering",
+    "name": "TECDATA Engineering",
+    "description": "TECDATA Engineering provides technology consulting and engineering services for banking, telecommunications and insurance clients.",
+    "category": "IT consulting",
+    "website": "https://tecdata.es/",
+    "careers_url": "https://job.tecdata.es/",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "The live official careers board links Marketing Cloud Senior Developer, located Madrid and explicitly Completamente remoto. The complete JD contains no weekly office requirement; this supports Spain remote, not global hiring.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://job.tecdata.es/",
+      "https://job.tecdata.es/jobs/8709666-marketing-cloud-senior-developer"
+    ],
+    "verification_note": "Current official board and full linked JD checked; other TECDATA roles are hybrid and must be reviewed separately.",
+    "eligibility": {
+      "scope": "countries",
+      "countries": [
+        "ES"
+      ],
+      "work_model": "fully_remote",
+      "restrictions": [
+        "Role-specific Spain remote; international hiring not established",
+        "Minimum five years Salesforce Marketing Cloud experience"
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://job.tecdata.es/",
+        "https://job.tecdata.es/jobs/8709666-marketing-cloud-senior-developer"
+      ]
+    }
+  },
+  {
+    "id": "xing",
+    "name": "XING",
+    "description": "XING provides a professional networking and recruiting platform focused on German-speaking markets.",
+    "category": "Professional networking and recruitment",
+    "website": "https://www.xing.com/",
+    "careers_url": "https://corporate.xing.com/en/career",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Policy-only inclusion: current official locations page explicitly offers remote contracts, although fully remote arrangements are less common and most roles are hybrid. Its operating locations are European; no enumerated remote-hiring country guarantee is published in the reviewed policy.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://corporate.xing.com/en/career/locations"
+    ],
+    "verification_note": "Direct live policy HTML explicitly offers remote contracts and says fully remote arrangements are less common. Most roles are hybrid. No current full-remote vacancy or enumerated hiring country was confirmed. Removed obsolete security-role source because it returns 404.",
+    "eligibility": {
+      "scope": "europe",
+      "countries": [],
+      "work_model": "mixed",
+      "restrictions": [
+        "Policy-only; no specific current fully remote vacancy confirmed.",
+        "Fully remote arrangements are less common; most roles are hybrid with team-specific office attendance.",
+        "European scope is a regional policy signal, not an enumerated country or work-authorization guarantee."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://corporate.xing.com/en/career/locations"
+      ]
+    }
+  },
+  {
+    "id": "xometry",
+    "name": "Xometry",
+    "description": "Xometry operates an online marketplace connecting customers with custom manufacturing suppliers.",
+    "category": "Manufacturing marketplace",
+    "website": "https://www.xometry.com/",
+    "careers_url": "https://job-boards.greenhouse.io/xometryeurope",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "MakeTime was absorbed into Xometry. Current official Business Development Manager advert permits full-time remote work but requires candidates to live in Bulgaria despite its Spain header. Only Bulgaria is verified; Italian and English are required.",
+    "record_reviewed_at": "2026-11-12",
+    "public_sources_checked_at": "2026-11-12",
+    "sources": [
+      "https://investors.xometry.com/node/6606/pdf",
+      "https://job-boards.greenhouse.io/xometryeurope/jobs/5264303007"
+    ],
+    "verification_note": "Publish under Xometry, not MakeTime. Acquisition release retrieved in full through extraction; direct investor HTML/PDF requests returned 403, while Xometry's issuer press release on PRNewswire returned 200. Current Greenhouse advert and exact API independently verified. Job title is Business Development Manager with Italian and English, while body says Representative; country requirement explicitly Bulgaria despite Spain header.",
+    "eligibility": {
+      "scope": "countries",
+      "countries": [
+        "BG"
+      ],
+      "work_model": "fully_remote",
+      "restrictions": [
+        "Candidates must be located in Bulgaria; conflicting Spain header is not Spain eligibility.",
+        "Fluent Italian and English required for the verified role.",
+        "Occasional team meetings and events."
+      ],
+      "checked_at": "2026-11-12",
+      "sources": [
+        "https://investors.xometry.com/node/6606/pdf",
+        "https://job-boards.greenhouse.io/xometryeurope/jobs/5264303007"
+      ]
+    }
   }
 ]

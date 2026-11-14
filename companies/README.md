@@ -396,6 +396,7 @@
 - [Vanta](vanta.md) — Security compliance software
 - [Veeva Systems](veeva-systems.md) — Life sciences software
 - [Vercel](vercel.md) — Cloud development platform
+- [Veriff](veriff.md) — Identity verification and security
 - [VistaPrint](vistaprint.md) — Custom printing
 - [Vodafone AI and Sovereign Cloud](vodafone-ai-and-sovereign-cloud.md) — Cloud services
 - [Voicemod](voicemod.md) — Audio software

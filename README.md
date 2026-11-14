@@ -1,6 +1,6 @@
 # Remote companies — Europe
 
-A public, source-linked directory of **419 companies** for people researching remote-friendly work across Europe.
+A public, source-linked directory of **420 companies** for people researching remote-friendly work across Europe.
 
 **This is a research directory, not a guarantee of current vacancies or eligibility.** Some entries have only historical signals, mixed hybrid policies or country restrictions. Always read the actual vacancy and confirm employment country, office attendance, timezone and contract terms. “Remote” does not mean “work from any country”.
 
@@ -20,7 +20,7 @@ A public, source-linked directory of **419 companies** for people researching re
 - **Spain remote signal:** 210
 - **Europe / EMEA remote signal:** 19
 - **Global / distributed signal:** 13
-- **Hybrid or country-restricted evidence:** 153
+- **Hybrid or country-restricted evidence:** 154
 - **Needs verification:** 24
 
 ## Company directory
@@ -421,6 +421,7 @@ A public, source-linked directory of **419 companies** for people researching re
 | [Vanta](companies/vanta.md) | Vanta builds software for security compliance, risk management and demonstrating organizational trust. | Hybrid or country-restricted evidence | [Website](https://vanta.com) · [Careers](https://www.vanta.com/company/careers) |
 | [Veeva Systems](companies/veeva-systems.md) | Veeva Systems provides cloud applications, data, AI agents, and consulting services for pharmaceutical, biotechnology, and other life sciences companies. | Spain remote signal | [Website](https://www.veeva.com/) · [Careers](https://careers.veeva.com/job-search-results/) |
 | [Vercel](companies/vercel.md) | Vercel provides cloud infrastructure and development tools for deploying, hosting, and operating web applications, AI applications, and autonomous agents. | Hybrid or country-restricted evidence | [Website](https://vercel.com/) · [Careers](https://vercel.com/careers) |
+| [Veriff](companies/veriff.md) | Veriff develops identity verification, biometric authentication and fraud-prevention technology for online businesses. | Hybrid or country-restricted evidence | [Website](https://www.veriff.com/) · [Careers](https://www.veriff.com/careers/open-positions) |
 | [VistaPrint](companies/vistaprint.md) | VistaPrint provides online design and printing services for business cards, marketing materials, signage, packaging, gifts, and promotional products. | Spain remote signal | [Website](https://www.vistaprint.com/) · [Careers](https://jobs.vista.com/Vista/go/Vista-All/8835100/) |
 | [Vodafone AI and Sovereign Cloud](companies/vodafone-ai-and-sovereign-cloud.md) | Vodafone provides enterprise connectivity, cloud, cybersecurity, and AI-related services, including sovereign cloud initiatives for businesses and public sector organizations. | Spain remote signal | [Website](https://www.vodafone.com/) · [Careers](https://jobs.vodafone.com/careers) |
 | [Voicemod](companies/voicemod.md) | Voicemod develops real-time voice changing and soundboard software that lets users modify their voices and add sounds during online interactions. | Spain remote signal | [Website](https://www.voicemod.net/) · [Careers](https://jobs.ashbyhq.com/voicemod) |

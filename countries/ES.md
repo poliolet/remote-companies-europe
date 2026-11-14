@@ -16,6 +16,7 @@ Unknown is not ineligible. These are research leads, not current vacancy guarant
 - [Rover](../companies/rover.md) — mixed
 - [Seqera](../companies/seqera.md) — fully_remote
 - [TECDATA Engineering](../companies/tecdata-engineering.md) — fully_remote
+- [Veriff](../companies/veriff.md) — fully_remote
 
 ## Regional hints — not confirmed country eligibility
 

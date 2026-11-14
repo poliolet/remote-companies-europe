@@ -16,6 +16,7 @@ Unknown is not ineligible. These are research leads, not current vacancy guarant
 - [Pennylane](../companies/pennylane.md) — mixed
 - [Scopely](../companies/scopely.md) — mixed
 - [Sinch](../companies/sinch.md) — mixed
+- [Veriff](../companies/veriff.md) — fully_remote
 
 ## Regional hints — not confirmed country eligibility
 

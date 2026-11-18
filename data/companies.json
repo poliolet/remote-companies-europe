@@ -8067,5 +8067,121 @@
         "https://www.veriff.com/careers/position/8626079002"
       ]
     }
+  },
+  {
+    "id": "tremendous",
+    "name": "Tremendous",
+    "description": "Tremendous provides a business platform for sending bulk payouts, gift cards and rewards through a dashboard, integrations and APIs.",
+    "category": "Payments and rewards software",
+    "website": "https://www.tremendous.com/",
+    "careers_url": "https://www.tremendous.com/careers/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The official careers page describes a fully remote company. The live Senior Customer Success Manager, International posting explicitly permits remote work from Spain or the UK, with residence in one of those countries and regular overlap with US colleagues. These countries are role-specific evidence, not a guarantee that all roles hire there; several engineering and product postings are restricted to the Americas. Careers describes semi-annual company offsites and in-person team meetings; mandatory attendance, duration and travel-cost arrangements are not specified.",
+    "record_reviewed_at": "2026-11-18",
+    "public_sources_checked_at": "2026-11-18",
+    "sources": [
+      "https://www.tremendous.com/",
+      "https://www.tremendous.com/careers/",
+      "https://jobs.ashbyhq.com/Tremendous/3de2d063-4828-4537-848c-9f2c3bf50657",
+      "https://api.ashbyhq.com/posting-api/job-board/tremendous"
+    ],
+    "verification_note": "The role was listed and remote in the live official ATS API on the research date. Confirm current availability, employment authorization, working hours and offsite obligations for the individual vacancy.",
+    "eligibility": {
+      "scope": "countries",
+      "countries": [
+        "ES",
+        "GB"
+      ],
+      "work_model": "remote_with_travel",
+      "restrictions": [
+        "Spain and UK eligibility is evidenced by the international Customer Success role, not every vacancy.",
+        "The cited role requires residence in Spain or the UK and normal or later local business hours with regular US team overlap; the exact schedule is agreed during hiring.",
+        "Company careers describes semi-annual offsites and in-person team meetings; mandatory attendance, duration and travel-cost coverage are unspecified.",
+        "Work authorization and sponsorship were not established."
+      ],
+      "checked_at": "2026-11-18",
+      "sources": [
+        "https://www.tremendous.com/careers/",
+        "https://jobs.ashbyhq.com/Tremendous/3de2d063-4828-4537-848c-9f2c3bf50657",
+        "https://api.ashbyhq.com/posting-api/job-board/tremendous"
+      ]
+    }
+  },
+  {
+    "id": "tyk",
+    "name": "Tyk",
+    "description": "Tyk develops an API management platform with gateways, access controls, governance, observability and developer portals for APIs and AI services.",
+    "category": "API management and developer infrastructure",
+    "website": "https://tyk.io/",
+    "careers_url": "https://tyk.io/tyk-current-vacancies/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The official Site Reliability Engineer posting is labelled Remote, Portugal, and the Senior Customer Success Engineer posting is labelled Remote, EMEA. Both describe a default-remote culture, but regional role labels still apply: the broad work-from-anywhere wording does not establish employment eligibility in every country. The SRE role includes a Monday-Friday on-call week in three initially, with 12-hour shifts from 12:00 to 00:00 UTC. Company retreats are listed, without a stated frequency, mandatory-attendance policy or travel-cost coverage.",
+    "record_reviewed_at": "2026-11-18",
+    "public_sources_checked_at": "2026-11-18",
+    "sources": [
+      "https://tyk.io/",
+      "https://tyk.io/tyk-current-vacancies/",
+      "https://tyk.io/jobs/sre/",
+      "https://apply.workable.com/tyk-technologies/j/A0C7C4347A/",
+      "https://tyk.io/jobs/senior-cse-emea/"
+    ],
+    "verification_note": "The SRE description was accessible on the official website and its linked Workable posting. Portugal is explicit role-level evidence; EMEA is not an enumerated European country list. Check current role availability, contract country, authorization and on-call or travel requirements.",
+    "eligibility": {
+      "scope": "countries",
+      "countries": [
+        "PT"
+      ],
+      "work_model": "remote_with_travel",
+      "restrictions": [
+        "Portugal is explicit in the official SRE posting; the separate EMEA posting does not confirm eligibility in every European country.",
+        "The cited SRE role initially requires on-call one week in three, Monday-Friday, with 12:00-00:00 UTC shifts; the posting anticipates one week in four as the team grows.",
+        "Company retreats are listed; frequency, mandatory attendance, duration and travel-cost coverage are unspecified.",
+        "Employment-country arrangements, work authorization and sponsorship require confirmation per vacancy."
+      ],
+      "checked_at": "2026-11-18",
+      "sources": [
+        "https://tyk.io/jobs/sre/",
+        "https://apply.workable.com/tyk-technologies/j/A0C7C4347A/",
+        "https://tyk.io/jobs/senior-cse-emea/"
+      ]
+    }
+  },
+  {
+    "id": "wayflyer",
+    "name": "Wayflyer",
+    "description": "Wayflyer provides business financing and technology that assesses company data to generate funding offers and support business growth.",
+    "category": "Business financing and fintech",
+    "website": "https://wayflyer.com/",
+    "careers_url": "https://jobs.ashbyhq.com/wayflyer",
+    "remote_signal": "europe_remote_signal",
+    "remote_note": "The live official board lists Backend, Frontend and Full Stack Software Engineer and Senior Product Designer roles as Remote Europe. The Backend Software Engineer description explicitly says fully remote in Europe and includes onboarding in the Dublin or London office. This is role-specific evidence: other vacancies require regular weekly office attendance. The cited role also offers up to 60 days a year working abroad, which is not unrestricted permanent employment from any country. No exact European hiring-country list or standard timezone requirement was established.",
+    "record_reviewed_at": "2026-11-18",
+    "public_sources_checked_at": "2026-11-18",
+    "sources": [
+      "https://wayflyer.com/",
+      "https://wayflyer.com/careers",
+      "https://jobs.ashbyhq.com/wayflyer",
+      "https://jobs.ashbyhq.com/wayflyer/8b4052a5-9e11-4acd-babc-963e5f5111ba",
+      "https://api.ashbyhq.com/posting-api/job-board/wayflyer"
+    ],
+    "verification_note": "The cited role was listed with workplaceType Remote and Remote Europe location in the live official ATS API. Several hybrid roles also carry isRemote=true, so that boolean alone must not be used to classify other vacancies. Confirm employment country, authorization, onboarding travel and current availability per role.",
+    "eligibility": {
+      "scope": "europe",
+      "countries": [],
+      "work_model": "remote_with_travel",
+      "restrictions": [
+        "Europe is a regional hiring signal; no exact country list or Spain-specific eligibility was established.",
+        "The cited Backend Software Engineer role includes onboarding in the Dublin or London office; duration and travel-cost arrangements are unspecified.",
+        "The 60-day annual work-abroad benefit is temporary flexibility, not permanent worldwide employment permission.",
+        "Other company roles are hybrid with weekly office attendance; check the full posting and workplaceType.",
+        "Work authorization, sponsorship and any timezone requirements require confirmation."
+      ],
+      "checked_at": "2026-11-18",
+      "sources": [
+        "https://wayflyer.com/careers",
+        "https://jobs.ashbyhq.com/wayflyer/8b4052a5-9e11-4acd-babc-963e5f5111ba",
+        "https://api.ashbyhq.com/posting-api/job-board/wayflyer"
+      ]
+    }
   }
 ]

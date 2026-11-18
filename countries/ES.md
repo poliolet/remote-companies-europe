@@ -16,6 +16,7 @@ Unknown is not ineligible. These are research leads, not current vacancy guarant
 - [Rover](../companies/rover.md) — mixed
 - [Seqera](../companies/seqera.md) — fully_remote
 - [TECDATA Engineering](../companies/tecdata-engineering.md) — fully_remote
+- [Tremendous](../companies/tremendous.md) — remote_with_travel
 - [Veriff](../companies/veriff.md) — fully_remote
 
 ## Regional hints — not confirmed country eligibility
@@ -33,4 +34,5 @@ Only structured Europe, EU/EEA or worldwide scope; historical signals are not us
 - [Salve.Inno Consulting](../companies/salve-inno-consulting.md) — remote_with_travel
 - [Sembi](../companies/sembi.md) — mixed
 - [TuneIn](../companies/tunein.md) — fully_remote
+- [Wayflyer](../companies/wayflyer.md) — remote_with_travel
 - [XING](../companies/xing.md) — mixed

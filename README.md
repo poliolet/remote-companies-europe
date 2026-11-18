@@ -1,6 +1,6 @@
 # Remote companies — Europe
 
-A public, source-linked directory of **420 companies** for people researching remote-friendly work across Europe.
+A public, source-linked directory of **423 companies** for people researching remote-friendly work across Europe.
 
 **This is a research directory, not a guarantee of current vacancies or eligibility.** Some entries have only historical signals, mixed hybrid policies or country restrictions. Always read the actual vacancy and confirm employment country, office attendance, timezone and contract terms. “Remote” does not mean “work from any country”.
 
@@ -18,9 +18,9 @@ A public, source-linked directory of **420 companies** for people researching re
 *These labels summarize historical research signals, not freshly verified company-wide policies.*
 
 - **Spain remote signal:** 210
-- **Europe / EMEA remote signal:** 19
+- **Europe / EMEA remote signal:** 20
 - **Global / distributed signal:** 13
-- **Hybrid or country-restricted evidence:** 154
+- **Hybrid or country-restricted evidence:** 156
 - **Needs verification:** 24
 
 ## Company directory
@@ -406,11 +406,13 @@ A public, source-linked directory of **420 companies** for people researching re
 | [Tooploox](companies/tooploox.md) | Tooploox provides AI engineering, software development and digital product services. | Hybrid or country-restricted evidence | [Website](https://tooploox.com/) · [Careers](https://tooploox.com/careers) |
 | [Toptal](companies/toptal.md) | Toptal operates a talent network connecting businesses with freelance specialists in software development, design, marketing, management consulting, and project delivery. | Hybrid or country-restricted evidence | [Website](https://www.toptal.com/) · [Careers](https://www.toptal.com/careers) |
 | [Treatwell](companies/treatwell.md) | Treatwell operates an online beauty booking marketplace that helps customers discover salons and arrange hair, beauty, and wellness appointments. | Hybrid or country-restricted evidence | [Website](https://treatwell.com/) · [Careers](https://jobs.treatwell.com/) |
+| [Tremendous](companies/tremendous.md) | Tremendous provides a business platform for sending bulk payouts, gift cards and rewards through a dashboard, integrations and APIs. | Hybrid or country-restricted evidence | [Website](https://www.tremendous.com/) · [Careers](https://www.tremendous.com/careers/) |
 | [Trigger.dev](companies/trigger-dev.md) | Trigger.dev develops an open source platform for durable TypeScript tasks, AI agents, and workflows with queues, retries, and execution observability. | Hybrid or country-restricted evidence | [Website](https://trigger.dev/) · [Careers](https://jobs.ashbyhq.com/triggerdev) |
 | [Triple](companies/triple.md) | Triple develops transaction enrichment APIs and AI agents that help banks and fintech companies improve payment data and automate dispute management. | Spain remote signal | [Website](https://www.jointriple.com/) · [Careers](https://www.linkedin.com/jobs/view/4469433508/) |
 | [Tucuvi](companies/tucuvi.md) | Tucuvi provides an AI care management platform that automates patient follow-up and care workflows according to healthcare organizations' clinical protocols. | Spain remote signal | [Website](https://www.tucuvi.com/) · [Careers](https://tucuvipeople.factorialhr.com/job_posting/director-of-product-319561) |
 | [TuneIn](companies/tunein.md) | TuneIn operates an audio-streaming platform aggregating radio, sports, news, music and other audio content. | Hybrid or country-restricted evidence | [Website](https://tunein.com/) · [Careers](https://cms.tunein.com/careers/) |
 | [Twilio](companies/twilio.md) | Twilio provides communications APIs for messaging, voice, and email, alongside conversational AI and identity verification tools for businesses. | Spain remote signal | [Website](https://www.twilio.com/en-us) · [Careers](https://www.twilio.com/en-us/company/jobs) |
+| [Tyk](companies/tyk.md) | Tyk develops an API management platform with gateways, access controls, governance, observability and developer portals for APIs and AI services. | Hybrid or country-restricted evidence | [Website](https://tyk.io/) · [Careers](https://tyk.io/tyk-current-vacancies/) |
 | [Typeform](companies/typeform.md) | Typeform provides online form-building software with AI and automation features for collecting information, qualifying leads, and triggering business workflows. | Spain remote signal | [Website](https://www.typeform.com/) · [Careers](https://job-boards.greenhouse.io/typeform) |
 | [Uberall](companies/uberall.md) | Uberall provides location marketing and online presence software for multi-location brands. | Hybrid or country-restricted evidence | [Website](https://uberall.com/en-us/company/careers) · [Careers](https://uberall.com/en-us/company/careers) |
 | [UpScrolled](companies/upscrolled.md) | UpScrolled operates a social media platform focused on sharing content and connecting people through public conversations and community interaction. | Needs verification | [Website](https://upscrolled.com/) · [Careers](https://upscrolled.bamboohr.com/careers) |
@@ -429,6 +431,7 @@ A public, source-linked directory of **420 companies** for people researching re
 | [Vonage](companies/vonage.md) | Vonage provides business communications software, contact center solutions, and APIs for integrating voice, messaging, video, and data into applications. | Spain remote signal | [Website](https://www.vonage.com.es/) · [Careers](https://job-boards.greenhouse.io/vonage) |
 | [WalletConnect](companies/walletconnect.md) | WalletConnect provides infrastructure connecting cryptocurrency wallets and applications, with tools supporting crypto and stablecoin services for businesses and institutions. | Global / distributed signal | [Website](https://walletconnect.com/) · [Careers](https://walletconnect.com/careers) |
 | [Wave Mobile Money](companies/wave-mobile-money.md) | Wave Mobile Money provides digital wallets for money transfers, cash deposits and withdrawals, bill payments, and mobile airtime purchases. | Spain remote signal | [Website](https://www.wave.com/en/) · [Careers](https://www.wave.com/en/careers/) |
+| [Wayflyer](companies/wayflyer.md) | Wayflyer provides business financing and technology that assesses company data to generate funding offers and support business growth. | Europe / EMEA remote signal | [Website](https://wayflyer.com/) · [Careers](https://jobs.ashbyhq.com/wayflyer) |
 | [wemake.services](companies/wemake-services.md) | wemake.services publishes a software-services working model focused on open-source contributions, code review and project-oriented delivery. | Spain remote signal | [Website](https://wemake.services/) · [Careers](https://wemake.services/meta/rsdp/job-application) |
 | [Whereto](companies/whereto.md) | Whereto develops corporate travel technology within Flight Centre Travel Group, building software and design solutions for business travel customers. | Spain remote signal | [Website](https://www.whereto.com/) · [Careers](https://www.whereto.com/) |
 | [Wikiloc](companies/wikiloc.md) | Wikiloc provides an outdoor trail discovery and navigation platform where users share GPS tracks and plan hiking, cycling, and other activities. | Needs verification | [Website](https://www.wikiloc.com/) · [Careers](https://www.wikiloc.com/jobs) |

@@ -10,6 +10,7 @@ Unknown is not ineligible. These are research leads, not current vacancy guarant
 - [Checkr](../companies/checkr.md) — fully_remote
 - [OLX Group](../companies/olx-group.md) — fully_remote
 - [Pennylane](../companies/pennylane.md) — mixed
+- [Tyk](../companies/tyk.md) — remote_with_travel
 
 ## Regional hints — not confirmed country eligibility
 
@@ -27,4 +28,5 @@ Only structured Europe, EU/EEA or worldwide scope; historical signals are not us
 - [Salve.Inno Consulting](../companies/salve-inno-consulting.md) — remote_with_travel
 - [Sembi](../companies/sembi.md) — mixed
 - [TuneIn](../companies/tunein.md) — fully_remote
+- [Wayflyer](../companies/wayflyer.md) — remote_with_travel
 - [XING](../companies/xing.md) — mixed

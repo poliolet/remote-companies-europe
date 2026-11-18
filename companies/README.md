@@ -381,11 +381,13 @@
 - [Tooploox](tooploox.md) — AI and software consulting
 - [Toptal](toptal.md) — Talent marketplace
 - [Treatwell](treatwell.md) — Beauty and wellness technology
+- [Tremendous](tremendous.md) — Payments and rewards software
 - [Trigger.dev](trigger-dev.md) — Developer infrastructure
 - [Triple](triple.md) — Financial software
 - [Tucuvi](tucuvi.md) — Healthcare ai
 - [TuneIn](tunein.md) — Audio streaming
 - [Twilio](twilio.md) — Communications infrastructure
+- [Tyk](tyk.md) — API management and developer infrastructure
 - [Typeform](typeform.md) — Form software
 - [Uberall](uberall.md) — Location marketing software
 - [UpScrolled](upscrolled.md) — Social media
@@ -404,6 +406,7 @@
 - [Vonage](vonage.md) — Communications software
 - [WalletConnect](walletconnect.md) — Cryptocurrency infrastructure
 - [Wave Mobile Money](wave-mobile-money.md) — Mobile financial services
+- [Wayflyer](wayflyer.md) — Business financing and fintech
 - [wemake.services](wemake-services.md) — Software consulting
 - [Whereto](whereto.md) — Travel technology
 - [Wikiloc](wikiloc.md) — Outdoor recreation technology

@@ -26,4 +26,5 @@ Only structured Europe, EU/EEA or worldwide scope; historical signals are not us
 - [Salve.Inno Consulting](../companies/salve-inno-consulting.md) — remote_with_travel
 - [Sembi](../companies/sembi.md) — mixed
 - [TuneIn](../companies/tunein.md) — fully_remote
+- [Wayflyer](../companies/wayflyer.md) — remote_with_travel
 - [XING](../companies/xing.md) — mixed

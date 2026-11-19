@@ -1,6 +1,6 @@
 # Remote companies — Europe
 
-A public, source-linked directory of **423 companies** for people researching remote-friendly work across Europe.
+A public, source-linked directory of **424 companies** for people researching remote-friendly work across Europe.
 
 **This is a research directory, not a guarantee of current vacancies or eligibility.** Some entries have only historical signals, mixed hybrid policies or country restrictions. Always read the actual vacancy and confirm employment country, office attendance, timezone and contract terms. “Remote” does not mean “work from any country”.
 
@@ -20,7 +20,7 @@ A public, source-linked directory of **423 companies** for people researching re
 - **Spain remote signal:** 210
 - **Europe / EMEA remote signal:** 20
 - **Global / distributed signal:** 13
-- **Hybrid or country-restricted evidence:** 156
+- **Hybrid or country-restricted evidence:** 157
 - **Needs verification:** 24
 
 ## Company directory
@@ -433,6 +433,7 @@ A public, source-linked directory of **423 companies** for people researching re
 | [Wave Mobile Money](companies/wave-mobile-money.md) | Wave Mobile Money provides digital wallets for money transfers, cash deposits and withdrawals, bill payments, and mobile airtime purchases. | Spain remote signal | [Website](https://www.wave.com/en/) · [Careers](https://www.wave.com/en/careers/) |
 | [Wayflyer](companies/wayflyer.md) | Wayflyer provides business financing and technology that assesses company data to generate funding offers and support business growth. | Europe / EMEA remote signal | [Website](https://wayflyer.com/) · [Careers](https://jobs.ashbyhq.com/wayflyer) |
 | [wemake.services](companies/wemake-services.md) | wemake.services publishes a software-services working model focused on open-source contributions, code review and project-oriented delivery. | Spain remote signal | [Website](https://wemake.services/) · [Careers](https://wemake.services/meta/rsdp/job-application) |
+| [WeTravel](companies/wetravel.md) | WeTravel develops booking, itinerary, customer management and payment software for multi-day travel businesses. | Hybrid or country-restricted evidence | [Website](https://www.wetravel.com/) · [Careers](https://careers.wetravel.com/careers) |
 | [Whereto](companies/whereto.md) | Whereto develops corporate travel technology within Flight Centre Travel Group, building software and design solutions for business travel customers. | Spain remote signal | [Website](https://www.whereto.com/) · [Careers](https://www.whereto.com/) |
 | [Wikiloc](companies/wikiloc.md) | Wikiloc provides an outdoor trail discovery and navigation platform where users share GPS tracks and plan hiking, cycling, and other activities. | Needs verification | [Website](https://www.wikiloc.com/) · [Careers](https://www.wikiloc.com/jobs) |
 | [Wikimedia Foundation](companies/wikimedia-foundation.md) | The Wikimedia Foundation operates Wikipedia and other free knowledge projects, maintaining technical infrastructure and supporting the communities that create their content. | Spain remote signal | [Website](https://wikimediafoundation.org/) · [Careers](https://wikimediafoundation.org/jobs/) |

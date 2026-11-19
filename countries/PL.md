@@ -9,6 +9,7 @@ Unknown is not ineligible. These are research leads, not current vacancy guarant
 - [Checkr](../companies/checkr.md) — fully_remote
 - [MonetizeMore](../companies/monetizemore.md) — fully_remote
 - [Paessler GmbH](../companies/paessler-gmbh.md) — fully_remote
+- [WeTravel](../companies/wetravel.md) — remote_with_travel
 
 ## Regional hints — not confirmed country eligibility
 

@@ -6,6 +6,7 @@ Unknown is not ineligible. These are research leads, not current vacancy guarant
 
 ## Exact country matches
 
+- [WeTravel](../companies/wetravel.md) — remote_with_travel
 - [Xometry](../companies/xometry.md) — fully_remote
 
 ## Regional hints — not confirmed country eligibility

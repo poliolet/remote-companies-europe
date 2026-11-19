@@ -6,7 +6,7 @@ Unknown is not ineligible. These are research leads, not current vacancy guarant
 
 ## Exact country matches
 
-None recorded.
+- [WeTravel](../companies/wetravel.md) — remote_with_travel
 
 ## Regional hints — not confirmed country eligibility
 

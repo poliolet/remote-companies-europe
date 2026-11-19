@@ -18,6 +18,7 @@ Unknown is not ineligible. These are research leads, not current vacancy guarant
 - [TECDATA Engineering](../companies/tecdata-engineering.md) — fully_remote
 - [Tremendous](../companies/tremendous.md) — remote_with_travel
 - [Veriff](../companies/veriff.md) — fully_remote
+- [WeTravel](../companies/wetravel.md) — remote_with_travel
 
 ## Regional hints — not confirmed country eligibility
 

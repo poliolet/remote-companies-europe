@@ -408,6 +408,7 @@
 - [Wave Mobile Money](wave-mobile-money.md) — Mobile financial services
 - [Wayflyer](wayflyer.md) — Business financing and fintech
 - [wemake.services](wemake-services.md) — Software consulting
+- [WeTravel](wetravel.md) — Travel software and payments
 - [Whereto](whereto.md) — Travel technology
 - [Wikiloc](wikiloc.md) — Outdoor recreation technology
 - [Wikimedia Foundation](wikimedia-foundation.md) — Nonprofit knowledge infrastructure

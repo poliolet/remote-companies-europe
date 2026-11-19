@@ -11,6 +11,7 @@ Unknown is not ineligible. These are research leads, not current vacancy guarant
 - [OLX Group](../companies/olx-group.md) — fully_remote
 - [Pennylane](../companies/pennylane.md) — mixed
 - [Tyk](../companies/tyk.md) — remote_with_travel
+- [WeTravel](../companies/wetravel.md) — remote_with_travel
 
 ## Regional hints — not confirmed country eligibility
 

@@ -256,6 +256,7 @@
 - [Netskope](netskope.md) — Cybersecurity
 - [New Relic](new-relic.md) — Observability
 - [Nexcess](nexcess.md) — Cloud and hosting services
+- [NielsenIQ (NIQ)](nielseniq.md) — Consumer intelligence and analytics
 - [Niteo](niteo.md) — Software products
 - [Nomic Foundation](nomic-foundation.md) — Blockchain developer tools
 - [Norbsoft](norbsoft.md) — Mobile Development

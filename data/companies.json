@@ -8223,5 +8223,42 @@
         "https://api.ashbyhq.com/posting-api/job-board/wetravel"
       ]
     }
+  },
+  {
+    "id": "nielseniq",
+    "name": "NielsenIQ (NIQ)",
+    "description": "NielsenIQ provides consumer intelligence, retail measurement and analytics software and services for brands, retailers and public-sector organizations.",
+    "category": "Consumer intelligence and analytics",
+    "website": "https://nielseniq.com/",
+    "careers_url": "https://nielseniq.com/global/en/careers/",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Official role-specific remote evidence includes Spain and the United Kingdom. The Senior Manager, Antibot Engineering posting has Remote=true, Hybrid=false and Spain country metadata, and its description explicitly requires being based in Spain. The Sales Director, UK Government and Public Sector posting is titled Remote and explicitly permits location anywhere in the UK. These are separate country-specific roles, not permission to work anywhere in Europe or a company-wide remote policy. Mandatory office attendance, travel frequency, timezone and sponsorship are not specified in these postings and require confirmation.",
+    "record_reviewed_at": "2026-11-20",
+    "public_sources_checked_at": "2026-11-20",
+    "sources": [
+      "https://nielseniq.com/global/en/careers/",
+      "https://jobs.smartrecruiters.com/NielsenIQ/744000162319019-senior-manager-antibot-engineering-",
+      "https://api.smartrecruiters.com/v1/companies/NielsenIQ/postings/744000162319019",
+      "https://jobs.smartrecruiters.com/NielsenIQ/744000154045360-sales-director-uk-government-and-public-sector-remote",
+      "https://api.smartrecruiters.com/v1/companies/NielsenIQ/postings/744000154045360"
+    ],
+    "verification_note": "Both cited postings were active and public in the official SmartRecruiters API on the research date. The Spain role manages a team in Western Europe and Algeria; team locations do not expand the role's Spain residence eligibility. Other vacancies may be hybrid or onsite. Country evidence is intentionally limited to the two fully inspected postings; it is not an exhaustive list of NIQ hiring countries.",
+    "eligibility": {
+      "scope": "countries",
+      "countries": ["ES", "GB"],
+      "work_model": "mixed",
+      "restrictions": [
+        "Spain: the cited Antibot Engineering leadership role explicitly requires being based in Spain and carries remote, non-hybrid metadata.",
+        "United Kingdom: the cited public-sector Sales Director posting explicitly permits location anywhere in the UK and is titled Remote.",
+        "Country eligibility is role-specific, not unrestricted cross-border employment or a company-wide policy.",
+        "Office attendance, business travel frequency, timezone, work authorization and sponsorship require confirmation per role.",
+        "Other vacancies may require hybrid or onsite work; the inspected countries are not an exhaustive hiring-country list."
+      ],
+      "checked_at": "2026-11-20",
+      "sources": [
+        "https://api.smartrecruiters.com/v1/companies/NielsenIQ/postings/744000162319019",
+        "https://api.smartrecruiters.com/v1/companies/NielsenIQ/postings/744000154045360"
+      ]
+    }
   }
 ]

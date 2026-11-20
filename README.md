@@ -1,6 +1,6 @@
 # Remote companies — Europe
 
-A public, source-linked directory of **424 companies** for people researching remote-friendly work across Europe.
+A public, source-linked directory of **425 companies** for people researching remote-friendly work across Europe.
 
 **This is a research directory, not a guarantee of current vacancies or eligibility.** Some entries have only historical signals, mixed hybrid policies or country restrictions. Always read the actual vacancy and confirm employment country, office attendance, timezone and contract terms. “Remote” does not mean “work from any country”.
 
@@ -20,7 +20,7 @@ A public, source-linked directory of **424 companies** for people researching re
 - **Spain remote signal:** 210
 - **Europe / EMEA remote signal:** 20
 - **Global / distributed signal:** 13
-- **Hybrid or country-restricted evidence:** 157
+- **Hybrid or country-restricted evidence:** 158
 - **Needs verification:** 24
 
 ## Company directory
@@ -281,6 +281,7 @@ A public, source-linked directory of **424 companies** for people researching re
 | [Netskope](companies/netskope.md) | Netskope provides cloud security and networking software that helps organizations protect data, applications, and AI usage across enterprise environments. | Global / distributed signal | [Website](https://www.netskope.com/) · [Careers](https://www.netskope.com/company/careers) |
 | [New Relic](companies/new-relic.md) | New Relic provides observability software that correlates application and infrastructure telemetry to help engineering teams diagnose performance and reliability problems. | Spain remote signal | [Website](https://newrelic.com/) · [Careers](https://job-boards.greenhouse.io/newrelic) |
 | [Nexcess](companies/nexcess.md) | Nexcess provides web hosting and cloud infrastructure services, including the Liquid Web and Servers.com businesses. | Hybrid or country-restricted evidence | [Website](https://www.nexcess.com/) · [Careers](https://ats.rippling.com/nexcess) |
+| [NielsenIQ (NIQ)](companies/nielseniq.md) | NielsenIQ provides consumer intelligence, retail measurement and analytics software and services for brands, retailers and public-sector organizations. | Hybrid or country-restricted evidence | [Website](https://nielseniq.com/) · [Careers](https://nielseniq.com/global/en/careers/) |
 | [Niteo](companies/niteo.md) | Niteo is a startup studio building and operating software products. | Hybrid or country-restricted evidence | [Website](https://niteo.co/) · [Careers](https://niteo.co/careers/) |
 | [Nomic Foundation](companies/nomic-foundation.md) | Nomic Foundation is a nonprofit organization that supports Ethereum developers and builds tools for developing software on the Ethereum ecosystem. | Spain remote signal | [Website](https://nomic.foundation/) · [Careers](https://jobs.ashbyhq.com/nomic.foundation) |
 | [Norbsoft](companies/norbsoft.md) | Norbsoft designs and develops mobile applications for business clients. | Hybrid or country-restricted evidence | [Website](https://www.norbsoft.com/) · [Careers](https://www.norbsoft.com/kariera) |

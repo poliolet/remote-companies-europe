@@ -11,6 +11,7 @@ Unknown is not ineligible. These are research leads, not current vacancy guarant
 - [Hologram](../companies/hologram.md) — fully_remote
 - [MaxIT Consulting](../companies/maxit-consulting.md) — fully_remote
 - [Mews](../companies/mews.md) — remote_with_travel
+- [NielsenIQ (NIQ)](../companies/nielseniq.md) — mixed
 - [Novartis](../companies/novartis.md) — mixed
 - [Paessler GmbH](../companies/paessler-gmbh.md) — fully_remote
 - [Pennylane](../companies/pennylane.md) — mixed

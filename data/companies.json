@@ -8260,5 +8260,40 @@
         "https://api.smartrecruiters.com/v1/companies/NielsenIQ/postings/744000154045360"
       ]
     }
+  },
+  {
+    "id": "bark",
+    "name": "Bark.com",
+    "description": "Bark operates an online services marketplace connecting customers with local professionals for household, business and personal services.",
+    "category": "Services marketplace",
+    "website": "https://www.bark.com/",
+    "careers_url": "https://careers.bark.com/jobs",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "The official careers site describes a distributed team working remotely across Spain. The Engineering Manager - Engagement & Monetisation posting is labelled Spain / Fully Remote and explicitly requires candidates to be based in Spain. This is country-specific evidence, not permission to work permanently anywhere in Europe. Other locations and roles may be office-based. The general work-from-abroad benefit is limited to up to 20 days, not unrestricted international hiring.",
+    "record_reviewed_at": "2026-11-21",
+    "public_sources_checked_at": "2026-11-21",
+    "sources": [
+      "https://www.bark.com/",
+      "https://careers.bark.com/",
+      "https://careers.bark.com/jobs",
+      "https://careers.bark.com/jobs/8763348-engineering-manager-engagement-monetisation"
+    ],
+    "verification_note": "The cited engineering role was publicly listed when checked. Mandatory gatherings, travel frequency and cost coverage, timezone, contract type, work authorization and sponsorship are not established by the inspected posting and require confirmation. Customer-market availability and office locations do not establish remote employment eligibility in other countries.",
+    "eligibility": {
+      "scope": "countries",
+      "countries": ["ES"],
+      "work_model": "fully_remote",
+      "restrictions": [
+        "The cited engineering leadership role explicitly requires being based in Spain.",
+        "The careers site describes a distributed Spain team; other vacancies may be office-based.",
+        "The up-to-20-day work-from-abroad benefit is temporary flexibility, not unrestricted permanent cross-border employment.",
+        "Mandatory gatherings, travel frequency and cost coverage, timezone, contract type, work authorization and sponsorship require confirmation per role."
+      ],
+      "checked_at": "2026-11-21",
+      "sources": [
+        "https://careers.bark.com/",
+        "https://careers.bark.com/jobs/8763348-engineering-manager-engagement-monetisation"
+      ]
+    }
   }
 ]

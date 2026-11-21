@@ -7,6 +7,7 @@ Unknown is not ineligible. These are research leads, not current vacancy guarant
 ## Exact country matches
 
 - [Actian](../companies/actian.md) — remote_with_travel
+- [Bark.com](../companies/bark.md) — fully_remote
 - [Checkr](../companies/checkr.md) — fully_remote
 - [MaxIT Consulting](../companies/maxit-consulting.md) — fully_remote
 - [Mews](../companies/mews.md) — remote_with_travel

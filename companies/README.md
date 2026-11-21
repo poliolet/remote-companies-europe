@@ -39,6 +39,7 @@
 - [Axo Longevity](axo-longevity.md) — Digital health
 - [B12](b12.md) — Website software
 - [baesh](baesh.md) — Social networking
+- [Bark.com](bark.md) — Services marketplace
 - [Barracuda Networks](barracuda-networks.md) — Cybersecurity
 - [BCW Group](bcw-group.md) — Technology consulting
 - [beehiiv](beehiiv.md) — Publishing software

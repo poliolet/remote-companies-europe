@@ -1,6 +1,6 @@
 # Remote companies — Europe
 
-A public, source-linked directory of **425 companies** for people researching remote-friendly work across Europe.
+A public, source-linked directory of **426 companies** for people researching remote-friendly work across Europe.
 
 **This is a research directory, not a guarantee of current vacancies or eligibility.** Some entries have only historical signals, mixed hybrid policies or country restrictions. Always read the actual vacancy and confirm employment country, office attendance, timezone and contract terms. “Remote” does not mean “work from any country”.
 
@@ -17,7 +17,7 @@ A public, source-linked directory of **425 companies** for people researching re
 
 *These labels summarize historical research signals, not freshly verified company-wide policies.*
 
-- **Spain remote signal:** 210
+- **Spain remote signal:** 211
 - **Europe / EMEA remote signal:** 20
 - **Global / distributed signal:** 13
 - **Hybrid or country-restricted evidence:** 158
@@ -64,6 +64,7 @@ A public, source-linked directory of **425 companies** for people researching re
 | [Axo Longevity](companies/axo-longevity.md) | Axo Longevity offers preventive health memberships combining laboratory biomarker testing, personalized health insights, and ongoing progress tracking. | Europe / EMEA remote signal | [Website](https://www.axolongevity.com/) · [Careers](https://wellfound.com/company/axo-longevity/jobs) |
 | [B12](companies/b12.md) | B12 develops an AI website builder and related scheduling, payment and marketing tools, with a marketplace connecting users to independent experts. | Hybrid or country-restricted evidence | [Website](https://www.b12.io/) · [Careers](https://job-boards.greenhouse.io/b12/jobs/8249777) |
 | [baesh](companies/baesh.md) | baesh develops a social app that helps people organize activities and meet others through shared interests and local experiences. | Spain remote signal | [Website](https://www.baesh.co/) · [Careers](https://join.com/companies/baesh) |
+| [Bark.com](companies/bark.md) | Bark operates an online services marketplace connecting customers with local professionals for household, business and personal services. | Spain remote signal | [Website](https://www.bark.com/) · [Careers](https://careers.bark.com/jobs) |
 | [Barracuda Networks](companies/barracuda-networks.md) | Barracuda provides cybersecurity products covering email, applications, networks and data protection. | Spain remote signal | [Website](https://www.barracuda.com/) · [Careers](https://jobs.jobvite.com/barracuda-networks-inc) |
 | [BCW Group](companies/bcw-group.md) | BCW Group builds AI, cloud and Web3 infrastructure and operates a venture studio. | Hybrid or country-restricted evidence | [Website](https://www.bcw.group/) · [Careers](https://www.bcw.group/careers/) |
 | [beehiiv](companies/beehiiv.md) | beehiiv provides a newsletter platform that helps creators and businesses publish content, grow audiences, and monetize their publications. | Spain remote signal | [Website](https://www.beehiiv.com/) · [Careers](https://beehiiv.bamboohr.com/careers) |

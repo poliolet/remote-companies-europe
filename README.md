@@ -1,6 +1,6 @@
 # Remote companies — Europe
 
-A public, source-linked directory of **426 companies** for people researching remote-friendly work across Europe.
+A public, source-linked directory of **427 companies** for people researching remote-friendly work across Europe.
 
 **This is a research directory, not a guarantee of current vacancies or eligibility.** Some entries have only historical signals, mixed hybrid policies or country restrictions. Always read the actual vacancy and confirm employment country, office attendance, timezone and contract terms. “Remote” does not mean “work from any country”.
 
@@ -18,7 +18,7 @@ A public, source-linked directory of **426 companies** for people researching re
 *These labels summarize historical research signals, not freshly verified company-wide policies.*
 
 - **Spain remote signal:** 211
-- **Europe / EMEA remote signal:** 20
+- **Europe / EMEA remote signal:** 21
 - **Global / distributed signal:** 13
 - **Hybrid or country-restricted evidence:** 158
 - **Needs verification:** 24
@@ -291,6 +291,7 @@ A public, source-linked directory of **426 companies** for people researching re
 | [Novartis](companies/novartis.md) | Novartis develops and commercializes innovative medicines. | Hybrid or country-restricted evidence | [Website](https://www.novartis.com/) · [Careers](https://www.novartis.com/careers/career-search) |
 | [Novoda](companies/novoda.md) | Novoda is a software consultancy that designs and develops digital products. | Hybrid or country-restricted evidence | [Website](https://novoda.com/) · [Careers](https://novoda.com/contact/) |
 | [NTT DATA Spain](companies/ntt-data-spain.md) | NTT DATA Spain provides technology consulting, application development, infrastructure, and business process services to support organizations through digital transformation. | Spain remote signal | [Website](https://es.nttdata.com/) · [Careers](https://careers.emeal.nttdata.com/s/jobs) |
+| [Nuitée](companies/nuitee.md) | Nuitée provides travel APIs for accommodation, flights and experiences, and hotel software for distribution, pricing, payments and operations. | Europe / EMEA remote signal | [Website](https://nuitee.com/) · [Careers](https://job-boards.eu.greenhouse.io/nuitee) |
 | [Octopus Energy](companies/octopus-energy.md) | Octopus Energy Group supplies energy and develops technology and services for electrification. | Hybrid or country-restricted evidence | [Website](https://octopus.energy/) · [Careers](https://octopus.energy/careers/) |
 | [Oddin.gg](companies/oddin-gg.md) | Oddin.gg supplies esports betting infrastructure, including odds feeds, risk management, tournament data and betting content for sportsbook operators. | Europe / EMEA remote signal | [Website](https://oddin.gg/) · [Careers](https://jobs.lever.co/oddin) |
 | [OLX Group](companies/olx-group.md) | OLX Group operates online classifieds and marketplaces for vehicles, property, jobs and secondhand goods. | Hybrid or country-restricted evidence | [Website](https://www.olxgroup.com/) · [Careers](https://jobs.eu.lever.co/olx/460655c1-7e11-49e8-b8a2-eca7c7ed3008) |

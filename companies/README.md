@@ -266,6 +266,7 @@
 - [Novartis](novartis.md) — Pharmaceuticals
 - [Novoda](novoda.md) — Software consultancy
 - [NTT DATA Spain](ntt-data-spain.md) — IT consulting
+- [Nuitée](nuitee.md) — Travel infrastructure / APIs / hotel software
 - [Octopus Energy](octopus-energy.md) — Energy and climate technology
 - [Oddin.gg](oddin-gg.md) — Esports data and betting technology
 - [OLX Group](olx-group.md) — Online marketplaces

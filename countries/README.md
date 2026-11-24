@@ -46,7 +46,7 @@ Unknown is not ineligible. Work models and restrictions still require role-level
 - [Netherlands (NL)](NL.md) — 1 exact; 15 regional hints
 - [Norway (NO)](NO.md) — 0 exact; 15 regional hints
 - [Poland (PL)](PL.md) — 4 exact; 14 regional hints
-- [Portugal (PT)](PT.md) — 6 exact; 15 regional hints
+- [Portugal (PT)](PT.md) — 7 exact; 15 regional hints
 - [Romania (RO)](RO.md) — 1 exact; 15 regional hints
 - [Serbia (RS)](RS.md) — 1 exact; 15 regional hints
 - [Russia (RU)](RU.md) — 0 exact; 15 regional hints

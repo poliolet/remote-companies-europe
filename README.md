@@ -1,6 +1,6 @@
 # Remote companies — Europe
 
-A public, source-linked directory of **427 companies** for people researching remote-friendly work across Europe.
+A public, source-linked directory of **428 companies** for people researching remote-friendly work across Europe.
 
 **This is a research directory, not a guarantee of current vacancies or eligibility.** Some entries have only historical signals, mixed hybrid policies or country restrictions. Always read the actual vacancy and confirm employment country, office attendance, timezone and contract terms. “Remote” does not mean “work from any country”.
 
@@ -20,7 +20,7 @@ A public, source-linked directory of **427 companies** for people researching re
 - **Spain remote signal:** 211
 - **Europe / EMEA remote signal:** 21
 - **Global / distributed signal:** 13
-- **Hybrid or country-restricted evidence:** 158
+- **Hybrid or country-restricted evidence:** 159
 - **Needs verification:** 24
 
 ## Company directory
@@ -418,6 +418,7 @@ A public, source-linked directory of **427 companies** for people researching re
 | [Tyk](companies/tyk.md) | Tyk develops an API management platform with gateways, access controls, governance, observability and developer portals for APIs and AI services. | Hybrid or country-restricted evidence | [Website](https://tyk.io/) · [Careers](https://tyk.io/tyk-current-vacancies/) |
 | [Typeform](companies/typeform.md) | Typeform provides online form-building software with AI and automation features for collecting information, qualifying leads, and triggering business workflows. | Spain remote signal | [Website](https://www.typeform.com/) · [Careers](https://job-boards.greenhouse.io/typeform) |
 | [Uberall](companies/uberall.md) | Uberall provides location marketing and online presence software for multi-location brands. | Hybrid or country-restricted evidence | [Website](https://uberall.com/en-us/company/careers) · [Careers](https://uberall.com/en-us/company/careers) |
+| [Unit4](companies/unit4.md) | Unit4 develops cloud enterprise software for finance, human resources, procurement and project management, including ERP and financial planning tools for service-focused organizations. | Hybrid or country-restricted evidence | [Website](https://www.unit4.com/) · [Careers](https://careers.unit4.com/jobs) |
 | [UpScrolled](companies/upscrolled.md) | UpScrolled operates a social media platform focused on sharing content and connecting people through public conversations and community interaction. | Needs verification | [Website](https://upscrolled.com/) · [Careers](https://upscrolled.bamboohr.com/careers) |
 | [Upstatement](companies/upstatement.md) | Upstatement designs and builds digital products, websites and brand experiences. | Hybrid or country-restricted evidence | [Website](https://www.upstatement.com/) · [Careers](https://upstatement.com/jobs) |
 | [Upsun](companies/upsun.md) | Upsun provides cloud application hosting, developer workflows and observability tools for building and running web applications. | Spain remote signal | [Website](https://upsun.com/) · [Careers](https://upsun.com/jobs/) |

@@ -32,9 +32,11 @@ Only structured Europe, EU/EEA or worldwide scope; historical signals are not us
 - [Hostinger](../companies/hostinger.md) — mixed
 - [Ledgy](../companies/ledgy.md) — mixed
 - [Mixmax](../companies/mixmax.md) — fully_remote
+- [mlean](../companies/mlean.md) — mixed
 - [MonetizeMore](../companies/monetizemore.md) — fully_remote
 - [Novoda](../companies/novoda.md) — fully_remote
 - [Nuitée](../companies/nuitee.md) — mixed
+- [refurbed](../companies/refurbed.md) — remote_with_travel
 - [Salve.Inno Consulting](../companies/salve-inno-consulting.md) — remote_with_travel
 - [Sembi](../companies/sembi.md) — mixed
 - [TuneIn](../companies/tunein.md) — fully_remote

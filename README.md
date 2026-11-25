@@ -1,6 +1,6 @@
 # Remote companies — Europe
 
-A public, source-linked directory of **431 companies** for people researching remote-friendly work across Europe.
+A public, source-linked directory of **435 companies** for people researching remote-friendly work across Europe.
 
 **This is a research directory, not a guarantee of current vacancies or eligibility.** Some entries have only historical signals, mixed hybrid policies or country restrictions. Always read the actual vacancy and confirm employment country, office attendance, timezone and contract terms. “Remote” does not mean “work from any country”.
 
@@ -17,10 +17,10 @@ A public, source-linked directory of **431 companies** for people researching re
 
 *These labels summarize historical research signals, not freshly verified company-wide policies.*
 
-- **Spain remote signal:** 211
-- **Europe / EMEA remote signal:** 22
-- **Global / distributed signal:** 13
-- **Hybrid or country-restricted evidence:** 161
+- **Spain remote signal:** 212
+- **Europe / EMEA remote signal:** 23
+- **Global / distributed signal:** 14
+- **Hybrid or country-restricted evidence:** 162
 - **Needs verification:** 24
 
 ## Company directory
@@ -125,6 +125,7 @@ A public, source-linked directory of **431 companies** for people researching re
 | [Constructor](companies/constructor.md) | Constructor develops AI-powered ecommerce search and product discovery software that personalizes how shoppers find products in online stores. | Spain remote signal | [Website](https://constructor.com/) · [Careers](https://jobs.ashbyhq.com/constructor) |
 | [Contentsquare](companies/contentsquare.md) | Contentsquare provides digital experience analytics that help businesses understand customer journeys and identify opportunities to improve websites and applications. | Spain remote signal | [Website](https://contentsquare.com/) · [Careers](https://jobs.lever.co/contentsquare/) |
 | [Coverflex](companies/coverflex.md) | Coverflex provides a platform for companies to administer employee benefits, flexible compensation, meal allowances, and insurance options. | Europe / EMEA remote signal | [Website](https://www.coverflex.com/es) · [Careers](https://careers.coverflex.com/) |
+| [Cross River](companies/cross-river.md) | Cross River provides banking and financial technology infrastructure for payments, cards, lending and digital assets. | Hybrid or country-restricted evidence | [Website](https://www.crossriver.com/) · [Careers](https://www.crossriver.com/careers) |
 | [CrossPoint](companies/crosspoint.md) | CrossPoint provides Microsoft technology solutions and consulting services that help businesses improve their operations and support their teams. | Spain remote signal | [Website](https://www.crosspoint365.com/) · [Careers](https://www.crosspoint365.com/trabaja-con-nosotros/) |
 | [Customer.io](companies/customer-io.md) | Customer.io provides customer engagement software for building personalized messaging journeys across email, mobile push notifications, SMS, and applications. | Europe / EMEA remote signal | [Website](https://customer.io/) · [Careers](https://customer.io/careers) |
 | [Cyncly](companies/cyncly.md) | Cyncly develops software for designing, selling and manufacturing interiors; Broadlume belongs to its flooring technology business. | Hybrid or country-restricted evidence | [Website](https://www.cyncly.com/) · [Careers](https://www.cyncly.com/careers) |
@@ -241,6 +242,7 @@ A public, source-linked directory of **431 companies** for people researching re
 | [Lighthouse](companies/lighthouse.md) | Lighthouse provides hospitality intelligence and pricing software that helps hotels interpret market data and manage their revenue strategies. | Spain remote signal | [Website](https://www.mylighthouse.com/) · [Careers](https://job-boards.greenhouse.io/lighthouse) |
 | [Linear](companies/linear.md) | Linear develops product development software that helps teams plan work, manage issues, and coordinate projects with AI agents. | Hybrid or country-restricted evidence | [Website](https://linear.app/) · [Careers](https://linear.app/careers) |
 | [Lingo.dev](companies/lingo-dev.md) | Lingo.dev provides localization infrastructure that developers integrate into code and delivery pipelines to translate software using configurable AI engines. | Spain remote signal | [Website](https://lingo.dev/en) · [Careers](https://lingo.dev/en/careers) |
+| [Lingokids](companies/lingokids.md) | Lingokids develops digital entertainment and learning experiences for young children and their families. | Spain remote signal | [Website](https://lingokids.com/) · [Careers](https://jobs.lingokids.com/jobs) |
 | [LocalStack](companies/localstack.md) | LocalStack provides local cloud sandbox environments where developers and AI agents can build, test, and validate applications before cloud deployment. | Spain remote signal | [Website](https://www.localstack.cloud/) · [Careers](https://jobs.ashbyhq.com/localstack) |
 | [Locastic](companies/locastic.md) | Locastic designs and develops digital products and custom software for client businesses. | Hybrid or country-restricted evidence | [Website](https://locastic.com/) · [Careers](https://locastic.com/careers) |
 | [LORIOT](companies/loriot.md) | LORIOT provides network management software and infrastructure that help organizations build, operate, and scale LoRaWAN and mioty IoT networks. | Needs verification | [Website](https://loriot.io/) · [Careers](https://loriot.io/career.html) |
@@ -266,6 +268,7 @@ A public, source-linked directory of **431 companies** for people researching re
 | [MITO AI](companies/mito-ai.md) | MITO AI provides collaborative video creation software that combines generative AI models with scripting, storyboarding, editing, and approval tools. | Hybrid or country-restricted evidence | [Website](https://mito.ai/) · [Careers](https://mito.ai/careers) |
 | [Mitratech](companies/mitratech.md) | Mitratech supplies enterprise software for legal operations, risk, compliance, and human resources. | Hybrid or country-restricted evidence | [Website](https://mitratech.com) · [Careers](https://mitratech.com/about-us/careers/) |
 | [Mixmax](companies/mixmax.md) | Mixmax develops sales-engagement and workflow automation software for revenue teams. | Hybrid or country-restricted evidence | [Website](https://www.mixmax.com/) · [Careers](https://www.mixmax.com/careers) |
+| [mlean](companies/mlean.md) | mlean develops manufacturing software for standard work, shop-floor management, maintenance and continuous improvement. | Global / distributed signal | [Website](https://www.mlean.com/) · [Careers](https://www.mlean.com/careers/) |
 | [Modash.io](companies/modash-io.md) | Modash.io provides influencer marketing software that helps teams discover creators, analyze audiences, and monitor influencer campaigns across markets. | Spain remote signal | [Website](https://www.modash.io/) · [Careers](https://www.modash.io/careers) |
 | [Modus Create](companies/modus-create.md) | Modus Create provides digital product engineering, modernization and consulting services; PromptWorks is represented by its current parent identity. | Hybrid or country-restricted evidence | [Website](https://www.moduscreate.com/) · [Careers](https://www.moduscreate.com/careers) |
 | [Moka Care](companies/moka-care.md) | Moka Care provides workplace mental health services that help companies support employees through professional care, prevention, and education. | Spain remote signal | [Website](https://www.moka.care/) · [Careers](https://www.welcometothejungle.com/en/companies-v1/moka-care/jobs) |
@@ -335,6 +338,7 @@ A public, source-linked directory of **431 companies** for people researching re
 | [Radiant](companies/radiant.md) | Radiant supplies AI cloud infrastructure and GPU computing services, continuing the Ori business. | Hybrid or country-restricted evidence | [Website](https://radiant.co/) · [Careers](https://radiant.co/careers) |
 | [Rapptr Labs](companies/rapptr-labs.md) | Rapptr Labs designs and develops mobile applications and web products for client businesses. | Spain remote signal | [Website](https://www.RapptrLabs.com/) · [Careers](https://careers.rapptrlabs.com) |
 | [Reddit](companies/reddit.md) | Reddit operates an online platform where people form communities to discuss interests, share content, and exchange information. | Hybrid or country-restricted evidence | [Website](https://reddit.com) · [Careers](https://redditinc.com/careers) |
+| [refurbed](companies/refurbed.md) | refurbed operates an online marketplace for professionally refurbished electronics and other products, helping extend product lifetimes and reduce waste. | Europe / EMEA remote signal | [Website](https://www.refurbed.com/) · [Careers](https://www.refurbed.de/en-de/jobs/) |
 | [Remote](companies/remote.md) | Remote provides a global employment platform covering employer-of-record services, payroll, contractor management, payments, and compliance for internationally distributed organizations. | Hybrid or country-restricted evidence | [Website](https://remote.com/) · [Careers](https://remote.com/openings) |
 | [Resend](companies/resend.md) | Resend provides email delivery infrastructure that helps developers and businesses send transactional and marketing messages through programmatic integrations. | Needs verification | [Website](https://resend.com/) · [Careers](https://resend.com/careers) |
 | [Resilience Care](companies/resilience-care.md) | Resilience Care develops patient-reported outcome applications, clinical monitoring software and real-world evidence services for healthcare providers and research partners. | Hybrid or country-restricted evidence | [Website](https://www.resilience.care/) · [Careers](https://jobs.ashbyhq.com/Resilience%20Care) |

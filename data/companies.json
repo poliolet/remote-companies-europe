@@ -8480,5 +8480,142 @@
         "https://jobs.ashbyhq.com/hostinger/c58f00b8-4c71-456f-99f4-fed7bb48a8e1"
       ]
     }
+  },
+  {
+    "id": "cross-river",
+    "name": "Cross River",
+    "description": "Cross River provides banking and financial technology infrastructure for payments, cards, lending and digital assets.",
+    "category": "Financial infrastructure",
+    "website": "https://www.crossriver.com/",
+    "careers_url": "https://www.crossriver.com/careers",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The Barcelona, Spain Senior QA Engineer vacancy states that fully remote will be considered, alongside its default hybrid setup. Remote approval is role-specific and not guaranteed; this is not evidence of hiring from every European country.",
+    "record_reviewed_at": "2026-11-25",
+    "public_sources_checked_at": "2026-11-25",
+    "sources": [
+      "https://www.crossriver.com/careers",
+      "https://job-boards.greenhouse.io/crossriverbank/jobs/8204649003",
+      "https://boards-api.greenhouse.io/v1/boards/crossriverbank/jobs/8204649003"
+    ],
+    "verification_note": "Live official careers page establishes Greenhouse ownership. Senior QA Engineer 8204649003 is listed on the current board; its full description explicitly offers consideration of fully remote working despite hybrid tagging. Public application questions contain no mandatory office-attendance question. Other remote-labelled US roles do not establish Europe-wide eligibility.",
+    "eligibility": {
+      "scope": "countries",
+      "countries": [
+        "ES"
+      ],
+      "work_model": "mixed",
+      "restrictions": [
+        "Senior QA Engineer 8204649003 is advertised in Barcelona, Spain: hybrid is the default, but the description explicitly says fully remote will be considered. Employer approval is required; this is not an unconditional remote offer.",
+        "Native-level English and extensive technical quality-engineering experience are required.",
+        "No other European country, work-right sponsorship or cross-border employment arrangement is confirmed. Other vacancies may be on-site, hybrid or US-restricted."
+      ],
+      "checked_at": "2026-11-25",
+      "sources": [
+        "https://job-boards.greenhouse.io/crossriverbank/jobs/8204649003",
+        "https://boards-api.greenhouse.io/v1/boards/crossriverbank/jobs/8204649003"
+      ]
+    }
+  },
+  {
+    "id": "mlean",
+    "name": "mlean",
+    "description": "mlean develops manufacturing software for standard work, shop-floor management, maintenance and continuous improvement.",
+    "category": "Manufacturing software",
+    "website": "https://www.mlean.com/",
+    "careers_url": "https://www.mlean.com/careers/",
+    "remote_signal": "global_remote_signal",
+    "remote_note": "The official careers page describes a remote-first environment and welcomes people wherever they live. This is company-policy evidence, not a confirmed current remote vacancy or a guarantee of employment in every country. Open days and annual retreats provide in-person contact. A separately linked Graphic Designer advert is explicitly hybrid.",
+    "record_reviewed_at": "2026-11-25",
+    "public_sources_checked_at": "2026-11-25",
+    "sources": [
+      "https://www.mlean.com/careers/",
+      "https://mlean.jobs.personio.com/"
+    ],
+    "verification_note": "Independent direct live HTTP review on 2026-11-25 confirmed the remote-first careers policy and its broad Wherever you live wording. The official careers page links the mlean Personio tenant, but both the board and XML feed return HTTP 404; no current vacancy is verified. The linked Graphic Designer is explicitly hybrid. Policy scope is a research signal, not a country-by-country employment guarantee. Country-specific contracts, work authorization, attendance obligations and travel costs must be confirmed separately.",
+    "eligibility": {
+      "scope": "worldwide",
+      "countries": [],
+      "work_model": "mixed",
+      "restrictions": [
+        "Broad scope reflects the careers policy wording, not confirmed employment eligibility for every country; no European country is individually enumerated.",
+        "The policy mentions open days and annual retreats; exact required attendance, travel frequency beyond the annual retreat, destinations and cost coverage are not stated.",
+        "Work authorization, employing-country availability and contractual arrangements are not specified.",
+        "A linked Graphic Designer advert is labelled hybrid and is not qualifying remote-vacancy evidence. The linked Personio board returns HTTP 404, so this record relies on live policy rather than an active vacancy."
+      ],
+      "checked_at": "2026-11-25",
+      "sources": [
+        "https://www.mlean.com/careers/"
+      ]
+    }
+  },
+  {
+    "id": "refurbed",
+    "name": "refurbed",
+    "description": "refurbed operates an online marketplace for professionally refurbished electronics and other products, helping extend product lifetimes and reduce waste.",
+    "category": "Recommerce marketplace",
+    "website": "https://www.refurbed.com/",
+    "careers_url": "https://www.refurbed.de/en-de/jobs/",
+    "remote_signal": "europe_remote_signal",
+    "remote_note": "Senior Backend Engineer is fully remote for candidates based in Europe, including the UK, with valid work rights and a European time zone. Vienna office use is optional. The role invites colleagues to office weeks three times a year; whether attendance is compulsory and travel costs are covered is not specified.",
+    "record_reviewed_at": "2026-11-25",
+    "public_sources_checked_at": "2026-11-25",
+    "sources": [
+      "https://www.refurbed.de/en-de/jobs/",
+      "https://www.refurbed.at/careers/",
+      "https://boards-api.greenhouse.io/v1/boards/refurbed/jobs",
+      "https://boards-api.greenhouse.io/v1/boards/refurbed/jobs/5024963101"
+    ],
+    "verification_note": "Current Greenhouse board membership, complete role body and public application questions checked for requisition 448 / job 5024963101. Questions require legal entitlement to full-time employment in Europe and offer Permanent or Freelance/B2B contract preferences; this is not a guarantee of either contract type in every country. Regional hiring language is not an enumerated country guarantee.",
+    "eligibility": {
+      "scope": "europe",
+      "countries": [],
+      "work_model": "remote_with_travel",
+      "restrictions": [
+        "Senior Backend Engineer 5024963101 requires Europe residence including the UK, valid right to work, excellent English and a European time zone.",
+        "Office weeks are held three times yearly and described as invitations; compulsory attendance, duration and travel-cost coverage are not specified.",
+        "Permanent and Freelance/B2B preferences appear in application questions. Confirm country-specific contracting and employment arrangements."
+      ],
+      "checked_at": "2026-11-25",
+      "sources": [
+        "https://boards-api.greenhouse.io/v1/boards/refurbed/jobs/5024963101",
+        "https://www.refurbed.at/careers/"
+      ]
+    }
+  },
+  {
+    "id": "lingokids",
+    "name": "Lingokids",
+    "description": "Lingokids develops digital entertainment and learning experiences for young children and their families.",
+    "category": "Education and entertainment technology",
+    "website": "https://lingokids.com/",
+    "careers_url": "https://jobs.lingokids.com/jobs",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "The official careers policy permits working from home, a coworking space or the Madrid office, as long as the employee is based in Spain. It also describes a few in-person team offsites each year. Individual vacancies may have different locations or hybrid conditions; this is not unrestricted international remote hiring.",
+    "record_reviewed_at": "2026-11-25",
+    "public_sources_checked_at": "2026-11-25",
+    "sources": [
+      "https://lingokids.com/",
+      "https://jobs.lingokids.com/",
+      "https://jobs.lingokids.com/jobs",
+      "https://jobs.lingokids.com/jobs/8771134-information-security-lead"
+    ],
+    "verification_note": "Official company careers policy and a Spain-based fully remote vacancy checked. Eligibility here is grounded in the explicit Spain policy, not the international team, office address or compensation of a particular role.",
+    "eligibility": {
+      "scope": "countries",
+      "countries": [
+        "ES"
+      ],
+      "work_model": "mixed",
+      "restrictions": [
+        "The cited careers policy limits this remote route to working within Spain; it does not establish international residence or unrestricted cross-border work.",
+        "The company describes a few in-person offsites each year; exact attendance requirements, frequency, destinations and travel-cost coverage must be confirmed.",
+        "Role-level country, work-authorization, office and contractual conditions still govern."
+      ],
+      "checked_at": "2026-11-25",
+      "sources": [
+        "https://jobs.lingokids.com/",
+        "https://jobs.lingokids.com/jobs/8771134-information-security-lead"
+      ]
+    }
   }
 ]

@@ -100,6 +100,7 @@
 - [Constructor](constructor.md) — Commerce software
 - [Contentsquare](contentsquare.md) — Digital analytics
 - [Coverflex](coverflex.md) — Employee benefits technology
+- [Cross River](cross-river.md) — Financial infrastructure
 - [CrossPoint](crosspoint.md) — IT consulting
 - [Customer.io](customer-io.md) — Marketing software
 - [Cyncly](cyncly.md) — Industry software
@@ -216,6 +217,7 @@
 - [Lighthouse](lighthouse.md) — Hospitality software
 - [Linear](linear.md) — Product management software
 - [Lingo.dev](lingo-dev.md) — Localization software
+- [Lingokids](lingokids.md) — Education and entertainment technology
 - [LocalStack](localstack.md) — Developer tools
 - [Locastic](locastic.md) — Software consulting
 - [LORIOT](loriot.md) — Internet of things
@@ -241,6 +243,7 @@
 - [MITO AI](mito-ai.md) — Creative software
 - [Mitratech](mitratech.md) — Legal technology / governance, risk and compliance
 - [Mixmax](mixmax.md) — Sales software
+- [mlean](mlean.md) — Manufacturing software
 - [Modash.io](modash-io.md) — Marketing software
 - [Modus Create](modus-create.md) — Software development and consulting
 - [Moka Care](moka-care.md) — Employee mental health
@@ -310,6 +313,7 @@
 - [Radiant](radiant.md) — AI cloud infrastructure
 - [Rapptr Labs](rapptr-labs.md) — Digital product agency
 - [Reddit](reddit.md) — Social platform / online communities
+- [refurbed](refurbed.md) — Recommerce marketplace
 - [Remote](remote.md) — Employment software
 - [Resend](resend.md) — Developer tools
 - [Resilience Care](resilience-care.md) — Healthcare technology

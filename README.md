@@ -1,6 +1,6 @@
 # Remote companies — Europe
 
-A public, source-linked directory of **428 companies** for people researching remote-friendly work across Europe.
+A public, source-linked directory of **431 companies** for people researching remote-friendly work across Europe.
 
 **This is a research directory, not a guarantee of current vacancies or eligibility.** Some entries have only historical signals, mixed hybrid policies or country restrictions. Always read the actual vacancy and confirm employment country, office attendance, timezone and contract terms. “Remote” does not mean “work from any country”.
 
@@ -18,9 +18,9 @@ A public, source-linked directory of **428 companies** for people researching re
 *These labels summarize historical research signals, not freshly verified company-wide policies.*
 
 - **Spain remote signal:** 211
-- **Europe / EMEA remote signal:** 21
+- **Europe / EMEA remote signal:** 22
 - **Global / distributed signal:** 13
-- **Hybrid or country-restricted evidence:** 159
+- **Hybrid or country-restricted evidence:** 161
 - **Needs verification:** 24
 
 ## Company directory
@@ -73,6 +73,7 @@ A public, source-linked directory of **428 companies** for people researching re
 | [Bending Spoons](companies/bending-spoons.md) | Bending Spoons acquires and operates digital products, applying its engineering and product development capabilities to improve established software businesses. | Spain remote signal | [Website](https://bendingspoons.com/) · [Careers](https://jobs.bendingspoons.com/) |
 | [Benifex](companies/benifex.md) | Benifex provides employee benefits, reward and experience software and services. | Hybrid or country-restricted evidence | [Website](https://benifex.com/) · [Careers](https://careers.benifex.com/jobs) |
 | [BeReal](companies/bereal.md) | BeReal operates a social network for sharing authentic, unfiltered photos and everyday moments. | Hybrid or country-restricted evidence | [Website](https://bereal.com/) · [Careers](https://jobs.ashbyhq.com/bereal) |
+| [Better Stack](companies/better-stack.md) | Observability and incident-management software combining logs, traces, infrastructure monitoring, status pages and AI-assisted operations. | Europe / EMEA remote signal | [Website](https://betterstack.com/) · [Careers](https://betterstack.com/careers) |
 | [Beyond](companies/beyond.md) | Beyond provides revenue management and dynamic pricing software for short-term rental property managers and owners. | Hybrid or country-restricted evidence | [Website](https://www.beyondpricing.com/) · [Careers](https://www.beyondpricing.com/about/careers) |
 | [Bitso](companies/bitso.md) | Bitso provides cryptocurrency trading and payment infrastructure for individuals and businesses. | Hybrid or country-restricted evidence | [Website](https://bitso.com/) · [Careers](https://bitso.bamboohr.com/careers) |
 | [Bizneo HR](companies/bizneo-hr.md) | Bizneo HR develops human resources software covering recruitment, time tracking, employee records, talent management, and workforce development. | Spain remote signal | [Website](https://www.bizneo.com/) · [Careers](https://www.linkedin.com/jobs/bizneo-hr-jobs-worldwide) |
@@ -192,6 +193,7 @@ A public, source-linked directory of **428 companies** for people researching re
 | [Grid Dynamics](companies/grid-dynamics.md) | Grid Dynamics provides digital engineering, data, AI and enterprise software consulting. | Hybrid or country-restricted evidence | [Website](https://www.griddynamics.com/) · [Careers](https://www.griddynamics.com/careers) |
 | [Gruntwork](companies/gruntwork.md) | Gruntwork develops infrastructure tooling and reusable cloud infrastructure components for engineering teams. | Hybrid or country-restricted evidence | [Website](https://www.gruntwork.io) · [Careers](https://jobs.ashbyhq.com/Gruntwork) |
 | [haddock](companies/haddock.md) | haddock provides restaurant management software that helps hospitality businesses track operating data, monitor margins, and manage profitability. | Needs verification | [Website](https://haddock.app/) · [Careers](https://jobs.haddock.app/jobs) |
+| [HappyRobot](companies/happyrobot.md) | Enterprise AI platform for building and orchestrating autonomous workers across communications and operational systems. | Hybrid or country-restricted evidence | [Website](https://www.happyrobot.ai/) · [Careers](https://jobs.ashbyhq.com/happyrobot.ai) |
 | [HeavenHR](companies/heavenhr.md) | HeavenHR provides human-resources administration and payroll software. | Hybrid or country-restricted evidence | [Website](https://www.heavenhr.com/) · [Careers](https://apply.workable.com/heavenhr/) |
 | [Herdr](companies/herdr.md) | Herdr develops a customizable application and runtime for managing coding agents, with persistent sessions that continue when the interface closes. | Needs verification | [Website](https://herdr.dev/) · [Careers](https://herdr.dev/jobs/) |
 | [HexGrid Cloud](companies/hexgrid-cloud.md) | HexGrid Cloud provides dedicated GPU hosting, managed ComfyUI environments, and deployment tools for generative AI models and creative workflows. | Global / distributed signal | [Website](https://hexgrid.cloud/) · [Careers](https://wellfound.com/company/hexgrid-cloud) |
@@ -201,6 +203,7 @@ A public, source-linked directory of **428 companies** for people researching re
 | [Hologram](companies/hologram.md) | Hologram provides cellular IoT connectivity and infrastructure for connected devices. | Hybrid or country-restricted evidence | [Website](https://www.hologram.io/) · [Careers](https://job-boards.greenhouse.io/hologram/jobs/8201073003) |
 | [Horizon3.ai](companies/horizon3-ai.md) | Horizon3.ai develops NodeZero, a platform for autonomous penetration testing and validating exploitable security weaknesses. | Spain remote signal | [Website](https://horizon3.ai) · [Careers](https://horizon3.ai/join-our-team/) |
 | [Hostaway](companies/hostaway.md) | Hostaway provides vacation-rental management software that helps property managers coordinate bookings, distribution and operations. | Spain remote signal | [Website](https://www.hostaway.com/) · [Careers](https://careers.hostaway.com/) |
+| [Hostinger](companies/hostinger.md) | Web hosting and website-building services, including AI-assisted tools for creating and operating websites. | Hybrid or country-restricted evidence | [Website](https://www.hostinger.com/) · [Careers](https://jobs.ashbyhq.com/hostinger) |
 | [Hubstaff](companies/hubstaff.md) | Hubstaff provides time tracking and productivity software that helps teams manage working hours, labor costs, payments, and performance insights. | Spain remote signal | [Website](https://hubstaff.com/) · [Careers](https://jobs.ashbyhq.com/hubstaff) |
 | [Hunter](companies/hunter.md) | Hunter develops software for finding and verifying business email addresses and managing outbound email campaigns for sales teams. | Spain remote signal | [Website](https://hunter.io/) · [Careers](https://hunter.io/careers) |
 | [Ideamotive](companies/ideamotive.md) | Ideamotive recruits technology specialists and assembles development teams for client projects. | Hybrid or country-restricted evidence | [Website](https://www.ideamotive.co/) · [Careers](https://app.matchtly.com/pages/careers/ideamotive) |

@@ -8369,5 +8369,116 @@
         "https://api.smartrecruiters.com/v1/companies/Unit44/postings/744000160546814"
       ]
     }
+  },
+  {
+    "id": "better-stack",
+    "name": "Better Stack",
+    "description": "Observability and incident-management software combining logs, traces, infrastructure monitoring, status pages and AI-assisted operations.",
+    "category": "Developer tools / Observability",
+    "website": "https://betterstack.com/",
+    "careers_url": "https://betterstack.com/careers",
+    "remote_signal": "europe_remote_signal",
+    "remote_note": "Official careers page advertises engineering and other roles as Remote (North America & Europe), alongside a Prague office option. Async-first collaboration and offsites are described; no verified country-by-country employment list.",
+    "record_reviewed_at": "2026-11-25",
+    "public_sources_checked_at": "2026-11-25",
+    "sources": [
+      "https://betterstack.com/",
+      "https://betterstack.com/careers"
+    ],
+    "verification_note": "Official public sources and live rendered hiring pages checked on 2026-11-25. Role-level evidence is not a guarantee that every vacancy is remote or remains open.",
+    "eligibility": {
+      "scope": "europe",
+      "countries": [],
+      "work_model": "mixed",
+      "restrictions": [
+        "Europe is a regional hiring signal, not confirmation of employment in every European country.",
+        "Offsites and parties are mentioned; attendance frequency, mandatory travel and cost coverage are unconfirmed.",
+        "Confirm role-specific working hours, employment arrangement and work authorization; optional Hardcore mode advertises longer working hours."
+      ],
+      "checked_at": "2026-11-25",
+      "sources": [
+        "https://betterstack.com/",
+        "https://betterstack.com/careers"
+      ]
+    }
+  },
+  {
+    "id": "happyrobot",
+    "name": "HappyRobot",
+    "description": "Enterprise AI platform for building and orchestrating autonomous workers across communications and operational systems.",
+    "category": "AI / Enterprise automation",
+    "website": "https://www.happyrobot.ai/",
+    "careers_url": "https://jobs.ashbyhq.com/happyrobot.ai",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "Official Senior Application Security Engineer postings explicitly list Remote Spain and France / Remote, both full time. Other board roles are hybrid or on-site; these postings do not establish company-wide remote work or unrestricted Europe eligibility.",
+    "record_reviewed_at": "2026-11-25",
+    "public_sources_checked_at": "2026-11-25",
+    "sources": [
+      "https://www.happyrobot.ai/",
+      "https://jobs.ashbyhq.com/happyrobot.ai",
+      "https://jobs.ashbyhq.com/happyrobot.ai/6acd50f9-9e87-4dbe-a5b9-cd219a79c6f8",
+      "https://jobs.ashbyhq.com/happyrobot.ai/5c53a155-4a39-4a8d-9bf0-c4d358b4ef92"
+    ],
+    "verification_note": "Official public sources and live rendered hiring pages checked on 2026-11-25. Role-level evidence is not a guarantee that every vacancy is remote or remains open.",
+    "eligibility": {
+      "scope": "countries",
+      "countries": [
+        "ES",
+        "FR"
+      ],
+      "work_model": "mixed",
+      "restrictions": [
+        "Remote evidence is role-specific for Spain and France; confirm residence and work-authorization requirements.",
+        "Timezone overlap, office attendance, travel frequency, cost coverage and sponsorship are not established by these postings."
+      ],
+      "checked_at": "2026-11-25",
+      "sources": [
+        "https://www.happyrobot.ai/",
+        "https://jobs.ashbyhq.com/happyrobot.ai",
+        "https://jobs.ashbyhq.com/happyrobot.ai/6acd50f9-9e87-4dbe-a5b9-cd219a79c6f8",
+        "https://jobs.ashbyhq.com/happyrobot.ai/5c53a155-4a39-4a8d-9bf0-c4d358b4ef92"
+      ]
+    }
+  },
+  {
+    "id": "hostinger",
+    "name": "Hostinger",
+    "description": "Web hosting and website-building services, including AI-assisted tools for creating and operating websites.",
+    "category": "Web hosting / Website tools",
+    "website": "https://www.hostinger.com/",
+    "careers_url": "https://jobs.ashbyhq.com/hostinger",
+    "remote_signal": "mixed_or_restricted",
+    "remote_note": "The official Senior Web Tracking Engineer posting permits fully remote work elsewhere in Europe as a B2B/service-provider contractor. Italy, Poland, Portugal, Romania and Spain are explicitly listed. Lithuania is hybrid in Kaunas or Vilnius under direct employment, despite the overall Remote flag.",
+    "record_reviewed_at": "2026-11-25",
+    "public_sources_checked_at": "2026-11-25",
+    "sources": [
+      "https://www.hostinger.com/",
+      "https://jobs.ashbyhq.com/hostinger",
+      "https://jobs.ashbyhq.com/hostinger/c58f00b8-4c71-456f-99f4-fed7bb48a8e1"
+    ],
+    "verification_note": "Official public sources and live rendered hiring pages checked on 2026-11-25. Role-level evidence is not a guarantee that every vacancy is remote or remains open.",
+    "eligibility": {
+      "scope": "europe",
+      "countries": [
+        "IT",
+        "PL",
+        "PT",
+        "RO",
+        "ES"
+      ],
+      "work_model": "mixed",
+      "restrictions": [
+        "For the reviewed role, Europe outside Lithuania is fully remote under a contractor B2B/service-provider agreement, not direct employment.",
+        "Lithuania requires a hybrid setup in Kaunas or Vilnius; LT is not included as a confirmed remote country.",
+        "Listed countries are explicit examples; broader Europe wording is a regional signal, not a verified country-by-country contract list.",
+        "Company festivals, team events and workations are mentioned; mandatory attendance, travel frequency/costs, timezone and sponsorship remain unconfirmed."
+      ],
+      "checked_at": "2026-11-25",
+      "sources": [
+        "https://www.hostinger.com/",
+        "https://jobs.ashbyhq.com/hostinger",
+        "https://jobs.ashbyhq.com/hostinger/c58f00b8-4c71-456f-99f4-fed7bb48a8e1"
+      ]
+    }
   }
 ]

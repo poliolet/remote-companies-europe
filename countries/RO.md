@@ -6,6 +6,7 @@ Unknown is not ineligible. These are research leads, not current vacancy guarant
 
 ## Exact country matches
 
+- [Hostinger](../companies/hostinger.md) — mixed
 - [OPSWAT](../companies/opswat.md) — fully_remote
 
 ## Regional hints — not confirmed country eligibility
@@ -13,6 +14,7 @@ Unknown is not ineligible. These are research leads, not current vacancy guarant
 Only structured Europe, EU/EEA or worldwide scope; historical signals are not used.
 
 - [B12](../companies/b12.md) — fully_remote
+- [Better Stack](../companies/better-stack.md) — mixed
 - [Colonist](../companies/colonist.md) — remote_with_travel
 - [Finary](../companies/finary.md) — remote_with_travel
 - [Hilo by Aktiia](../companies/hilo.md) — mixed

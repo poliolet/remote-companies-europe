@@ -9,6 +9,8 @@ Unknown is not ineligible. These are research leads, not current vacancy guarant
 - [Actian](../companies/actian.md) — remote_with_travel
 - [Bark.com](../companies/bark.md) — fully_remote
 - [Checkr](../companies/checkr.md) — fully_remote
+- [HappyRobot](../companies/happyrobot.md) — mixed
+- [Hostinger](../companies/hostinger.md) — mixed
 - [MaxIT Consulting](../companies/maxit-consulting.md) — fully_remote
 - [Mews](../companies/mews.md) — remote_with_travel
 - [Moniepoint](../companies/moniepoint.md) — fully_remote
@@ -27,6 +29,7 @@ Unknown is not ineligible. These are research leads, not current vacancy guarant
 Only structured Europe, EU/EEA or worldwide scope; historical signals are not used.
 
 - [B12](../companies/b12.md) — fully_remote
+- [Better Stack](../companies/better-stack.md) — mixed
 - [Colonist](../companies/colonist.md) — remote_with_travel
 - [Finary](../companies/finary.md) — remote_with_travel
 - [Hilo by Aktiia](../companies/hilo.md) — mixed

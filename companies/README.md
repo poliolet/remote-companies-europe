@@ -48,6 +48,7 @@
 - [Bending Spoons](bending-spoons.md) — Consumer software
 - [Benifex](benifex.md) — Employee benefits technology
 - [BeReal](bereal.md) — Social media
+- [Better Stack](better-stack.md) — Developer tools / Observability
 - [Beyond](beyond.md) — Travel technology
 - [Bitso](bitso.md) — Cryptocurrency and payments
 - [Bizneo HR](bizneo-hr.md) — HR software
@@ -167,6 +168,7 @@
 - [Grid Dynamics](grid-dynamics.md) — Software consulting
 - [Gruntwork](gruntwork.md) — Developer tools / cloud infrastructure
 - [haddock](haddock.md) — Restaurant software
+- [HappyRobot](happyrobot.md) — AI / Enterprise automation
 - [HeavenHR](heavenhr.md) — HR software
 - [Herdr](herdr.md) — Developer tools
 - [HexGrid Cloud](hexgrid-cloud.md) — AI infrastructure
@@ -176,6 +178,7 @@
 - [Hologram](hologram.md) — IoT connectivity
 - [Horizon3.ai](horizon3-ai.md) — Cybersecurity / autonomous penetration testing
 - [Hostaway](hostaway.md) — Hospitality software
+- [Hostinger](hostinger.md) — Web hosting / Website tools
 - [Hubstaff](hubstaff.md) — Workforce management software
 - [Hunter](hunter.md) — Sales software
 - [Ideamotive](ideamotive.md) — Technology staffing

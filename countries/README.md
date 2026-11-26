@@ -22,7 +22,7 @@ Unknown is not ineligible. Work models and restrictions still require role-level
 - [Germany (DE)](DE.md) — 6 exact; 19 regional hints
 - [Denmark (DK)](DK.md) — 0 exact; 19 regional hints
 - [Estonia (EE)](EE.md) — 1 exact; 19 regional hints
-- [Spain (ES)](ES.md) — 19 exact; 17 regional hints
+- [Spain (ES)](ES.md) — 20 exact; 17 regional hints
 - [Finland (FI)](FI.md) — 0 exact; 19 regional hints
 - [France (FR)](FR.md) — 11 exact; 19 regional hints
 - [United Kingdom (GB)](GB.md) — 13 exact; 18 regional hints

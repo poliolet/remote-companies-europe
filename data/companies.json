@@ -8617,5 +8617,41 @@
         "https://jobs.lingokids.com/jobs/8771134-information-security-lead"
       ]
     }
+  },
+  {
+    "id": "sdg-group",
+    "name": "SDG Group",
+    "description": "SDG Group provides consulting and engineering services in data platforms, analytics, artificial intelligence and business performance management.",
+    "category": "Data and AI consulting",
+    "website": "https://www.sdggroup.com/en/",
+    "careers_url": "https://careers.sdggroup.com/jobs",
+    "remote_signal": "spain_remote_signal",
+    "remote_note": "The Spain-based GCP Cloud Platform Administrator vacancy explicitly offers fully remote work and a permanent contract. Other vacancies can be hybrid: Senior Boomi Integration Developer is tagged Fully Remote but its body makes the 100% remote option dependent on location and team needs. This is role-specific Spain evidence, not unrestricted European or company-wide remote hiring.",
+    "record_reviewed_at": "2026-11-26",
+    "public_sources_checked_at": "2026-11-26",
+    "sources": [
+      "https://www.sdggroup.com/en/",
+      "https://careers.sdggroup.com/jobs",
+      "https://careers.sdggroup.com/jobs/8521723-gcp-cloud-platform-administrator",
+      "https://careers.sdggroup.com/jobs/8698174-senior-boomi-integration-developer"
+    ],
+    "verification_note": "The corporate website links to this careers board. Both cited vacancies are present on the live board and their complete descriptions were reviewed. Their structured JobPosting data specifies TELECOMMUTE and applicant country Spain. The GCP role explicitly offers fully remote work in its body; the separate Boomi role retains conditional hybrid/remote wording. No other European employment country is confirmed by these sources.",
+    "eligibility": {
+      "scope": "countries",
+      "countries": [
+        "ES"
+      ],
+      "work_model": "mixed",
+      "restrictions": [
+        "GCP Cloud Platform Administrator 8521723 specifies Spain in applicant-location requirements, full-time employment, a permanent contract and fully remote work; it does not establish permission to reside in other countries.",
+        "Senior Boomi Integration Developer 8698174 is marked Fully Remote but describes a hybrid model with 100% remote possible depending on location and team needs. Confirm the individual arrangement rather than treating the flag as unconditional.",
+        "These are consulting roles serving client projects. Other vacancies may be hybrid or on-site. Mandatory travel, office gatherings, timezone requirements, work-right sponsorship and travel-cost coverage are not specified in the reviewed GCP description."
+      ],
+      "checked_at": "2026-11-26",
+      "sources": [
+        "https://careers.sdggroup.com/jobs/8521723-gcp-cloud-platform-administrator",
+        "https://careers.sdggroup.com/jobs/8698174-senior-boomi-integration-developer"
+      ]
+    }
   }
 ]

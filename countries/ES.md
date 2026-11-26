@@ -20,6 +20,7 @@ Unknown is not ineligible. These are research leads, not current vacancy guarant
 - [Paessler GmbH](../companies/paessler-gmbh.md) — fully_remote
 - [Pennylane](../companies/pennylane.md) — mixed
 - [Rover](../companies/rover.md) — mixed
+- [SDG Group](../companies/sdg-group.md) — mixed
 - [Seqera](../companies/seqera.md) — fully_remote
 - [TECDATA Engineering](../companies/tecdata-engineering.md) — fully_remote
 - [Tremendous](../companies/tremendous.md) — remote_with_travel

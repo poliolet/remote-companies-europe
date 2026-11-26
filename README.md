@@ -1,6 +1,6 @@
 # Remote companies — Europe
 
-A public, source-linked directory of **435 companies** for people researching remote-friendly work across Europe.
+A public, source-linked directory of **436 companies** for people researching remote-friendly work across Europe.
 
 **This is a research directory, not a guarantee of current vacancies or eligibility.** Some entries have only historical signals, mixed hybrid policies or country restrictions. Always read the actual vacancy and confirm employment country, office attendance, timezone and contract terms. “Remote” does not mean “work from any country”.
 
@@ -17,7 +17,7 @@ A public, source-linked directory of **435 companies** for people researching re
 
 *These labels summarize historical research signals, not freshly verified company-wide policies.*
 
-- **Spain remote signal:** 212
+- **Spain remote signal:** 213
 - **Europe / EMEA remote signal:** 23
 - **Global / distributed signal:** 14
 - **Hybrid or country-restricted evidence:** 162
@@ -358,6 +358,7 @@ A public, source-linked directory of **435 companies** for people researching re
 | [Sanofi](companies/sanofi.md) | Sanofi is a biopharmaceutical company developing medicines and vaccines, with Digital, Data and AI teams supporting research, manufacturing, supply and commercial operations. | Hybrid or country-restricted evidence | [Website](https://www.sanofi.com/) · [Careers](https://jobs.sanofi.com/en/search-jobs) |
 | [Scaleway](companies/scaleway.md) | Scaleway provides European cloud infrastructure and AI services, including computing resources, GPU capacity, and tools for deploying applications. | Spain remote signal | [Website](https://www.scaleway.com/en/) · [Careers](https://jobs.lever.co/scaleway) |
 | [Scopely](companies/scopely.md) | Scopely develops, publishes and operates mobile, web, PC and console games. | Hybrid or country-restricted evidence | [Website](https://www.scopely.com/) · [Careers](https://job-boards.greenhouse.io/scopely/jobs/5436403008) |
+| [SDG Group](companies/sdg-group.md) | SDG Group provides consulting and engineering services in data platforms, analytics, artificial intelligence and business performance management. | Spain remote signal | [Website](https://www.sdggroup.com/en/) · [Careers](https://careers.sdggroup.com/jobs) |
 | [SearchApi](companies/searchapi.md) | SearchApi provides APIs for retrieving search-engine and other public web results. | Spain remote signal | [Website](https://www.searchapi.io/) · [Careers](https://www.searchapi.io/careers) |
 | [Secfix](companies/secfix.md) | Secfix provides compliance automation software and audit support to help businesses manage security controls and prepare for information security certifications. | Spain remote signal | [Website](https://www.secfix.com/) · [Careers](https://jobs.ashbyhq.com/secfix) |
 | [Second Front](companies/second-front.md) | Second Front Systems develops software-delivery and compliance products that help commercial software reach government and defense users. | Spain remote signal | [Website](https://secondfront.com) · [Careers](https://www.secondfront.com/careers/) |

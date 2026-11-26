@@ -333,6 +333,7 @@
 - [Sanofi](sanofi.md) — Biopharma and digital health technology
 - [Scaleway](scaleway.md) — Cloud infrastructure
 - [Scopely](scopely.md) — Video games
+- [SDG Group](sdg-group.md) — Data and AI consulting
 - [SearchApi](searchapi.md) — Search data infrastructure
 - [Secfix](secfix.md) — Security compliance
 - [Second Front](second-front.md) — Defense technology / secure software delivery

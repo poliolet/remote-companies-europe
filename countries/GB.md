@@ -41,4 +41,5 @@ Only structured Europe, EU/EEA or worldwide scope; historical signals are not us
 - [Sembi](../companies/sembi.md) — mixed
 - [TuneIn](../companies/tunein.md) — fully_remote
 - [Wayflyer](../companies/wayflyer.md) — remote_with_travel
+- [WorkFlex](../companies/workflex.md) — fully_remote
 - [XING](../companies/xing.md) — mixed

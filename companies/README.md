@@ -425,6 +425,7 @@
 - [Wikiloc](wikiloc.md) — Outdoor recreation technology
 - [Wikimedia Foundation](wikimedia-foundation.md) — Nonprofit knowledge infrastructure
 - [Workato](workato.md) — Business automation
+- [WorkFlex](workflex.md) — HR technology / Global mobility compliance
 - [Wunderkind](wunderkind.md) — Marketing software
 - [Xebia](xebia.md) — IT consulting
 - [XING](xing.md) — Professional networking and recruitment

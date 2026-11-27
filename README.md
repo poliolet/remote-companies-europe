@@ -1,6 +1,6 @@
 # Remote companies — Europe
 
-A public, source-linked directory of **436 companies** for people researching remote-friendly work across Europe.
+A public, source-linked directory of **437 companies** for people researching remote-friendly work across Europe.
 
 **This is a research directory, not a guarantee of current vacancies or eligibility.** Some entries have only historical signals, mixed hybrid policies or country restrictions. Always read the actual vacancy and confirm employment country, office attendance, timezone and contract terms. “Remote” does not mean “work from any country”.
 
@@ -19,7 +19,7 @@ A public, source-linked directory of **436 companies** for people researching re
 
 - **Spain remote signal:** 213
 - **Europe / EMEA remote signal:** 23
-- **Global / distributed signal:** 14
+- **Global / distributed signal:** 15
 - **Hybrid or country-restricted evidence:** 162
 - **Needs verification:** 24
 
@@ -450,6 +450,7 @@ A public, source-linked directory of **436 companies** for people researching re
 | [Wikiloc](companies/wikiloc.md) | Wikiloc provides an outdoor trail discovery and navigation platform where users share GPS tracks and plan hiking, cycling, and other activities. | Needs verification | [Website](https://www.wikiloc.com/) · [Careers](https://www.wikiloc.com/jobs) |
 | [Wikimedia Foundation](companies/wikimedia-foundation.md) | The Wikimedia Foundation operates Wikipedia and other free knowledge projects, maintaining technical infrastructure and supporting the communities that create their content. | Spain remote signal | [Website](https://wikimediafoundation.org/) · [Careers](https://wikimediafoundation.org/jobs/) |
 | [Workato](companies/workato.md) | Workato provides an enterprise platform that integrates applications and data while orchestrating workflows, AI agents, and automated business processes. | Spain remote signal | [Website](https://www.workato.com/) · [Careers](https://www.workato.com/careers) |
+| [WorkFlex](companies/workflex.md) | Compliance software for business travel, workations and international assignments, covering tax, social security, immigration and duty of care. | Global / distributed signal | [Website](https://www.workflex.com/) · [Careers](https://careers.workflex.com/) |
 | [Wunderkind](companies/wunderkind.md) | Wunderkind provides identity resolution and AI-driven marketing software that helps businesses personalize customer engagement and convert anonymous website traffic. | Needs verification | [Website](https://www.wunderkind.co/) · [Careers](https://www.wunderkind.co/careers) |
 | [Xebia](companies/xebia.md) | Xebia provides digital engineering, AI, cloud and data consulting services, including security work. | Hybrid or country-restricted evidence | [Website](https://xebia.com/) · [Careers](https://xebia.com/careers/) |
 | [XING](companies/xing.md) | XING provides a professional networking and recruiting platform focused on German-speaking markets. | Hybrid or country-restricted evidence | [Website](https://www.xing.com/) · [Careers](https://corporate.xing.com/en/career) |
